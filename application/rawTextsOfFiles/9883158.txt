@@ -1,0 +1,1492 @@
+<!DOCTYPE html>
+<html lang="ja" itemscope itemtype="http://schema.org/Blog">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=1190">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" /><link rel="shortcut icon" type="image/vnd.microsoft.icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/favicon.ico" /><link rel="icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/3ab45ab0.jpg" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/template.css?v=20190826" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/heart.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/icon.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="http://pathtimeblog.com/site.css?_=20190831163247" type="text/css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://pathtimeblog.com/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://pathtimeblog.com/atom.xml" /><link rel="canonical" href="http://pathtimeblog.com/archives/9883158.html" /><link rel="openid.server" href="http://auth.livedoor.com/openid/server" /><link rel="openid.delegate" href="http://profile.livedoor.com/shukatu2ch/" />
+<link rel="mixi-check-alternate" media="mixi-device-mobile" type="text/html" href="http://blog.m.livedoor.jp/shukatu2ch/article/9883158" />
+<link rel="mixi-check-alternate" media="mixi-device-smartphone" type="text/html" href="http://pathtimeblog.com/archives/9883158.html" />
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/jquery-1.11.1.min.js"></script>
+
+<meta name="description" content="1: 以下、5ちゃんねるからVIPがお送りします  2018/06/06(水) 01:36:20.044 ID:yY9yZv/5p
+ 明日朝から乗務だし眠たいから30分くらいねー 
+" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="電車の運転士だけど質問ある？ 	 : 2ch就活まとめ" />
+<meta property="og:description" content="1: 以下、5ちゃんねるからVIPがお送りします  2018/06/06(水) 01:36:20.044 ID:yY9yZv/5p 明日朝から乗務だし眠たいから30分くらいねー " />
+<meta property="og:url" content="http://pathtimeblog.com/archives/9883158.html" />
+<meta property="og:site_name" content="2ch就活まとめ" />
+<meta property="og:locale" content="ja_JP" />
+<meta property="og:image" content="https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png" />
+
+<meta name="twitter:site" content="@2chshukatu" />
+<meta name="twitter:title" content="電車の運転士だけど質問ある？ 	 : 2ch就活まとめ" />
+<meta name="twitter:description" content="1: 以下、5ちゃんねるからVIPがお送りします  2018/06/06(水) 01:36:20.044 ID:yY9yZv/5p 明日朝から乗務だし眠たいから30分くらいねー " />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image:src" content="https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png" />
+<link rel="alternate" media="handheld" type="application/xhtml+xml" href="http://blog.m.livedoor.jp/shukatu2ch/" />
+
+<title>電車の運転士だけど質問ある？ 	 : 2ch就活まとめ</title>
+<script src="https://parts.blog.livedoor.jp/js/emoji.js"></script>
+<script src="https://parts.blog.livedoor.jp/js/misc.js?v=20190710"></script>
+<!--[if lt IE 9]>
+<script src="https://parts.blog.livedoor.jp/js/html5.js"></script>
+<![endif]-->
+<script src="https://parts.blog.livedoor.jp/js/usr/import.js"></script>
+<script>
+$(function(){
+  if($('.header-inner01').children('#blog-header-image').length) {
+    $(window).bind('load', function() {
+      var title1 = $('#blog-header-image').height();
+      var title2 = $('.header-menu').height();
+      var headerHeight = title1-title2-15;
+      $("hgroup").css("height", headerHeight);
+    });
+  }
+});
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-3064778048578600",
+          enable_page_level_ads: true
+     });
+</script>
+
+<!-- Add Google Analytics Tag // -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-113178806-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- // Add Google Analytics Tag -->
+
+
+<meta name="referrer" content="always">
+<meta name="referrer" content="unsafe-url">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1638469-45"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+var blogId = '';
+if (blogId) {
+  gtag('config', 'UA-1638469-45', {
+    'custom_map': {'dimension1': 'blog_id'},
+    'blog_id': blogId
+  });
+} else {
+  gtag('config', 'UA-1638469-45');
+}
+</script>
+
+</head>
+<body class="default_2012 page-article layout-2col sidebar-right"><script type="text/javascript"><!--
+var ld_blog_vars = {
+  provider_id : '1',
+  provider_name : 'livedoor',
+  id : '7836571',
+  name : 'shukatu2ch',
+  charset : 'utf8',
+  url : 'http://pathtimeblog.com/',
+  title : '2ch就活まとめ',
+  blog_design: {
+      version: 1
+  },
+  blog_category: {
+    id: '243',
+    permalink: 'https://blog.livedoor.com/category/243/',
+    name: 'まとめ(総合) > まとめ',
+    is_adult : 0,
+    is_gambling : 0,
+    hierarchy: [{ id: '431', name: 'まとめ(総合)', permalink: 'https://blog.livedoor.com/category/431/' },{ id: '243', name: 'まとめ', permalink: 'https://blog.livedoor.com/category/243/' }]
+  },
+  current_page : {
+    type : 'article',    page : ''
+  },
+  articles : [ {
+       id : '9883158',
+       permalink : 'http://pathtimeblog.com/archives/9883158.html',
+       title : '電車の運転士だけど質問ある？ \t',
+       categories : [ { id:'160473', name:'その他', permalink:'http://pathtimeblog.com/archives/cat_160473.html' }, { id:'', name:'', permalink:'' } ],
+       date : '2018-06-12 22:00:49'
+}   ]
+};
+//-->
+</script><div id="analyzer_tags" style="display:none">
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/c2.js?v=20191010"></script>
+<script type="text/javascript">blog_counter('shukatu2ch', 7836571, 'http://pathtimeblog.com/')</script>
+</div><script type="text/javascript" src="https://parts.blog.livedoor.jp/js/smartphone.js?v=20200824"></script>
+<script type="text/javascript" src="http://pathtimeblog.com/settings/header.js?v=20190705"></script><script type="text/javascript" src="http://pathtimeblog.com/settings/ad.js"></script>
+<script type="text/javascript">
+var palette_src = 'https://parts.blog.livedoor.jp/img/emoji/3/palette.png';
+if (typeof IMAGE_CACHE == 'object' && IMAGE_CACHE['emoji_palette']) IMAGE_CACHE['emoji_palette'].src = palette_src;
+</script>
+
+<!-- Blog Common Header // -->
+<!-- // Blog Common Header -->
+<!-- 共通ヘッダー表示 -->
+
+<!-- ブログタイトル はじまり-->
+<header id="blog-header">
+
+    <div id="blog-header01">
+
+        <div class="header-inner01 show-image hide-text">
+
+            <hgroup>
+                <!--ブログタイトル　はじまり-->
+                <h1 id="blog-title"><a href="http://pathtimeblog.com/">2ch就活まとめ</a></h1>
+                <!--ブログタイトル　ここまで-->
+                <!--ブログ説明　はじまり-->
+                <h2 id="blog-description">新卒・転職・社会人生活などを含め、就活・就職に関することをまとめてます。</h2>
+                <!--ブログ説明　ここまで-->
+            </hgroup>
+
+            <a href="http://pathtimeblog.com/"><img src="https://resize.blogsys.jp/727db0f9da9f42eb7d26b703338c30b3eef0157c/trim2/0x243_94p_1200x388/http://livedoor.blogimg.jp/shukatu2ch/imgs/0/5/055bbafe.jpg" id="blog-header-image" /></a>
+
+            <div id="blog-header02">
+                <div class="header-inner02">
+                    <ul class="header-menu">
+                        <li><a href="http://pathtimeblog.com/">HOME</a></li><!--メニューを入れてください-->
+                        <li class="ldb_menu-item-url"><a href="http://blog.livedoor.jp/shukatu2ch/archives/6126504.html">ABOUT</a></li><!--メニューを入れてください-->
+                        <li><a href="mailto:shukatumatome@gmail.com">お問い合わせ</a></li><!--メニューを入れてください-->
+                    </ul>
+                    <ul class="header-sarch">
+                        <li><a href="http://twitter.com"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_twitter.png" alt="Twitter" /></a></li><!--Twitter-->
+                        <li><a href="http://pathtimeblog.com/index.rdf"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_rss.png" alt="RSS" /></a></li><!--RSS-->
+                        <li>
+                        <form action="http://pathtimeblog.com/search" method="GET" style="padding:0;margin:0px;">
+                        <input type="TEXT" name="q" class="sf">
+                        <input type="SUBMIT" value="検索" class="sfbtn">
+                        </form>
+                        </li><!--検索窓-->
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</header>
+<!-- /ブログタイトル ここまで-->
+
+
+<!-- コンテンツエリア はじまり-->
+<div id="wrapper">
+
+    <!-- コンテンツ全体 はじまり-->
+    <div id="container">
+
+        <!-- 相互RSS はじまり-->
+        <div class="rss-blogroll">
+
+            <!-- 相互RSSを設置する場合の注意事項
+                コードに含まれる以下のCSSは外して設置してください
+                http://blogroll.livedoor.net/css/default2.css -->
+
+                 <!-- 相互RSSのコード ひとつ目-->
+            <script type="text/javascript">
+            <!--
+                   var blogroll_channel_id = 255242;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード ふたつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 265945;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード みっつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 255442;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href= />
+        </div>
+        <!-- 相互RSS ここまで-->
+
+        <!-- コンテンツの箱の中　真ん中728px はじまり-->
+        <div class="main-container">
+            <div class="main-column-inner">
+<br>
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+<br>
+                <!-- メッセージボード -->
+                 
+
+
+
+                <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://pathtimeblog.com/archives/9883158.html"
+    trackback:ping="http://trackback.blogsys.jp/livedoor/shukatu2ch/9883158"
+    dc:title="電車の運転士だけど質問ある？ 	"
+    dc:identifier="http://pathtimeblog.com/archives/9883158.html"
+    dc:subject="その他"
+    dc:description="1: 以下、5ちゃんねるからVIPがお送りします  2018/06/06(水) 01:36:20.044 ID:yY9yZv/5p 明日朝から乗務だし眠たいから30分くらいねー "
+    dc:creator="shukatu2ch"
+    dc:date="2018-06-12T22:00:49+09:00" />
+</rdf:RDF>
+-->
+<div id="ad_rs" class="ad_rs_b"></div><!-- 記事のトラックバック・オートディスカバリー -->
+
+
+                <!-- 記事 はじまり-->
+                <article class="article first-article" itemscope itemtype="http://schema.org/BlogPosting">
+
+                    <!-- 記事タイトル　記事下の情報　はじまり-->
+                    <header class="article-header">
+
+                        <h1 class="article-title" itemprop="name"><a href="http://pathtimeblog.com/archives/9883158.html" itemprop="url">電車の運転士だけど質問ある？ 	</a></h1><!-- 記事のタイトル -->
+
+                            <!-- 記事下の記事情報 はじまり-->
+                            <div class="article-header-inner">
+
+                                <!-- 記事情報の上の行 はじまり-->
+                                <div class="article-header-top">
+                                <p class="article-header-date"><time datetime="2018-06-12T22:00:49+09:00" pubdate="pubdate">2018年06月12日</time></p>
+                                
+                                <ul class="article-header-category">
+                                    <li>
+                                        <dl><dt>カテゴリ:</dt><dd class="article-category1"><a href="http://pathtimeblog.com/archives/cat_160473.html">その他</a></dd></dl>
+                                    </li>
+                                </ul>
+                                
+
+                                <!-- 記事の評価アイコン はじまり-->
+                                
+                                <!-- 記事の評価アイコン ここまで-->
+
+                                </div>
+                                <!-- 記事情報の上の行 ここまで-->
+                                <!-- ソーシャルボタン　はじまり -->
+                                <ul class="article-social-btn">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/9883158.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/9883158.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="電車の運転士だけど質問ある？ 	 - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=%E9%9B%BB%E8%BB%8A%E3%81%AE%E9%81%8B%E8%BB%A2%E5%A3%AB%E3%81%A0%E3%81%91%E3%81%A9%E8%B3%AA%E5%95%8F%E3%81%82%E3%82%8B%EF%BC%9F%20%09%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/9883158.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/9883158.html" data-text="電車の運転士だけど質問ある？ 	 - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F9883158.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                                </ul>
+                                 <!-- ソーシャルボタン　ここまで -->
+                            </div>
+                            <!-- 記事下の記事情報 ここまで-->
+
+                    </header>
+                    <!-- 記事タイトル　記事下の情報　ここまで-->
+
+
+
+                    <!-- 記事本文 はじまり-->
+                    <div class="article-body">
+                        <div class="article-body-inner">
+<!-- 参加している共通テーマの表示 -->
+                        <span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">1: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:36:20.044 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b"> 明日朝から乗務だし眠たいから30分くらいねー </div><br />
+<!-- Generated by 2chまとめくす (http://2mtmex.com/) --><!-- 本文 --><div class="article-body-more" id="more"><span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">2: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:36:45.939 ID:MKqSbnZo0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> すぐ寝ろ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">4: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:37:44.417 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;2</span> <br /> 暇つぶしに付き合ってくれ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">3: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:36:58.353 ID:dADwv6ov0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 何人轢いた？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">5: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:38:05.723 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;3</span> <br /> まだ1人も。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">6: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:38:26.190 ID:tGJiLrF40</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> かぶりつきで動画撮られた時ってやっぱり気合い入れるの？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">8: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:39:23.082 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;6</span> <br /> 入れない <br /> 変な指摘されない程度には頑張るけどね <br /> 子供に張り付かれてる方がよっぽど頑張る </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">7: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:38:54.363 ID:xPOorYowd</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 自動運転なんでしょ？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">9: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:39:41.457 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;7</span> <br /> んなわけあるかいwww </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">10: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:39:42.962 ID:IaRdIFlP0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 迷惑な電車オタに一言 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">11: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:40:15.300 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;10</span> <br /> 切符はちゃんと買えや </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">12: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:40:41.557 ID:90k907REp</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> グロメンだけど電車乗ってもいい？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">15: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:41:21.576 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;12</span> <br /> 全然オッケー <br /> ご乗車ありがとうございます </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">13: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:41:03.353 ID:1VCVV6iE0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 朝の山手線で新宿駅停車中に頭コックリコックリやってる奴いたけどちゃんと寝ろよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">17: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:42:31.615 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;13</span> <br /> それはヤバイなwww <br /> んでもどうしても眠いときあるよ</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">14: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:41:11.999 ID:x2mmrOOFa</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 地方の駅員とかになりたいんだが、簡単になれるかな？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">17: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:42:31.615 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;14</span> <br /> 俺は高卒で入社したからなんとも。 <br /> 今時契約社員とか取ってるとこもあるんじゃないの？</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">16: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:41:23.397 ID:aiG8j4ID0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> オムツはいてるの？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">18: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:43:09.005 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;16</span> <br /> 履いてないよ <br /> ヤバそうならホームの下でするよ <br /> 2分でうんこ出来るわ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">19: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:43:16.826 ID:CUK/puZGd</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 運転手、毎回飲みか同コンの話してたな… </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">21: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:44:10.629 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;19</span> <br /> 俺は早くに結婚してるからそんなん無いなー <br /> それよりもギャンブルの話が多い印象。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">45: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:55:53.162 ID:CUK/puZGd</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;21</span> <br /> 既婚者だったかーこっちのほうはあまり結婚してる人いなかったな… <br /> パチスロの話もよくしてたわ、あとソシャゲ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">50: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:59:56.463 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;45</span> <br /> だいたい休憩所でスマホポチポチしてるね</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">20: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:43:45.194 ID:OUyKJe5W0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 撮り鉄とかどう思う？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">23: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:44:58.542 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;20</span> <br /> 他のお客様に迷惑にならない程度なら別に構わない <br /> ルールやマナーを守らない奴はダメだ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">22: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:44:56.244 ID:zsV/rUXI0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ちょっとしたミスが大問題になったりするような業界だけど精神的に疲れないか？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">26: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:45:41.772 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;22</span> <br /> プレッシャーはあるけどそれもやり甲斐のうちだと思ってる <br /> プライド持ってやってるからな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">33: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:48:51.078 ID:zsV/rUXI0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;26</span> <br /> タフだなー <br /> まぁ大変そうな仕事だしそれぐらいじゃないと勤まらないんだろな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">40: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:52:45.743 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;33</span> <br /> 嫁と子供を養うためよー</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">41: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:53:52.954 ID:r4schPEBd</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;40</span> <br /> やっぱ新入社員とか事後処理させられんの？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">48: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:57:17.799 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;41</span> <br /> ないよ。行っても邪魔なだけだしね。 <br /> ただ、自分の配属された駅とかであれば別。 <br /> 人手が足りなかったら駆り出される。</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">25: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:45:38.273 ID:IaRdIFlP0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> JR？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">28: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:46:19.570 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;25</span> <br /> そう言うのは答えない <br /> パス</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">27: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:45:49.590 ID:yLEkzLfk0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 乗り鉄音鉄撮り鉄といろいろありますが一番嫌いなのは？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">29: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:47:23.171 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;27</span> <br /> どんなジャンルがあるか詳しく無いからよく分からない <br /> 変わり種でいうとトイレ鉄とか言うのがいるんだってね。 <br /> 全駅のトイレを制覇して評価するみたいな？笑 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">30: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:47:32.971 ID:ULvxG32rM</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 各駅と急行で難しさに違いとかある？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">35: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:49:21.563 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;30</span> <br /> あるっちゃあるし <br /> ないっちゃない <br /> 急行はいかに乗り心地よく定刻に遅れずに…みたいな？閉塞追従は頭使う。 <br /> 各停はとりあえず走って止まるだけ。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">32: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:48:25.926 ID:IaRdIFlP0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 免許証うp </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">37: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:50:59.936 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;32</span> <br /> 会社が一括して保管してるから手元にないよ <br /> 退職した時に返してもらえるらしい</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">34: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:49:13.807 ID:ztX7z6Qx0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 出会った中で最悪な客 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">37: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:50:59.936 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;34</span> <br /> 酔っぱらいは総じてクズ、ゲロまみれ、車内で立ちション、暴れる</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">36: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:50:28.123 ID:r4schPEBd</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 人身事故に遭遇したことないんだが現場の散らかりようどんなもんだ？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">40: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:52:45.743 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;36</span> <br /> 本当に酷いのは摩り下ろしリンゴみたいな奴 <br /> あとは分解されてエグゾディアみたいなやつとか</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">38: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:51:17.066 ID:yLEkzLfk0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 残業とかってどうなの？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">43: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:54:43.463 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;38</span> <br /> 残業は臨時電車を乗ったり、休みの人の代わりに乗ったり色々</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">39: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:52:37.525 ID:IaRdIFlP0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 免許とるときの技能試験ってどんなことやんの？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">43: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:54:43.463 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;39</span> <br /> 実際に運転もするし、車庫で故障処置とか事故処置とかもする。 <br /> あと、速度の目測とか。距離目測とか。 <br /> メーター隠されて、はいいま何キロー？みたいなんやったよ</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">42: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:54:36.671 ID:x7PhDmnAM</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 将来全て自動運転になるのにかわいそう </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">48: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:57:17.799 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;42</span> <br /> 何事にもコストがかかるからな。 <br /> おっきな所はそんなんあるかもしれないけれど、弱小はまだまだ先だと思うぞ。 <br /> 金がないと自動運転のシステム導入出来ないからな。 <br /> あと、何か事故や災害、火災などがあった時の要因として乗務員はなくならないとおもう。</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">44: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:55:07.131 ID:359VnpT70</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 3歳位の小っちゃい男の子の熱い視線にビシッと敬礼で応えるのは素敵だと思うよ、夢を与えてる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">50: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:59:56.463 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;44</span> <br /> 子供に憧れてもらえる仕事ってなかなか無いからな。 <br /> 素直に嬉しい。</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">46: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:55:58.462 ID:ZELCmGgna</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> １日の乗務時間とか距離は？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">50: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:59:56.463 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;46</span> <br /> 航路によってまちまち。 <br /> 乗務時間も距離もね。</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">47: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:57:07.725 ID:ko02qOz70</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 高卒のくせに下手な大卒より給料良くて安定してそうだな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">50: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:59:56.463 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;47</span> <br /> 確かに潰れないからその点ありがたい。 <br /> 住宅ローンもすぐに貸してくれた</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">49: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 01:58:07.817 ID:r4schPEBd</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> んでどこの鉄道会社なんだ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">52: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:00:48.374 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;49</span> <br /> 特定怖いです </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">51: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:00:44.845 ID:9d4QXr9ZE</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 工事徐行が何ヵ所かあると運転めんどくさい？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">56: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:01:41.858 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;51</span> <br /> めんどくさいとかはないけど <br /> 忘れて速度超過するとインシデント扱いだから <br /> そういう意味では怖い </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">58: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:04:42.684 ID:sksDx9p10</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 古い考え染み付いてるような所だとパワハラキツそう </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">61: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:06:02.097 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;58</span> <br /> パワハラとか法令倫理の窓口にチクれば一発よ <br /> 社内にそういう窓口がちゃんとある </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">66: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:09:07.884 ID:sksDx9p10</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;61</span> <br /> へーそんなのあるんだ <br /> やっぱ福知山線のあれ以来そういう事には敏感になってるのかね </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">68: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:11:39.366 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;66</span> <br /> 福知山とか関係なしにしてそういう時代だからだと思うよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">63: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:08:09.173 ID:JBHIS7f80</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 大卒で運転士の人とかもおるん？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">67: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:10:40.404 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;63</span> <br /> 普通におるよ</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">64: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:08:14.643 ID:9d4QXr9ZE</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 運転士って普段超勤とかあるの？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">67: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:10:40.404 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;64</span> <br /> 超勤ってなに？</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">78: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:17:38.962 ID:9d4QXr9ZE</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;67</span> <br /> 超勤って時間外労働の事だけど知らないって自分の事務整理どうしてるの？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">81: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:20:36.543 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;78</span> <br /> うちの会社で時間外って言ってるから超勤と言われてもピンとこなかったし、今も来てない <br /> 時間外勤務はパソコンで管理されてるから俺らは分からん。助役が承認して庶務が処理する感じかな？ <br /> 一月45時間以内年間360時間以内という規定があって、それは絶対超えないように勤務手配されてる。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">69: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:11:59.450 ID:JBHIS7f80</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> やっぱ運転手なる人って電子や好きな人が大半？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">74: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:14:11.096 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;69</span> <br /> そんな人は2割くらいかな？ <br /> あとは普通の人</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">82: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:20:40.856 ID:JBHIS7f80</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;74</span> <br /> ちなイッチは？ <br /> よければ志望動機なんかも </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">85: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:22:38.516 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;82</span> <br /> まさしく自分の年齢、給料を書いたよ <br /> 志望動機は、潰れないから、ボーナスちゃんと出るから笑</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">90: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:25:00.045 ID:SI/5MOCi0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;69</span> <br /> お前みたいなの嫌い </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">70: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:12:22.649 ID:hTuSANXga</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 給料は？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">74: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:14:11.096 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;70</span> <br /> 高卒20代後半500~550くらい</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">75: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:14:26.060 ID:expE5Vyhd</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 親父が市営地下鉄職員なんだけど、鉄道界序列としてはどんな感じなの </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">79: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:17:40.545 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;75</span> <br /> 序列とかはわかんない <br /> そういうのは無いと思ってる</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">80: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:20:33.763 ID:x7PhDmnAM</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> アルコールチェックしてる？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">85: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:22:38.516 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;80</span> <br /> 勿論してる <br /> アルコールが出たらその日の乗務外される</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">83: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:22:14.437 ID:iBtxDBCP0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 因みに目覚ましはATSの音？ <br /> アレって国電と私鉄で音違うのかしら <br /> その辺よく知らないからATSで統一させて </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">88: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:24:12.687 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;83</span> <br /> 目覚ましはback numberの瞬き <br /> マイiPhoneが起こしてくれるよ</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">95: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:28:49.959 ID:iBtxDBCP0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;88</span> <br /> 電車関係ないけど好きな曲を着信音とか目覚ましにして嫌いにならない？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">98: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:30:20.598 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;95</span> <br /> あるあるすぎて笑うwww <br /> 大好きだった曲が1ヶ月後には嫌いになってる現象</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">84: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:22:19.398 ID:GROvShHjr</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 飛び込みで轢いたら手当てとか出るの？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">88: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:24:12.687 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;84</span> <br /> んなもんない。</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">87: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:23:47.574 ID:Ws+C+IS00</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> うんこ漏れそうな時どーしてんの？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">93: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:27:00.202 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;87</span> <br /> 無理なら漏らす <br /> 最悪ホームの下でする <br /> 交代の手配をする <br /> 駅のトイレに駆け込む <br /> 色々あるよー</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">89: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:24:46.848 ID:7GrjVJeG0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 運転手と車掌ってどっちの方が強いの？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">93: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:27:00.202 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;89</span> <br /> つよいとかは無い <br /> 通常は年齢で先輩後輩 <br /> 何か事象があれば運転士が指揮をとる <br /> 車掌は電車のことあんまり知らないからね</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">91: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:25:38.922 ID:wGW7Q4np0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 泊まり勤務で旦那さん帰ってこれない日家族の人寂しくないのかなって思う </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">94: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:28:20.599 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;91</span> <br /> 嫁さんは「毎日居るのは耐えられない。一日置きくらいがちょうど良い。」と申しておりました。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">97: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:29:44.428 ID:wGW7Q4np0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;94</span> <br /> ずっと一緒にいるとそうなのかな <br /> でもお子さんはきっと毎日一緒にいたいよね </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">99: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:32:16.900 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;97</span> <br /> 俺も子供と一緒に居たい。 <br /> 一緒にご飯食べて一緒に風呂入って一緒に寝たいわ <br />  <br /> 自分で言っててなんかキモいなwww </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">102: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:33:49.139 ID:iBtxDBCP0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;99</span> <br /> 子供なんてイチャイチャできるのは5～6年だからな～ <br /> ﾁﾋﾞすぎると話せないし反抗期あるし </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">104: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:36:35.687 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;102</span> <br /> 子沢山なんだが全員女なんだ… <br /> 将来が不安だ…</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">106: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:38:57.203 ID:wGW7Q4np0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;104</span> <br /> そうそうー <br /> 家にいる時間が少なくて本当寂しいわ休みの日くらい休ませてやってほしいｗ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">110: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:42:06.913 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;106</span> <br /> 家にいる時間あんまりないのかな？ <br /> うちはしょっちゅう家にいるからご近所さんや幼稚園のママ友さんからなんの仕事してるのか怪しまれてる…</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">112: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:43:15.366 ID:PvvbqNqc0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;110</span> <br /> そんな運転士の電車になんて乗りたくないぞ無理矢理にでも寝てくれ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">118: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:49:31.375 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;112</span> <br /> 大丈夫 <br /> なんかあれば勝手に止まるようになってるのが電車よ <br /> 寝たら止まる仕組みになってる</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">122: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:55:11.629 ID:PvvbqNqc0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;118</span> <br /> 寝たら電車が止めてくれるってプライドどこいった </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">123: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:57:07.112 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;122</span> <br /> それくらい安全装置でガチガチだってことです <br /> 寝ないわwww </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">96: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:28:58.689 ID:o+X501Fgd</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 年取ると関係会社へ出向とかあんの？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">98: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:30:20.598 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;96</span> <br /> うちのとこはあんまりない <br /> 管理職になるとバンバンある</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">105: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:38:43.768 ID:inf33RSU0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 休みは何曜日なんだ？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">108: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:40:01.547 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;105</span> <br /> 7つの班わけがしてあって休みを振り分けてある。 <br /> で、公平になるように1年に一回休みの曜日をずらす。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">107: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:39:32.765 ID:PvvbqNqc0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 朝から仕事ならはよ寝ろ <br /> 安全安定輸送に心がけて下さい </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">110: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:42:06.913 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;107</span> <br /> 昼寝したんだ… <br /> 眠たくないんだ…</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">111: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:42:12.082 ID:JBHIS7f80</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 始発の日があったり終電の日があったり生活リズム狂いそうだけどどうなん？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">118: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:49:31.375 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;111</span> <br /> なれたらなんてこと無いさ</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">113: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:44:19.717 ID:e8P6phJfp</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> いつもかぶりついててごめんなさい </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">118: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:49:31.375 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;113</span> <br /> かぶりついて良いのは小学生までだぞ！</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">120: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/06/06(水) 02:52:21.797 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:yY9yZv/5p</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b"> ほんならそろそろ寝るかね。 <br /> 結構レスがついて嬉しかったです <br /> 暇つぶしに付き合ってくれてありがとう <br /> おやすみー </div><br />
+<br />
+<p  style="color:gray;text-align:right;"><span  style="font-size: 81.25%;">引用元： <a  target="_blank" href="http://hebi.5ch.net/test/read.cgi/news4vip/1528216580/">http://hebi.5ch.net/test/read.cgi/news4vip/1528216580/</a></span></p>
+<br />
+
+</div>
+                        
+<!-- タグのリスト表示セット -->
+                        </div>
+<br>
+
+
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=2Z8HPD+9K4KFM+34FI+NUES2" alt="">
+                    </div>
+                    <!-- 記事本文 ここまで-->
+
+
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HV7V6" alt="">
+
+
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www26.a8.net/svt/bgt?aid=190821728180&wid=001&eno=01&mid=s00000011866017004000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" alt=""></td>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+3257OY+3Y6M+601S1" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www24.a8.net/svt/bgt?aid=190821728185&wid=001&eno=01&mid=s00000018427001008000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=35LYZK+3257OY+3Y6M+601S1" alt=""></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+
+
+                    <!-- 記事フッター、コメント、ソーシャルボタン -->
+                    <footer class="article-footer">
+                        <div class="article-footer-comment">
+                            
+                                <a href="http://pathtimeblog.com/archives/9883158.html#comments">0コメント</a>
+                            
+                        </div>
+                        <div class="article-social-btn">
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HVFKY" alt="">
+
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/9883158.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/9883158.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="電車の運転士だけど質問ある？ 	 - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=%E9%9B%BB%E8%BB%8A%E3%81%AE%E9%81%8B%E8%BB%A2%E5%A3%AB%E3%81%A0%E3%81%91%E3%81%A9%E8%B3%AA%E5%95%8F%E3%81%82%E3%82%8B%EF%BC%9F%20%09%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/9883158.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/9883158.html" data-text="電車の運転士だけど質問ある？ 	 - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F9883158.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                        </div>
+                    </footer>
+                    <!-- /記事フッター、コメント、ソーシャルボタン -->
+
+
+                    <!-- カテゴリの最新記事表示 はじまり-->
+                    <div class="article-sub-category">
+                        <div id="ldblog_related_articles_847ccf25">
+
+<div class="related-articles ldblog_related_articles_847ccf25" data-category-id="160473" data-article-rows="5">
+<h3>「その他」カテゴリの最新記事</h3>
+<ul id="ldblog_related_articles_847ccf25_160473"></ul>
+</div>
+</div>
+<script type="text/html" id="ldblog_related_articles_847ccf25_tmpl">
+<% for(var i=0,l=articles.length;i<l;i++) {%><% if(i>=rows) break; %>
+<li><a href="<%=articles[i].permalink%>"><%=articles[i].title%></a></li>
+<% } %>
+</script>
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/related_articles.js?t=20180221"></script>
+<script type="text/javascript">
+(function(){
+RelatedArticles.load('ldblog_related_articles_847ccf25', '9883158');
+})();
+</script>
+<!-- 関連記事の表示 -->
+                    </div>
+                    <!-- /カテゴリの最新記事表示 ここまで-->
+
+
+
+
+                    <div id="ad2"></div><!-- 広告表示 -->
+
+                    <!-- 記事オプション はじまり-->
+                    <div class="article-option" id="article-options">
+
+                        <!-- コメントエリア　はじまり -->
+                        
+                        <section id="comments">
+                        
+                        <h1 class="comment-form-title">コメントする</h1>
+<div class="article-option" id="comment-form">
+    <form
+      action="https://comment.blogcms.jp/livedoor/shukatu2ch/9883158/post"
+      method="post"
+      name="comment_form"
+          id="comment-form-body"
+      onsubmit="setCommentAuthor(this); return submitOnce(this.button);"
+    >
+    <fieldset>
+        <legend>コメントフォーム</legend>
+    <dl class="comment-form-author">
+        <dt><label for="comment-form-author">名前</label></dt>
+        <dd id="comment-author-form"><input type="text" class="text" id="comment-form-author" name="author" required="required" value="" /></dd>
+    </dl>
+  <dl class="comment-form-body">
+    <dt><label for="comment-form-textarea">コメント</label></dt>
+    <dd>
+      <textarea id="comment-form-textarea" name="body" rows="7" required="required"></textarea>
+      <div id="comment-form-tools">
+        <span class="facemark"><a href="javascript:void(0);" id="emojiLink1" onClick="showEmojiPanel(this.id, 'comment-form-textarea')"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/icon_facemark.png" /></a></span>
+        <span class="rating">
+                    <input type="hidden" name="rating" value="">
+                    <input type="hidden" name="rating_icon" value="star">
+                    <div class="rating-value">
+                        <span id="default-rating-value">評価する</span>
+                        <div class="caret"><span></span></div>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/face/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/face/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/face/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/face/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/face/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/star/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/star/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/star/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/star/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/star/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                    </div>
+                    <div class="rating-icon">
+                        <div data-value="face">顔</div>
+                        <div class="selected" data-value="star">星</div>
+                    </div>
+        </span>
+        <span class="submit"><button type="submit">投稿する</button></span>
+        <span class="memorize"><label for="bake"><input type="checkbox" id="bake" name="cookie" /> 情報を記憶</label></span>
+      </div>
+    </dd>
+  </dl>
+  </fieldset>
+  </form>
+  <script type="text/javascript" src="https://parts.blog.livedoor.jp/js/comment.0.2.js?v=20130430"></script>
+  <script type="text/javascript">
+    loadCommentAuthor(document.comment_form);
+    ldblogComment.init();
+  </script>
+<!-- /#comment-form --></div><!-- コメント投稿フォーム -->
+
+
+                        </section>
+                        
+                        <!-- コメントエリア　ここまで -->
+
+
+                        <!-- トラックバック受け付け　はじまり -->
+                        
+                        <!-- トラックバック受け付け　ここまで -->
+
+                    </div>
+                    <!-- 記事オプション ここまで-->
+
+                </article>
+                <!-- 記事　ここまで -->
+
+
+                <!-- ページ送り はじまり-->
+<!-- Article Pager // -->
+  <div class="pager article-pager-type2">
+    <div class="pager-inner">
+    <div class="article-pager-outer">
+    <ul class="article-pager"><li class="prev"><a href="http://pathtimeblog.com/archives/9878254.html" title="四浪で中堅国立工学部機械に行って就職できますか？ 	">&nbsp四浪で中堅国立工学部機械に行って就職できますか？ 	</a></li><li class="next both"><a href="http://pathtimeblog.com/archives/9880130.html" title="工学部修士の就活は3月中で終わるって本当なの？ 	">工学部修士の就活は3月中で終わるって本当なの？ 	&nbsp</a></li>    </ul>
+    </div>
+    </div>
+  </div>
+<!-- // Article Pager -->
+
+                <!-- /ページ送り ここまで-->
+
+            </div><!-- /main-column-inner-->
+        </div>
+        <!-- コンテンツの箱の中　真ん中728px ここまで-->
+
+
+        <!-- コンテンツの箱の中　左側200px はじまり-->
+        <aside class="left-container">
+            <div class="left-column-inner">
+            
+
+
+
+<div class="plugin-popular_articles sidewrapper">
+  <div class="sidetitlebody">
+    <div class="sidetitle">人気記事</div>
+  </div>
+  <div class="sidetop"></div>
+  <div class="side">
+
+
+    <div class="popular-articles">
+      <table id="populararticles-472933"></table>
+      <div class="popular-articles-freearea"></div>
+    </div>
+  </div>
+
+  <div class="sidebottom"></div>
+</div>
+
+<script type="text/javascript" language="javascript"><!--
+(function(){
+  var url = 'http://pathtimeblog.com/archives/popular_articles.json'
+         + '?rangetype=custom'
+         + '&from=0'
+         + '&range=13'
+         + '&limit=50'
+         + '&offset=0'
+         ;
+
+  var callback = function(data) {
+    var table = document.getElementById('populararticles-472933');
+    for (i = 0; i < data.articles.length; i++) {
+      var rank = i + 1;
+      var prefix = 'populararticles-472933-'+ rank;
+
+      var row = table.insertRow(-1);
+      var elm1 = row.insertCell(-1);
+      elm1.className = 'populararticles-rank';
+      elm1.innerHTML = '<span><b>' + rank + '</b></span>';
+      var elm2 = row.insertCell(-1);
+      elm2.className = 'populararticles-title';
+      elm2.innerHTML = '<a href="' + data.articles[i].url + '?ref=popular_article&id=7836571-472933">' + data.articles[i].title + '</a>'
+      ;
+
+    }
+  };
+
+  var xhr = (function () {
+      if (window.XMLHttpRequest)
+        return new XMLHttpRequest();
+      else {
+        var msxml = [
+          "Msxml2.ServerXMLHTTP.6.0", "Msxml2.ServerXMLHTTP.5.0", "Msxml2.ServerXMLHTTP.4.0", "Msxml2.ServerXMLHTTP.3.0",
+          "Msxml2.ServerXMLHTTP", "Microsoft.ServerXMLHTTP", "Msxml2.XMLHTTP.6.0", "Msxml2.XMLHTTP.5.0",
+          "Msxml2.XMLHTTP.4.0", "Msxml2.XMLHTTP.3.0", "Msxml2.XMLHTTP", "Microsoft.XMLHTTP"
+        ];
+        for (var i = 0; i<msxml.length; i++ ){
+          try {
+            return new ActiveXObject(msxml[i]);
+          }
+          catch(e) { }
+        }
+        return null;
+      }
+  })();
+    
+  if (!xhr) return;
+  xhr.open('GET', url, true);
+  xhr.onreadystatechange = function () {
+    if (xhr.readyState == 4 && xhr.status == 200) {
+      eval('var ld_popular_articles_json = ' + xhr.responseText);
+      callback(ld_popular_articles_json);
+    }
+  };
+  xhr.send();
+
+})();
+//-->
+</script>
+
+<div class="plugin-recent_articles sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">最新記事</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27108137.html">21卒就活生ワイ、内定辞退でしこたま怒鳴られる</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/10257766.html">ニートって難しい資格取って仕事探そうとするけどさ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839910.html">【学歴フィルター】企業にとっての一流大学とは？【就職偏差値】</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839719.html">ワイニート歴2年、就職して初年度の年収500万円！！！！</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073431.html">あ、面接落ちたなってフラグ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073465.html">【悲報】上級国民大手企業様「下請けに仕事やらせてガッポリ中抜きｗ」→夏ボーナス92万5947円</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27075072.html">ワイ21卒、会社選びを間違ってしまったと後悔する</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027071.html">【悲報】キャリア採用の銀行員ワイ、周囲の人間があまりにも有能すぎてマジでドン引き……………………</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27063977.html">【速報】大学、終わる。　Googleが大卒資格を得られるコースを提供へ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027029.html">教師「Ｆ欄ＯＫです、公務員です、毎日定時で帰れます、年収700万です」←こいつが馬鹿にされる理由ｗ</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-recent_articles -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「A」設定のブログパーツ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　左側200px ここまで-->
+
+
+        <!-- コンテンツの箱の中　右側200px はじまり-->
+        <aside class="right-container">
+            <div class="right-column-inner">
+            
+
+
+
+<div class="plugin-categorize sidewrapper" id="plugin-categorize-457691">
+    <div class="sidetitlebody">
+        <div class="sidetitle">カテゴリー</div>
+    </div>
+    <div class="sidetop"></div>
+    <div class="side">
+
+
+      
+
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160301.html">就活準備 (243)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161699.html">自己分析 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161700.html">企業・業界研究 (66)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155971.html">資格 (39)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155966.html">選考 (254)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155977.html">インターン (23)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155978.html">説明会 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155975.html">ES (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155976.html">SPIなど (7)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155974.html">面接 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155972.html">内定 (222)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160304.html">NNT(無内定) (68)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160302.html">内定後・入社前 (110)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160308.html">アドバイス (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160460.html">入社後 (924)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220065.html">新卒 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220063.html">上司 (95)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_219473.html">社会人生活 (299)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160474.html">ブラック企業 (65)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160303.html">転職 (175)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163214.html">副業 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220667.html">収入 (102)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_299497.html">採用担当 (3)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_318465.html">第二新卒 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161711.html">学生生活 (46)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163247.html">浪人・留年 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155967.html">学歴 (119)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_223545.html">ニート (38)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155969.html">業界別 (314)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156035.html">金融 (34)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156099.html">建築・不動産 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160357.html">物流・運送 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160358.html">IT・メディア (55)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160359.html">エネルギー・資源 (1)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160310.html">自動車・機械 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160360.html">食品・小売 (14)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160311.html">公務員・準公務員 (89)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160356.html">サービス (21)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160473.html">その他 (42)</a>
+          
+        </div>
+        
+    
+        
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160476.html">その他 (472)</a>
+          
+        </div>
+        
+    
+    
+
+    </div>    
+    <div class="sidebottom"></div>
+</div><!-- // plugin-categorize -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+<a href="//blog.with2.net/link/?1955545"><img src="https://blog.with2.net/img/banner/banner_21.gif" title="人気ブログランキング"></a><br><a href="//blog.with2.net/link/?1955545" style="font-size: 0.8em;">人気ブログランキング</a>
+
+<div class="plugin-link sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">リンク集</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://0matome.com/" target="_blank">おまとめ</a></div>
+
+<div class="sidebody"><a href="http://2chnavi.net/allentries/?threshold=0" target="_blank">2chnavi</a></div>
+
+<div class="sidebody"><a href="http://http://iwashi.biz/" target="_blank">いわしアンテナ &gt;°))))彡</a></div>
+
+<div class="sidebody"><a href="http://2ch-2.net/" target="_blank"> つーアンテナ(*ﾟ∀ﾟ)</a></div>
+
+<div class="sidebody"><a href="https://ii-antenna.net/?about" target="_blank">いーあんてな(#ﾟｗﾟ)</a></div>
+
+<div class="sidebody"><a href="https://2ch-mi.net/" target="_blank">みーアンテナ（´∀｀）</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-link -->
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">検索</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="https://cse.google.com/cse.js?cx=014565878756483497884:urusxdcjffe"></script>
+<div class="gcse-search"></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「B」設定のブログパーツ表示 -->
+            
+<!-- LDR・RSSリンクとブログのロゴ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　右側200px ここまで-->
+
+        <!-- このページのトップヘ　はじまり -->
+        <p class="to-pagetop"><a href="#"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/to_pagetop.png" width="70" height="70" alt="このページのトップヘ" /></a></p>
+        <!-- このページのトップヘ ここまで -->
+
+    </div>
+    <!-- コンテンツ全体 ここまで-->
+
+    <!-- ブログのフッター はじまり-->
+    <footer id="blog-footer">
+    <!-- Blog Common Footer // --><div id="footer"><p>Powered by <a href="http://blog.livedoor.com/" title="ライブドアブログ">ライブドアブログ</a></p></div><!-- // Blog Common Footer --><!-- 共通フッター表示 -->
+    </footer>
+    <!-- /ブログのフッター ここまで-->
+
+</div>
+<!-- コンテンツエリア ここまで-->
+
+
+<!-- Add Body Tag // --><script type="text/javascript">
+(function(){
+  var traq = document.createElement('script'); traq.type = 'text/javascript'; traq.async = true;
+  traq.src = 'https://t.blog.livedoor.jp/u.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(traq, s);
+})();
+</script>
+<noscript>
+<img src="https://t.blog.livedoor.jp/u.gif" alt="traq">
+</noscript>
+<!-- // Add Body Tag -->
+
+<script>
+(function($) {
+  var cookieName = 'livedoor-blog-gdpr-agreed';
+  $(document).ready(function() {
+    if (navigator.userAgent.match(/https?:\/\//)) {
+      // UA に http:// or https:// があればスルー
+      return;
+    }
+
+    var agreed = document.cookie.indexOf(cookieName) >= 0;
+    if (agreed) {
+      // 同意済み Cookie があればスルー
+      return;
+    }
+
+    var banner = $('<div>');
+    banner.attr('id', 'gdpr-banner');
+    var label = $('<p>');
+    label.html('\
+      ライブドアブログでは広告のパーソナライズや効果測定のためクッキー(cookie)を使用しています。<br>\
+      このバナーを閉じるか閲覧を継続することでクッキーの使用を承認いただいたものとさせていただきます。<br>\
+      また、お客様は当社パートナー企業における所定の手続きにより、クッキーの使用を管理することもできます。<br>\
+      詳細は<a href="http://www.livedoor.com/rules/" target="_blank" style="color:#023780;text-decoration:underline;">ライブドア利用規約</a>をご確認ください。\
+    ');
+    banner.append(label);
+
+    var closeButton = $('<button>');
+    closeButton.attr('type', 'button');
+    closeButton.html('閉じる');
+    closeButton.on('click', function() {
+      $('#gdpr-banner').hide();
+      document.cookie = cookieName + '="1";expires=Tue, 31-Dec-2037 00:00:00 GMT;path=/;';
+    });
+    banner.append(closeButton);
+
+    banner.css({
+      'position': 'fixed',
+      'left': '0',
+      'right': '0',
+      'bottom': '0',
+      'background': '#dcdcdc',
+      'color': '#000',
+      'padding': '20px',
+      'text-align': 'center',
+      'box-shadow': '0 -2px 2px rgba(102, 102, 102, 0.86)',
+      'z-index': '2147483647',
+    });
+    label.css({
+      'display': 'inline-block',
+      'text-align': 'left',
+      'font-size': '14px',
+      'color': '#000',
+      'vertical-align': 'middle',
+      'line-height': '1.5',
+    });
+    closeButton.css({
+      'display': 'inline-block',
+      'color': '#fff',
+      'border': 'none',
+      'font-size': '14px',
+      'padding': '4px 40px',
+      'margin-left': '40px',
+      'background': '#535353',
+      'vertical-align': 'middle',
+    });
+
+    var script = document.createElement('script');
+    script.type = "text/javascript";
+    script.src = "https://ipcheck.blogsys.jp/check.js?t=" + Date.now();
+    script.onerror = function() {
+      $('body').append(banner);
+    };
+    document.body.appendChild(script);
+  });
+})(jQuery);
+</script>
+</body>
+</html>

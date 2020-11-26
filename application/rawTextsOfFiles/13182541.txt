@@ -1,0 +1,1372 @@
+<!DOCTYPE html>
+<html lang="ja" itemscope itemtype="http://schema.org/Blog">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=1190">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" /><link rel="shortcut icon" type="image/vnd.microsoft.icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/favicon.ico" /><link rel="icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/3ab45ab0.jpg" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/template.css?v=20190826" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/heart.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/icon.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="http://pathtimeblog.com/site.css?_=20190831163247" type="text/css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://pathtimeblog.com/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://pathtimeblog.com/atom.xml" /><link rel="canonical" href="http://pathtimeblog.com/archives/13182541.html" /><link rel="openid.server" href="http://auth.livedoor.com/openid/server" /><link rel="openid.delegate" href="http://profile.livedoor.com/shukatu2ch/" />
+<link rel="mixi-check-alternate" media="mixi-device-mobile" type="text/html" href="http://blog.m.livedoor.jp/shukatu2ch/article/13182541" />
+<link rel="mixi-check-alternate" media="mixi-device-smartphone" type="text/html" href="http://pathtimeblog.com/archives/13182541.html" />
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/jquery-1.11.1.min.js"></script>
+
+<meta name="description" content="1: 名無しさん＠涙目です。(東日本) [CN]  2018/10/23(火) 08:05:55.82 ID:ZopttLkd0 BE:837857943-PLT(16930)
+安倍首相は２２日、議長を務める未来投資会議で、高齢者が希望すればこれまでより長く働けるよう、企業の継続雇用年齢を６５歳から  ７０歳に引き上げる方針を表" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="企業の継続雇用「７０歳に引き上げ」首相が表明　これで年金も安心 	 : 2ch就活まとめ" />
+<meta property="og:description" content="1: 名無しさん＠涙目です。(東日本) [CN]  2018/10/23(火) 08:05:55.82 ID:ZopttLkd0 BE:837857943-PLT(16930)安倍首相は２２日、議長を務める未来投資会議で、高齢者が希望すればこれまでより長く働けるよう、企業の継続雇用年齢を６５歳から  ７０歳に引き上げる方針を表" />
+<meta property="og:url" content="http://pathtimeblog.com/archives/13182541.html" />
+<meta property="og:site_name" content="2ch就活まとめ" />
+<meta property="og:locale" content="ja_JP" />
+<meta property="og:image" content="https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png" />
+
+<meta name="twitter:site" content="@2chshukatu" />
+<meta name="twitter:title" content="企業の継続雇用「７０歳に引き上げ」首相が表明　これで年金も安心 	 : 2ch就活まとめ" />
+<meta name="twitter:description" content="1: 名無しさん＠涙目です。(東日本) [CN]  2018/10/23(火) 08:05:55.82 ID:ZopttLkd0 BE:837857943-PLT(16930)安倍首相は２２日、議長を務める未来投資会議で、高齢者が希望すればこれまでより長く働けるよう、企業の継続雇用年齢を６５歳から  ７０歳に引き上げる方針を表" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image:src" content="https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png" />
+<link rel="alternate" media="handheld" type="application/xhtml+xml" href="http://blog.m.livedoor.jp/shukatu2ch/" />
+
+<title>企業の継続雇用「７０歳に引き上げ」首相が表明　これで年金も安心 	 : 2ch就活まとめ</title>
+<script src="https://parts.blog.livedoor.jp/js/emoji.js"></script>
+<script src="https://parts.blog.livedoor.jp/js/misc.js?v=20190710"></script>
+<!--[if lt IE 9]>
+<script src="https://parts.blog.livedoor.jp/js/html5.js"></script>
+<![endif]-->
+<script src="https://parts.blog.livedoor.jp/js/usr/import.js"></script>
+<script>
+$(function(){
+  if($('.header-inner01').children('#blog-header-image').length) {
+    $(window).bind('load', function() {
+      var title1 = $('#blog-header-image').height();
+      var title2 = $('.header-menu').height();
+      var headerHeight = title1-title2-15;
+      $("hgroup").css("height", headerHeight);
+    });
+  }
+});
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-3064778048578600",
+          enable_page_level_ads: true
+     });
+</script>
+
+<!-- Add Google Analytics Tag // -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-113178806-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- // Add Google Analytics Tag -->
+
+
+<meta name="referrer" content="always">
+<meta name="referrer" content="unsafe-url">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1638469-45"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+var blogId = '';
+if (blogId) {
+  gtag('config', 'UA-1638469-45', {
+    'custom_map': {'dimension1': 'blog_id'},
+    'blog_id': blogId
+  });
+} else {
+  gtag('config', 'UA-1638469-45');
+}
+</script>
+
+</head>
+<body class="default_2012 page-article layout-2col sidebar-right"><script type="text/javascript"><!--
+var ld_blog_vars = {
+  provider_id : '1',
+  provider_name : 'livedoor',
+  id : '7836571',
+  name : 'shukatu2ch',
+  charset : 'utf8',
+  url : 'http://pathtimeblog.com/',
+  title : '2ch就活まとめ',
+  blog_design: {
+      version: 1
+  },
+  blog_category: {
+    id: '243',
+    permalink: 'https://blog.livedoor.com/category/243/',
+    name: 'まとめ(総合) > まとめ',
+    is_adult : 0,
+    is_gambling : 0,
+    hierarchy: [{ id: '431', name: 'まとめ(総合)', permalink: 'https://blog.livedoor.com/category/431/' },{ id: '243', name: 'まとめ', permalink: 'https://blog.livedoor.com/category/243/' }]
+  },
+  current_page : {
+    type : 'article',    page : ''
+  },
+  articles : [ {
+       id : '13182541',
+       permalink : 'http://pathtimeblog.com/archives/13182541.html',
+       title : '企業の継続雇用「７０歳に引き上げ」首相が表明　これで年金も安心 \t',
+       categories : [ { id:'160476', name:'その他', permalink:'http://pathtimeblog.com/archives/cat_160476.html' }, { id:'', name:'', permalink:'' } ],
+       date : '2018-10-23 23:00:54'
+}   ]
+};
+//-->
+</script><div id="analyzer_tags" style="display:none">
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/c2.js?v=20191010"></script>
+<script type="text/javascript">blog_counter('shukatu2ch', 7836571, 'http://pathtimeblog.com/')</script>
+</div><script type="text/javascript" src="https://parts.blog.livedoor.jp/js/smartphone.js?v=20200824"></script>
+<script type="text/javascript" src="http://pathtimeblog.com/settings/header.js?v=20190705"></script><script type="text/javascript" src="http://pathtimeblog.com/settings/ad.js"></script>
+<script type="text/javascript">
+var palette_src = 'https://parts.blog.livedoor.jp/img/emoji/3/palette.png';
+if (typeof IMAGE_CACHE == 'object' && IMAGE_CACHE['emoji_palette']) IMAGE_CACHE['emoji_palette'].src = palette_src;
+</script>
+
+<!-- Blog Common Header // -->
+<!-- // Blog Common Header -->
+<!-- 共通ヘッダー表示 -->
+
+<!-- ブログタイトル はじまり-->
+<header id="blog-header">
+
+    <div id="blog-header01">
+
+        <div class="header-inner01 show-image hide-text">
+
+            <hgroup>
+                <!--ブログタイトル　はじまり-->
+                <h1 id="blog-title"><a href="http://pathtimeblog.com/">2ch就活まとめ</a></h1>
+                <!--ブログタイトル　ここまで-->
+                <!--ブログ説明　はじまり-->
+                <h2 id="blog-description">新卒・転職・社会人生活などを含め、就活・就職に関することをまとめてます。</h2>
+                <!--ブログ説明　ここまで-->
+            </hgroup>
+
+            <a href="http://pathtimeblog.com/"><img src="https://resize.blogsys.jp/727db0f9da9f42eb7d26b703338c30b3eef0157c/trim2/0x243_94p_1200x388/http://livedoor.blogimg.jp/shukatu2ch/imgs/0/5/055bbafe.jpg" id="blog-header-image" /></a>
+
+            <div id="blog-header02">
+                <div class="header-inner02">
+                    <ul class="header-menu">
+                        <li><a href="http://pathtimeblog.com/">HOME</a></li><!--メニューを入れてください-->
+                        <li class="ldb_menu-item-url"><a href="http://blog.livedoor.jp/shukatu2ch/archives/6126504.html">ABOUT</a></li><!--メニューを入れてください-->
+                        <li><a href="mailto:shukatumatome@gmail.com">お問い合わせ</a></li><!--メニューを入れてください-->
+                    </ul>
+                    <ul class="header-sarch">
+                        <li><a href="http://twitter.com"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_twitter.png" alt="Twitter" /></a></li><!--Twitter-->
+                        <li><a href="http://pathtimeblog.com/index.rdf"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_rss.png" alt="RSS" /></a></li><!--RSS-->
+                        <li>
+                        <form action="http://pathtimeblog.com/search" method="GET" style="padding:0;margin:0px;">
+                        <input type="TEXT" name="q" class="sf">
+                        <input type="SUBMIT" value="検索" class="sfbtn">
+                        </form>
+                        </li><!--検索窓-->
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</header>
+<!-- /ブログタイトル ここまで-->
+
+
+<!-- コンテンツエリア はじまり-->
+<div id="wrapper">
+
+    <!-- コンテンツ全体 はじまり-->
+    <div id="container">
+
+        <!-- 相互RSS はじまり-->
+        <div class="rss-blogroll">
+
+            <!-- 相互RSSを設置する場合の注意事項
+                コードに含まれる以下のCSSは外して設置してください
+                http://blogroll.livedoor.net/css/default2.css -->
+
+                 <!-- 相互RSSのコード ひとつ目-->
+            <script type="text/javascript">
+            <!--
+                   var blogroll_channel_id = 255242;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード ふたつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 265945;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード みっつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 255442;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href= />
+        </div>
+        <!-- 相互RSS ここまで-->
+
+        <!-- コンテンツの箱の中　真ん中728px はじまり-->
+        <div class="main-container">
+            <div class="main-column-inner">
+<br>
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+<br>
+                <!-- メッセージボード -->
+                 
+
+
+
+                <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://pathtimeblog.com/archives/13182541.html"
+    trackback:ping="http://trackback.blogsys.jp/livedoor/shukatu2ch/13182541"
+    dc:title="企業の継続雇用「７０歳に引き上げ」首相が表明　これで年金も安心 	"
+    dc:identifier="http://pathtimeblog.com/archives/13182541.html"
+    dc:subject="その他"
+    dc:description="1: 名無しさん＠涙目です。(東日本) [CN]  2018/10/23(火) 08:05:55.82 ID:ZopttLkd0 BE:837857943-PLT(16930)安倍首相は２２日、議長を務める未来投資会議で、高齢者が希望すればこれまでより長く働けるよう、企業の継続雇用年齢を６５歳から  ７０歳に引き上げる方針を表"
+    dc:creator="shukatu2ch"
+    dc:date="2018-10-23T23:00:54+09:00" />
+</rdf:RDF>
+-->
+<div id="ad_rs" class="ad_rs_b"></div><!-- 記事のトラックバック・オートディスカバリー -->
+
+
+                <!-- 記事 はじまり-->
+                <article class="article first-article" itemscope itemtype="http://schema.org/BlogPosting">
+
+                    <!-- 記事タイトル　記事下の情報　はじまり-->
+                    <header class="article-header">
+
+                        <h1 class="article-title" itemprop="name"><a href="http://pathtimeblog.com/archives/13182541.html" itemprop="url">企業の継続雇用「７０歳に引き上げ」首相が表明　これで年金も安心 	</a></h1><!-- 記事のタイトル -->
+
+                            <!-- 記事下の記事情報 はじまり-->
+                            <div class="article-header-inner">
+
+                                <!-- 記事情報の上の行 はじまり-->
+                                <div class="article-header-top">
+                                <p class="article-header-date"><time datetime="2018-10-23T23:00:54+09:00" pubdate="pubdate">2018年10月23日</time></p>
+                                
+                                <ul class="article-header-category">
+                                    <li>
+                                        <dl><dt>カテゴリ:</dt><dd class="article-category1"><a href="http://pathtimeblog.com/archives/cat_160476.html">その他</a></dd></dl>
+                                    </li>
+                                </ul>
+                                
+
+                                <!-- 記事の評価アイコン はじまり-->
+                                
+                                <!-- 記事の評価アイコン ここまで-->
+
+                                </div>
+                                <!-- 記事情報の上の行 ここまで-->
+                                <!-- ソーシャルボタン　はじまり -->
+                                <ul class="article-social-btn">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/13182541.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/13182541.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="企業の継続雇用「７０歳に引き上げ」首相が表明　これで年金も安心 	 - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=%E4%BC%81%E6%A5%AD%E3%81%AE%E7%B6%99%E7%B6%9A%E9%9B%87%E7%94%A8%E3%80%8C%EF%BC%97%EF%BC%90%E6%AD%B3%E3%81%AB%E5%BC%95%E3%81%8D%E4%B8%8A%E3%81%92%E3%80%8D%E9%A6%96%E7%9B%B8%E3%81%8C%E8%A1%A8%E6%98%8E%E3%80%80%E3%81%93%E3%82%8C%E3%81%A7%E5%B9%B4%E9%87%91%E3%82%82%E5%AE%89%E5%BF%83%20%09%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/13182541.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/13182541.html" data-text="企業の継続雇用「７０歳に引き上げ」首相が表明　これで年金も安心 	 - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F13182541.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                                </ul>
+                                 <!-- ソーシャルボタン　ここまで -->
+                            </div>
+                            <!-- 記事下の記事情報 ここまで-->
+
+                    </header>
+                    <!-- 記事タイトル　記事下の情報　ここまで-->
+
+
+
+                    <!-- 記事本文 はじまり-->
+                    <div class="article-body">
+                        <div class="article-body-inner">
+<!-- 参加している共通テーマの表示 -->
+                        <span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">1: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(東日本) [CN]</span> <span  style="color: gray;"> 2018/10/23(火) 08:05:55.82 ID:ZopttLkd0 BE:837857943-PLT(16930)</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">安倍首相は２２日、議長を務める未来投資会議で、高齢者が希望すればこれまでより長く働けるよう、企業の継続雇用年齢を６５歳から <br /> ７０歳に引き上げる方針を表明した。働く高齢者を増やすことで、人手不足を解消するとともに年金制度などの安定を図る。 <br /> 政府は、関連法改正案を２０２０年の通常国会に提出する方針だ。 <br />  <br /> 首相は「７０歳までの就業機会の確保を図り、高齢者の希望・特性に応じて多様な選択肢を許容する方向で検討したい」と述べ、 <br /> 関係閣僚に見直しを指示した。 <br />  <br /> 高年齢者雇用安定法は、高齢者の職業安定などを目的とし、企業に対して〈１〉６５歳までの定年引き上げ〈２〉再雇用など６５歳までの <br /> 継続雇用〈３〉定年制の廃止――のいずれかを義務付けている。 <br />  <br /> 企業側は「定年延長や定年制廃止は人件費増につながる」として、継続雇用制度を選ぶケースが大半だ。体力の衰えで <br /> 短時間勤務を望む高齢者も少なくない。 <br />  <br /> 政府としては高齢者が個々の事情に応じ、多様な働き方の中から自分に合ったものを選べるようにしたい考えだ。来夏に制度の方向性をまとめ、 <br /> 法改正を目指す。 <br />  <br /> <a  href="http://www.yomiuri.co.jp/politics/20181022-OYT1T50107.html" target="_blank">https://www.yomiuri.co.jp/politics/20181022-OYT1T50107.html</a> <br /> 未来投資会議であいさつをする安倍首相（左から２人目、２２日午後、首相官邸で） <br /> <a  href="http://www.yomiuri.co.jp/photo/20181022/20181022-OYT1I50041-L.jpg" target="_blank" class="image">https://www.yomiuri.co.jp/photo/20181022/20181022-OYT1I50041-L.jpg</a> </div><br />
+<!-- Generated by 2chまとめくす (http://2mtmex.com/) --><!-- 本文 --><div class="article-body-more" id="more"><span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">2: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(庭) [US]</span> <span  style="color: gray;"> 2018/10/23(火) 08:06:24.06 ID:yyGU7GQ60</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 昔は55歳だったのにな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">73: <span  style="color: rgb(124, 199, 84);">三河農士 ◆R2srkOAYfTmd (愛知県) [AU]</span> <span  style="color: gray;"> 2018/10/23(火) 08:31:01.83 ID:UESJwV5g0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;2</span> <br /> 平均寿命も60代だったけどな。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">3: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(新疆ウイグル自治区) [ﾆﾀﾞ]</span> <span  style="color: gray;"> 2018/10/23(火) 08:06:43.39 ID:a38UN0ds0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> いやいや無理無理 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">4: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(チベット自治区) [EU]</span> <span  style="color: gray;"> 2018/10/23(火) 08:06:54.33 ID:t/evb+W10</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 年金支払いは80歳までしよう <br /> それ以上は働け </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">6: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(禿) [US]</span> <span  style="color: gray;"> 2018/10/23(火) 08:07:39.96 ID:HpVgn1cs0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 無駄に長生きし過ぎなんだよ <br /> 適当に戦争とかして人口調整は必要 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">17: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(チベット自治区) [AT]</span> <span  style="color: gray;"> 2018/10/23(火) 08:10:53.77 ID:+sF4nfWO0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;6</span> <br /> 戦争しても減るのは若者だが </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">59: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(奈良県) [US]</span> <span  style="color: gray;"> 2018/10/23(火) 08:25:17.50 ID:W6qnrS670</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;6</span> <br /> 今の兵器事情で戦争したらヤバイって分かるでしょうよ。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">7: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(茸) [DE]</span> <span  style="color: gray;"> 2018/10/23(火) 08:07:42.08 ID:Ew7HIcK80</span></span></div>
+<div  style="font-weight:bold;font-size:18px;line-height:27px;margin-bottom:30px;margin-top:20px;" class="t_b"> 払う払う詐欺やん </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">8: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(栃木県) [US]</span> <span  style="color: gray;"> 2018/10/23(火) 08:08:22.87 ID:n7980vFh0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 70才まで働いていれば120歳まで生きよう！ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">12: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(やわらか銀行) [AT]</span> <span  style="color: gray;"> 2018/10/23(火) 08:09:37.15 ID:6RzVsZs20</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#ffa500;margin-bottom:30px;margin-top:20px;" class="t_b"> あと数年で死ぬ予定の俺には関係ない話だな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">13: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(庭) [KR]</span> <span  style="color: gray;"> 2018/10/23(火) 08:09:38.87 ID:deSarhE70</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> やめろ俺は60でやめる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">14: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(大阪府) [ﾆﾀﾞ]</span> <span  style="color: gray;"> 2018/10/23(火) 08:10:07.93 ID:Vv/vyeEz0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> まぁ現場は中堅社員が育ってなくて退職後の嘱託社員に頼り切ってる状態 <br /> それを正式に正社員として高給で雇用し続けられるのならういんういんやな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">15: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(茸) [DE]</span> <span  style="color: gray;"> 2018/10/23(火) 08:10:38.24 ID:Ew7HIcK80</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> じじいが引退しなきゃ若者に仕事がないんじゃ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">39: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(帝国中央都市) [CA]</span> <span  style="color: gray;"> 2018/10/23(火) 08:19:18.87 ID:EoDrBeF50</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;15</span> <br /> これなのにね <br /> アホか </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">18: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(やわらか銀行) [US]</span> <span  style="color: gray;"> 2018/10/23(火) 08:10:54.11 ID:0hvxT8ei0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 10年働けば国民年金満額貰えるわけだから <br /> 年金未納者は60歳までに勤労開始すれば良いんだな <br />  <br /> 今は無職が大勝利 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">19: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(禿) [KR]</span> <span  style="color: gray;"> 2018/10/23(火) 08:11:00.27 ID:JdVA4zcZ0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> これで年金支給開始年齢引き上げの土台ができたか <br /> これはアベちゃんグッジョブだね </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">22: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(dion軍) [ﾆﾀﾞ]</span> <span  style="color: gray;"> 2018/10/23(火) 08:12:23.52 ID:NiwYc7D60</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;" class="t_b"> 将来的にはもっと引き上げられるんだろうなー <br /> 身体鍛えておかないとなー(遠い目) </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">23: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(愛知県) [US]</span> <span  style="color: gray;"> 2018/10/23(火) 08:12:24.06 ID:7dtae5hj0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 70まで働けるようにしたって会社が働かせてくれるわけじゃないだろ <br /> ルール決めたからって会社のルールが変わるわけでもないのに </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">33: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(愛知県) [US]</span> <span  style="color: gray;"> 2018/10/23(火) 08:17:08.52 ID:yjx75rvl0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;23</span> <br /> 職種によるね <br /> 技術の居る職人さん達は70代でも良い仕事してるから勿体ない <br /> 正社員のままでいて欲しいと思ってる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">51: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(catv?) [JP]</span> <span  style="color: gray;"> 2018/10/23(火) 08:23:16.06 ID:aDgWlnKC0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;33</span> <br /> でも60過ぎの職人さんは現場の手続き増えてめんどくさい・・・ <br /> 経験と知識豊富だから助かるのに </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">108: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(愛知県) [US]</span> <span  style="color: gray;"> 2018/10/23(火) 08:51:45.60 ID:yjx75rvl0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;51</span> <br /> ほんそれ <br /> それが無くなれば凄く助かる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">27: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(愛知県) [US]</span> <span  style="color: gray;"> 2018/10/23(火) 08:15:23.00 ID:yjx75rvl0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> これ賛成 <br /> 今の60代は一昔前のの50代と同等の能力があるからリタイヤには早過ぎる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">28: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(やわらか銀行) [US]</span> <span  style="color: gray;"> 2018/10/23(火) 08:15:31.72 ID:DHWYi+w70</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 本当にいらない <br /> んなことしたら職場は年寄りだらけ <br /> たださえ少ない若者が余計にやめて行くぞ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">36: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(SB-iPhone) [FR]</span> <span  style="color: gray;"> 2018/10/23(火) 08:18:13.89 ID:AiS7DYGR0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> このペースなら5年後には75歳 <br /> 10年後には80歳 <br /> 15年後には85歳に引き上げることで生涯現役となり、年金不要になるな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">45: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(チベット自治区) [AT]</span> <span  style="color: gray;"> 2018/10/23(火) 08:21:33.42 ID:+sF4nfWO0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;36</span> <br /> 何がこのペースなのかしらんが <br /> 前回が2013年に60から65だから <br /> 今回2020年成立予定なら <br /> 2021年施行だからペースは8年で＋5年だぞ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">48: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(静岡県) [US]</span> <span  style="color: gray;"> 2018/10/23(火) 08:22:46.81 ID:1Ofo/lee0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 本当に小手先 <br /> その場しのぎの考えばかり <br />  <br /> だから年金破綻するんだろ <br /> 総理も国会議員もバカ私学卒が多すぎ <br /> よくお前ら当選させてやるよな。 <br /> 中卒で土方、トラックの運転手やってるようなレベルだぞ。 <br /> 勉強の出来ない奴が何できんのw </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">50: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(愛媛県) [FR]</span> <span  style="color: gray;"> 2018/10/23(火) 08:22:54.61 ID:eQ9lUuTH0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 閑職につけるなら、７０まで働くの有りだぞ。 <br /> まわりの年寄り見てみ、今の７０とかめちゃ元気だ。 <br /> どうせシルバーで働いてるしそのまま雇ってくれるならむしろ働く人いっぱいいる。 <br />  <br /> 孫にも小遣いやれるし旅行にもいける <br />  <br />  <br /> 働きたくないやつは辞めればいいだけだ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">61: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(千葉県) [ﾆﾀﾞ]</span> <span  style="color: gray;"> 2018/10/23(火) 08:25:54.91 ID:a8nV6zo60</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;50</span> <br /> これな <br /> ただ選択肢が増えたってだけ</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">53: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(SB-iPhone) [FR]</span> <span  style="color: gray;"> 2018/10/23(火) 08:23:39.63 ID:r+lc/We/0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 70でも80でも結構だけど、そろそろ払わない権利を認めてくれないか？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">55: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(茸) [CN]</span> <span  style="color: gray;"> 2018/10/23(火) 08:23:58.82 ID:HwGTabyw0</span></span></div>
+<div  style="font-weight:bold;font-size:18px;line-height:27px;margin-bottom:30px;margin-top:20px;" class="t_b"> 若者は働きたがらないのに何故老人は働きたがるのか </div><br />
+<br />
+<p  style="color:gray;text-align:right;"><span  style="font-size: 81.25%;">引用元： <a  target="_blank" href="http://hayabusa9.5ch.net/test/read.cgi/news/1540249555/">http://hayabusa9.5ch.net/test/read.cgi/news/1540249555/</a></span></p>
+<br />
+
+</div>
+                        
+<!-- タグのリスト表示セット -->
+                        </div>
+<br>
+
+
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=2Z8HPD+9K4KFM+34FI+NUES2" alt="">
+                    </div>
+                    <!-- 記事本文 ここまで-->
+
+
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HV7V6" alt="">
+
+
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www26.a8.net/svt/bgt?aid=190821728180&wid=001&eno=01&mid=s00000011866017004000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" alt=""></td>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+3257OY+3Y6M+601S1" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www24.a8.net/svt/bgt?aid=190821728185&wid=001&eno=01&mid=s00000018427001008000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=35LYZK+3257OY+3Y6M+601S1" alt=""></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+
+
+                    <!-- 記事フッター、コメント、ソーシャルボタン -->
+                    <footer class="article-footer">
+                        <div class="article-footer-comment">
+                            
+                                <a href="http://pathtimeblog.com/archives/13182541.html#comments">1コメント</a>
+                            
+                        </div>
+                        <div class="article-social-btn">
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HVFKY" alt="">
+
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/13182541.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/13182541.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="企業の継続雇用「７０歳に引き上げ」首相が表明　これで年金も安心 	 - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=%E4%BC%81%E6%A5%AD%E3%81%AE%E7%B6%99%E7%B6%9A%E9%9B%87%E7%94%A8%E3%80%8C%EF%BC%97%EF%BC%90%E6%AD%B3%E3%81%AB%E5%BC%95%E3%81%8D%E4%B8%8A%E3%81%92%E3%80%8D%E9%A6%96%E7%9B%B8%E3%81%8C%E8%A1%A8%E6%98%8E%E3%80%80%E3%81%93%E3%82%8C%E3%81%A7%E5%B9%B4%E9%87%91%E3%82%82%E5%AE%89%E5%BF%83%20%09%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/13182541.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/13182541.html" data-text="企業の継続雇用「７０歳に引き上げ」首相が表明　これで年金も安心 	 - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F13182541.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                        </div>
+                    </footer>
+                    <!-- /記事フッター、コメント、ソーシャルボタン -->
+
+
+                    <!-- カテゴリの最新記事表示 はじまり-->
+                    <div class="article-sub-category">
+                        <div id="ldblog_related_articles_dfb5a6dd">
+
+<div class="related-articles ldblog_related_articles_dfb5a6dd" data-category-id="160476" data-article-rows="5">
+<h3>「その他」カテゴリの最新記事</h3>
+<ul id="ldblog_related_articles_dfb5a6dd_160476"></ul>
+</div>
+</div>
+<script type="text/html" id="ldblog_related_articles_dfb5a6dd_tmpl">
+<% for(var i=0,l=articles.length;i<l;i++) {%><% if(i>=rows) break; %>
+<li><a href="<%=articles[i].permalink%>"><%=articles[i].title%></a></li>
+<% } %>
+</script>
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/related_articles.js?t=20180221"></script>
+<script type="text/javascript">
+(function(){
+RelatedArticles.load('ldblog_related_articles_dfb5a6dd', '13182541');
+})();
+</script>
+<!-- 関連記事の表示 -->
+                    </div>
+                    <!-- /カテゴリの最新記事表示 ここまで-->
+
+
+
+
+                    <div id="ad2"></div><!-- 広告表示 -->
+
+                    <!-- 記事オプション はじまり-->
+                    <div class="article-option" id="article-options">
+
+                        <!-- コメントエリア　はじまり -->
+                        
+                        <section id="comments">
+                        
+                            <h1 class="article-option-title">コメント</h1>
+
+                            <!-- コメント繰り返し はじまり-->
+                            			<a name="comments"></a>			<!-- CommentsList -->
+			<div class="article-option" id="comments-list">
+				<h3><span class="icon-comment-v2-comment"></span>&nbsp;コメント一覧&nbsp;(1)</h3>
+                
+                
+				<!-- CommentsLoop Start -->                                <ol id="ld_blog_article_comment_entries">                    <li class="comment-set odd">
+                        <ul class="comment-info">
+                            <li class="comment-author">1.
+                                匿名
+                            </li>
+                            <li class="comment-date">2018年10月24日 13:56</li>
+                            <li class="comment-body">							&gt;&gt;55<br>
+そりゃ簡単な話だよ。<br>
+若者は仕事を押しつけられる立場だが、老人は仕事を押しつける立場だからだ。                            </li>
+                        </ul>
+                    </li>                    <!-- CommentsLoop End -->
+                </ol>                <script type="text/javascript" src="https://parts.blog.livedoor.jp/js/comment_loop.js?t=20190710"></script>
+                <script type="text/html" id="ld_blog_article_comment_entries_tmpl" class="template" style="display:none">
+                  <li class="comment-set <%==entry.odd_even%>">
+                    <ul class="comment-info">
+                      <li class="comment-author"><%==entry.num%>.
+                        <% if (entry.member_id) { %><span class="comment-author-blogger"><% } %>
+                        <%if(entry.url){%><a href="<%=entry.url%>" class="comment-url" rel="nofollow"><%==entry.author%></a><%}else{%><%==entry.author%><%}%></li>
+                        <% if (entry.member_id) { %></span><% } %>
+                      <li class="comment-date"><%=entry.datetime%></li>
+                      <li class="comment-body"><%if(entry.rating){%>
+                        <img src="https://parts.blog.livedoor.jp/img/<%=entry.rating_icon%>/<%=entry.rating%>.gif" width="<%=entry.icon_size.width%>" height="<%=entry.icon_size.height%>" alt="<%=entry.rating%>" />
+                        <%}%>
+                        <%==entry.body%>
+                        <%if(entry.attachment){%><br/>
+                        <a href="<%= entry.attachment.url %>" target="_blank"><%= entry.attachment.url %></a>
+                        <%}%>
+                        </li>
+                    </ul>
+                  </li>
+                </script>
+                <script type="text/javascript">
+                    var comment_loader = new LDBlogCommentLoop(1, 100, 0, 0, 940798, 1);
+                </script>			</div><!-- CommentsList End -->
+                            <!-- コメント繰り返し　ここまで -->
+
+                        
+                        <h1 class="comment-form-title">コメントする</h1>
+<div class="article-option" id="comment-form">
+    <form
+      action="https://comment.blogcms.jp/livedoor/shukatu2ch/13182541/post"
+      method="post"
+      name="comment_form"
+          id="comment-form-body"
+      onsubmit="setCommentAuthor(this); return submitOnce(this.button);"
+    >
+    <fieldset>
+        <legend>コメントフォーム</legend>
+    <dl class="comment-form-author">
+        <dt><label for="comment-form-author">名前</label></dt>
+        <dd id="comment-author-form"><input type="text" class="text" id="comment-form-author" name="author" required="required" value="" /></dd>
+    </dl>
+  <dl class="comment-form-body">
+    <dt><label for="comment-form-textarea">コメント</label></dt>
+    <dd>
+      <textarea id="comment-form-textarea" name="body" rows="7" required="required"></textarea>
+      <div id="comment-form-tools">
+        <span class="facemark"><a href="javascript:void(0);" id="emojiLink1" onClick="showEmojiPanel(this.id, 'comment-form-textarea')"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/icon_facemark.png" /></a></span>
+        <span class="rating">
+                    <input type="hidden" name="rating" value="">
+                    <input type="hidden" name="rating_icon" value="star">
+                    <div class="rating-value">
+                        <span id="default-rating-value">評価する</span>
+                        <div class="caret"><span></span></div>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/face/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/face/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/face/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/face/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/face/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/star/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/star/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/star/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/star/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/star/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                    </div>
+                    <div class="rating-icon">
+                        <div data-value="face">顔</div>
+                        <div class="selected" data-value="star">星</div>
+                    </div>
+        </span>
+        <span class="submit"><button type="submit">投稿する</button></span>
+        <span class="memorize"><label for="bake"><input type="checkbox" id="bake" name="cookie" /> 情報を記憶</label></span>
+      </div>
+    </dd>
+  </dl>
+  </fieldset>
+  </form>
+  <script type="text/javascript" src="https://parts.blog.livedoor.jp/js/comment.0.2.js?v=20130430"></script>
+  <script type="text/javascript">
+    loadCommentAuthor(document.comment_form);
+    ldblogComment.init();
+  </script>
+<!-- /#comment-form --></div><!-- コメント投稿フォーム -->
+
+
+                        </section>
+                        
+                        <!-- コメントエリア　ここまで -->
+
+
+                        <!-- トラックバック受け付け　はじまり -->
+                        
+                        <!-- トラックバック受け付け　ここまで -->
+
+                    </div>
+                    <!-- 記事オプション ここまで-->
+
+                </article>
+                <!-- 記事　ここまで -->
+
+
+                <!-- ページ送り はじまり-->
+<!-- Article Pager // -->
+  <div class="pager article-pager-type2">
+    <div class="pager-inner">
+    <div class="article-pager-outer">
+    <ul class="article-pager"><li class="prev"><a href="http://pathtimeblog.com/archives/13173508.html" title="わい面接官「この階までの階段は何段ありましたか？」学生「わかりません」わい「面接を終了致します」 	">&nbspわい面接官「この階までの階段は何段ありましたか？」学生「わかりません」わい「面接を終了致します」 	</a></li><li class="next both"><a href="http://pathtimeblog.com/archives/13172701.html" title="30代平均年収「450万～」35歳ワイの年収「320万」←なぜなのか 	">30代平均年収「450万～」35歳ワイの年収「320万」←なぜなのか 	&nbsp</a></li>    </ul>
+    </div>
+    </div>
+  </div>
+<!-- // Article Pager -->
+
+                <!-- /ページ送り ここまで-->
+
+            </div><!-- /main-column-inner-->
+        </div>
+        <!-- コンテンツの箱の中　真ん中728px ここまで-->
+
+
+        <!-- コンテンツの箱の中　左側200px はじまり-->
+        <aside class="left-container">
+            <div class="left-column-inner">
+            
+
+
+
+<div class="plugin-popular_articles sidewrapper">
+  <div class="sidetitlebody">
+    <div class="sidetitle">人気記事</div>
+  </div>
+  <div class="sidetop"></div>
+  <div class="side">
+
+
+    <div class="popular-articles">
+      <table id="populararticles-472933"></table>
+      <div class="popular-articles-freearea"></div>
+    </div>
+  </div>
+
+  <div class="sidebottom"></div>
+</div>
+
+<script type="text/javascript" language="javascript"><!--
+(function(){
+  var url = 'http://pathtimeblog.com/archives/popular_articles.json'
+         + '?rangetype=custom'
+         + '&from=0'
+         + '&range=13'
+         + '&limit=50'
+         + '&offset=0'
+         ;
+
+  var callback = function(data) {
+    var table = document.getElementById('populararticles-472933');
+    for (i = 0; i < data.articles.length; i++) {
+      var rank = i + 1;
+      var prefix = 'populararticles-472933-'+ rank;
+
+      var row = table.insertRow(-1);
+      var elm1 = row.insertCell(-1);
+      elm1.className = 'populararticles-rank';
+      elm1.innerHTML = '<span><b>' + rank + '</b></span>';
+      var elm2 = row.insertCell(-1);
+      elm2.className = 'populararticles-title';
+      elm2.innerHTML = '<a href="' + data.articles[i].url + '?ref=popular_article&id=7836571-472933">' + data.articles[i].title + '</a>'
+      ;
+
+    }
+  };
+
+  var xhr = (function () {
+      if (window.XMLHttpRequest)
+        return new XMLHttpRequest();
+      else {
+        var msxml = [
+          "Msxml2.ServerXMLHTTP.6.0", "Msxml2.ServerXMLHTTP.5.0", "Msxml2.ServerXMLHTTP.4.0", "Msxml2.ServerXMLHTTP.3.0",
+          "Msxml2.ServerXMLHTTP", "Microsoft.ServerXMLHTTP", "Msxml2.XMLHTTP.6.0", "Msxml2.XMLHTTP.5.0",
+          "Msxml2.XMLHTTP.4.0", "Msxml2.XMLHTTP.3.0", "Msxml2.XMLHTTP", "Microsoft.XMLHTTP"
+        ];
+        for (var i = 0; i<msxml.length; i++ ){
+          try {
+            return new ActiveXObject(msxml[i]);
+          }
+          catch(e) { }
+        }
+        return null;
+      }
+  })();
+    
+  if (!xhr) return;
+  xhr.open('GET', url, true);
+  xhr.onreadystatechange = function () {
+    if (xhr.readyState == 4 && xhr.status == 200) {
+      eval('var ld_popular_articles_json = ' + xhr.responseText);
+      callback(ld_popular_articles_json);
+    }
+  };
+  xhr.send();
+
+})();
+//-->
+</script>
+
+<div class="plugin-recent_articles sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">最新記事</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27108137.html">21卒就活生ワイ、内定辞退でしこたま怒鳴られる</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/10257766.html">ニートって難しい資格取って仕事探そうとするけどさ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839910.html">【学歴フィルター】企業にとっての一流大学とは？【就職偏差値】</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839719.html">ワイニート歴2年、就職して初年度の年収500万円！！！！</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073431.html">あ、面接落ちたなってフラグ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073465.html">【悲報】上級国民大手企業様「下請けに仕事やらせてガッポリ中抜きｗ」→夏ボーナス92万5947円</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27075072.html">ワイ21卒、会社選びを間違ってしまったと後悔する</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027071.html">【悲報】キャリア採用の銀行員ワイ、周囲の人間があまりにも有能すぎてマジでドン引き……………………</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27063977.html">【速報】大学、終わる。　Googleが大卒資格を得られるコースを提供へ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027029.html">教師「Ｆ欄ＯＫです、公務員です、毎日定時で帰れます、年収700万です」←こいつが馬鹿にされる理由ｗ</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-recent_articles -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「A」設定のブログパーツ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　左側200px ここまで-->
+
+
+        <!-- コンテンツの箱の中　右側200px はじまり-->
+        <aside class="right-container">
+            <div class="right-column-inner">
+            
+
+
+
+<div class="plugin-categorize sidewrapper" id="plugin-categorize-457691">
+    <div class="sidetitlebody">
+        <div class="sidetitle">カテゴリー</div>
+    </div>
+    <div class="sidetop"></div>
+    <div class="side">
+
+
+      
+
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160301.html">就活準備 (243)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161699.html">自己分析 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161700.html">企業・業界研究 (66)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155971.html">資格 (39)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155966.html">選考 (254)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155977.html">インターン (23)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155978.html">説明会 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155975.html">ES (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155976.html">SPIなど (7)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155974.html">面接 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155972.html">内定 (222)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160304.html">NNT(無内定) (68)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160302.html">内定後・入社前 (110)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160308.html">アドバイス (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160460.html">入社後 (924)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220065.html">新卒 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220063.html">上司 (95)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_219473.html">社会人生活 (299)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160474.html">ブラック企業 (65)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160303.html">転職 (175)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163214.html">副業 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220667.html">収入 (102)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_299497.html">採用担当 (3)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_318465.html">第二新卒 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161711.html">学生生活 (46)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163247.html">浪人・留年 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155967.html">学歴 (119)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_223545.html">ニート (38)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155969.html">業界別 (314)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156035.html">金融 (34)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156099.html">建築・不動産 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160357.html">物流・運送 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160358.html">IT・メディア (55)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160359.html">エネルギー・資源 (1)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160310.html">自動車・機械 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160360.html">食品・小売 (14)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160311.html">公務員・準公務員 (89)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160356.html">サービス (21)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160473.html">その他 (42)</a>
+          
+        </div>
+        
+    
+        
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160476.html">その他 (472)</a>
+          
+        </div>
+        
+    
+    
+
+    </div>    
+    <div class="sidebottom"></div>
+</div><!-- // plugin-categorize -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+<a href="//blog.with2.net/link/?1955545"><img src="https://blog.with2.net/img/banner/banner_21.gif" title="人気ブログランキング"></a><br><a href="//blog.with2.net/link/?1955545" style="font-size: 0.8em;">人気ブログランキング</a>
+
+<div class="plugin-link sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">リンク集</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://0matome.com/" target="_blank">おまとめ</a></div>
+
+<div class="sidebody"><a href="http://2chnavi.net/allentries/?threshold=0" target="_blank">2chnavi</a></div>
+
+<div class="sidebody"><a href="http://http://iwashi.biz/" target="_blank">いわしアンテナ &gt;°))))彡</a></div>
+
+<div class="sidebody"><a href="http://2ch-2.net/" target="_blank"> つーアンテナ(*ﾟ∀ﾟ)</a></div>
+
+<div class="sidebody"><a href="https://ii-antenna.net/?about" target="_blank">いーあんてな(#ﾟｗﾟ)</a></div>
+
+<div class="sidebody"><a href="https://2ch-mi.net/" target="_blank">みーアンテナ（´∀｀）</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-link -->
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">検索</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="https://cse.google.com/cse.js?cx=014565878756483497884:urusxdcjffe"></script>
+<div class="gcse-search"></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「B」設定のブログパーツ表示 -->
+            
+<!-- LDR・RSSリンクとブログのロゴ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　右側200px ここまで-->
+
+        <!-- このページのトップヘ　はじまり -->
+        <p class="to-pagetop"><a href="#"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/to_pagetop.png" width="70" height="70" alt="このページのトップヘ" /></a></p>
+        <!-- このページのトップヘ ここまで -->
+
+    </div>
+    <!-- コンテンツ全体 ここまで-->
+
+    <!-- ブログのフッター はじまり-->
+    <footer id="blog-footer">
+    <!-- Blog Common Footer // --><div id="footer"><p>Powered by <a href="http://blog.livedoor.com/" title="ライブドアブログ">ライブドアブログ</a></p></div><!-- // Blog Common Footer --><!-- 共通フッター表示 -->
+    </footer>
+    <!-- /ブログのフッター ここまで-->
+
+</div>
+<!-- コンテンツエリア ここまで-->
+
+
+<!-- Add Body Tag // --><script type="text/javascript">
+(function(){
+  var traq = document.createElement('script'); traq.type = 'text/javascript'; traq.async = true;
+  traq.src = 'https://t.blog.livedoor.jp/u.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(traq, s);
+})();
+</script>
+<noscript>
+<img src="https://t.blog.livedoor.jp/u.gif" alt="traq">
+</noscript>
+<!-- // Add Body Tag -->
+
+<script>
+(function($) {
+  var cookieName = 'livedoor-blog-gdpr-agreed';
+  $(document).ready(function() {
+    if (navigator.userAgent.match(/https?:\/\//)) {
+      // UA に http:// or https:// があればスルー
+      return;
+    }
+
+    var agreed = document.cookie.indexOf(cookieName) >= 0;
+    if (agreed) {
+      // 同意済み Cookie があればスルー
+      return;
+    }
+
+    var banner = $('<div>');
+    banner.attr('id', 'gdpr-banner');
+    var label = $('<p>');
+    label.html('\
+      ライブドアブログでは広告のパーソナライズや効果測定のためクッキー(cookie)を使用しています。<br>\
+      このバナーを閉じるか閲覧を継続することでクッキーの使用を承認いただいたものとさせていただきます。<br>\
+      また、お客様は当社パートナー企業における所定の手続きにより、クッキーの使用を管理することもできます。<br>\
+      詳細は<a href="http://www.livedoor.com/rules/" target="_blank" style="color:#023780;text-decoration:underline;">ライブドア利用規約</a>をご確認ください。\
+    ');
+    banner.append(label);
+
+    var closeButton = $('<button>');
+    closeButton.attr('type', 'button');
+    closeButton.html('閉じる');
+    closeButton.on('click', function() {
+      $('#gdpr-banner').hide();
+      document.cookie = cookieName + '="1";expires=Tue, 31-Dec-2037 00:00:00 GMT;path=/;';
+    });
+    banner.append(closeButton);
+
+    banner.css({
+      'position': 'fixed',
+      'left': '0',
+      'right': '0',
+      'bottom': '0',
+      'background': '#dcdcdc',
+      'color': '#000',
+      'padding': '20px',
+      'text-align': 'center',
+      'box-shadow': '0 -2px 2px rgba(102, 102, 102, 0.86)',
+      'z-index': '2147483647',
+    });
+    label.css({
+      'display': 'inline-block',
+      'text-align': 'left',
+      'font-size': '14px',
+      'color': '#000',
+      'vertical-align': 'middle',
+      'line-height': '1.5',
+    });
+    closeButton.css({
+      'display': 'inline-block',
+      'color': '#fff',
+      'border': 'none',
+      'font-size': '14px',
+      'padding': '4px 40px',
+      'margin-left': '40px',
+      'background': '#535353',
+      'vertical-align': 'middle',
+    });
+
+    var script = document.createElement('script');
+    script.type = "text/javascript";
+    script.src = "https://ipcheck.blogsys.jp/check.js?t=" + Date.now();
+    script.onerror = function() {
+      $('body').append(banner);
+    };
+    document.body.appendChild(script);
+  });
+})(jQuery);
+</script>
+</body>
+</html>

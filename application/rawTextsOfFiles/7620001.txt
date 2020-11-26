@@ -1,0 +1,1325 @@
+<!DOCTYPE html>
+<html lang="ja" itemscope itemtype="http://schema.org/Blog">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=1190">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" /><link rel="shortcut icon" type="image/vnd.microsoft.icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/favicon.ico" /><link rel="icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/3ab45ab0.jpg" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/template.css?v=20190826" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/heart.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/icon.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="http://pathtimeblog.com/site.css?_=20190831163247" type="text/css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://pathtimeblog.com/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://pathtimeblog.com/atom.xml" /><link rel="canonical" href="http://pathtimeblog.com/archives/7620001.html" /><link rel="openid.server" href="http://auth.livedoor.com/openid/server" /><link rel="openid.delegate" href="http://profile.livedoor.com/shukatu2ch/" />
+<link rel="mixi-check-alternate" media="mixi-device-mobile" type="text/html" href="http://blog.m.livedoor.jp/shukatu2ch/article/7620001" />
+<link rel="mixi-check-alternate" media="mixi-device-smartphone" type="text/html" href="http://pathtimeblog.com/archives/7620001.html" />
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/jquery-1.11.1.min.js"></script>
+
+<meta name="description" content="1: 既にその名前は使われています  2018/03/03(土) 12:20:30.39 ID:A24Cr/jV
+ ほんとクソ  というか上司さっさと帰れよ 
+" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="上司が帰るまで部下は帰れない 	 : 2ch就活まとめ" />
+<meta property="og:description" content="1: 既にその名前は使われています  2018/03/03(土) 12:20:30.39 ID:A24Cr/jV ほんとクソ  というか上司さっさと帰れよ " />
+<meta property="og:url" content="http://pathtimeblog.com/archives/7620001.html" />
+<meta property="og:site_name" content="2ch就活まとめ" />
+<meta property="og:locale" content="ja_JP" />
+<meta property="og:image" content="https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png" />
+
+<meta name="twitter:site" content="@2chshukatu" />
+<meta name="twitter:title" content="上司が帰るまで部下は帰れない 	 : 2ch就活まとめ" />
+<meta name="twitter:description" content="1: 既にその名前は使われています  2018/03/03(土) 12:20:30.39 ID:A24Cr/jV ほんとクソ  というか上司さっさと帰れよ " />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image:src" content="https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png" />
+<link rel="alternate" media="handheld" type="application/xhtml+xml" href="http://blog.m.livedoor.jp/shukatu2ch/" />
+
+<title>上司が帰るまで部下は帰れない 	 : 2ch就活まとめ</title>
+<script src="https://parts.blog.livedoor.jp/js/emoji.js"></script>
+<script src="https://parts.blog.livedoor.jp/js/misc.js?v=20190710"></script>
+<!--[if lt IE 9]>
+<script src="https://parts.blog.livedoor.jp/js/html5.js"></script>
+<![endif]-->
+<script src="https://parts.blog.livedoor.jp/js/usr/import.js"></script>
+<script>
+$(function(){
+  if($('.header-inner01').children('#blog-header-image').length) {
+    $(window).bind('load', function() {
+      var title1 = $('#blog-header-image').height();
+      var title2 = $('.header-menu').height();
+      var headerHeight = title1-title2-15;
+      $("hgroup").css("height", headerHeight);
+    });
+  }
+});
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-3064778048578600",
+          enable_page_level_ads: true
+     });
+</script>
+
+<!-- Add Google Analytics Tag // -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-113178806-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- // Add Google Analytics Tag -->
+
+
+<meta name="referrer" content="always">
+<meta name="referrer" content="unsafe-url">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1638469-45"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+var blogId = '';
+if (blogId) {
+  gtag('config', 'UA-1638469-45', {
+    'custom_map': {'dimension1': 'blog_id'},
+    'blog_id': blogId
+  });
+} else {
+  gtag('config', 'UA-1638469-45');
+}
+</script>
+
+</head>
+<body class="default_2012 page-article layout-2col sidebar-right"><script type="text/javascript"><!--
+var ld_blog_vars = {
+  provider_id : '1',
+  provider_name : 'livedoor',
+  id : '7836571',
+  name : 'shukatu2ch',
+  charset : 'utf8',
+  url : 'http://pathtimeblog.com/',
+  title : '2ch就活まとめ',
+  blog_design: {
+      version: 1
+  },
+  blog_category: {
+    id: '243',
+    permalink: 'https://blog.livedoor.com/category/243/',
+    name: 'まとめ(総合) > まとめ',
+    is_adult : 0,
+    is_gambling : 0,
+    hierarchy: [{ id: '431', name: 'まとめ(総合)', permalink: 'https://blog.livedoor.com/category/431/' },{ id: '243', name: 'まとめ', permalink: 'https://blog.livedoor.com/category/243/' }]
+  },
+  current_page : {
+    type : 'article',    page : ''
+  },
+  articles : [ {
+       id : '7620001',
+       permalink : 'http://pathtimeblog.com/archives/7620001.html',
+       title : '上司が帰るまで部下は帰れない \t',
+       categories : [ { id:'220063', name:'上司', permalink:'http://pathtimeblog.com/archives/cat_220063.html' }, { id:'', name:'', permalink:'' } ],
+       date : '2018-03-06 07:30:59'
+}   ]
+};
+//-->
+</script><div id="analyzer_tags" style="display:none">
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/c2.js?v=20191010"></script>
+<script type="text/javascript">blog_counter('shukatu2ch', 7836571, 'http://pathtimeblog.com/')</script>
+</div><script type="text/javascript" src="https://parts.blog.livedoor.jp/js/smartphone.js?v=20200824"></script>
+<script type="text/javascript" src="http://pathtimeblog.com/settings/header.js?v=20190705"></script><script type="text/javascript" src="http://pathtimeblog.com/settings/ad.js"></script>
+<script type="text/javascript">
+var palette_src = 'https://parts.blog.livedoor.jp/img/emoji/3/palette.png';
+if (typeof IMAGE_CACHE == 'object' && IMAGE_CACHE['emoji_palette']) IMAGE_CACHE['emoji_palette'].src = palette_src;
+</script>
+
+<!-- Blog Common Header // -->
+<!-- // Blog Common Header -->
+<!-- 共通ヘッダー表示 -->
+
+<!-- ブログタイトル はじまり-->
+<header id="blog-header">
+
+    <div id="blog-header01">
+
+        <div class="header-inner01 show-image hide-text">
+
+            <hgroup>
+                <!--ブログタイトル　はじまり-->
+                <h1 id="blog-title"><a href="http://pathtimeblog.com/">2ch就活まとめ</a></h1>
+                <!--ブログタイトル　ここまで-->
+                <!--ブログ説明　はじまり-->
+                <h2 id="blog-description">新卒・転職・社会人生活などを含め、就活・就職に関することをまとめてます。</h2>
+                <!--ブログ説明　ここまで-->
+            </hgroup>
+
+            <a href="http://pathtimeblog.com/"><img src="https://resize.blogsys.jp/727db0f9da9f42eb7d26b703338c30b3eef0157c/trim2/0x243_94p_1200x388/http://livedoor.blogimg.jp/shukatu2ch/imgs/0/5/055bbafe.jpg" id="blog-header-image" /></a>
+
+            <div id="blog-header02">
+                <div class="header-inner02">
+                    <ul class="header-menu">
+                        <li><a href="http://pathtimeblog.com/">HOME</a></li><!--メニューを入れてください-->
+                        <li class="ldb_menu-item-url"><a href="http://blog.livedoor.jp/shukatu2ch/archives/6126504.html">ABOUT</a></li><!--メニューを入れてください-->
+                        <li><a href="mailto:shukatumatome@gmail.com">お問い合わせ</a></li><!--メニューを入れてください-->
+                    </ul>
+                    <ul class="header-sarch">
+                        <li><a href="http://twitter.com"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_twitter.png" alt="Twitter" /></a></li><!--Twitter-->
+                        <li><a href="http://pathtimeblog.com/index.rdf"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_rss.png" alt="RSS" /></a></li><!--RSS-->
+                        <li>
+                        <form action="http://pathtimeblog.com/search" method="GET" style="padding:0;margin:0px;">
+                        <input type="TEXT" name="q" class="sf">
+                        <input type="SUBMIT" value="検索" class="sfbtn">
+                        </form>
+                        </li><!--検索窓-->
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</header>
+<!-- /ブログタイトル ここまで-->
+
+
+<!-- コンテンツエリア はじまり-->
+<div id="wrapper">
+
+    <!-- コンテンツ全体 はじまり-->
+    <div id="container">
+
+        <!-- 相互RSS はじまり-->
+        <div class="rss-blogroll">
+
+            <!-- 相互RSSを設置する場合の注意事項
+                コードに含まれる以下のCSSは外して設置してください
+                http://blogroll.livedoor.net/css/default2.css -->
+
+                 <!-- 相互RSSのコード ひとつ目-->
+            <script type="text/javascript">
+            <!--
+                   var blogroll_channel_id = 255242;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード ふたつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 265945;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード みっつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 255442;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href= />
+        </div>
+        <!-- 相互RSS ここまで-->
+
+        <!-- コンテンツの箱の中　真ん中728px はじまり-->
+        <div class="main-container">
+            <div class="main-column-inner">
+<br>
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+<br>
+                <!-- メッセージボード -->
+                 
+
+
+
+                <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://pathtimeblog.com/archives/7620001.html"
+    trackback:ping="http://trackback.blogsys.jp/livedoor/shukatu2ch/7620001"
+    dc:title="上司が帰るまで部下は帰れない 	"
+    dc:identifier="http://pathtimeblog.com/archives/7620001.html"
+    dc:subject="上司"
+    dc:description="1: 既にその名前は使われています  2018/03/03(土) 12:20:30.39 ID:A24Cr/jV ほんとクソ  というか上司さっさと帰れよ "
+    dc:creator="shukatu2ch"
+    dc:date="2018-03-06T07:30:59+09:00" />
+</rdf:RDF>
+-->
+<div id="ad_rs" class="ad_rs_b"></div><!-- 記事のトラックバック・オートディスカバリー -->
+
+
+                <!-- 記事 はじまり-->
+                <article class="article first-article" itemscope itemtype="http://schema.org/BlogPosting">
+
+                    <!-- 記事タイトル　記事下の情報　はじまり-->
+                    <header class="article-header">
+
+                        <h1 class="article-title" itemprop="name"><a href="http://pathtimeblog.com/archives/7620001.html" itemprop="url">上司が帰るまで部下は帰れない 	</a></h1><!-- 記事のタイトル -->
+
+                            <!-- 記事下の記事情報 はじまり-->
+                            <div class="article-header-inner">
+
+                                <!-- 記事情報の上の行 はじまり-->
+                                <div class="article-header-top">
+                                <p class="article-header-date"><time datetime="2018-03-06T07:30:59+09:00" pubdate="pubdate">2018年03月06日</time></p>
+                                
+                                <ul class="article-header-category">
+                                    <li>
+                                        <dl><dt>カテゴリ:</dt><dd class="article-category1"><a href="http://pathtimeblog.com/archives/cat_220063.html">上司</a></dd></dl>
+                                    </li>
+                                </ul>
+                                
+
+                                <!-- 記事の評価アイコン はじまり-->
+                                
+                                <!-- 記事の評価アイコン ここまで-->
+
+                                </div>
+                                <!-- 記事情報の上の行 ここまで-->
+                                <!-- ソーシャルボタン　はじまり -->
+                                <ul class="article-social-btn">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/7620001.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/7620001.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="上司が帰るまで部下は帰れない 	 - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=%E4%B8%8A%E5%8F%B8%E3%81%8C%E5%B8%B0%E3%82%8B%E3%81%BE%E3%81%A7%E9%83%A8%E4%B8%8B%E3%81%AF%E5%B8%B0%E3%82%8C%E3%81%AA%E3%81%84%20%09%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/7620001.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/7620001.html" data-text="上司が帰るまで部下は帰れない 	 - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F7620001.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                                </ul>
+                                 <!-- ソーシャルボタン　ここまで -->
+                            </div>
+                            <!-- 記事下の記事情報 ここまで-->
+
+                    </header>
+                    <!-- 記事タイトル　記事下の情報　ここまで-->
+
+
+
+                    <!-- 記事本文 はじまり-->
+                    <div class="article-body">
+                        <div class="article-body-inner">
+<!-- 参加している共通テーマの表示 -->
+                        <span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">1: <span  style="color: rgb(124, 199, 84);">既にその名前は使われています</span> <span  style="color: gray;"> 2018/03/03(土) 12:20:30.39 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:A24Cr/jV</i></span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> ほんとクソ <br /> というか上司さっさと帰れよ </div><br />
+<!-- Generated by 2chまとめくす (http://2mtmex.com/) --><!-- 本文 --><div class="article-body-more" id="more"><span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">2: <span  style="color: rgb(124, 199, 84);">既にその名前は使われています</span> <span  style="color: gray;"> 2018/03/03(土) 12:21:55.48 ID:tL4B52F0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 普通は逆だぞ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">3: <span  style="color: rgb(124, 199, 84);">既にその名前は使われています</span> <span  style="color: gray;"> 2018/03/03(土) 12:22:08.89 ID:YcW1/rMt</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 上司「帰って良いのに部下が帰らない」 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">4: <span  style="color: rgb(124, 199, 84);">既にその名前は使われています</span> <span  style="color: gray;"> 2018/03/03(土) 12:22:58.00 ID:bOlONHVv</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#800080;margin-bottom:30px;margin-top:20px;" class="t_b"> 上司が戸締まりするもんじゃないのか </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">5: <span  style="color: rgb(124, 199, 84);">既にその名前は使われています</span> <span  style="color: gray;"> 2018/03/03(土) 12:23:12.73 ID:uIuLGZw0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> うちは我先に帰るけど </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">6: <span  style="color: rgb(124, 199, 84);">既にその名前は使われています</span> <span  style="color: gray;"> 2018/03/03(土) 12:23:23.81 ID:jYulK9sQ</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;" class="t_b"> 上司（早く帰らないかな…） <br />  <br /> 部下（早く帰らないかな…） </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">12: <span  style="color: rgb(124, 199, 84);">既にその名前は使われています</span> <span  style="color: gray;"> 2018/03/03(土) 12:39:27.95 ID:y66A6STM</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;6</span> <br /> 昔のクソ上司は <br /> 15時に出勤して0時の飲みに付き合えていうゴミはだった <br />  <br /> もう辞めたけど </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">7: <span  style="color: rgb(124, 199, 84);">既にその名前は使われています</span> <span  style="color: gray;"> 2018/03/03(土) 12:24:34.90 ID:+wIu7A3U</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 深夜、上司と部下の二人きり <br /> 一体何が始まるんですか？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">9: <span  style="color: rgb(124, 199, 84);">既にその名前は使われています</span> <span  style="color: gray;"> 2018/03/03(土) 12:30:08.82 ID:YgDaRW2K</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> うち女上司なんですが </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">10: <span  style="color: rgb(124, 199, 84);">既にその名前は使われています</span> <span  style="color: gray;"> 2018/03/03(土) 12:30:41.82 ID:pynG1+Z2</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 上司(部門のトップ) <br /> 出社 7：15 <br /> 帰宅 18：30 <br />  <br /> 中間の上司 <br /> 出社 7：00 <br /> 帰宅 20：00 <br />  <br /> 俺 <br /> 出社 7：30 <br /> 帰宅 18：45 <br />  <br /> 同じ部屋のトップが帰ったら帰ってるわ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">11: <span  style="color: rgb(124, 199, 84);">既にその名前は使われています</span> <span  style="color: gray;"> 2018/03/03(土) 12:34:49.05 ID:p1s49oFK</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 普通の会社はなるべく労務費削ろうとするからね <br /> でも実際有るんだよな、俺は当然遠慮なく残業代貰ったけどね <br /> 心の中では金なんかより早く家かえってオススメやりてえのにと思っていた </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">13: <span  style="color: rgb(124, 199, 84);">既にその名前は使われています</span> <span  style="color: gray;"> 2018/03/03(土) 12:47:46.79 ID:qc5ZW0ZE</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#800080;margin-bottom:30px;margin-top:20px;" class="t_b"> 上士が帰るまで下士は帰れない </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">14: <span  style="color: rgb(124, 199, 84);">既にその名前は使われています</span> <span  style="color: gray;"> 2018/03/03(土) 12:50:04.27 ID:IPwH5OYz</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 部長9:00～18:00 <br /> 「皆さん残業はダメですよ」 <br />  <br /> 課長8:30～18:30 <br /> 「早く帰れよー」 <br />  <br /> 係長8:15～20:30 <br /> 「朝一で承認回さなきゃならんから資料作っとけよ」 <br />  <br /> ワイ <br /> 「えっ今からっすか」 <br /> 8:00～22:30～2:00（申請月MAX30まで） <br />  <br /> て感じだったが今自営業で好き勝手してる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">15: <span  style="color: rgb(124, 199, 84);">既にその名前は使われています</span> <span  style="color: gray;"> 2018/03/03(土) 12:54:00.63 ID:OXHqbmCE</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#a52a2a;margin-bottom:30px;margin-top:20px;" class="t_b"> 部長から漂うフリーザ様臭 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">16: <span  style="color: rgb(124, 199, 84);">既にその名前は使われています</span> <span  style="color: gray;"> 2018/03/03(土) 13:07:33.45 ID:dT3fMGG3</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 上司が帰るまで残るやつがいるんだけど <br /> やることないなら指示仰げばいいのにウロウロしたりその辺の備品や資料触ったりして時間潰すんだよ <br /> 最初はみんなで指示出してあげたりしてたんだけどずっと変わらずで、今ではみんなでネタにしてる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">17: <span  style="color: rgb(124, 199, 84);">既にその名前は使われています</span> <span  style="color: gray;"> 2018/03/03(土) 13:21:35.78 ID:0TXO8IeM</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;" class="t_b"> スーパー閉まっちゃうから7時には帰りたいんですけどーと言い続けた結果 <br /> 残業減らす圧力を掛けることに割と成功してる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">19: <span  style="color: rgb(124, 199, 84);">既にその名前は使われています</span> <span  style="color: gray;"> 2018/03/03(土) 14:33:57.94 ID:8y8F/pPi</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 上司が帰るまで帰れないって人達はそういう風に会社で教育されてきたわけ？ <br /> 全く意味がわからない風習 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">20: <span  style="color: rgb(124, 199, 84);">既にその名前は使われています</span> <span  style="color: gray;"> 2018/03/03(土) 14:36:49.82 ID:6J4X0us6</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> うちの上司は定時2分前になるとタイムカードの前で待機して <br /> 1分前になると電灯を消して <br /> 定時になっても帰宅準備が終わってないと <br /> 「ほお?？残業するのかぁ？俺は帰るぞ！」と言って、 <br /> 1分後には消えてる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">22: <span  style="color: rgb(124, 199, 84);">既にその名前は使われています</span> <span  style="color: gray;"> 2018/03/03(土) 14:41:28.10 ID:eyVkJZ0I</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> うちは定時になると帰れ帰れ上司がうるさい </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">24: <span  style="color: rgb(124, 199, 84);">既にその名前は使われています</span> <span  style="color: gray;"> 2018/03/03(土) 15:01:22.92 ID:lLqcdJpf</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 意地糞悪いアラフォージジイ上司がコレだ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">25: <span  style="color: rgb(124, 199, 84);">既にその名前は使われています</span> <span  style="color: gray;"> 2018/03/03(土) 16:57:28.75 ID:E6EEy3nu</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> いつ問題起きるかわからないんだから帰れる時に帰っとけって急ぎの仕事ないやつなんか帰らせるだろ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">26: <span  style="color: rgb(124, 199, 84);">既にその名前は使われています</span> <span  style="color: gray;"> 2018/03/03(土) 17:04:26.13 ID:kTP6J97v</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 帰る気満々で準備してカードきった瞬間あ、ごめんこれだけやってって言われたときの絶望感 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">27: <span  style="color: rgb(124, 199, 84);">既にその名前は使われています</span> <span  style="color: gray;"> 2018/03/03(土) 17:12:55.06 ID:eZ/OQfl4</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b"> お前も早く出世してそれ言わなきゃいけなくなった時の上司の絶望感も感じて欲しい </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">28: <span  style="color: rgb(124, 199, 84);">既にその名前は使われています</span> <span  style="color: gray;"> 2018/03/03(土) 20:11:57.26 ID:Zdu24YA0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 定時20時なんだが21時に電話を留守電に切り替えて施錠しなきゃならんのに <br /> 月の残業時間がなんだーとか言い出す、なら時間変えてくれ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">29: <span  style="color: rgb(124, 199, 84);">既にその名前は使われています</span> <span  style="color: gray;"> 2018/03/03(土) 21:17:00.99 ID:5uJLvuZz</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 大抵の職場は退勤時刻はカード挿し直せば上書きされるぞ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">30: <span  style="color: rgb(124, 199, 84);">既にその名前は使われています</span> <span  style="color: gray;"> 2018/03/03(土) 21:34:46.89 ID:wNyZCj1A</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 我が家よりも会社の方が居心地が良い上司っだっているんですよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">32: <span  style="color: rgb(124, 199, 84);">既にその名前は使われています</span> <span  style="color: gray;"> 2018/03/05(月) 16:45:17.34 ID:aio6EDDp</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> うちの部署は10人いるけど <br /> みんな17時過ぎくらいに帰ってきて1時間くらいだべってから帰ってる <br /> 部長と課長だけいつも残ってるわ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">33: <span  style="color: rgb(124, 199, 84);">既にその名前は使われています</span> <span  style="color: gray;"> 2018/03/05(月) 16:47:38.27 ID:Eqj/vwEg</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 定時で帰れるなら速攻で帰るわ <br /> うちは上司はさっさと帰っていくな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">34: <span  style="color: rgb(124, 199, 84);">既にその名前は使われています</span> <span  style="color: gray;"> 2018/03/05(月) 16:51:58.66 ID:Syg9KzpB</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 留守電なんか使わないぞ <br /> 定時過ぎたら鳴ってもとらんし </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">35: <span  style="color: rgb(124, 199, 84);">既にその名前は使われています</span> <span  style="color: gray;"> 2018/03/06(火) 03:55:51.13 ID:bocD0UlL</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> というかおまえらもう部下面できる歳じゃなくね・・？ｗ </div><br />
+<br />
+<p  style="color:gray;text-align:right;"><span  style="font-size: 81.25%;">引用元： <a  target="_blank" href="http://matsuri.5ch.net/test/read.cgi/ogame/1520047230/">http://matsuri.5ch.net/test/read.cgi/ogame/1520047230/</a></span></p>
+
+</div>
+                        
+<!-- タグのリスト表示セット -->
+                        </div>
+<br>
+
+
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=2Z8HPD+9K4KFM+34FI+NUES2" alt="">
+                    </div>
+                    <!-- 記事本文 ここまで-->
+
+
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HV7V6" alt="">
+
+
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www26.a8.net/svt/bgt?aid=190821728180&wid=001&eno=01&mid=s00000011866017004000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" alt=""></td>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+3257OY+3Y6M+601S1" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www24.a8.net/svt/bgt?aid=190821728185&wid=001&eno=01&mid=s00000018427001008000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=35LYZK+3257OY+3Y6M+601S1" alt=""></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+
+
+                    <!-- 記事フッター、コメント、ソーシャルボタン -->
+                    <footer class="article-footer">
+                        <div class="article-footer-comment">
+                            
+                                <a href="http://pathtimeblog.com/archives/7620001.html#comments">0コメント</a>
+                            
+                        </div>
+                        <div class="article-social-btn">
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HVFKY" alt="">
+
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/7620001.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/7620001.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="上司が帰るまで部下は帰れない 	 - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=%E4%B8%8A%E5%8F%B8%E3%81%8C%E5%B8%B0%E3%82%8B%E3%81%BE%E3%81%A7%E9%83%A8%E4%B8%8B%E3%81%AF%E5%B8%B0%E3%82%8C%E3%81%AA%E3%81%84%20%09%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/7620001.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/7620001.html" data-text="上司が帰るまで部下は帰れない 	 - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F7620001.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                        </div>
+                    </footer>
+                    <!-- /記事フッター、コメント、ソーシャルボタン -->
+
+
+                    <!-- カテゴリの最新記事表示 はじまり-->
+                    <div class="article-sub-category">
+                        <div id="ldblog_related_articles_1c570fbd">
+
+<div class="related-articles ldblog_related_articles_1c570fbd" data-category-id="220063" data-article-rows="5">
+<h3>「上司」カテゴリの最新記事</h3>
+<ul id="ldblog_related_articles_1c570fbd_220063"></ul>
+</div>
+</div>
+<script type="text/html" id="ldblog_related_articles_1c570fbd_tmpl">
+<% for(var i=0,l=articles.length;i<l;i++) {%><% if(i>=rows) break; %>
+<li><a href="<%=articles[i].permalink%>"><%=articles[i].title%></a></li>
+<% } %>
+</script>
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/related_articles.js?t=20180221"></script>
+<script type="text/javascript">
+(function(){
+RelatedArticles.load('ldblog_related_articles_1c570fbd', '7620001');
+})();
+</script>
+<!-- 関連記事の表示 -->
+                    </div>
+                    <!-- /カテゴリの最新記事表示 ここまで-->
+
+
+
+
+                    <div id="ad2"></div><!-- 広告表示 -->
+
+                    <!-- 記事オプション はじまり-->
+                    <div class="article-option" id="article-options">
+
+                        <!-- コメントエリア　はじまり -->
+                        
+                        <section id="comments">
+                        
+                        <h1 class="comment-form-title">コメントする</h1>
+<div class="article-option" id="comment-form">
+    <form
+      action="https://comment.blogcms.jp/livedoor/shukatu2ch/7620001/post"
+      method="post"
+      name="comment_form"
+          id="comment-form-body"
+      onsubmit="setCommentAuthor(this); return submitOnce(this.button);"
+    >
+    <fieldset>
+        <legend>コメントフォーム</legend>
+    <dl class="comment-form-author">
+        <dt><label for="comment-form-author">名前</label></dt>
+        <dd id="comment-author-form"><input type="text" class="text" id="comment-form-author" name="author" required="required" value="" /></dd>
+    </dl>
+  <dl class="comment-form-body">
+    <dt><label for="comment-form-textarea">コメント</label></dt>
+    <dd>
+      <textarea id="comment-form-textarea" name="body" rows="7" required="required"></textarea>
+      <div id="comment-form-tools">
+        <span class="facemark"><a href="javascript:void(0);" id="emojiLink1" onClick="showEmojiPanel(this.id, 'comment-form-textarea')"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/icon_facemark.png" /></a></span>
+        <span class="rating">
+                    <input type="hidden" name="rating" value="">
+                    <input type="hidden" name="rating_icon" value="star">
+                    <div class="rating-value">
+                        <span id="default-rating-value">評価する</span>
+                        <div class="caret"><span></span></div>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/face/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/face/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/face/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/face/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/face/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/star/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/star/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/star/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/star/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/star/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                    </div>
+                    <div class="rating-icon">
+                        <div data-value="face">顔</div>
+                        <div class="selected" data-value="star">星</div>
+                    </div>
+        </span>
+        <span class="submit"><button type="submit">投稿する</button></span>
+        <span class="memorize"><label for="bake"><input type="checkbox" id="bake" name="cookie" /> 情報を記憶</label></span>
+      </div>
+    </dd>
+  </dl>
+  </fieldset>
+  </form>
+  <script type="text/javascript" src="https://parts.blog.livedoor.jp/js/comment.0.2.js?v=20130430"></script>
+  <script type="text/javascript">
+    loadCommentAuthor(document.comment_form);
+    ldblogComment.init();
+  </script>
+<!-- /#comment-form --></div><!-- コメント投稿フォーム -->
+
+
+                        </section>
+                        
+                        <!-- コメントエリア　ここまで -->
+
+
+                        <!-- トラックバック受け付け　はじまり -->
+                        
+                        <!-- トラックバック受け付け　ここまで -->
+
+                    </div>
+                    <!-- 記事オプション ここまで-->
+
+                </article>
+                <!-- 記事　ここまで -->
+
+
+                <!-- ページ送り はじまり-->
+<!-- Article Pager // -->
+  <div class="pager article-pager-type2">
+    <div class="pager-inner">
+    <div class="article-pager-outer">
+    <ul class="article-pager"><li class="prev"><a href="http://pathtimeblog.com/archives/7596965.html" title="就活生なんだが誰でも知ってる家電メーカーに就職可能だったら手挙げる？ 	">&nbsp就活生なんだが誰でも知ってる家電メーカーに就職可能だったら手挙げる？ 	</a></li><li class="next both"><a href="http://pathtimeblog.com/archives/7620177.html" title="就活イベントに私服で来ちゃったんだがやばい？">就活イベントに私服で来ちゃったんだがやばい？&nbsp</a></li>    </ul>
+    </div>
+    </div>
+  </div>
+<!-- // Article Pager -->
+
+                <!-- /ページ送り ここまで-->
+
+            </div><!-- /main-column-inner-->
+        </div>
+        <!-- コンテンツの箱の中　真ん中728px ここまで-->
+
+
+        <!-- コンテンツの箱の中　左側200px はじまり-->
+        <aside class="left-container">
+            <div class="left-column-inner">
+            
+
+
+
+<div class="plugin-popular_articles sidewrapper">
+  <div class="sidetitlebody">
+    <div class="sidetitle">人気記事</div>
+  </div>
+  <div class="sidetop"></div>
+  <div class="side">
+
+
+    <div class="popular-articles">
+      <table id="populararticles-472933"></table>
+      <div class="popular-articles-freearea"></div>
+    </div>
+  </div>
+
+  <div class="sidebottom"></div>
+</div>
+
+<script type="text/javascript" language="javascript"><!--
+(function(){
+  var url = 'http://pathtimeblog.com/archives/popular_articles.json'
+         + '?rangetype=custom'
+         + '&from=0'
+         + '&range=13'
+         + '&limit=50'
+         + '&offset=0'
+         ;
+
+  var callback = function(data) {
+    var table = document.getElementById('populararticles-472933');
+    for (i = 0; i < data.articles.length; i++) {
+      var rank = i + 1;
+      var prefix = 'populararticles-472933-'+ rank;
+
+      var row = table.insertRow(-1);
+      var elm1 = row.insertCell(-1);
+      elm1.className = 'populararticles-rank';
+      elm1.innerHTML = '<span><b>' + rank + '</b></span>';
+      var elm2 = row.insertCell(-1);
+      elm2.className = 'populararticles-title';
+      elm2.innerHTML = '<a href="' + data.articles[i].url + '?ref=popular_article&id=7836571-472933">' + data.articles[i].title + '</a>'
+      ;
+
+    }
+  };
+
+  var xhr = (function () {
+      if (window.XMLHttpRequest)
+        return new XMLHttpRequest();
+      else {
+        var msxml = [
+          "Msxml2.ServerXMLHTTP.6.0", "Msxml2.ServerXMLHTTP.5.0", "Msxml2.ServerXMLHTTP.4.0", "Msxml2.ServerXMLHTTP.3.0",
+          "Msxml2.ServerXMLHTTP", "Microsoft.ServerXMLHTTP", "Msxml2.XMLHTTP.6.0", "Msxml2.XMLHTTP.5.0",
+          "Msxml2.XMLHTTP.4.0", "Msxml2.XMLHTTP.3.0", "Msxml2.XMLHTTP", "Microsoft.XMLHTTP"
+        ];
+        for (var i = 0; i<msxml.length; i++ ){
+          try {
+            return new ActiveXObject(msxml[i]);
+          }
+          catch(e) { }
+        }
+        return null;
+      }
+  })();
+    
+  if (!xhr) return;
+  xhr.open('GET', url, true);
+  xhr.onreadystatechange = function () {
+    if (xhr.readyState == 4 && xhr.status == 200) {
+      eval('var ld_popular_articles_json = ' + xhr.responseText);
+      callback(ld_popular_articles_json);
+    }
+  };
+  xhr.send();
+
+})();
+//-->
+</script>
+
+<div class="plugin-recent_articles sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">最新記事</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27108137.html">21卒就活生ワイ、内定辞退でしこたま怒鳴られる</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/10257766.html">ニートって難しい資格取って仕事探そうとするけどさ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839910.html">【学歴フィルター】企業にとっての一流大学とは？【就職偏差値】</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839719.html">ワイニート歴2年、就職して初年度の年収500万円！！！！</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073431.html">あ、面接落ちたなってフラグ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073465.html">【悲報】上級国民大手企業様「下請けに仕事やらせてガッポリ中抜きｗ」→夏ボーナス92万5947円</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27075072.html">ワイ21卒、会社選びを間違ってしまったと後悔する</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027071.html">【悲報】キャリア採用の銀行員ワイ、周囲の人間があまりにも有能すぎてマジでドン引き……………………</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27063977.html">【速報】大学、終わる。　Googleが大卒資格を得られるコースを提供へ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027029.html">教師「Ｆ欄ＯＫです、公務員です、毎日定時で帰れます、年収700万です」←こいつが馬鹿にされる理由ｗ</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-recent_articles -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「A」設定のブログパーツ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　左側200px ここまで-->
+
+
+        <!-- コンテンツの箱の中　右側200px はじまり-->
+        <aside class="right-container">
+            <div class="right-column-inner">
+            
+
+
+
+<div class="plugin-categorize sidewrapper" id="plugin-categorize-457691">
+    <div class="sidetitlebody">
+        <div class="sidetitle">カテゴリー</div>
+    </div>
+    <div class="sidetop"></div>
+    <div class="side">
+
+
+      
+
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160301.html">就活準備 (243)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161699.html">自己分析 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161700.html">企業・業界研究 (66)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155971.html">資格 (39)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155966.html">選考 (254)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155977.html">インターン (23)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155978.html">説明会 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155975.html">ES (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155976.html">SPIなど (7)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155974.html">面接 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155972.html">内定 (222)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160304.html">NNT(無内定) (68)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160302.html">内定後・入社前 (110)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160308.html">アドバイス (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160460.html">入社後 (924)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220065.html">新卒 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220063.html">上司 (95)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_219473.html">社会人生活 (299)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160474.html">ブラック企業 (65)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160303.html">転職 (175)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163214.html">副業 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220667.html">収入 (102)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_299497.html">採用担当 (3)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_318465.html">第二新卒 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161711.html">学生生活 (46)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163247.html">浪人・留年 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155967.html">学歴 (119)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_223545.html">ニート (38)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155969.html">業界別 (314)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156035.html">金融 (34)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156099.html">建築・不動産 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160357.html">物流・運送 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160358.html">IT・メディア (55)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160359.html">エネルギー・資源 (1)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160310.html">自動車・機械 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160360.html">食品・小売 (14)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160311.html">公務員・準公務員 (89)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160356.html">サービス (21)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160473.html">その他 (42)</a>
+          
+        </div>
+        
+    
+        
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160476.html">その他 (472)</a>
+          
+        </div>
+        
+    
+    
+
+    </div>    
+    <div class="sidebottom"></div>
+</div><!-- // plugin-categorize -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+<a href="//blog.with2.net/link/?1955545"><img src="https://blog.with2.net/img/banner/banner_21.gif" title="人気ブログランキング"></a><br><a href="//blog.with2.net/link/?1955545" style="font-size: 0.8em;">人気ブログランキング</a>
+
+<div class="plugin-link sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">リンク集</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://0matome.com/" target="_blank">おまとめ</a></div>
+
+<div class="sidebody"><a href="http://2chnavi.net/allentries/?threshold=0" target="_blank">2chnavi</a></div>
+
+<div class="sidebody"><a href="http://http://iwashi.biz/" target="_blank">いわしアンテナ &gt;°))))彡</a></div>
+
+<div class="sidebody"><a href="http://2ch-2.net/" target="_blank"> つーアンテナ(*ﾟ∀ﾟ)</a></div>
+
+<div class="sidebody"><a href="https://ii-antenna.net/?about" target="_blank">いーあんてな(#ﾟｗﾟ)</a></div>
+
+<div class="sidebody"><a href="https://2ch-mi.net/" target="_blank">みーアンテナ（´∀｀）</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-link -->
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">検索</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="https://cse.google.com/cse.js?cx=014565878756483497884:urusxdcjffe"></script>
+<div class="gcse-search"></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「B」設定のブログパーツ表示 -->
+            
+<!-- LDR・RSSリンクとブログのロゴ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　右側200px ここまで-->
+
+        <!-- このページのトップヘ　はじまり -->
+        <p class="to-pagetop"><a href="#"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/to_pagetop.png" width="70" height="70" alt="このページのトップヘ" /></a></p>
+        <!-- このページのトップヘ ここまで -->
+
+    </div>
+    <!-- コンテンツ全体 ここまで-->
+
+    <!-- ブログのフッター はじまり-->
+    <footer id="blog-footer">
+    <!-- Blog Common Footer // --><div id="footer"><p>Powered by <a href="http://blog.livedoor.com/" title="ライブドアブログ">ライブドアブログ</a></p></div><!-- // Blog Common Footer --><!-- 共通フッター表示 -->
+    </footer>
+    <!-- /ブログのフッター ここまで-->
+
+</div>
+<!-- コンテンツエリア ここまで-->
+
+
+<!-- Add Body Tag // --><script type="text/javascript">
+(function(){
+  var traq = document.createElement('script'); traq.type = 'text/javascript'; traq.async = true;
+  traq.src = 'https://t.blog.livedoor.jp/u.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(traq, s);
+})();
+</script>
+<noscript>
+<img src="https://t.blog.livedoor.jp/u.gif" alt="traq">
+</noscript>
+<!-- // Add Body Tag -->
+
+<script>
+(function($) {
+  var cookieName = 'livedoor-blog-gdpr-agreed';
+  $(document).ready(function() {
+    if (navigator.userAgent.match(/https?:\/\//)) {
+      // UA に http:// or https:// があればスルー
+      return;
+    }
+
+    var agreed = document.cookie.indexOf(cookieName) >= 0;
+    if (agreed) {
+      // 同意済み Cookie があればスルー
+      return;
+    }
+
+    var banner = $('<div>');
+    banner.attr('id', 'gdpr-banner');
+    var label = $('<p>');
+    label.html('\
+      ライブドアブログでは広告のパーソナライズや効果測定のためクッキー(cookie)を使用しています。<br>\
+      このバナーを閉じるか閲覧を継続することでクッキーの使用を承認いただいたものとさせていただきます。<br>\
+      また、お客様は当社パートナー企業における所定の手続きにより、クッキーの使用を管理することもできます。<br>\
+      詳細は<a href="http://www.livedoor.com/rules/" target="_blank" style="color:#023780;text-decoration:underline;">ライブドア利用規約</a>をご確認ください。\
+    ');
+    banner.append(label);
+
+    var closeButton = $('<button>');
+    closeButton.attr('type', 'button');
+    closeButton.html('閉じる');
+    closeButton.on('click', function() {
+      $('#gdpr-banner').hide();
+      document.cookie = cookieName + '="1";expires=Tue, 31-Dec-2037 00:00:00 GMT;path=/;';
+    });
+    banner.append(closeButton);
+
+    banner.css({
+      'position': 'fixed',
+      'left': '0',
+      'right': '0',
+      'bottom': '0',
+      'background': '#dcdcdc',
+      'color': '#000',
+      'padding': '20px',
+      'text-align': 'center',
+      'box-shadow': '0 -2px 2px rgba(102, 102, 102, 0.86)',
+      'z-index': '2147483647',
+    });
+    label.css({
+      'display': 'inline-block',
+      'text-align': 'left',
+      'font-size': '14px',
+      'color': '#000',
+      'vertical-align': 'middle',
+      'line-height': '1.5',
+    });
+    closeButton.css({
+      'display': 'inline-block',
+      'color': '#fff',
+      'border': 'none',
+      'font-size': '14px',
+      'padding': '4px 40px',
+      'margin-left': '40px',
+      'background': '#535353',
+      'vertical-align': 'middle',
+    });
+
+    var script = document.createElement('script');
+    script.type = "text/javascript";
+    script.src = "https://ipcheck.blogsys.jp/check.js?t=" + Date.now();
+    script.onerror = function() {
+      $('body').append(banner);
+    };
+    document.body.appendChild(script);
+  });
+})(jQuery);
+</script>
+</body>
+</html>

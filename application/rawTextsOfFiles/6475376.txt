@@ -1,0 +1,1487 @@
+<!DOCTYPE html>
+<html lang="ja" itemscope itemtype="http://schema.org/Blog">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=1190">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" /><link rel="shortcut icon" type="image/vnd.microsoft.icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/favicon.ico" /><link rel="icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/3ab45ab0.jpg" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/template.css?v=20190826" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/heart.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/icon.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="http://pathtimeblog.com/site.css?_=20190831163247" type="text/css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://pathtimeblog.com/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://pathtimeblog.com/atom.xml" /><link rel="canonical" href="http://pathtimeblog.com/archives/6475376.html" /><link rel="openid.server" href="http://auth.livedoor.com/openid/server" /><link rel="openid.delegate" href="http://profile.livedoor.com/shukatu2ch/" />
+<link rel="mixi-check-alternate" media="mixi-device-mobile" type="text/html" href="http://blog.m.livedoor.jp/shukatu2ch/article/6475376" />
+<link rel="mixi-check-alternate" media="mixi-device-smartphone" type="text/html" href="http://pathtimeblog.com/archives/6475376.html" />
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/jquery-1.11.1.min.js"></script>
+
+<meta name="description" content="1: 風吹けば名無し＠無断転載禁止  2017/08/05(土) 10:54:03.95 ID:cEkCuKEQx
+ 文カス「遊びまくって就職！ｗ商社金融保険証券！ｗ30歳で年収1000万！ｗ就職決まったから卒業までバイトして遊ぼ！ｗ」    なぜなのか 
+" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="高学歴理系「6年間一生懸命勉強研究して大企業研究職！30歳年収600万！」 : 2ch就活まとめ" />
+<meta property="og:description" content="1: 風吹けば名無し＠無断転載禁止  2017/08/05(土) 10:54:03.95 ID:cEkCuKEQx 文カス「遊びまくって就職！ｗ商社金融保険証券！ｗ30歳で年収1000万！ｗ就職決まったから卒業までバイトして遊ぼ！ｗ」    なぜなのか " />
+<meta property="og:url" content="http://pathtimeblog.com/archives/6475376.html" />
+<meta property="og:site_name" content="2ch就活まとめ" />
+<meta property="og:locale" content="ja_JP" />
+<meta property="og:image" content="https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png" />
+
+<meta name="twitter:site" content="@2chshukatu" />
+<meta name="twitter:title" content="高学歴理系「6年間一生懸命勉強研究して大企業研究職！30歳年収600万！」 : 2ch就活まとめ" />
+<meta name="twitter:description" content="1: 風吹けば名無し＠無断転載禁止  2017/08/05(土) 10:54:03.95 ID:cEkCuKEQx 文カス「遊びまくって就職！ｗ商社金融保険証券！ｗ30歳で年収1000万！ｗ就職決まったから卒業までバイトして遊ぼ！ｗ」    なぜなのか " />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image:src" content="https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png" />
+<link rel="alternate" media="handheld" type="application/xhtml+xml" href="http://blog.m.livedoor.jp/shukatu2ch/" />
+
+<title>高学歴理系「6年間一生懸命勉強研究して大企業研究職！30歳年収600万！」 : 2ch就活まとめ</title>
+<script src="https://parts.blog.livedoor.jp/js/emoji.js"></script>
+<script src="https://parts.blog.livedoor.jp/js/misc.js?v=20190710"></script>
+<!--[if lt IE 9]>
+<script src="https://parts.blog.livedoor.jp/js/html5.js"></script>
+<![endif]-->
+<script src="https://parts.blog.livedoor.jp/js/usr/import.js"></script>
+<script>
+$(function(){
+  if($('.header-inner01').children('#blog-header-image').length) {
+    $(window).bind('load', function() {
+      var title1 = $('#blog-header-image').height();
+      var title2 = $('.header-menu').height();
+      var headerHeight = title1-title2-15;
+      $("hgroup").css("height", headerHeight);
+    });
+  }
+});
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-3064778048578600",
+          enable_page_level_ads: true
+     });
+</script>
+
+<!-- Add Google Analytics Tag // -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-113178806-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- // Add Google Analytics Tag -->
+
+
+<meta name="referrer" content="always">
+<meta name="referrer" content="unsafe-url">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1638469-45"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+var blogId = '';
+if (blogId) {
+  gtag('config', 'UA-1638469-45', {
+    'custom_map': {'dimension1': 'blog_id'},
+    'blog_id': blogId
+  });
+} else {
+  gtag('config', 'UA-1638469-45');
+}
+</script>
+
+</head>
+<body class="default_2012 page-article layout-2col sidebar-right"><script type="text/javascript"><!--
+var ld_blog_vars = {
+  provider_id : '1',
+  provider_name : 'livedoor',
+  id : '7836571',
+  name : 'shukatu2ch',
+  charset : 'utf8',
+  url : 'http://pathtimeblog.com/',
+  title : '2ch就活まとめ',
+  blog_design: {
+      version: 1
+  },
+  blog_category: {
+    id: '243',
+    permalink: 'https://blog.livedoor.com/category/243/',
+    name: 'まとめ(総合) > まとめ',
+    is_adult : 0,
+    is_gambling : 0,
+    hierarchy: [{ id: '431', name: 'まとめ(総合)', permalink: 'https://blog.livedoor.com/category/431/' },{ id: '243', name: 'まとめ', permalink: 'https://blog.livedoor.com/category/243/' }]
+  },
+  current_page : {
+    type : 'article',    page : ''
+  },
+  articles : [ {
+       id : '6475376',
+       permalink : 'http://pathtimeblog.com/archives/6475376.html',
+       title : '高学歴理系「6年間一生懸命勉強研究して大企業研究職！30歳年収600万！」',
+       categories : [ { id:'161711', name:'学生生活', permalink:'http://pathtimeblog.com/archives/cat_161711.html' }, { id:'160301', name:'就活準備', permalink:'http://pathtimeblog.com/archives/cat_160301.html' } ],
+       date : '2018-01-23 17:00:19'
+}   ]
+};
+//-->
+</script><div id="analyzer_tags" style="display:none">
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/c2.js?v=20191010"></script>
+<script type="text/javascript">blog_counter('shukatu2ch', 7836571, 'http://pathtimeblog.com/')</script>
+</div><script type="text/javascript" src="https://parts.blog.livedoor.jp/js/smartphone.js?v=20200824"></script>
+<script type="text/javascript" src="http://pathtimeblog.com/settings/header.js?v=20190705"></script><script type="text/javascript" src="http://pathtimeblog.com/settings/ad.js"></script>
+<script type="text/javascript">
+var palette_src = 'https://parts.blog.livedoor.jp/img/emoji/3/palette.png';
+if (typeof IMAGE_CACHE == 'object' && IMAGE_CACHE['emoji_palette']) IMAGE_CACHE['emoji_palette'].src = palette_src;
+</script>
+
+<!-- Blog Common Header // -->
+<!-- // Blog Common Header -->
+<!-- 共通ヘッダー表示 -->
+
+<!-- ブログタイトル はじまり-->
+<header id="blog-header">
+
+    <div id="blog-header01">
+
+        <div class="header-inner01 show-image hide-text">
+
+            <hgroup>
+                <!--ブログタイトル　はじまり-->
+                <h1 id="blog-title"><a href="http://pathtimeblog.com/">2ch就活まとめ</a></h1>
+                <!--ブログタイトル　ここまで-->
+                <!--ブログ説明　はじまり-->
+                <h2 id="blog-description">新卒・転職・社会人生活などを含め、就活・就職に関することをまとめてます。</h2>
+                <!--ブログ説明　ここまで-->
+            </hgroup>
+
+            <a href="http://pathtimeblog.com/"><img src="https://resize.blogsys.jp/727db0f9da9f42eb7d26b703338c30b3eef0157c/trim2/0x243_94p_1200x388/http://livedoor.blogimg.jp/shukatu2ch/imgs/0/5/055bbafe.jpg" id="blog-header-image" /></a>
+
+            <div id="blog-header02">
+                <div class="header-inner02">
+                    <ul class="header-menu">
+                        <li><a href="http://pathtimeblog.com/">HOME</a></li><!--メニューを入れてください-->
+                        <li class="ldb_menu-item-url"><a href="http://blog.livedoor.jp/shukatu2ch/archives/6126504.html">ABOUT</a></li><!--メニューを入れてください-->
+                        <li><a href="mailto:shukatumatome@gmail.com">お問い合わせ</a></li><!--メニューを入れてください-->
+                    </ul>
+                    <ul class="header-sarch">
+                        <li><a href="http://twitter.com"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_twitter.png" alt="Twitter" /></a></li><!--Twitter-->
+                        <li><a href="http://pathtimeblog.com/index.rdf"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_rss.png" alt="RSS" /></a></li><!--RSS-->
+                        <li>
+                        <form action="http://pathtimeblog.com/search" method="GET" style="padding:0;margin:0px;">
+                        <input type="TEXT" name="q" class="sf">
+                        <input type="SUBMIT" value="検索" class="sfbtn">
+                        </form>
+                        </li><!--検索窓-->
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</header>
+<!-- /ブログタイトル ここまで-->
+
+
+<!-- コンテンツエリア はじまり-->
+<div id="wrapper">
+
+    <!-- コンテンツ全体 はじまり-->
+    <div id="container">
+
+        <!-- 相互RSS はじまり-->
+        <div class="rss-blogroll">
+
+            <!-- 相互RSSを設置する場合の注意事項
+                コードに含まれる以下のCSSは外して設置してください
+                http://blogroll.livedoor.net/css/default2.css -->
+
+                 <!-- 相互RSSのコード ひとつ目-->
+            <script type="text/javascript">
+            <!--
+                   var blogroll_channel_id = 255242;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード ふたつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 265945;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード みっつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 255442;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href= />
+        </div>
+        <!-- 相互RSS ここまで-->
+
+        <!-- コンテンツの箱の中　真ん中728px はじまり-->
+        <div class="main-container">
+            <div class="main-column-inner">
+<br>
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+<br>
+                <!-- メッセージボード -->
+                 
+
+
+
+                <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://pathtimeblog.com/archives/6475376.html"
+    trackback:ping="http://trackback.blogsys.jp/livedoor/shukatu2ch/6475376"
+    dc:title="高学歴理系「6年間一生懸命勉強研究して大企業研究職！30歳年収600万！」"
+    dc:identifier="http://pathtimeblog.com/archives/6475376.html"
+    dc:subject="学生生活,就活準備"
+    dc:description="1: 風吹けば名無し＠無断転載禁止  2017/08/05(土) 10:54:03.95 ID:cEkCuKEQx 文カス「遊びまくって就職！ｗ商社金融保険証券！ｗ30歳で年収1000万！ｗ就職決まったから卒業までバイトして遊ぼ！ｗ」    なぜなのか "
+    dc:creator="shukatu2ch"
+    dc:date="2018-01-23T17:00:19+09:00" />
+</rdf:RDF>
+-->
+<div id="ad_rs" class="ad_rs_b"></div><!-- 記事のトラックバック・オートディスカバリー -->
+
+
+                <!-- 記事 はじまり-->
+                <article class="article first-article" itemscope itemtype="http://schema.org/BlogPosting">
+
+                    <!-- 記事タイトル　記事下の情報　はじまり-->
+                    <header class="article-header">
+
+                        <h1 class="article-title" itemprop="name"><a href="http://pathtimeblog.com/archives/6475376.html" itemprop="url">高学歴理系「6年間一生懸命勉強研究して大企業研究職！30歳年収600万！」</a></h1><!-- 記事のタイトル -->
+
+                            <!-- 記事下の記事情報 はじまり-->
+                            <div class="article-header-inner">
+
+                                <!-- 記事情報の上の行 はじまり-->
+                                <div class="article-header-top">
+                                <p class="article-header-date"><time datetime="2018-01-23T17:00:19+09:00" pubdate="pubdate">2018年01月23日</time></p>
+                                
+                                <ul class="article-header-category">
+                                    <li>
+                                        <dl><dt>カテゴリ:</dt><dd class="article-category1"><a href="http://pathtimeblog.com/archives/cat_161711.html">学生生活</a></dd><dd class="article-category2"><a href="http://pathtimeblog.com/archives/cat_160301.html">就活準備</a></dd></dl>
+                                    </li>
+                                </ul>
+                                
+
+                                <!-- 記事の評価アイコン はじまり-->
+                                
+                                <!-- 記事の評価アイコン ここまで-->
+
+                                </div>
+                                <!-- 記事情報の上の行 ここまで-->
+                                <!-- ソーシャルボタン　はじまり -->
+                                <ul class="article-social-btn">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/6475376.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/6475376.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="高学歴理系「6年間一生懸命勉強研究して大企業研究職！30歳年収600万！」 - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=%E9%AB%98%E5%AD%A6%E6%AD%B4%E7%90%86%E7%B3%BB%E3%80%8C6%E5%B9%B4%E9%96%93%E4%B8%80%E7%94%9F%E6%87%B8%E5%91%BD%E5%8B%89%E5%BC%B7%E7%A0%94%E7%A9%B6%E3%81%97%E3%81%A6%E5%A4%A7%E4%BC%81%E6%A5%AD%E7%A0%94%E7%A9%B6%E8%81%B7%EF%BC%8130%E6%AD%B3%E5%B9%B4%E5%8F%8E600%E4%B8%87%EF%BC%81%E3%80%8D%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/6475376.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/6475376.html" data-text="高学歴理系「6年間一生懸命勉強研究して大企業研究職！30歳年収600万！」 - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F6475376.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                                </ul>
+                                 <!-- ソーシャルボタン　ここまで -->
+                            </div>
+                            <!-- 記事下の記事情報 ここまで-->
+
+                    </header>
+                    <!-- 記事タイトル　記事下の情報　ここまで-->
+
+
+
+                    <!-- 記事本文 はじまり-->
+                    <div class="article-body">
+                        <div class="article-body-inner">
+<!-- 参加している共通テーマの表示 -->
+                        <span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">1: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 10:54:03.95 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:cEkCuKEQx</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:60px;margin-top:20px;" class="t_b"> 文カス「遊びまくって就職！ｗ商社金融保険証券！ｗ30歳で年収1000万！ｗ就職決まったから卒業までバイトして遊ぼ！ｗ」 <br />  <br /> なぜなのか </div><br />
+<!-- Generated by 2chまとめくす (http://2mtmex.com/) --><!-- 本文 --><div class="article-body-more" id="more"><span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">2: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 10:54:30.92 ID:A1G4qJ72d</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b"> 理系が有利なのは低学歴だけやね </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">3: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 10:54:49.98 ID:BoPiiSHfd</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b"> しかも田舎勤務 </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">4: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 10:54:53.46 ID:2HypdzJS0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:60px;margin-top:20px;" class="t_b"> ポテンシャルの違いだろガイジ <br />  <br /> 凡人が遊びまくって年収1000万円なんて無理に決まってるだろ </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">20: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 10:57:22.52 ID:dHFzgrCMa</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;4</span> <br /> 大学時代遊びまくってないような文系は金も稼げないぞ </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">14: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 10:56:28.62 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:cEkCuKEQx</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;4</span> <br /> むしろ優秀な理系の方が技術の奴隷になって低待遇だよ <br /> 理系を極めると日本では不幸になる </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">23: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 10:58:06.37 ID:zu4ZMjUA0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;14</span> <br /> F蘭大の先生とか明らかな冷遇だもんな </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">28: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 10:59:07.53 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:cEkCuKEQx</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;23</span> <br /> 東大の先生でもメーカー以下だよ </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">5: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 10:54:54.23 ID:yvT5AnKIr</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b"> 理系がいくらモノをつくっても売る人がいないとね </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">6: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 10:55:09.97 ID:W5ai4CNdd</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b"> 文カスは都心のオフィスで働けてええね </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">7: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 10:55:25.21 ID:T8QS6n410</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b"> なお離職率 </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">8: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 10:55:26.78 ID://uVeftea</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b"><span  style="color: rgb(255, 0, 0);"> 文系大学院まで行ったワイ就職先なさ過ぎて死亡 </span></div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">9: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 10:55:51.63 ID:yme+sDH5a</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b"> 働き始めてから楽なのは理系やん </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">21: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 10:57:30.57 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:cEkCuKEQx</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;10</span> <br /> 大手メーカーの研究職が30歳600万くらいでしょ <br /> 理系就職するのにこれ以上のポストって少ないやん文系は色んな選択肢があるけど </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">11: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 10:56:01.33 ID:YCLyvP8wd</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b"> ワイはそれに気づいて文系就職に切り替えた模様 </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">12: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 10:56:03.79 ID:DRvz+h5y0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b"> 就職後文系「」 </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">13: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 10:56:17.46 ID:V1B3bxfk0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#ffa500;margin-bottom:60px;margin-top:20px;" class="t_b"> ワイ文系卒公務員28歳、年収400万 </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">16: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 10:57:05.67 ID:fmPJ9Q410</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b"> ワイ博士過程、泣く </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">17: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 10:57:08.52 ID:yykKYDSQa</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b"> どうせなんＪ民は岡みたいに高学歴ニートやろ </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">18: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 10:57:15.70 ID:zu4ZMjUA0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b"> 東大京大一橋だけやろ？ </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">25: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 10:58:27.89 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:cEkCuKEQx</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;18</span> <br /> 東京一工レベルの文系と理系の比較やで <br /> 高学歴は文系に行って学部就職した方がいい </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">19: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 10:57:16.24 ID:sbDNR1BQd</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:60px;margin-top:20px;" class="t_b"> 駅弁理系で年収900万のワイは例外なのか </div><br />
+<div  class="t_h"><span  style="font-size: x-small;">10: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 10:55:57.58 ID:gmPPS8l+0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b"> 理系の600万は平均やぞ <br /> 文系の1000万は頂点だけ </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">22: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 10:58:02.90 ID:9yePZqH9d</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b"> なんで理系平均と文系の上位比べてるの？ </div><br /><div  class="t_h"><span  style="font-size: x-small;">33: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 10:59:41.54 ID:3UlXaiQz0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b"> 割合がちゃうやろ </div><br />
+<div  class="t_h"><span  style="font-size: x-small;">36: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 10:59:55.23 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:cEkCuKEQx</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:60px;margin-top:20px;" class="t_b"> 低学歴文系が悲惨なのはもちろんそう </div>
+<div  class="t_h"><br /><div  class="t_h"><span  style="font-size: x-small;">62: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:03:19.69 ID:CIa52Du60</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b"> 30歳で1000万行くなんてテレビ局と五大商社くらいだろ <br /> 銀行マンじゃ無理 <br /></div></div><div  class="t_h"><span  style="font-size: x-small;"><br /></span></div><div  class="t_h"><span  style="font-size: x-small;">27: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 10:58:37.83 ID:LzvF6Pbmp</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b"> 医学部ワイ「ほーん」 </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">34: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 10:59:50.95 ID:/zqHpmXdd</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;27</span> <br /> 後期研修医の時点でもう1000万超えたりするんやろ <br /> ええなぁ勝ち組やん </div><br />
+<div  class="t_h"><span  style="font-size: x-small;">72: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:05:22.32 ID:bMpmQDj10</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b"> 金欲しい理系は医学部行けばええやん <br /> 東大京大東工大なら狙えるところいくつかあるし </div><br />
+<div  class="t_h t_i"><span  style="font-size: x-small;">80: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:06:37.63 ID:sDCcE1mV0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;72</span> <br /> むしろ覚えること多くて嫌になるんだよなぁ、物理数学大好きみたいな人だと </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">31: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 10:59:23.52 ID:esv2S4Tu0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b"> 引率３０歳が６００万の大手の研究職ってどこや </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">42: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:00:47.28 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:cEkCuKEQx</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;31</span> <br /> 大手電機メーカーでだいたいそんくらいちゃう <br /> それより上のメーカーってトヨタ新日鐵キーエンスファナックくらい </div><br />
+<br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">37: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 10:59:56.74 ID:y57g3t4+a</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b"> 理系の就職率いいっていうけど、田舎勤務多いよな </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">48: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:01:49.21 ID:yjJSgRRd0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;37</span> <br /> メーカーは田舎多いな <br /> 勤務の可能性が関東・関西圏のみっていう大企業に絞るとほとんど無い </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">38: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:00:01.08 ID:G2h6os+O0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b"> 銀行金融が人気あるのが信じられないわ <br /> あんな仕事してると絶対ハゲるで </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">39: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:00:07.46 ID:AnTFTMyoa</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b"> なお続かない模様 <br /> そして公務員試験へ </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">40: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:00:08.86 ID:k/bU1Wds0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b"> それ文系の中のほんと一握りのやつらだけやん <br /> 理系は平均的にそれぐらいだから、特別な才能ないやつは理系いけば安心なんや </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">52: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:02:12.37 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:cEkCuKEQx</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;40</span> <br /> 例えば東京海上日動(30歳1000万)と三菱電機(30歳600万)が就職偏差値同じなんや </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">92: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:08:19.72 ID:zu4ZMjUA0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;52</span> <br /> 東海そんなもらえんわ <br /> 四十代の課長で1200万くらいや(ボーナス込み) </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">131: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:15:18.19 ID:pKThV32q0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;92</span> <br /> これはエアプ、実際はもっと貰ってる </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">147: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:18:28.83 ID:zu4ZMjUA0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;131</span> <br /> 嘘やないで昔伯父に聞いた <br /> 中学の友達の親父は明治安田生命の部長やったけどそっちも1400~1500万くらいって言ってたわ <br /> お前が思っとるほどちゃうで </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">66: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:03:59.72 ID:bMpmQDj10</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;52</span> <br /> 就職偏差値ってなんJ民のガバガバ学歴ランキングを遥かに下回る無意味なランキングやんけ </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">76: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:06:07.75 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:cEkCuKEQx</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;66</span> <br /> 例えばって話やん <br /> じゃあ理系が30歳で1本行く業界って何があるんや？ <br /> ちな文系商社コンサル金融証券保険テレビ新聞出版社海運その他諸々 </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">103: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:10:02.87 ID:zu4ZMjUA0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;76</span> <br /> 研究職は何だかんだそれなりにいくやろ <br /> 電力会社や製薬会社もあるしな </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">108: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:10:41.22 ID:R9+DwtVt0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;103</span> <br /> インフラって30代で一本行くんか？ <br /> 羽振り良杉内 </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">119: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:12:29.75 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:cEkCuKEQx</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;103</span> <br /> 製薬はそれなりにいくけど電力は震災前ですら微妙やろ <br /> インフラで貰えるのはJR東海と大手ガスくらい </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">120: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:12:41.84 ID:ESpjX+J3r</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;103</span> <br /> 最近のメーカーは研究職が特別給料高いことなんてないぞ </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">110: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:10:51.13 ID:bMpmQDj10</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;76</span> <br /> どこのデータ見たか知らんけど日経企業の金融で30歳1000万なんてかなりレアやし商社とかテレビ局なんて東大一橋でも難関やで </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">159: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:20:13.79 ID:EceHBzna0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;76</span> <br /> コンサルなんて理系院卒だらけだぞ無知 </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">41: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:00:33.55 ID:y7VMB0cQ0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b"> 有能文系＞有能理系＞無能理系＞無能文系 </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">91: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:08:17.13 ID:qzoms1cpd</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;41</span> <br /> これちなfラン文系 </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">97: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:08:42.09 ID:R9+DwtVt0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;41</span> <br /> これちなマーチ </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">43: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:01:10.17 ID:4iPa273a0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b"> 海外みたいに技術者もっと高待遇にしろボケカスアホ </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">44: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:01:12.68 ID:yykKYDSQa</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b"> でこの中に社会人何人いるんや <br /> 働いたこともない学生が年収がーとか語れないぞ </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">54: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:02:15.59 ID:GDeez8aPa</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#ffa500;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;44</span> <br /> 学生でもない奴が大半なんだよなあ </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">47: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:01:45.03 ID:xiKc5H+k0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b"> <span  style="font-size: medium;">物に向かうのと人に向かうのとどっちが好きかやろ</span> </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">56: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:02:20.67 ID:4vdgMyNod</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b"> 真面目にそれが日本が技術者軽視と言われる由縁よ </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">73: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:05:47.47 ID:Al6prRUH0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;56</span> <br /> 日本の技術者は海外と違って経済経営を学ぼうとしないからやろ </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">90: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:08:10.39 ID:bMpmQDj10</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;73</span> <br /> 経済学部とか経営学部とかでISLM分析とかポーターのファイブフォースとか学んでもサラリーマンにとっては教養ぐらいにしかならんと思うけどなぁ </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">116: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:11:52.02 ID:zu4ZMjUA0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;90</span> <br /> 経済や統計を武器に就職できるくらいのやつなんてもはやどんなルート選んでも成功するわ </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">123: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:13:09.01 ID:Al6prRUH0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;90</span> <br /> それ以前の基礎的な部分すら知らない技術者がかなり多いやろ <br /> 本気で自分は技術さえ分かってれば良いと勘違いしとるのが大量におるわ </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">57: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:02:38.06 ID:Al6prRUH0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b"><span  style="font-size: medium;"> 上を狙うなら文系の方が圧倒的に有利やろなぁ </span></div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">58: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:02:39.49 ID:+fBPXiUS0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b"> 言うほど理系勉強せんやろ <br /> 要領いいやつはそれなりに遊べる </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">65: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:03:52.38 ID:ZLAVxMiq0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;58</span> <br /> ほんこれ <br /> 真面目に授業聞いてるボッチより後ろの席にいる友達多い過去問持ちの陽キャの方が成績上なんてザラにあるし </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">86: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:06:57.96 ID:rJ8sw+Wn0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;65</span> <br /> 理系は陽キャのほうが前座るぞ </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">94: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:08:33.42 ID:ZLAVxMiq0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;86</span> <br /> ワイの大学は後ろ陽キャやな <br /> 中央の方が多いけど </div><br />
+<br />
+<br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">63: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:03:29.31 ID:F9ixoI8/0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b"> 理系は不景気のときも安心だから… </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">109: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:10:43.48 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:cEkCuKEQx</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;63</span> <br /> 例えば電機メーカーでギリギリ安心できるのって日立と三菱くらい <br /> 重工もそろそろキツいしさっきのトヨタスレでもあったように自動車もキツい </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">67: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:04:01.41 ID:2PXRl+MD0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b"> そもそも会社員とか馬鹿だろ </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">68: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:04:43.92 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:cEkCuKEQx</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:60px;margin-top:20px;" class="t_b"> 本社都内の大企業に受かっても神奈川の端とか北関東に配属されてしまう理系さんｗｗｗｗｗ </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">69: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:04:45.35 ID:LnEH5GQfa</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b"> 文系は激務過ぎるからしんどいわ </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">100: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:09:14.11 ID:DCE6mBNP0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;69</span> <br /> 理系も激務やで <br /> 最近新国立で死んだ新卒おるやろ </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">106: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:10:27.93 ID:sDCcE1mV0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;100</span> <br /> そもそも東芝さんが研究所で年2人過労死出した挙句タイムカード改竄したりとか <br /> というより学校の時点で相当ブラック仕込まれる </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">101: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:09:50.49 ID:R9+DwtVt0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;69</span> <br /> 激務度合いは文理関係ないやろ </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">74: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:05:50.42 ID:TbZPSPiA0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b"> 文系で都庁って有能なうちはいるんかな </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">99: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:08:57.26 ID:qzoms1cpd</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;74</span> <br /> ボリュームがマーチから早慶らしいし有能やろ </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">75: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:05:50.90 ID:ZLAVxMiq0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:60px;margin-top:20px;" class="t_b"> 理系でも稼ぎたきゃキーエンスとかファナックとかBtoB行けばええやん </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">79: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:06:33.94 ID:Nx5fjzu40</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b"> ワイ理系院卒商社ややこしい </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">112: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:11:01.22 ID:ahGgY+vX0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;79</span> <br /> 年収と商社のヒント教えてくれ <br /> 就活は学部生と同じもんか？ </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">129: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:14:48.42 ID:Nx5fjzu40</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;112</span> <br /> 年収は3年目で500万ぐらいかな <br /> 商社は基本的に学部生は体育会系、院生は論理的思考明るさとか見られてるな会社の頭脳を欲しがる <br /> 後は自分の市場価値を知っていけそうな企業を見極めないと落ちる </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">81: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:06:39.16 ID:EFmKXwhla</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:60px;margin-top:20px;" class="t_b"> 40、50で急増するし現業込みやろ </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">83: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:06:53.26 ID:i1LgjBGgr</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b"> じゃあ何で中韓では理系が圧倒的人気なん？ </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">89: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:07:32.21 ID:sDCcE1mV0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;83</span> <br /> 日本人簡単に金で釣れるぐらいの待遇用意してるから </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">93: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:08:32.68 ID:aoC2Yzeu0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;83</span> <br /> Huawei見たらわかるやろ <br /> 待遇がダンチやし </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">95: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:08:36.39 ID:4iPa273a0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;83</span> <br /> そもそも日本くらいやぞ口先しかない無能が持て囃されるのは </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">104: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:10:25.11 ID:KFsdWKrNd</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;83</span> <br /> 中韓では理系の待遇の方がいいから <br /> 待遇の悪い日本メーカー等に行くのは無能しかいない </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">87: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:07:07.87 ID:5qmM7vfD0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b"> クソ田舎に飛ばされて過ごす人生は流石にかわいそう </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">98: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:08:51.60 ID:sDCcE1mV0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;87</span> <br /> そこはちゃんと戦略もって就活するとクリアできる <br /> 鉄だったら新日鉄じゃなくてJFEにするとか、東電じゃなくて東京ガスを狙うとか、川崎の化学メーカー狙うとか </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">88: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:07:23.84 ID:/EsBpaUO0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b"> 理系はどっちに転んでも職に困らない、安パイ <br />  <br /> 文系は諸刃の剣 <br /> 自分のコミュ力に相当自信があって、安パイを嫌って攻めていくのがモットーみたいな人生設計したいやつならいいと思う </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">96: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:08:36.40 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:cEkCuKEQx</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:60px;margin-top:20px;" class="t_b"> 学科に女子率数%とかの環境で彼女ができず就職先の田舎の研究所で独身を貫く理系さん………… <br /> 仮に彼女ができても高確率で遠距離になって破局してしまう理系さん……………… </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">113: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:11:15.30 ID:EcRkVNT8r</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b"> たまに勘違いしとる学生おるけど研究職もクッソ激務やで </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">121: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:12:44.64 ID:R9+DwtVt0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;113</span> <br /> んなもん研究室入ってるなら分かるはずなのになぁ <br /> 何も知らない連中がマウント取ってるんやろな </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">127: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:14:28.67 ID:nyd1pDpe0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;113</span> <br /> 勘違いしてるボケはお前だけやで <br /> 死んでどうぞ </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">132: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:15:26.03 ID:sDCcE1mV0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;113</span> <br /> むしろ研究のほうが激務 <br /> 研究室で研究向いてないって気づけるやつは幸せ <br /> 大学入る前に自分は数学パズルが好きなだけなことに気づかないやつが入って留年する </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">114: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:11:19.37 ID:wO6SPmpC0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b"> 外資から見ると1000万とかで飛びついてくる日本人技術者はお買い得らしいわ </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">118: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:12:29.04 ID:DCE6mBNP0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;114</span> <br /> てかあちらは終身雇用ちゃうしなあ <br /> 技術搾り取られたらポイ捨てやで </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">125: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:14:00.70 ID:wO6SPmpC0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;118</span> <br /> せやな <br /> 雇われる側もその意識やからさっさと次行く </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">115: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:11:48.15 ID:f85wSWM/0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b"> プログラミングコンテストの会社の社長が、大卒で1000万超える年収提示されたって言ってたけど <br /> あれなんて会社だったのか気になる </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">117: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:12:25.58 ID:j8rNIMIA0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;115</span> <br /> 日本のプロコンならatcoderやろ </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">124: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:13:10.03 ID:f85wSWM/0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;117</span> <br /> せやで、ちょくだいがそう言ってたんや <br /> 新卒で1000万提示されたけど、それ蹴って起業したって </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">135: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:16:39.28 ID:j8rNIMIA0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;124</span> <br /> ああ蹴ったって事か <br /> 実績あるし良い待遇で誘われるのは分かるけどいきなり1000万はやべーな </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">152: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:18:50.74 ID:f85wSWM/0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;135</span> <br /> ツイート見直したけど、しかも1000万提示したのは日系企業らしいな <br /> ほんまにどこなんやろ <br />  <br />  <br /> chokudai(高橋 直大)?認証済みアカウント @chokudai <br />  <br /> あ？新卒月40万だ？自分が新卒の時に日系企業から提示された年収1000万超えてるぞ！どうだまいったか！ <br />  <br /> chokudai(高橋 直大)?認証済みアカウント @chokudai <br />  <br /> なお蹴って起業して年収が1000万超えたことは今のところ一度もないです。ぐぬぬ。これからだもん＞＜ </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">126: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:14:06.42 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:cEkCuKEQx</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:60px;margin-top:20px;" class="t_b"> こうしてほどほど優秀で野望のある理系は文系就職するのであった </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">128: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:14:30.11 ID:Tom+ujnI0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b"> 文系上位＞理系上位＞＞＞＞理系＞文系＞理系下位＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞文系下位 </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">133: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:16:25.84 ID:zu4ZMjUA0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;128</span> <br /> 文系中位ってどれくらいや？ <br /> 下位宮廷とマーチだと結局コミュ力勝負やん </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">138: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:17:03.87 ID:R9+DwtVt0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;133</span> <br /> ？？？ <br /> 文系は上行けば行くほどコミュ力勝負やぞ </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h t_i"><span  style="font-size: x-small;">145: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:18:01.66 ID:Tom+ujnI0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;133</span> <br /> マーカンと金岡千広レベルやな </div><br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">130: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:15:05.97 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:cEkCuKEQx</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:60px;margin-top:20px;" class="t_b"> まぁ思考停止で院進して推薦でメーカー行く理系学生が多すぎるのも問題やけどな </div><br />
+<br />
+<span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">137: <span  style="color: rgb(124, 199, 84);">風吹けば名無し＠無断転載禁止</span> <span  style="color: gray;"> 2017/08/05(土) 11:17:03.56 ID:W5ai4CNdd</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:60px;margin-top:20px;" class="t_b"> 「就職決まったから遊ぼ！ｗ」←これが一番腹立つ </div><br />
+<br />
+<p  style="color:gray;text-align:right;"><span  style="font-size: x-small;">引用元： <a  target="_blank" href="http://hawk.5ch.net/test/read.cgi/livejupiter/1501898043/">http://hawk.5ch.net/test/read.cgi/livejupiter/1501898043/</a></span></p>
+
+</div>
+                        
+<!-- タグのリスト表示セット -->
+                        </div>
+<br>
+
+
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=2Z8HPD+9K4KFM+34FI+NUES2" alt="">
+                    </div>
+                    <!-- 記事本文 ここまで-->
+
+
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HV7V6" alt="">
+
+
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www26.a8.net/svt/bgt?aid=190821728180&wid=001&eno=01&mid=s00000011866017004000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" alt=""></td>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+3257OY+3Y6M+601S1" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www24.a8.net/svt/bgt?aid=190821728185&wid=001&eno=01&mid=s00000018427001008000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=35LYZK+3257OY+3Y6M+601S1" alt=""></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+
+
+                    <!-- 記事フッター、コメント、ソーシャルボタン -->
+                    <footer class="article-footer">
+                        <div class="article-footer-comment">
+                            
+                                <a href="http://pathtimeblog.com/archives/6475376.html#comments">0コメント</a>
+                            
+                        </div>
+                        <div class="article-social-btn">
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HVFKY" alt="">
+
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/6475376.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/6475376.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="高学歴理系「6年間一生懸命勉強研究して大企業研究職！30歳年収600万！」 - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=%E9%AB%98%E5%AD%A6%E6%AD%B4%E7%90%86%E7%B3%BB%E3%80%8C6%E5%B9%B4%E9%96%93%E4%B8%80%E7%94%9F%E6%87%B8%E5%91%BD%E5%8B%89%E5%BC%B7%E7%A0%94%E7%A9%B6%E3%81%97%E3%81%A6%E5%A4%A7%E4%BC%81%E6%A5%AD%E7%A0%94%E7%A9%B6%E8%81%B7%EF%BC%8130%E6%AD%B3%E5%B9%B4%E5%8F%8E600%E4%B8%87%EF%BC%81%E3%80%8D%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/6475376.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/6475376.html" data-text="高学歴理系「6年間一生懸命勉強研究して大企業研究職！30歳年収600万！」 - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F6475376.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                        </div>
+                    </footer>
+                    <!-- /記事フッター、コメント、ソーシャルボタン -->
+
+
+                    <!-- カテゴリの最新記事表示 はじまり-->
+                    <div class="article-sub-category">
+                        <div id="ldblog_related_articles_11818dc0">
+
+<div class="related-articles ldblog_related_articles_11818dc0" data-category-id="161711" data-article-rows="5">
+<h3>「学生生活」カテゴリの最新記事</h3>
+<ul id="ldblog_related_articles_11818dc0_161711"></ul>
+</div>
+</div>
+<script type="text/html" id="ldblog_related_articles_11818dc0_tmpl">
+<% for(var i=0,l=articles.length;i<l;i++) {%><% if(i>=rows) break; %>
+<li><a href="<%=articles[i].permalink%>"><%=articles[i].title%></a></li>
+<% } %>
+</script>
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/related_articles.js?t=20180221"></script>
+<script type="text/javascript">
+(function(){
+RelatedArticles.load('ldblog_related_articles_11818dc0', '6475376');
+})();
+</script>
+<!-- 関連記事の表示 -->
+                    </div>
+                    <!-- /カテゴリの最新記事表示 ここまで-->
+
+
+
+
+                    <div id="ad2"></div><!-- 広告表示 -->
+
+                    <!-- 記事オプション はじまり-->
+                    <div class="article-option" id="article-options">
+
+                        <!-- コメントエリア　はじまり -->
+                        
+                        <section id="comments">
+                        
+                        <h1 class="comment-form-title">コメントする</h1>
+<div class="article-option" id="comment-form">
+    <form
+      action="https://comment.blogcms.jp/livedoor/shukatu2ch/6475376/post"
+      method="post"
+      name="comment_form"
+          id="comment-form-body"
+      onsubmit="setCommentAuthor(this); return submitOnce(this.button);"
+    >
+    <fieldset>
+        <legend>コメントフォーム</legend>
+    <dl class="comment-form-author">
+        <dt><label for="comment-form-author">名前</label></dt>
+        <dd id="comment-author-form"><input type="text" class="text" id="comment-form-author" name="author" required="required" value="" /></dd>
+    </dl>
+  <dl class="comment-form-body">
+    <dt><label for="comment-form-textarea">コメント</label></dt>
+    <dd>
+      <textarea id="comment-form-textarea" name="body" rows="7" required="required"></textarea>
+      <div id="comment-form-tools">
+        <span class="facemark"><a href="javascript:void(0);" id="emojiLink1" onClick="showEmojiPanel(this.id, 'comment-form-textarea')"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/icon_facemark.png" /></a></span>
+        <span class="rating">
+                    <input type="hidden" name="rating" value="">
+                    <input type="hidden" name="rating_icon" value="star">
+                    <div class="rating-value">
+                        <span id="default-rating-value">評価する</span>
+                        <div class="caret"><span></span></div>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/face/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/face/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/face/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/face/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/face/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/star/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/star/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/star/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/star/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/star/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                    </div>
+                    <div class="rating-icon">
+                        <div data-value="face">顔</div>
+                        <div class="selected" data-value="star">星</div>
+                    </div>
+        </span>
+        <span class="submit"><button type="submit">投稿する</button></span>
+        <span class="memorize"><label for="bake"><input type="checkbox" id="bake" name="cookie" /> 情報を記憶</label></span>
+      </div>
+    </dd>
+  </dl>
+  </fieldset>
+  </form>
+  <script type="text/javascript" src="https://parts.blog.livedoor.jp/js/comment.0.2.js?v=20130430"></script>
+  <script type="text/javascript">
+    loadCommentAuthor(document.comment_form);
+    ldblogComment.init();
+  </script>
+<!-- /#comment-form --></div><!-- コメント投稿フォーム -->
+
+
+                        </section>
+                        
+                        <!-- コメントエリア　ここまで -->
+
+
+                        <!-- トラックバック受け付け　はじまり -->
+                        
+                        <!-- トラックバック受け付け　ここまで -->
+
+                    </div>
+                    <!-- 記事オプション ここまで-->
+
+                </article>
+                <!-- 記事　ここまで -->
+
+
+                <!-- ページ送り はじまり-->
+<!-- Article Pager // -->
+  <div class="pager article-pager-type2">
+    <div class="pager-inner">
+    <div class="article-pager-outer">
+    <ul class="article-pager"><li class="prev"><a href="http://pathtimeblog.com/archives/6464429.html" title="神戸製鋼内定ワイ、入社するか就職留年するか 	">&nbsp神戸製鋼内定ワイ、入社するか就職留年するか 	</a></li><li class="next both"><a href="http://pathtimeblog.com/archives/6464589.html" title="大学留年が決まったけどやっぱり就職は不利か">大学留年が決まったけどやっぱり就職は不利か&nbsp</a></li>    </ul>
+    </div>
+    </div>
+  </div>
+<!-- // Article Pager -->
+
+                <!-- /ページ送り ここまで-->
+
+            </div><!-- /main-column-inner-->
+        </div>
+        <!-- コンテンツの箱の中　真ん中728px ここまで-->
+
+
+        <!-- コンテンツの箱の中　左側200px はじまり-->
+        <aside class="left-container">
+            <div class="left-column-inner">
+            
+
+
+
+<div class="plugin-popular_articles sidewrapper">
+  <div class="sidetitlebody">
+    <div class="sidetitle">人気記事</div>
+  </div>
+  <div class="sidetop"></div>
+  <div class="side">
+
+
+    <div class="popular-articles">
+      <table id="populararticles-472933"></table>
+      <div class="popular-articles-freearea"></div>
+    </div>
+  </div>
+
+  <div class="sidebottom"></div>
+</div>
+
+<script type="text/javascript" language="javascript"><!--
+(function(){
+  var url = 'http://pathtimeblog.com/archives/popular_articles.json'
+         + '?rangetype=custom'
+         + '&from=0'
+         + '&range=13'
+         + '&limit=50'
+         + '&offset=0'
+         ;
+
+  var callback = function(data) {
+    var table = document.getElementById('populararticles-472933');
+    for (i = 0; i < data.articles.length; i++) {
+      var rank = i + 1;
+      var prefix = 'populararticles-472933-'+ rank;
+
+      var row = table.insertRow(-1);
+      var elm1 = row.insertCell(-1);
+      elm1.className = 'populararticles-rank';
+      elm1.innerHTML = '<span><b>' + rank + '</b></span>';
+      var elm2 = row.insertCell(-1);
+      elm2.className = 'populararticles-title';
+      elm2.innerHTML = '<a href="' + data.articles[i].url + '?ref=popular_article&id=7836571-472933">' + data.articles[i].title + '</a>'
+      ;
+
+    }
+  };
+
+  var xhr = (function () {
+      if (window.XMLHttpRequest)
+        return new XMLHttpRequest();
+      else {
+        var msxml = [
+          "Msxml2.ServerXMLHTTP.6.0", "Msxml2.ServerXMLHTTP.5.0", "Msxml2.ServerXMLHTTP.4.0", "Msxml2.ServerXMLHTTP.3.0",
+          "Msxml2.ServerXMLHTTP", "Microsoft.ServerXMLHTTP", "Msxml2.XMLHTTP.6.0", "Msxml2.XMLHTTP.5.0",
+          "Msxml2.XMLHTTP.4.0", "Msxml2.XMLHTTP.3.0", "Msxml2.XMLHTTP", "Microsoft.XMLHTTP"
+        ];
+        for (var i = 0; i<msxml.length; i++ ){
+          try {
+            return new ActiveXObject(msxml[i]);
+          }
+          catch(e) { }
+        }
+        return null;
+      }
+  })();
+    
+  if (!xhr) return;
+  xhr.open('GET', url, true);
+  xhr.onreadystatechange = function () {
+    if (xhr.readyState == 4 && xhr.status == 200) {
+      eval('var ld_popular_articles_json = ' + xhr.responseText);
+      callback(ld_popular_articles_json);
+    }
+  };
+  xhr.send();
+
+})();
+//-->
+</script>
+
+<div class="plugin-recent_articles sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">最新記事</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27108137.html">21卒就活生ワイ、内定辞退でしこたま怒鳴られる</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/10257766.html">ニートって難しい資格取って仕事探そうとするけどさ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839910.html">【学歴フィルター】企業にとっての一流大学とは？【就職偏差値】</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839719.html">ワイニート歴2年、就職して初年度の年収500万円！！！！</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073431.html">あ、面接落ちたなってフラグ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073465.html">【悲報】上級国民大手企業様「下請けに仕事やらせてガッポリ中抜きｗ」→夏ボーナス92万5947円</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27075072.html">ワイ21卒、会社選びを間違ってしまったと後悔する</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027071.html">【悲報】キャリア採用の銀行員ワイ、周囲の人間があまりにも有能すぎてマジでドン引き……………………</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27063977.html">【速報】大学、終わる。　Googleが大卒資格を得られるコースを提供へ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027029.html">教師「Ｆ欄ＯＫです、公務員です、毎日定時で帰れます、年収700万です」←こいつが馬鹿にされる理由ｗ</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-recent_articles -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「A」設定のブログパーツ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　左側200px ここまで-->
+
+
+        <!-- コンテンツの箱の中　右側200px はじまり-->
+        <aside class="right-container">
+            <div class="right-column-inner">
+            
+
+
+
+<div class="plugin-categorize sidewrapper" id="plugin-categorize-457691">
+    <div class="sidetitlebody">
+        <div class="sidetitle">カテゴリー</div>
+    </div>
+    <div class="sidetop"></div>
+    <div class="side">
+
+
+      
+
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160301.html">就活準備 (243)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161699.html">自己分析 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161700.html">企業・業界研究 (66)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155971.html">資格 (39)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155966.html">選考 (254)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155977.html">インターン (23)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155978.html">説明会 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155975.html">ES (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155976.html">SPIなど (7)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155974.html">面接 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155972.html">内定 (222)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160304.html">NNT(無内定) (68)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160302.html">内定後・入社前 (110)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160308.html">アドバイス (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160460.html">入社後 (924)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220065.html">新卒 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220063.html">上司 (95)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_219473.html">社会人生活 (299)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160474.html">ブラック企業 (65)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160303.html">転職 (175)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163214.html">副業 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220667.html">収入 (102)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_299497.html">採用担当 (3)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_318465.html">第二新卒 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161711.html">学生生活 (46)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163247.html">浪人・留年 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155967.html">学歴 (119)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_223545.html">ニート (38)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155969.html">業界別 (314)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156035.html">金融 (34)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156099.html">建築・不動産 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160357.html">物流・運送 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160358.html">IT・メディア (55)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160359.html">エネルギー・資源 (1)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160310.html">自動車・機械 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160360.html">食品・小売 (14)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160311.html">公務員・準公務員 (89)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160356.html">サービス (21)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160473.html">その他 (42)</a>
+          
+        </div>
+        
+    
+        
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160476.html">その他 (472)</a>
+          
+        </div>
+        
+    
+    
+
+    </div>    
+    <div class="sidebottom"></div>
+</div><!-- // plugin-categorize -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+<a href="//blog.with2.net/link/?1955545"><img src="https://blog.with2.net/img/banner/banner_21.gif" title="人気ブログランキング"></a><br><a href="//blog.with2.net/link/?1955545" style="font-size: 0.8em;">人気ブログランキング</a>
+
+<div class="plugin-link sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">リンク集</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://0matome.com/" target="_blank">おまとめ</a></div>
+
+<div class="sidebody"><a href="http://2chnavi.net/allentries/?threshold=0" target="_blank">2chnavi</a></div>
+
+<div class="sidebody"><a href="http://http://iwashi.biz/" target="_blank">いわしアンテナ &gt;°))))彡</a></div>
+
+<div class="sidebody"><a href="http://2ch-2.net/" target="_blank"> つーアンテナ(*ﾟ∀ﾟ)</a></div>
+
+<div class="sidebody"><a href="https://ii-antenna.net/?about" target="_blank">いーあんてな(#ﾟｗﾟ)</a></div>
+
+<div class="sidebody"><a href="https://2ch-mi.net/" target="_blank">みーアンテナ（´∀｀）</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-link -->
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">検索</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="https://cse.google.com/cse.js?cx=014565878756483497884:urusxdcjffe"></script>
+<div class="gcse-search"></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「B」設定のブログパーツ表示 -->
+            
+<!-- LDR・RSSリンクとブログのロゴ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　右側200px ここまで-->
+
+        <!-- このページのトップヘ　はじまり -->
+        <p class="to-pagetop"><a href="#"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/to_pagetop.png" width="70" height="70" alt="このページのトップヘ" /></a></p>
+        <!-- このページのトップヘ ここまで -->
+
+    </div>
+    <!-- コンテンツ全体 ここまで-->
+
+    <!-- ブログのフッター はじまり-->
+    <footer id="blog-footer">
+    <!-- Blog Common Footer // --><div id="footer"><p>Powered by <a href="http://blog.livedoor.com/" title="ライブドアブログ">ライブドアブログ</a></p></div><!-- // Blog Common Footer --><!-- 共通フッター表示 -->
+    </footer>
+    <!-- /ブログのフッター ここまで-->
+
+</div>
+<!-- コンテンツエリア ここまで-->
+
+
+<!-- Add Body Tag // --><script type="text/javascript">
+(function(){
+  var traq = document.createElement('script'); traq.type = 'text/javascript'; traq.async = true;
+  traq.src = 'https://t.blog.livedoor.jp/u.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(traq, s);
+})();
+</script>
+<noscript>
+<img src="https://t.blog.livedoor.jp/u.gif" alt="traq">
+</noscript>
+<!-- // Add Body Tag -->
+
+<script>
+(function($) {
+  var cookieName = 'livedoor-blog-gdpr-agreed';
+  $(document).ready(function() {
+    if (navigator.userAgent.match(/https?:\/\//)) {
+      // UA に http:// or https:// があればスルー
+      return;
+    }
+
+    var agreed = document.cookie.indexOf(cookieName) >= 0;
+    if (agreed) {
+      // 同意済み Cookie があればスルー
+      return;
+    }
+
+    var banner = $('<div>');
+    banner.attr('id', 'gdpr-banner');
+    var label = $('<p>');
+    label.html('\
+      ライブドアブログでは広告のパーソナライズや効果測定のためクッキー(cookie)を使用しています。<br>\
+      このバナーを閉じるか閲覧を継続することでクッキーの使用を承認いただいたものとさせていただきます。<br>\
+      また、お客様は当社パートナー企業における所定の手続きにより、クッキーの使用を管理することもできます。<br>\
+      詳細は<a href="http://www.livedoor.com/rules/" target="_blank" style="color:#023780;text-decoration:underline;">ライブドア利用規約</a>をご確認ください。\
+    ');
+    banner.append(label);
+
+    var closeButton = $('<button>');
+    closeButton.attr('type', 'button');
+    closeButton.html('閉じる');
+    closeButton.on('click', function() {
+      $('#gdpr-banner').hide();
+      document.cookie = cookieName + '="1";expires=Tue, 31-Dec-2037 00:00:00 GMT;path=/;';
+    });
+    banner.append(closeButton);
+
+    banner.css({
+      'position': 'fixed',
+      'left': '0',
+      'right': '0',
+      'bottom': '0',
+      'background': '#dcdcdc',
+      'color': '#000',
+      'padding': '20px',
+      'text-align': 'center',
+      'box-shadow': '0 -2px 2px rgba(102, 102, 102, 0.86)',
+      'z-index': '2147483647',
+    });
+    label.css({
+      'display': 'inline-block',
+      'text-align': 'left',
+      'font-size': '14px',
+      'color': '#000',
+      'vertical-align': 'middle',
+      'line-height': '1.5',
+    });
+    closeButton.css({
+      'display': 'inline-block',
+      'color': '#fff',
+      'border': 'none',
+      'font-size': '14px',
+      'padding': '4px 40px',
+      'margin-left': '40px',
+      'background': '#535353',
+      'vertical-align': 'middle',
+    });
+
+    var script = document.createElement('script');
+    script.type = "text/javascript";
+    script.src = "https://ipcheck.blogsys.jp/check.js?t=" + Date.now();
+    script.onerror = function() {
+      $('body').append(banner);
+    };
+    document.body.appendChild(script);
+  });
+})(jQuery);
+</script>
+</body>
+</html>

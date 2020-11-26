@@ -1,0 +1,1373 @@
+<!DOCTYPE html>
+<html lang="ja" itemscope itemtype="http://schema.org/Blog">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=1190">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" /><link rel="shortcut icon" type="image/vnd.microsoft.icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/favicon.ico" /><link rel="icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/3ab45ab0.jpg" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/template.css?v=20190826" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/heart.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/icon.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="http://pathtimeblog.com/site.css?_=20190831163247" type="text/css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://pathtimeblog.com/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://pathtimeblog.com/atom.xml" /><link rel="canonical" href="http://pathtimeblog.com/archives/6383472.html" /><link rel="openid.server" href="http://auth.livedoor.com/openid/server" /><link rel="openid.delegate" href="http://profile.livedoor.com/shukatu2ch/" />
+<link rel="mixi-check-alternate" media="mixi-device-mobile" type="text/html" href="http://blog.m.livedoor.jp/shukatu2ch/article/6383472" />
+<link rel="mixi-check-alternate" media="mixi-device-smartphone" type="text/html" href="http://pathtimeblog.com/archives/6383472.html" />
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/jquery-1.11.1.min.js"></script>
+
+<meta name="description" content="1: 名無しなのに合格  2017/12/10(日) 22:05:06.64 ID:Qfa5OM+e
+ 例えば千葉大と明治で学歴は段違いだけど就職は互角だったり  学歴、社会的な印象をとるか就職をとるか 
+" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="就職の良さと学歴は比例しない？ 	 : 2ch就活まとめ" />
+<meta property="og:description" content="1: 名無しなのに合格  2017/12/10(日) 22:05:06.64 ID:Qfa5OM+e 例えば千葉大と明治で学歴は段違いだけど就職は互角だったり  学歴、社会的な印象をとるか就職をとるか " />
+<meta property="og:url" content="http://pathtimeblog.com/archives/6383472.html" />
+<meta property="og:site_name" content="2ch就活まとめ" />
+<meta property="og:locale" content="ja_JP" />
+<meta property="og:image" content="https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png" />
+
+<meta name="twitter:site" content="@2chshukatu" />
+<meta name="twitter:title" content="就職の良さと学歴は比例しない？ 	 : 2ch就活まとめ" />
+<meta name="twitter:description" content="1: 名無しなのに合格  2017/12/10(日) 22:05:06.64 ID:Qfa5OM+e 例えば千葉大と明治で学歴は段違いだけど就職は互角だったり  学歴、社会的な印象をとるか就職をとるか " />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image:src" content="https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png" />
+<link rel="alternate" media="handheld" type="application/xhtml+xml" href="http://blog.m.livedoor.jp/shukatu2ch/" />
+
+<title>就職の良さと学歴は比例しない？ 	 : 2ch就活まとめ</title>
+<script src="https://parts.blog.livedoor.jp/js/emoji.js"></script>
+<script src="https://parts.blog.livedoor.jp/js/misc.js?v=20190710"></script>
+<!--[if lt IE 9]>
+<script src="https://parts.blog.livedoor.jp/js/html5.js"></script>
+<![endif]-->
+<script src="https://parts.blog.livedoor.jp/js/usr/import.js"></script>
+<script>
+$(function(){
+  if($('.header-inner01').children('#blog-header-image').length) {
+    $(window).bind('load', function() {
+      var title1 = $('#blog-header-image').height();
+      var title2 = $('.header-menu').height();
+      var headerHeight = title1-title2-15;
+      $("hgroup").css("height", headerHeight);
+    });
+  }
+});
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-3064778048578600",
+          enable_page_level_ads: true
+     });
+</script>
+
+<!-- Add Google Analytics Tag // -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-113178806-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- // Add Google Analytics Tag -->
+
+
+<meta name="referrer" content="always">
+<meta name="referrer" content="unsafe-url">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1638469-45"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+var blogId = '';
+if (blogId) {
+  gtag('config', 'UA-1638469-45', {
+    'custom_map': {'dimension1': 'blog_id'},
+    'blog_id': blogId
+  });
+} else {
+  gtag('config', 'UA-1638469-45');
+}
+</script>
+
+</head>
+<body class="default_2012 page-article layout-2col sidebar-right"><script type="text/javascript"><!--
+var ld_blog_vars = {
+  provider_id : '1',
+  provider_name : 'livedoor',
+  id : '7836571',
+  name : 'shukatu2ch',
+  charset : 'utf8',
+  url : 'http://pathtimeblog.com/',
+  title : '2ch就活まとめ',
+  blog_design: {
+      version: 1
+  },
+  blog_category: {
+    id: '243',
+    permalink: 'https://blog.livedoor.com/category/243/',
+    name: 'まとめ(総合) > まとめ',
+    is_adult : 0,
+    is_gambling : 0,
+    hierarchy: [{ id: '431', name: 'まとめ(総合)', permalink: 'https://blog.livedoor.com/category/431/' },{ id: '243', name: 'まとめ', permalink: 'https://blog.livedoor.com/category/243/' }]
+  },
+  current_page : {
+    type : 'article',    page : ''
+  },
+  articles : [ {
+       id : '6383472',
+       permalink : 'http://pathtimeblog.com/archives/6383472.html',
+       title : '就職の良さと学歴は比例しない？ \t',
+       categories : [ { id:'155967', name:'学歴', permalink:'http://pathtimeblog.com/archives/cat_155967.html' }, { id:'', name:'', permalink:'' } ],
+       date : '2018-01-17 18:02:45'
+}   ]
+};
+//-->
+</script><div id="analyzer_tags" style="display:none">
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/c2.js?v=20191010"></script>
+<script type="text/javascript">blog_counter('shukatu2ch', 7836571, 'http://pathtimeblog.com/')</script>
+</div><script type="text/javascript" src="https://parts.blog.livedoor.jp/js/smartphone.js?v=20200824"></script>
+<script type="text/javascript" src="http://pathtimeblog.com/settings/header.js?v=20190705"></script><script type="text/javascript" src="http://pathtimeblog.com/settings/ad.js"></script>
+<script type="text/javascript">
+var palette_src = 'https://parts.blog.livedoor.jp/img/emoji/3/palette.png';
+if (typeof IMAGE_CACHE == 'object' && IMAGE_CACHE['emoji_palette']) IMAGE_CACHE['emoji_palette'].src = palette_src;
+</script>
+
+<!-- Blog Common Header // -->
+<!-- // Blog Common Header -->
+<!-- 共通ヘッダー表示 -->
+
+<!-- ブログタイトル はじまり-->
+<header id="blog-header">
+
+    <div id="blog-header01">
+
+        <div class="header-inner01 show-image hide-text">
+
+            <hgroup>
+                <!--ブログタイトル　はじまり-->
+                <h1 id="blog-title"><a href="http://pathtimeblog.com/">2ch就活まとめ</a></h1>
+                <!--ブログタイトル　ここまで-->
+                <!--ブログ説明　はじまり-->
+                <h2 id="blog-description">新卒・転職・社会人生活などを含め、就活・就職に関することをまとめてます。</h2>
+                <!--ブログ説明　ここまで-->
+            </hgroup>
+
+            <a href="http://pathtimeblog.com/"><img src="https://resize.blogsys.jp/727db0f9da9f42eb7d26b703338c30b3eef0157c/trim2/0x243_94p_1200x388/http://livedoor.blogimg.jp/shukatu2ch/imgs/0/5/055bbafe.jpg" id="blog-header-image" /></a>
+
+            <div id="blog-header02">
+                <div class="header-inner02">
+                    <ul class="header-menu">
+                        <li><a href="http://pathtimeblog.com/">HOME</a></li><!--メニューを入れてください-->
+                        <li class="ldb_menu-item-url"><a href="http://blog.livedoor.jp/shukatu2ch/archives/6126504.html">ABOUT</a></li><!--メニューを入れてください-->
+                        <li><a href="mailto:shukatumatome@gmail.com">お問い合わせ</a></li><!--メニューを入れてください-->
+                    </ul>
+                    <ul class="header-sarch">
+                        <li><a href="http://twitter.com"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_twitter.png" alt="Twitter" /></a></li><!--Twitter-->
+                        <li><a href="http://pathtimeblog.com/index.rdf"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_rss.png" alt="RSS" /></a></li><!--RSS-->
+                        <li>
+                        <form action="http://pathtimeblog.com/search" method="GET" style="padding:0;margin:0px;">
+                        <input type="TEXT" name="q" class="sf">
+                        <input type="SUBMIT" value="検索" class="sfbtn">
+                        </form>
+                        </li><!--検索窓-->
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</header>
+<!-- /ブログタイトル ここまで-->
+
+
+<!-- コンテンツエリア はじまり-->
+<div id="wrapper">
+
+    <!-- コンテンツ全体 はじまり-->
+    <div id="container">
+
+        <!-- 相互RSS はじまり-->
+        <div class="rss-blogroll">
+
+            <!-- 相互RSSを設置する場合の注意事項
+                コードに含まれる以下のCSSは外して設置してください
+                http://blogroll.livedoor.net/css/default2.css -->
+
+                 <!-- 相互RSSのコード ひとつ目-->
+            <script type="text/javascript">
+            <!--
+                   var blogroll_channel_id = 255242;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード ふたつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 265945;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード みっつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 255442;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href= />
+        </div>
+        <!-- 相互RSS ここまで-->
+
+        <!-- コンテンツの箱の中　真ん中728px はじまり-->
+        <div class="main-container">
+            <div class="main-column-inner">
+<br>
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+<br>
+                <!-- メッセージボード -->
+                 
+
+
+
+                <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://pathtimeblog.com/archives/6383472.html"
+    trackback:ping="http://trackback.blogsys.jp/livedoor/shukatu2ch/6383472"
+    dc:title="就職の良さと学歴は比例しない？ 	"
+    dc:identifier="http://pathtimeblog.com/archives/6383472.html"
+    dc:subject="学歴"
+    dc:description="1: 名無しなのに合格  2017/12/10(日) 22:05:06.64 ID:Qfa5OM+e 例えば千葉大と明治で学歴は段違いだけど就職は互角だったり  学歴、社会的な印象をとるか就職をとるか "
+    dc:creator="shukatu2ch"
+    dc:date="2018-01-17T18:02:45+09:00" />
+</rdf:RDF>
+-->
+<div id="ad_rs" class="ad_rs_b"></div><!-- 記事のトラックバック・オートディスカバリー -->
+
+
+                <!-- 記事 はじまり-->
+                <article class="article first-article" itemscope itemtype="http://schema.org/BlogPosting">
+
+                    <!-- 記事タイトル　記事下の情報　はじまり-->
+                    <header class="article-header">
+
+                        <h1 class="article-title" itemprop="name"><a href="http://pathtimeblog.com/archives/6383472.html" itemprop="url">就職の良さと学歴は比例しない？ 	</a></h1><!-- 記事のタイトル -->
+
+                            <!-- 記事下の記事情報 はじまり-->
+                            <div class="article-header-inner">
+
+                                <!-- 記事情報の上の行 はじまり-->
+                                <div class="article-header-top">
+                                <p class="article-header-date"><time datetime="2018-01-17T18:02:45+09:00" pubdate="pubdate">2018年01月17日</time></p>
+                                
+                                <ul class="article-header-category">
+                                    <li>
+                                        <dl><dt>カテゴリ:</dt><dd class="article-category1"><a href="http://pathtimeblog.com/archives/cat_155967.html">学歴</a></dd></dl>
+                                    </li>
+                                </ul>
+                                
+
+                                <!-- 記事の評価アイコン はじまり-->
+                                
+                                <!-- 記事の評価アイコン ここまで-->
+
+                                </div>
+                                <!-- 記事情報の上の行 ここまで-->
+                                <!-- ソーシャルボタン　はじまり -->
+                                <ul class="article-social-btn">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/6383472.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/6383472.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="就職の良さと学歴は比例しない？ 	 - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=%E5%B0%B1%E8%81%B7%E3%81%AE%E8%89%AF%E3%81%95%E3%81%A8%E5%AD%A6%E6%AD%B4%E3%81%AF%E6%AF%94%E4%BE%8B%E3%81%97%E3%81%AA%E3%81%84%EF%BC%9F%20%09%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/6383472.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/6383472.html" data-text="就職の良さと学歴は比例しない？ 	 - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F6383472.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                                </ul>
+                                 <!-- ソーシャルボタン　ここまで -->
+                            </div>
+                            <!-- 記事下の記事情報 ここまで-->
+
+                    </header>
+                    <!-- 記事タイトル　記事下の情報　ここまで-->
+
+
+
+                    <!-- 記事本文 はじまり-->
+                    <div class="article-body">
+                        <div class="article-body-inner">
+<!-- 参加している共通テーマの表示 -->
+                        <div  class="t_h">1: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/10(日) 22:05:06.64 ID:Qfa5OM+e</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;color:#0000cd;"> 例えば千葉大と明治で学歴は段違いだけど就職は互角だったり <br /> 学歴、社会的な印象をとるか就職をとるか </div><br />
+<!-- Generated by 2chまとめくす (http://2mtmex.com/) --><!-- 本文 --><div class="article-body-more" id="more"><div  class="t_h">2: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/10(日) 22:07:10.18 ID:mCZvnwUs</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;"> 千葉大と明治は学歴にほぼ差ないやろw 何を言ってるんだか </div><br />
+<div  class="t_h">3: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/10(日) 22:08:15.95 ID:fCSeZj5T</span></div>
+<div  class="t_b" style="font-size:16px;line-height:24px;"> 『2017　AERA　MOOK　親子で探す　就職力で選ぶ大学／朝日新聞出版』　より <br />  <br /> ≪銀行・証券≫の学生人気TOP10企業　就職者数　国公立大学編 <br /> (　）はうち銀行7社の人数（証券3社は野村，大和，SMBC） <br /> ※東大は非回答 <br /> 113人　京都大(88) <br /> 110人　大阪大(96) <br /> 104人　神戸大(85) <br /> 102人　一橋大(88) <br /> 65人　東北大(60) <br /> 57人　&lt;公&gt;大阪市立大(49) <br /> 51人　名古屋大(43) <br />  <br /> 47人　横浜国立大(25) <br /> 43人　北海道大(33) <br /> 41人　九州大(28) <br /> 36人　埼玉大(27) <br /> 34人　広島大(27) <br /> 31人　東京外国語大(21) <br /> 28人　筑波大(17) <br /> 27人　岡山大(22)、&lt;公&gt;首都大東京(19)、&lt;公&gt;大阪府立大(23) <br /> 25人　滋賀大(22) <br /> 19人　和歌山大(15)、&lt;公&gt;高崎経済大(15) <br /> 17人　新潟大(8) <br /> 15人　金沢大(11)、&lt;公&gt;横浜市立大(9) <br /> 14人　熊本大(8) <br /> 11人　お茶の水女子大(6)、奈良女子大(7) <br />  <br /> 8人　山口大(5) <br /> 7人　福島大(5)、信州大(5)、&lt;公&gt;兵庫県立大(3) <br /> 6人　&lt;公&gt;北九州市立大(3) <br /> 5人　富山大(1)、島根大(1)、香川大(3)、&lt;公&gt;下関市立大(3) <br /> 4人　茨城大(2)、鹿児島大(1)、&lt;公&gt;釧路公立大(0)、&lt;公&gt;国際教養大(2) <br /> 3人　秋田大(2)、東京学芸大(3)、岐阜大(2)、&lt;公&gt;京都府立大(2)、&lt;公&gt;長崎県立大(1) <br /> 2人　宇都宮大(1)、群馬大(1)、千葉大(0)、三重大(2)、愛媛大(0)、&lt;公&gt;都留文科大(0) <br />  <br /> ・調査概要「2017年卒マイナビ大学生就職企業人気ランキング」の「業種別就職人気企業ランキング」をもとに、本誌が人気企業140社を選択し、就職者数を調査した。 <br /> ・調査対象は主要大学211（国立51、公立20、私立140）の2016年卒業者（一部15年6，9月卒を含む） <br /> ※比較の際は教育学部教員養成課程を除いた文系学部・学科の設置とその入学定員（≠前後期入試の募集人員）に注意 </div><br />
+<div  class="t_h">4: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/10(日) 22:12:10.27 ID:3bxMC7co</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;"> 慶応の就職のよさは内部を中心としたコネによるものだしな <br /> コネないとかなり悲惨 </div><br />
+<div  class="t_h">14: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/10(日) 23:12:36.08 ID:MaVYV4k5</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;4</span> <br /> 俺はコネ無しだけどcore30行けたぞ </div><br />
+<div  class="t_h">7: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/10(日) 22:25:37.37 ID:sG4viQ77</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;"> 慶應内部はコネって言われてるけど幼稚社以外は普通の親が大半だぞ ちょい金持ちのリーマン家庭とか <br /> 慶應の強さは三田会よ </div><br />
+<div  class="t_h">8: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/10(日) 22:28:24.58 ID:VRv1bjc+</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;7</span> <br /> それはお前のリサーチ不足 <br /> コネ使うやつは表だって言わないからね </div><br />
+<div  class="t_h">5: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/10(日) 22:24:02.21 ID:SzFjp7Zh</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;color:#db7093;"> 同志社は就職いいぞ </div><br />
+<div  class="t_h">6: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/10(日) 22:24:57.05 ID:SzFjp7Zh</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;color:#db7093;"> 偏差値の割に </div><br />
+<div  class="t_h">12: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/10(日) 22:56:14.94 ID:NpmTZ7nJ</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;"> そもそも明治と千葉大にそこまで差があるとは思えない <br /> あと文系なら就職は明治のがいいんじゃない？ </div><br />
+<div  class="t_h">13: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/10(日) 22:59:52.29 ID:N7je60YO</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;12</span> <br /> 文系ならむしろ明大のが就職良い </div><br />
+<div  class="t_h">15: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/10(日) 23:30:09.75 ID:8pHpH6RP</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;"> 東大理学系研究科より電農名繊機電の方が就職いいし学科によりけりやな </div><br />
+<div  class="t_h">17: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/10(日) 23:57:21.13 ID:kAWUFjLG</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;15</span> <br /> それはない </div><br />
+<div  class="t_h">18: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/11(月) 00:05:12.28 ID:t2WXtIdG</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;17</span> <br /> いやあるぞ <br /> 理学部特に数学科は就職悪い <br /> 理学部 院 就職で検索してみれば闇が見えるぞ </div><br />
+<div  class="t_h">19: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/11(月) 00:38:31.29 ID:7t0DBbrn</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;"> そもそもお前就職実績っていう言葉誤解してないか？そういう就職の統計なんて基本的に <br /> 「どういう企業に入ったのか」ではかられるんだよ。 <br /> 千葉大生の４割くらいは公務員になったり教員になったりして <br /> 残った人が就活をするわけだぞ <br /> 明治大で教員とか公務員になる人なんて１割じゃくだから <br />  <br /> 千葉大生の６割の就活生と明治大生の９割の就職実績が変わらないということは <br /> 明治は千葉大にぼろ負けしているということやな </div><br />
+<div  class="t_h">28: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/11(月) 07:39:16.24 ID:DEJcISO5</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;19</span> <br /> 今は公務員の方が勝ち組だしな </div><br />
+<div  class="t_h">25: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/11(月) 04:16:25.04 ID:QacN24Xh</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;"> 以前、俺が受サロに立てたスレ <br />  <br /> 「早慶の就職実績が良いのはコネによるもの」ということを証明しようぜ！ <br /><span  style="font-size: x-large;"><i>※別記事：<a  target="_blank" href="http://blog.livedoor.jp/shukatu2ch/archives/6383321.html">http://blog.livedoor.jp/shukatu2ch/archives/6383321.html</a></i></span><br />  <br /> 結局、証明できた奴はいなかったんだがね </div><br />
+<div  class="t_h">27: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/11(月) 06:18:59.53 ID:1p9t03/C</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;25</span> <br /> 早稲田はともかく慶応の就職はコネによるところが大きいよ <br /> 中に入ればわかる <br /> 慶応に外部から入るのはコネがない限り得策ではない </div><br />
+<div  class="t_h">29: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/11(月) 07:50:41.93 ID:sVEe9C8Q</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;color:#ffa500;"> 難関大入っても就活上手くいってない身としては学歴なんか関係ないと信じて自分を正当化したい </div><br />
+<div  class="t_h">31: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/11(月) 08:24:29.15 ID:pKawyEBI</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;color:#dc143c;"> コネのソースなんてばらしたら個人特定もいいところじゃん <br /> そもそもコネが見えないようにやるのがコネなんだし <br /> 普通に中から見てたらわかる <br /> 実力不相応にいいところに行っているやつは親や親戚の息のかかったところに行っている </div><br />
+<div  class="t_h">32: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/11(月) 08:35:14.23 ID:PomK83uF</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;"> 俺は内部にいるけどそんなの見かけないけどね <br /> そもそも就活に影響を与えるほどのコネ持ちなんて本当に数少ないよ <br /> しかもそんなやつらは慶應以外にも東大にも早稲田にもいるだろ <br /> 別に偏差値や性犯罪で悪く言うのは構わないけど嘘ついてまで慶應を貶すのは気分が悪い </div><br />
+<div  class="t_h">41: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/11(月) 11:39:29.59 ID:unDVHBtn</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;32</span> <br /> そりゃ、目を瞑れば見えないわなw </div><br />
+<div  class="t_h">34: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/11(月) 08:41:23.52 ID:eGh/Aoom</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;"> 千葉大法政経学部 進路 <br /> 進学 17 就職 301 その他 51 <br />  <br /> 微妙じゃん </div><br />
+<div  class="t_h">36: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/11(月) 10:14:40.91 ID:vdlwAEqM</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;color:#dc143c;"> 慶応の就職はコネって言われても中小ブラックに吸い込まれていったりNNTで卒業した普通部上がり塾高上がりを何人も見てきたからそうは思えませんわ <br /> 慶応の内部ってその大半が高入やけど高校から慶応（早稲田もやけど）入るのってSAPIXとか早稲田アカデミーとかで勉強した優秀なそこそこ裕福な家庭の中学生やで <br /> 日比谷とかと変わらん </div><br />
+<div  class="t_h">37: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/11(月) 10:20:34.56 ID:vdlwAEqM</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;"> ああそういえば内部も外部もほとんどコネ持ちはいないけど強いて言うなら地方出身外部は持ってる人何人か見たわ <br /> ただし田舎の中小企業限定な <br /> 地方から慶大来てるような人のなかには中小企業の社長の息子娘が少しいたからな <br /> まあ中小企業は就職ランキングには影響を与えないから無視してもええけど </div><br />
+<div  class="t_h">38: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/11(月) 10:38:33.64 ID:DEJcISO5</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;"> 地方から高い学費払って上京できるのは親自営業が多いだろう </div><br />
+<div  class="t_h">45: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/11(月) 13:18:01.06 ID:RLXo6CDq</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;color:#ffa500;"> 明治と静大がだいたい同等やね </div><br />
+<div  class="t_h">46: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/11(月) 13:20:59.45 ID:GWBkipaD</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;"> 早慶の上位層の就職は確かにすごいけど下位はマジで目も当てられないくらい悲惨だぞ <br /> 早慶っていうか早の話になるのかな </div><br />
+<div  class="t_h">47: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/11(月) 16:22:09.98 ID:cf1jygSY</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;"> 早稲田はマジで学部間格差激しいからな <br /> もっと受験生に周知させたほうがいい </div><br />
+<div  class="t_h">49: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/12(火) 00:27:19.01 ID:NWlL19jO</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;"> 慶應ぼく「慶應が就職が良い理由はコネだよ。間違いない」 <br />  <br />  <br /> 慶應コネあり「(頼むから黙っておいてくれ)」 </div><br />
+<div  class="t_h">51: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/12(火) 12:20:54.43 ID:dPyGL730</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;49</span> <br /> 慶応って歴史サークルいくつあるんや？ <br /> ワイのトッモが慶応の歴史サークル入ったらしいけど </div><br />
+<div  class="t_h">52: <span  style="color: rgb(124, 199, 84);">上智マン ◆2gW3rzsajU </span> <span  style="color: gray;"> 2017/12/12(火) 12:29:00.85 ID:XgmT+tIN</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;1</span> <br /> 千葉大と明治は、入試難易度も学歴も就職もほぼ同じだよ。工作活動かな？ </div><br />
+<div  class="t_h">53: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/12(火) 15:06:01.12 ID:3dpt8yWr</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;"> でも明治の就職は関学、青学、学習院より下だけどね。 </div><br />
+<div  class="t_h">54: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/12(火) 16:10:24.27 ID:FHtblx4R</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;color:#800080;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;52</span> <br /> 学歴とか学力でみたら、千葉は上智より上だよ。 <br /> 科目差とか倍率(複数受験の可否)なんかを考えればね。 </div><br />
+<div  class="t_h">55: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/12(火) 16:43:30.71 ID:FHtblx4R</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;color:#800080;"> さらに言うと、上智の河合塾偏差値より合格者平均は低く、辞退率が高いため入学者偏差値は大きく下がる。 <br />  <br /> 国立大は河合塾偏差値より合格者平均偏差値が高い傾向があるが、千葉大は同じくらい。 </div><br />
+<div  class="t_h">57: <span  style="color: rgb(124, 199, 84);">上智マン ◆2gW3rzsajU </span> <span  style="color: gray;"> 2017/12/12(火) 21:16:46.20 ID:838qnijC</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;54</span> <br /> へえ。じゃあ実際の河合塾のデータを見てみようか。 <br />  <br /> 首都法(センター国英社、二次国英) 偏差値57.5 <br /> 明治法(国英社) 偏差値60.0 <br />  <br /> よって明治≒首都が言える。 <br />  <br /> 首都経済 偏差値57.5 <br /> 千葉法政経 偏差値57.5 <br />  <br /> よって首都≒千葉が言える <br />  <br /> したがって千葉≒明治なのでは？ </div><br />
+<div  class="t_h">58: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/13(水) 08:44:20.20 ID:Uw/4+B01</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;"> <a  href="http://m.imgur.com/gallery/0zSFY" target="_blank">https://m.imgur.com/gallery/0zSFY</a> <br /> 上は去年の河合塾合格者平均だが、上智とかマーチは辞退者が多く、入学者の学力は大きく下がる。 <br /> 昔の駿台入学者偏差値を参考にすると、マイナス5くらい。 </div><br />
+<div  class="t_h">56: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/12(火) 17:27:29.29 ID:GnWFaDem</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;"> 神奈川県での評価 <br /> 早慶&gt;横国=神戸=上智&gt;首都=広島=マーチ&gt;千葉=明学獨協. <br />  <br /> 千葉県での評価 <br /> 早慶&gt;千葉=神戸=上智&gt;首都=広島=マーチ&gt;横国=明学獨協 <br />  <br /> 上京する人はこれに注意 </div><br />
+<div  class="t_h">61: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/14(木) 08:53:15.99 ID:vXPkBF3/</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;"> 慶応のコネってほとんどは中小企業の社長息子が就活に失敗して親の会社にしゃあなしで入るとかその程度やで <br /> 内部のコネとかいうけど内部生の大半は高入でそいつらは日比谷翠嵐入学者と家柄変わらん </div><br />
+<div  class="t_h">62: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/14(木) 10:34:14.28 ID:E7vY0WVD</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;"> コネとか言ってる奴、なんかソースあるの？ <br /> ただお前らに実力が全くないから嫉妬してるだけだろ？ </div><br />
+<div  class="t_h">63: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/14(木) 12:06:44.02 ID:7xOAevii</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;"> ソースありまくりだよw <br /> 個人特定するから公開することはしない <br /> 基本的に一部上場に行くやつにコネなしは見当たらない <br /> コネのないやつは子会社とか男でも一般職等悲惨なのが多い <br /> 確かに、コネも実力のうち <br /> しかし、コネがないなら慶応に行くべきではない <br /> 平等に競争させてくれる早稲田や国立に行くべき </div><br />
+<div  class="t_h">65: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/14(木) 12:16:56.52 ID:NL6+QuLP</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;63</span> <br /> ワッセと慶応で企業の評価が大きく変わるわけないやろw <br /> なんで早稲田にそこまで肩入れするんや <br /> 早慶ってまとめるならともかく </div><br />
+<div  class="t_h">66: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/14(木) 14:32:58.99 ID:E7vY0WVD</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;"> つまり「ソースは俺」ってことだよな。 <br /> こんな珍プレー野郎がいい企業に採用されることはないわな。 </div><br />
+<div  class="t_h">68: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/15(金) 02:04:19.41 ID:ItWUyTrh</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;"> 早稲田は学生が多いから、一定の枠を同じ大学の生徒同士で奪い合うから惨い。 <br /> 早稲田だったら慶応、慶応だったら一橋。このランクだったら小規模校の方が有利。ただ、上智、ICUになるとまた話は違うが。 </div><br />
+<div  class="t_h">69: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/15(金) 18:47:19.63 ID:OP/4drdX</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;"> よく言われる大学ごとの採用枠設定してる企業ほとんどないよなあるとしたらがっつり学閥で分かれてるような伝統企業くらいじゃない？ <br /> さもそれが常識のように語るやついるけど人数とか見ててもほとんどの企業は普通に全体から有能な順に選んでるとしか思えない </div><br />
+<div  class="t_h">71: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/16(土) 01:38:28.54 ID:vpiU+p48</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;color:#ff0000;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;69</span> <br /> 正確に言うと採用枠というよりも青田枠。青田枠で特定の大学学部を抑えておいて、残りは有能な順に取っていくというイメージ。 <br /> 俺の知っている大学学部の青田枠があるのは（昔の話だけれど）日銀、政投銀、国際協力銀行、メガバンク、五大商社あたりかな。 </div><br />
+<div  class="t_h">74: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/18(月) 20:46:35.86 ID:RyYu5DkG</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;69</span> <br /> 採用数まで管理されてるとこはすくないかもしれないが、 <br /> リクルーター制度や重点採用大学を設定してる企業はかなり多い <br /> トップ20弱の大学が超有利で、それ以外の大学はオープン選考で倍率100～300倍 </div><br />
+<div  class="t_h">73: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/17(日) 02:58:02.35 ID:MWlbH7Dn</span></div>
+<div  class="t_b" style="font-size:16px;line-height:24px;"> &lt;&lt;企業に選ばれる知力・学力大学ランキング&gt;&gt; <br /> <a  href="http://i.imgur.com/60wnnBW.jpg" target="_blank" class="image">https://i.imgur.com/60wnnBW.jpg</a> <br /> *□国公立■私立 <br />  <br /> □01 東京大学 <br /> □02 京都大学 <br /> □03 一橋大学 <br /> □04 東京工業大学　 <br /> □05 大阪大学　 <br /> □06 九州大学 <br /> □07 名古屋大学　 <br /> □08 東北大学　 <br /> ■09 慶應義塾大学　 <br /> □10 横浜国立大学　 <br /> □11 名古屋工業大学 <br /> □12 大阪府立大学 <br /> □13 千葉大学　 <br /> □13 北海道大学　 <br /> □15 東京農工大学　 <br /> ■16 早稲田大学 <br /> □17 筑波大学　 <br /> ■18 東京理科大学 <br /> □19 広島大学　 <br /> □20 京都工芸繊維大学　 </div><br />
+<div  class="t_h">75: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/18(月) 22:47:27.82 ID:HUnwwxY8</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;"> 早慶がコネとかアホらしい <br />  <br /> トヨタ自動車社長は慶應で創業者一族 <br /> サントリーは慶應で創業者一族 <br /> 安倍首相は成蹊大学で神戸製鋼所 <br />  <br /> 知られている有名なコネは多くない <br /> 大多数はコネなしの学生 <br />  <br /> コネを言うお前らは東大　京大の就職もコネというのか？ <br /> 関係ないだろ、大企業就職率はこの４校に大きな違いはない <br /> 私立になると突然コネを主張する <br />  <br /> 俺の知り合いの早慶の奴は郵便配達人の息子 <br /> 就活ではリクルーターがついて、だれでも知っている大企業に就職した <br /> お前らこの親にどんなコネがあるというの？ <br /> コネじゃない、早慶という学歴なら大企業に優先して採用される <br /> これが現実 </div><br />
+<div  class="t_h">76: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/18(月) 23:07:14.46 ID:m0Q4KmvZ</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;"> 確かに早稲田はそんなにコネはないね <br /> しかし、慶応は多いね <br /> 慶応でコネの無いやつは悲惨 </div><br />
+<div  class="t_h">77: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/18(月) 23:15:50.73 ID:ap4dx4A8</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;color:#ff0000;"> 慶應で就職悲惨だったらマーチとかどうなっちゃうんですかね </div><br />
+<div  class="t_h">78: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/18(月) 23:23:13.10 ID:HUnwwxY8</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;"> 東大　京大　早稲田　慶應の４校を比べれば東大　京大より <br /> 早稲田　慶應のほうが大企業就職率が高い、これは早慶は <br /> 東大　京大より民間志向が多いことによる <br />  <br /> 採用でいえば東大　京大となれば大企業から直接電話で弊社の <br /> 採用試験を受けませんかという勧誘が来るので早慶より採用の <br /> 優先順位は高いと言える、一橋　東工大も早慶より就職は強い <br />  <br /> ８００校もある大学でこの４校に次いで就職に強いのが早稲田　慶應 <br /> そのブランド力は半端ない、ほぼどんな学歴フィルターでも通過できる <br />  <br /> 早慶はコネというのは根拠のない脳内妄想、東京一工でなければ早慶 <br /> 圧倒的な就職力は不変。 </div><br />
+<div  class="t_h">79: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/19(火) 01:03:51.32 ID:8TNRWWeC</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;"> 東大京大　学歴◎　就職◎　→　比例する <br /> 早慶　学歴△　就職○　→　比例しない </div><br />
+<div  class="t_h">80: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/19(火) 01:34:09.52 ID:OdYmFG+E</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;"> 慶応の就職先がいいというのは幻想 <br /> 入ってみてから気づいたのでは遅い </div><br />
+<div  class="t_h">83: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2017/12/21(木) 01:07:32.92 ID:RRvOVFhi</span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;"> マッキンゼーのHPに出ているコンサルタントって、学部レベルは東大と慶応しかいない。早稲田卒が一人もいない。 <br /> 東大しかいないというのならば分かるのだが、慶応は大量にいるのに、早稲田が皆無なのは、早稲田出身の俺としてはショックだ。 </div><br /><br /><div  align="right"><span  style="font-size: x-small; color: rgb(153, 153, 153);">引用元：http://medaka.5ch.net/test/read.cgi/jsaloon/1512911106</span><br /></div>
+
+</div>
+                        
+<!-- タグのリスト表示セット -->
+                        </div>
+<br>
+
+
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=2Z8HPD+9K4KFM+34FI+NUES2" alt="">
+                    </div>
+                    <!-- 記事本文 ここまで-->
+
+
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HV7V6" alt="">
+
+
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www26.a8.net/svt/bgt?aid=190821728180&wid=001&eno=01&mid=s00000011866017004000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" alt=""></td>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+3257OY+3Y6M+601S1" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www24.a8.net/svt/bgt?aid=190821728185&wid=001&eno=01&mid=s00000018427001008000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=35LYZK+3257OY+3Y6M+601S1" alt=""></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+
+
+                    <!-- 記事フッター、コメント、ソーシャルボタン -->
+                    <footer class="article-footer">
+                        <div class="article-footer-comment">
+                            
+                                <a href="http://pathtimeblog.com/archives/6383472.html#comments">0コメント</a>
+                            
+                        </div>
+                        <div class="article-social-btn">
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HVFKY" alt="">
+
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/6383472.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/6383472.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="就職の良さと学歴は比例しない？ 	 - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=%E5%B0%B1%E8%81%B7%E3%81%AE%E8%89%AF%E3%81%95%E3%81%A8%E5%AD%A6%E6%AD%B4%E3%81%AF%E6%AF%94%E4%BE%8B%E3%81%97%E3%81%AA%E3%81%84%EF%BC%9F%20%09%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/6383472.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/6383472.html" data-text="就職の良さと学歴は比例しない？ 	 - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F6383472.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                        </div>
+                    </footer>
+                    <!-- /記事フッター、コメント、ソーシャルボタン -->
+
+
+                    <!-- カテゴリの最新記事表示 はじまり-->
+                    <div class="article-sub-category">
+                        <div id="ldblog_related_articles_842dcddc">
+
+<div class="related-articles ldblog_related_articles_842dcddc" data-category-id="155967" data-article-rows="5">
+<h3>「学歴」カテゴリの最新記事</h3>
+<ul id="ldblog_related_articles_842dcddc_155967"></ul>
+</div>
+</div>
+<script type="text/html" id="ldblog_related_articles_842dcddc_tmpl">
+<% for(var i=0,l=articles.length;i<l;i++) {%><% if(i>=rows) break; %>
+<li><a href="<%=articles[i].permalink%>"><%=articles[i].title%></a></li>
+<% } %>
+</script>
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/related_articles.js?t=20180221"></script>
+<script type="text/javascript">
+(function(){
+RelatedArticles.load('ldblog_related_articles_842dcddc', '6383472');
+})();
+</script>
+<!-- 関連記事の表示 -->
+                    </div>
+                    <!-- /カテゴリの最新記事表示 ここまで-->
+
+
+
+
+                    <div id="ad2"></div><!-- 広告表示 -->
+
+                    <!-- 記事オプション はじまり-->
+                    <div class="article-option" id="article-options">
+
+                        <!-- コメントエリア　はじまり -->
+                        
+                        <section id="comments">
+                        
+                        <h1 class="comment-form-title">コメントする</h1>
+<div class="article-option" id="comment-form">
+    <form
+      action="https://comment.blogcms.jp/livedoor/shukatu2ch/6383472/post"
+      method="post"
+      name="comment_form"
+          id="comment-form-body"
+      onsubmit="setCommentAuthor(this); return submitOnce(this.button);"
+    >
+    <fieldset>
+        <legend>コメントフォーム</legend>
+    <dl class="comment-form-author">
+        <dt><label for="comment-form-author">名前</label></dt>
+        <dd id="comment-author-form"><input type="text" class="text" id="comment-form-author" name="author" required="required" value="" /></dd>
+    </dl>
+  <dl class="comment-form-body">
+    <dt><label for="comment-form-textarea">コメント</label></dt>
+    <dd>
+      <textarea id="comment-form-textarea" name="body" rows="7" required="required"></textarea>
+      <div id="comment-form-tools">
+        <span class="facemark"><a href="javascript:void(0);" id="emojiLink1" onClick="showEmojiPanel(this.id, 'comment-form-textarea')"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/icon_facemark.png" /></a></span>
+        <span class="rating">
+                    <input type="hidden" name="rating" value="">
+                    <input type="hidden" name="rating_icon" value="star">
+                    <div class="rating-value">
+                        <span id="default-rating-value">評価する</span>
+                        <div class="caret"><span></span></div>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/face/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/face/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/face/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/face/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/face/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/star/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/star/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/star/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/star/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/star/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                    </div>
+                    <div class="rating-icon">
+                        <div data-value="face">顔</div>
+                        <div class="selected" data-value="star">星</div>
+                    </div>
+        </span>
+        <span class="submit"><button type="submit">投稿する</button></span>
+        <span class="memorize"><label for="bake"><input type="checkbox" id="bake" name="cookie" /> 情報を記憶</label></span>
+      </div>
+    </dd>
+  </dl>
+  </fieldset>
+  </form>
+  <script type="text/javascript" src="https://parts.blog.livedoor.jp/js/comment.0.2.js?v=20130430"></script>
+  <script type="text/javascript">
+    loadCommentAuthor(document.comment_form);
+    ldblogComment.init();
+  </script>
+<!-- /#comment-form --></div><!-- コメント投稿フォーム -->
+
+
+                        </section>
+                        
+                        <!-- コメントエリア　ここまで -->
+
+
+                        <!-- トラックバック受け付け　はじまり -->
+                        
+                        <!-- トラックバック受け付け　ここまで -->
+
+                    </div>
+                    <!-- 記事オプション ここまで-->
+
+                </article>
+                <!-- 記事　ここまで -->
+
+
+                <!-- ページ送り はじまり-->
+<!-- Article Pager // -->
+  <div class="pager article-pager-type2">
+    <div class="pager-inner">
+    <div class="article-pager-outer">
+    <ul class="article-pager"><li class="prev"><a href="http://pathtimeblog.com/archives/6383321.html" title="「早慶な就職実績が良いのはコネによるもの」ということを証明しようぜ！">&nbsp「早慶な就職実績が良いのはコネによるもの」ということを証明しようぜ！</a></li><li class="next both"><a href="http://pathtimeblog.com/archives/6376498.html" title="【朗報】ワオ大卒ニート、スーパーに内定をもらう 	">【朗報】ワオ大卒ニート、スーパーに内定をもらう 	&nbsp</a></li>    </ul>
+    </div>
+    </div>
+  </div>
+<!-- // Article Pager -->
+
+                <!-- /ページ送り ここまで-->
+
+            </div><!-- /main-column-inner-->
+        </div>
+        <!-- コンテンツの箱の中　真ん中728px ここまで-->
+
+
+        <!-- コンテンツの箱の中　左側200px はじまり-->
+        <aside class="left-container">
+            <div class="left-column-inner">
+            
+
+
+
+<div class="plugin-popular_articles sidewrapper">
+  <div class="sidetitlebody">
+    <div class="sidetitle">人気記事</div>
+  </div>
+  <div class="sidetop"></div>
+  <div class="side">
+
+
+    <div class="popular-articles">
+      <table id="populararticles-472933"></table>
+      <div class="popular-articles-freearea"></div>
+    </div>
+  </div>
+
+  <div class="sidebottom"></div>
+</div>
+
+<script type="text/javascript" language="javascript"><!--
+(function(){
+  var url = 'http://pathtimeblog.com/archives/popular_articles.json'
+         + '?rangetype=custom'
+         + '&from=0'
+         + '&range=13'
+         + '&limit=50'
+         + '&offset=0'
+         ;
+
+  var callback = function(data) {
+    var table = document.getElementById('populararticles-472933');
+    for (i = 0; i < data.articles.length; i++) {
+      var rank = i + 1;
+      var prefix = 'populararticles-472933-'+ rank;
+
+      var row = table.insertRow(-1);
+      var elm1 = row.insertCell(-1);
+      elm1.className = 'populararticles-rank';
+      elm1.innerHTML = '<span><b>' + rank + '</b></span>';
+      var elm2 = row.insertCell(-1);
+      elm2.className = 'populararticles-title';
+      elm2.innerHTML = '<a href="' + data.articles[i].url + '?ref=popular_article&id=7836571-472933">' + data.articles[i].title + '</a>'
+      ;
+
+    }
+  };
+
+  var xhr = (function () {
+      if (window.XMLHttpRequest)
+        return new XMLHttpRequest();
+      else {
+        var msxml = [
+          "Msxml2.ServerXMLHTTP.6.0", "Msxml2.ServerXMLHTTP.5.0", "Msxml2.ServerXMLHTTP.4.0", "Msxml2.ServerXMLHTTP.3.0",
+          "Msxml2.ServerXMLHTTP", "Microsoft.ServerXMLHTTP", "Msxml2.XMLHTTP.6.0", "Msxml2.XMLHTTP.5.0",
+          "Msxml2.XMLHTTP.4.0", "Msxml2.XMLHTTP.3.0", "Msxml2.XMLHTTP", "Microsoft.XMLHTTP"
+        ];
+        for (var i = 0; i<msxml.length; i++ ){
+          try {
+            return new ActiveXObject(msxml[i]);
+          }
+          catch(e) { }
+        }
+        return null;
+      }
+  })();
+    
+  if (!xhr) return;
+  xhr.open('GET', url, true);
+  xhr.onreadystatechange = function () {
+    if (xhr.readyState == 4 && xhr.status == 200) {
+      eval('var ld_popular_articles_json = ' + xhr.responseText);
+      callback(ld_popular_articles_json);
+    }
+  };
+  xhr.send();
+
+})();
+//-->
+</script>
+
+<div class="plugin-recent_articles sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">最新記事</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27108137.html">21卒就活生ワイ、内定辞退でしこたま怒鳴られる</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/10257766.html">ニートって難しい資格取って仕事探そうとするけどさ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839910.html">【学歴フィルター】企業にとっての一流大学とは？【就職偏差値】</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839719.html">ワイニート歴2年、就職して初年度の年収500万円！！！！</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073431.html">あ、面接落ちたなってフラグ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073465.html">【悲報】上級国民大手企業様「下請けに仕事やらせてガッポリ中抜きｗ」→夏ボーナス92万5947円</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27075072.html">ワイ21卒、会社選びを間違ってしまったと後悔する</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027071.html">【悲報】キャリア採用の銀行員ワイ、周囲の人間があまりにも有能すぎてマジでドン引き……………………</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27063977.html">【速報】大学、終わる。　Googleが大卒資格を得られるコースを提供へ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027029.html">教師「Ｆ欄ＯＫです、公務員です、毎日定時で帰れます、年収700万です」←こいつが馬鹿にされる理由ｗ</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-recent_articles -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「A」設定のブログパーツ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　左側200px ここまで-->
+
+
+        <!-- コンテンツの箱の中　右側200px はじまり-->
+        <aside class="right-container">
+            <div class="right-column-inner">
+            
+
+
+
+<div class="plugin-categorize sidewrapper" id="plugin-categorize-457691">
+    <div class="sidetitlebody">
+        <div class="sidetitle">カテゴリー</div>
+    </div>
+    <div class="sidetop"></div>
+    <div class="side">
+
+
+      
+
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160301.html">就活準備 (243)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161699.html">自己分析 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161700.html">企業・業界研究 (66)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155971.html">資格 (39)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155966.html">選考 (254)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155977.html">インターン (23)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155978.html">説明会 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155975.html">ES (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155976.html">SPIなど (7)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155974.html">面接 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155972.html">内定 (222)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160304.html">NNT(無内定) (68)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160302.html">内定後・入社前 (110)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160308.html">アドバイス (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160460.html">入社後 (924)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220065.html">新卒 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220063.html">上司 (95)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_219473.html">社会人生活 (299)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160474.html">ブラック企業 (65)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160303.html">転職 (175)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163214.html">副業 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220667.html">収入 (102)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_299497.html">採用担当 (3)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_318465.html">第二新卒 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161711.html">学生生活 (46)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163247.html">浪人・留年 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155967.html">学歴 (119)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_223545.html">ニート (38)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155969.html">業界別 (314)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156035.html">金融 (34)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156099.html">建築・不動産 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160357.html">物流・運送 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160358.html">IT・メディア (55)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160359.html">エネルギー・資源 (1)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160310.html">自動車・機械 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160360.html">食品・小売 (14)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160311.html">公務員・準公務員 (89)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160356.html">サービス (21)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160473.html">その他 (42)</a>
+          
+        </div>
+        
+    
+        
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160476.html">その他 (472)</a>
+          
+        </div>
+        
+    
+    
+
+    </div>    
+    <div class="sidebottom"></div>
+</div><!-- // plugin-categorize -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+<a href="//blog.with2.net/link/?1955545"><img src="https://blog.with2.net/img/banner/banner_21.gif" title="人気ブログランキング"></a><br><a href="//blog.with2.net/link/?1955545" style="font-size: 0.8em;">人気ブログランキング</a>
+
+<div class="plugin-link sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">リンク集</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://0matome.com/" target="_blank">おまとめ</a></div>
+
+<div class="sidebody"><a href="http://2chnavi.net/allentries/?threshold=0" target="_blank">2chnavi</a></div>
+
+<div class="sidebody"><a href="http://http://iwashi.biz/" target="_blank">いわしアンテナ &gt;°))))彡</a></div>
+
+<div class="sidebody"><a href="http://2ch-2.net/" target="_blank"> つーアンテナ(*ﾟ∀ﾟ)</a></div>
+
+<div class="sidebody"><a href="https://ii-antenna.net/?about" target="_blank">いーあんてな(#ﾟｗﾟ)</a></div>
+
+<div class="sidebody"><a href="https://2ch-mi.net/" target="_blank">みーアンテナ（´∀｀）</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-link -->
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">検索</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="https://cse.google.com/cse.js?cx=014565878756483497884:urusxdcjffe"></script>
+<div class="gcse-search"></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「B」設定のブログパーツ表示 -->
+            
+<!-- LDR・RSSリンクとブログのロゴ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　右側200px ここまで-->
+
+        <!-- このページのトップヘ　はじまり -->
+        <p class="to-pagetop"><a href="#"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/to_pagetop.png" width="70" height="70" alt="このページのトップヘ" /></a></p>
+        <!-- このページのトップヘ ここまで -->
+
+    </div>
+    <!-- コンテンツ全体 ここまで-->
+
+    <!-- ブログのフッター はじまり-->
+    <footer id="blog-footer">
+    <!-- Blog Common Footer // --><div id="footer"><p>Powered by <a href="http://blog.livedoor.com/" title="ライブドアブログ">ライブドアブログ</a></p></div><!-- // Blog Common Footer --><!-- 共通フッター表示 -->
+    </footer>
+    <!-- /ブログのフッター ここまで-->
+
+</div>
+<!-- コンテンツエリア ここまで-->
+
+
+<!-- Add Body Tag // --><script type="text/javascript">
+(function(){
+  var traq = document.createElement('script'); traq.type = 'text/javascript'; traq.async = true;
+  traq.src = 'https://t.blog.livedoor.jp/u.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(traq, s);
+})();
+</script>
+<noscript>
+<img src="https://t.blog.livedoor.jp/u.gif" alt="traq">
+</noscript>
+<!-- // Add Body Tag -->
+
+<script>
+(function($) {
+  var cookieName = 'livedoor-blog-gdpr-agreed';
+  $(document).ready(function() {
+    if (navigator.userAgent.match(/https?:\/\//)) {
+      // UA に http:// or https:// があればスルー
+      return;
+    }
+
+    var agreed = document.cookie.indexOf(cookieName) >= 0;
+    if (agreed) {
+      // 同意済み Cookie があればスルー
+      return;
+    }
+
+    var banner = $('<div>');
+    banner.attr('id', 'gdpr-banner');
+    var label = $('<p>');
+    label.html('\
+      ライブドアブログでは広告のパーソナライズや効果測定のためクッキー(cookie)を使用しています。<br>\
+      このバナーを閉じるか閲覧を継続することでクッキーの使用を承認いただいたものとさせていただきます。<br>\
+      また、お客様は当社パートナー企業における所定の手続きにより、クッキーの使用を管理することもできます。<br>\
+      詳細は<a href="http://www.livedoor.com/rules/" target="_blank" style="color:#023780;text-decoration:underline;">ライブドア利用規約</a>をご確認ください。\
+    ');
+    banner.append(label);
+
+    var closeButton = $('<button>');
+    closeButton.attr('type', 'button');
+    closeButton.html('閉じる');
+    closeButton.on('click', function() {
+      $('#gdpr-banner').hide();
+      document.cookie = cookieName + '="1";expires=Tue, 31-Dec-2037 00:00:00 GMT;path=/;';
+    });
+    banner.append(closeButton);
+
+    banner.css({
+      'position': 'fixed',
+      'left': '0',
+      'right': '0',
+      'bottom': '0',
+      'background': '#dcdcdc',
+      'color': '#000',
+      'padding': '20px',
+      'text-align': 'center',
+      'box-shadow': '0 -2px 2px rgba(102, 102, 102, 0.86)',
+      'z-index': '2147483647',
+    });
+    label.css({
+      'display': 'inline-block',
+      'text-align': 'left',
+      'font-size': '14px',
+      'color': '#000',
+      'vertical-align': 'middle',
+      'line-height': '1.5',
+    });
+    closeButton.css({
+      'display': 'inline-block',
+      'color': '#fff',
+      'border': 'none',
+      'font-size': '14px',
+      'padding': '4px 40px',
+      'margin-left': '40px',
+      'background': '#535353',
+      'vertical-align': 'middle',
+    });
+
+    var script = document.createElement('script');
+    script.type = "text/javascript";
+    script.src = "https://ipcheck.blogsys.jp/check.js?t=" + Date.now();
+    script.onerror = function() {
+      $('body').append(banner);
+    };
+    document.body.appendChild(script);
+  });
+})(jQuery);
+</script>
+</body>
+</html>

@@ -1,0 +1,1429 @@
+<!DOCTYPE html>
+<html lang="ja" itemscope itemtype="http://schema.org/Blog">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=1190">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" /><link rel="shortcut icon" type="image/vnd.microsoft.icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/favicon.ico" /><link rel="icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/3ab45ab0.jpg" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/template.css?v=20190826" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/heart.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/icon.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="http://pathtimeblog.com/site.css?_=20190831163247" type="text/css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://pathtimeblog.com/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://pathtimeblog.com/atom.xml" /><link rel="canonical" href="http://pathtimeblog.com/archives/7071033.html" /><link rel="openid.server" href="http://auth.livedoor.com/openid/server" /><link rel="openid.delegate" href="http://profile.livedoor.com/shukatu2ch/" />
+<link rel="mixi-check-alternate" media="mixi-device-mobile" type="text/html" href="http://blog.m.livedoor.jp/shukatu2ch/article/7071033" />
+<link rel="mixi-check-alternate" media="mixi-device-smartphone" type="text/html" href="http://pathtimeblog.com/archives/7071033.html" />
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/jquery-1.11.1.min.js"></script>
+
+<meta name="description" content="1: 以下、5ちゃんねるからVIPがお送りします  2018/02/12(月) 01:43:48.299 ID:k2DAjr5h0
+ 面接官「（ダメだコイツｗｗｗｗｗｗｗ）わかりました」    これやめろ 
+" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="面接官「パソコンは得意ですか？（エクセルは使いこなせるかな？）」学生「（得意…CとJAVAくらいは書けるが…）ひ、人並程度には…」 	 : 2ch就活まとめ" />
+<meta property="og:description" content="1: 以下、5ちゃんねるからVIPがお送りします  2018/02/12(月) 01:43:48.299 ID:k2DAjr5h0 面接官「（ダメだコイツｗｗｗｗｗｗｗ）わかりました」    これやめろ " />
+<meta property="og:url" content="http://pathtimeblog.com/archives/7071033.html" />
+<meta property="og:site_name" content="2ch就活まとめ" />
+<meta property="og:locale" content="ja_JP" />
+<meta property="og:image" content="https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png" />
+
+<meta name="twitter:site" content="@2chshukatu" />
+<meta name="twitter:title" content="面接官「パソコンは得意ですか？（エクセルは使いこなせるかな？）」学生「（得意…CとJAVAくらいは書けるが…）ひ、人並程度には…」 	 : 2ch就活まとめ" />
+<meta name="twitter:description" content="1: 以下、5ちゃんねるからVIPがお送りします  2018/02/12(月) 01:43:48.299 ID:k2DAjr5h0 面接官「（ダメだコイツｗｗｗｗｗｗｗ）わかりました」    これやめろ " />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image:src" content="https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png" />
+<link rel="alternate" media="handheld" type="application/xhtml+xml" href="http://blog.m.livedoor.jp/shukatu2ch/" />
+
+<title>面接官「パソコンは得意ですか？（エクセルは使いこなせるかな？）」学生「（得意…CとJAVAくらいは書けるが…）ひ、人並程度には…」 	 : 2ch就活まとめ</title>
+<script src="https://parts.blog.livedoor.jp/js/emoji.js"></script>
+<script src="https://parts.blog.livedoor.jp/js/misc.js?v=20190710"></script>
+<!--[if lt IE 9]>
+<script src="https://parts.blog.livedoor.jp/js/html5.js"></script>
+<![endif]-->
+<script src="https://parts.blog.livedoor.jp/js/usr/import.js"></script>
+<script>
+$(function(){
+  if($('.header-inner01').children('#blog-header-image').length) {
+    $(window).bind('load', function() {
+      var title1 = $('#blog-header-image').height();
+      var title2 = $('.header-menu').height();
+      var headerHeight = title1-title2-15;
+      $("hgroup").css("height", headerHeight);
+    });
+  }
+});
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-3064778048578600",
+          enable_page_level_ads: true
+     });
+</script>
+
+<!-- Add Google Analytics Tag // -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-113178806-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- // Add Google Analytics Tag -->
+
+
+<meta name="referrer" content="always">
+<meta name="referrer" content="unsafe-url">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1638469-45"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+var blogId = '';
+if (blogId) {
+  gtag('config', 'UA-1638469-45', {
+    'custom_map': {'dimension1': 'blog_id'},
+    'blog_id': blogId
+  });
+} else {
+  gtag('config', 'UA-1638469-45');
+}
+</script>
+
+</head>
+<body class="default_2012 page-article layout-2col sidebar-right"><script type="text/javascript"><!--
+var ld_blog_vars = {
+  provider_id : '1',
+  provider_name : 'livedoor',
+  id : '7836571',
+  name : 'shukatu2ch',
+  charset : 'utf8',
+  url : 'http://pathtimeblog.com/',
+  title : '2ch就活まとめ',
+  blog_design: {
+      version: 1
+  },
+  blog_category: {
+    id: '243',
+    permalink: 'https://blog.livedoor.com/category/243/',
+    name: 'まとめ(総合) > まとめ',
+    is_adult : 0,
+    is_gambling : 0,
+    hierarchy: [{ id: '431', name: 'まとめ(総合)', permalink: 'https://blog.livedoor.com/category/431/' },{ id: '243', name: 'まとめ', permalink: 'https://blog.livedoor.com/category/243/' }]
+  },
+  current_page : {
+    type : 'article',    page : ''
+  },
+  articles : [ {
+       id : '7071033',
+       permalink : 'http://pathtimeblog.com/archives/7071033.html',
+       title : '面接官「パソコンは得意ですか？（エクセルは使いこなせるかな？）」学生「（得意…CとJAVAくらいは書けるが…）ひ、人並程度には…」 \t',
+       categories : [ { id:'155974', name:'面接', permalink:'http://pathtimeblog.com/archives/cat_155974.html' }, { id:'', name:'', permalink:'' } ],
+       date : '2018-02-13 17:30:10'
+}   ]
+};
+//-->
+</script><div id="analyzer_tags" style="display:none">
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/c2.js?v=20191010"></script>
+<script type="text/javascript">blog_counter('shukatu2ch', 7836571, 'http://pathtimeblog.com/')</script>
+</div><script type="text/javascript" src="https://parts.blog.livedoor.jp/js/smartphone.js?v=20200824"></script>
+<script type="text/javascript" src="http://pathtimeblog.com/settings/header.js?v=20190705"></script><script type="text/javascript" src="http://pathtimeblog.com/settings/ad.js"></script>
+<script type="text/javascript">
+var palette_src = 'https://parts.blog.livedoor.jp/img/emoji/3/palette.png';
+if (typeof IMAGE_CACHE == 'object' && IMAGE_CACHE['emoji_palette']) IMAGE_CACHE['emoji_palette'].src = palette_src;
+</script>
+
+<!-- Blog Common Header // -->
+<!-- // Blog Common Header -->
+<!-- 共通ヘッダー表示 -->
+
+<!-- ブログタイトル はじまり-->
+<header id="blog-header">
+
+    <div id="blog-header01">
+
+        <div class="header-inner01 show-image hide-text">
+
+            <hgroup>
+                <!--ブログタイトル　はじまり-->
+                <h1 id="blog-title"><a href="http://pathtimeblog.com/">2ch就活まとめ</a></h1>
+                <!--ブログタイトル　ここまで-->
+                <!--ブログ説明　はじまり-->
+                <h2 id="blog-description">新卒・転職・社会人生活などを含め、就活・就職に関することをまとめてます。</h2>
+                <!--ブログ説明　ここまで-->
+            </hgroup>
+
+            <a href="http://pathtimeblog.com/"><img src="https://resize.blogsys.jp/727db0f9da9f42eb7d26b703338c30b3eef0157c/trim2/0x243_94p_1200x388/http://livedoor.blogimg.jp/shukatu2ch/imgs/0/5/055bbafe.jpg" id="blog-header-image" /></a>
+
+            <div id="blog-header02">
+                <div class="header-inner02">
+                    <ul class="header-menu">
+                        <li><a href="http://pathtimeblog.com/">HOME</a></li><!--メニューを入れてください-->
+                        <li class="ldb_menu-item-url"><a href="http://blog.livedoor.jp/shukatu2ch/archives/6126504.html">ABOUT</a></li><!--メニューを入れてください-->
+                        <li><a href="mailto:shukatumatome@gmail.com">お問い合わせ</a></li><!--メニューを入れてください-->
+                    </ul>
+                    <ul class="header-sarch">
+                        <li><a href="http://twitter.com"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_twitter.png" alt="Twitter" /></a></li><!--Twitter-->
+                        <li><a href="http://pathtimeblog.com/index.rdf"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_rss.png" alt="RSS" /></a></li><!--RSS-->
+                        <li>
+                        <form action="http://pathtimeblog.com/search" method="GET" style="padding:0;margin:0px;">
+                        <input type="TEXT" name="q" class="sf">
+                        <input type="SUBMIT" value="検索" class="sfbtn">
+                        </form>
+                        </li><!--検索窓-->
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</header>
+<!-- /ブログタイトル ここまで-->
+
+
+<!-- コンテンツエリア はじまり-->
+<div id="wrapper">
+
+    <!-- コンテンツ全体 はじまり-->
+    <div id="container">
+
+        <!-- 相互RSS はじまり-->
+        <div class="rss-blogroll">
+
+            <!-- 相互RSSを設置する場合の注意事項
+                コードに含まれる以下のCSSは外して設置してください
+                http://blogroll.livedoor.net/css/default2.css -->
+
+                 <!-- 相互RSSのコード ひとつ目-->
+            <script type="text/javascript">
+            <!--
+                   var blogroll_channel_id = 255242;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード ふたつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 265945;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード みっつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 255442;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href= />
+        </div>
+        <!-- 相互RSS ここまで-->
+
+        <!-- コンテンツの箱の中　真ん中728px はじまり-->
+        <div class="main-container">
+            <div class="main-column-inner">
+<br>
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+<br>
+                <!-- メッセージボード -->
+                 
+
+
+
+                <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://pathtimeblog.com/archives/7071033.html"
+    trackback:ping="http://trackback.blogsys.jp/livedoor/shukatu2ch/7071033"
+    dc:title="面接官「パソコンは得意ですか？（エクセルは使いこなせるかな？）」学生「（得意…CとJAVAくらいは書けるが…）ひ、人並程度には…」 	"
+    dc:identifier="http://pathtimeblog.com/archives/7071033.html"
+    dc:subject="面接"
+    dc:description="1: 以下、5ちゃんねるからVIPがお送りします  2018/02/12(月) 01:43:48.299 ID:k2DAjr5h0 面接官「（ダメだコイツｗｗｗｗｗｗｗ）わかりました」    これやめろ "
+    dc:creator="shukatu2ch"
+    dc:date="2018-02-13T17:30:10+09:00" />
+</rdf:RDF>
+-->
+<div id="ad_rs" class="ad_rs_b"></div><!-- 記事のトラックバック・オートディスカバリー -->
+
+
+                <!-- 記事 はじまり-->
+                <article class="article first-article" itemscope itemtype="http://schema.org/BlogPosting">
+
+                    <!-- 記事タイトル　記事下の情報　はじまり-->
+                    <header class="article-header">
+
+                        <h1 class="article-title" itemprop="name"><a href="http://pathtimeblog.com/archives/7071033.html" itemprop="url">面接官「パソコンは得意ですか？（エクセルは使いこなせるかな？）」学生「（得意…CとJAVAくらいは書けるが…）ひ、人並程度には…」 	</a></h1><!-- 記事のタイトル -->
+
+                            <!-- 記事下の記事情報 はじまり-->
+                            <div class="article-header-inner">
+
+                                <!-- 記事情報の上の行 はじまり-->
+                                <div class="article-header-top">
+                                <p class="article-header-date"><time datetime="2018-02-13T17:30:10+09:00" pubdate="pubdate">2018年02月13日</time></p>
+                                
+                                <ul class="article-header-category">
+                                    <li>
+                                        <dl><dt>カテゴリ:</dt><dd class="article-category1"><a href="http://pathtimeblog.com/archives/cat_155974.html">面接</a></dd></dl>
+                                    </li>
+                                </ul>
+                                
+
+                                <!-- 記事の評価アイコン はじまり-->
+                                
+                                <!-- 記事の評価アイコン ここまで-->
+
+                                </div>
+                                <!-- 記事情報の上の行 ここまで-->
+                                <!-- ソーシャルボタン　はじまり -->
+                                <ul class="article-social-btn">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/7071033.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/7071033.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="面接官「パソコンは得意ですか？（エクセルは使いこなせるかな？）」学生「（得意…CとJAVAくらいは書けるが…）ひ、人並程度には…」 	 - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=%E9%9D%A2%E6%8E%A5%E5%AE%98%E3%80%8C%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E3%81%AF%E5%BE%97%E6%84%8F%E3%81%A7%E3%81%99%E3%81%8B%EF%BC%9F%EF%BC%88%E3%82%A8%E3%82%AF%E3%82%BB%E3%83%AB%E3%81%AF%E4%BD%BF%E3%81%84%E3%81%93%E3%81%AA%E3%81%9B%E3%82%8B%E3%81%8B%E3%81%AA%EF%BC%9F%EF%BC%89%E3%80%8D%E5%AD%A6%E7%94%9F%E3%80%8C%EF%BC%88%E5%BE%97%E6%84%8F%E2%80%A6C%E3%81%A8JAVA%E3%81%8F%E3%82%89%E3%81%84%E3%81%AF%E6%9B%B8%E3%81%91%E3%82%8B%E3%81%8C%E2%80%A6%EF%BC%89%E3%81%B2%E3%80%81%E4%BA%BA%E4%B8%A6%E7%A8%8B%E5%BA%A6%E3%81%AB%E3%81%AF%E2%80%A6%E3%80%8D%20%09%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/7071033.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/7071033.html" data-text="面接官「パソコンは得意ですか？（エクセルは使いこなせるかな？）」学生「（得意…CとJAVAくらいは書けるが…）ひ、人並程度には…」 	 - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F7071033.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                                </ul>
+                                 <!-- ソーシャルボタン　ここまで -->
+                            </div>
+                            <!-- 記事下の記事情報 ここまで-->
+
+                    </header>
+                    <!-- 記事タイトル　記事下の情報　ここまで-->
+
+
+
+                    <!-- 記事本文 はじまり-->
+                    <div class="article-body">
+                        <div class="article-body-inner">
+<!-- 参加している共通テーマの表示 -->
+                        <span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">1: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2018/02/12(月) 01:43:48.299 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:k2DAjr5h0</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b"> 面接官「（ダメだコイツｗｗｗｗｗｗｗ）わかりました」 <br />  <br /> これやめろ </div><br />
+<!-- Generated by 2chまとめくす (http://2mtmex.com/) --><!-- 本文 --><div class="article-body-more" id="more"><font size="2"><div class="t_h" >2: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 01:44:35.681 ID:RjKFZMSC0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> ( *˙ω˙*)و ｸﾞｯ! </div><br />
+<font size="2"><div class="t_h" >4: <span style="color: rgb(124, 199, 84);">以下、無断転載禁止でVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 01:45:00.208 ID:vRDQSle10</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> プログラミングは得意ですかって聞くだろ普通 </div><br />
+<font size="2"><div class="t_h" >5: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 01:45:42.810 ID:stfl9sFZd</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> パソコンって聞いてオフィスを真っ先に思い浮かべるのやめて <br /> 学校の情報の授業でオフィスを覚えさせるのやめて </div><br />
+<font size="2"><div class="t_h" >6: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 01:46:13.586 ID:f4CgmZzc0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;"> というかCとJavaを人並みに書ける程度の奴って <br /> その文脈でもアウトじゃね？ </div><br />
+<font size="2"><div class="t_h" >7: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 01:46:21.717 ID:rAUV1bQk0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> エクセル使えるか聞けよって毎回思う </div><br />
+<font size="2"><div class="t_h t_i" >8: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 01:47:14.540 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:k2DAjr5h0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;7</span> <br /> 世の中の企業ってその程度のレベルなんだよ <br /> スクリプト書けるのが凄いのかどうかすら理解してない </div><br />
+<font size="2"><div class="t_h" >9: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 01:47:54.266 ID:AYFPOKBeM</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 言語がひとつでもできる学生が面接でパソコンできるか聞かれてアピールしないとか面接下手くそ過ぎるし落としていいよ </div><br />
+<font size="2"><div class="t_h" >10: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 01:48:05.061 ID:zILs36KSr</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> というか業種によるけど「MOSのWordとExcelのエキスパート持ってます」とかそんな感じの返答で良いんじゃないの </div><br />
+<font size="2"><div class="t_h t_i" >19: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 01:54:41.148 ID:1ptm4qJ70</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;10</span> <br /> ＭＯＳとか恥ずかしくて言えないんだよなぁ <br /> スペシャリストでドヤ顔する新卒君がたまに面接に来るわ </div><br />
+<font size="2"><div class="t_h t_i" >74: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:38:10.162 ID:eal+jERv0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;10</span> <br /> 面接官「ふーん」 <br />  <br /> これが現実 </div><br />
+<font size="2"><div class="t_h" >11: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 01:48:16.796 ID:HGugSsT+0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;color:#ff0000;margin-bottom:30px;margin-top:20px;"> 面接の現場において謙遜は美徳ではないことが良く分かる好例 </div><br />
+<font size="2"><div class="t_h" >12: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 01:49:12.381 ID:cMzkiZGR0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> ニートは知らないと思うけど何がどの程度できるかくらいは聞くよ </div><br />
+<font size="2"><div class="t_h t_i" >14: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 01:51:21.414 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:k2DAjr5h0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;12</span> <br /> マジレスするとそれを説明してそれがどれほどのレベルのものか理解できる奴が面接官にいない <br /> pythonでモデル作るくらいはやりましたつっても「pythonってなに？」ってレベルのが面接官やってる <br /> 一般的な企業ってそんなもんだよ </div><br />
+<font size="2"><div class="t_h t_i" >16: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 01:52:01.597 ID:V4tUygNa0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;14</span> <br /> そんなところに受けたお前が悪い </div><br />
+<font size="2"><div class="t_h t_i" >17: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 01:53:11.449 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:k2DAjr5h0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;16</span> <br /> でも金がいいんだよ </div><br />
+<font size="2"><div class="t_h t_i" >18: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 01:53:58.925 ID:f4CgmZzc0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;14</span> <br /> マジレスすると面接は一方通行じゃなくて双方向通行。 <br /> pytohnはプログラミング言語の一種でで最近話題のディープラーニングもこの言語で作ってる場合が多いんですよ～ <br /> くらいも言えないのは明確に面接を受ける側の問題か少なくともシミュレーション不足 <br />  <br /> 一般の企業という言葉がどういう意味なのか測りかねるが、一方的に言い合って終わりじゃない </div><br />
+<font size="2"><div class="t_h t_i" >21: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 01:59:14.291 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:k2DAjr5h0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;18</span> <br /> 機械学習とはなにかの説明が一から必要だぞ <br />  <br /> ぼく「最近話題のディープラーニングもこの言語で作ってる場合が多いんですよ～」 <br />  <br /> 面接官「へ、へぇ～…（？？？？）」 <br />  <br /> までがシミュレーションな </div><br />
+<font size="2"><div class="t_h t_i" >29: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:05:54.528 ID:f4CgmZzc0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;21</span> <br /> お前本当に面接受けたことあるの？ <br /> 事実だとしたらそんな会社俺なら通ってもいかないけど </div><br />
+<font size="2"><div class="t_h t_i" >30: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:05:59.490 ID:b0yQjBYp0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;21</span> <br /> それその会社で機械学習とか知ってても役に立たんからだろ？ </div><br />
+<font size="2"><div class="t_h t_i" >36: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:07:07.055 ID:B6EB+ZlD0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;18</span> <br /> ディープラーニングじゃなくて人工知能じゃないと伝わらない <br /> さらに「人工知能を作る」は人によっては違和感を覚えるので「人工知能が動いている」にすべし <br /> さらに人工知能という言葉の強さに負けてしまうのでpythonは切り落とす <br /> 何やかやあって最適解は「私は人工知能で動くロボットです」だな </div><br />
+<font size="2"><div class="t_h" >13: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 01:49:54.080 ID:gDWjjQie0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> いや、どういった能力があるのかわからんのだから何ができるのかを言えよ <br />  <br /> 人並みにだけじゃどんな面接も落とされるに決まってんだろ </div><br />
+<font size="2"><div class="t_h" >15: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 01:52:00.659 ID:bnomogmR0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> マクロ使えれば神扱いだぞ </div><br />
+<font size="2"><div class="t_h t_i" >27: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:05:08.311 ID:b0yQjBYp0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;15</span> <br /> ガチのプログラマは逆にExcelマクロ使うのとか効率悪いから書かないけどな <br /> バージョン依存酷すぎるし </div><br />
+<font size="2"><div class="t_h t_i" >42: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:10:03.926 ID:bnomogmR0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"><span style="color:mediumblue;" class="anchor">&gt;&gt;27</span> <br /> ハッタリで言うんだからどうでもいいでしょ</div><br />
+<font size="2"><div class="t_h" >22: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 01:59:22.745 ID:YlhSibFR0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;"> 学生「はい！できます！（採用されたらエクセルの本読めばいけるだろう）」 <br /> 面接官「ふむふむ」 <br />  <br /> これでいいじゃん </div><br />
+<font size="2"><div class="t_h" >23: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:00:35.057 ID:NpDa5yl90</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> Javaを齧った程度ですでいいじゃん <br /> そこから話掘り下げるんだが </div><br />
+<font size="2"><div class="t_h" >24: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:02:22.663 ID:bnomogmR0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> ぶっちゃけ <br /> 自分でパソコン作れます！言うとけば <br /> 面接官(こいつ極めてる・・・！)ってなるから </div><br />
+<font size="2"><div class="t_h t_i" >28: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:05:50.623 ID:Ku9Ts8TK0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;24</span> <br /> 自分でパソコン作れるとか普通に神だろ <br /> なんならバベッジの階差機関でも十分すぎるレベルなのに </div><br />
+<font size="2"><div class="t_h t_i" >42: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:10:03.926 ID:bnomogmR0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"><span style="color:mediumblue;" class="anchor">&gt;&gt;28</span> <br /> ググれば自作pcなんて作れるでしょ？本当に一から作れたら神だけど</div><br />
+<font size="2"><div class="t_h t_i" >37: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:07:12.943 ID:BkfMciKD0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;24</span> <br /> でも自作なんて無知の初心者でも作れるから <br /> 作れるなんて言ってもPC扱うのは別問題だしな、当てにならん </div><br />
+<font size="2"><div class="t_h t_i" >51: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:19:05.141 ID:bnomogmR0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;37</span> <br /> だからハッタリでしょ <br />  <br /> つうか面接ってそんなに準備してやるもんなの？ <br /> ギャンブルと酒の話してれば通るもんかと思ってた </div><br />
+<font size="2"><div class="t_h t_i" >54: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:21:49.566 ID:BkfMciKD0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;51</span> <br /> まぁはったりも必要か <br /> 特定のソフトを扱うのではなく、PCに慣れていればいいと思うね <br /> 初めのうちは感覚的に慣れるのが大事だし </div><br />
+<font size="2"><div class="t_h" >25: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:03:31.151 ID:wHKltgLZ0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#ffa500;margin-bottom:30px;margin-top:20px;"> プログラマ募集でもないのにプログラミングできますなんて言ってもしょうがなくね？ </div><br />
+<font size="2"><div class="t_h" >26: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:04:38.708 ID:Sysb8cn20</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 数人で面接する側やったことあるけど聞く方に知識あると答えてもらいやすい質問飛ばせるし回答の意味もわかる </div><br />
+<font size="2"><div class="t_h" >31: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:06:18.529 ID:y5sNLTpj0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> MOSとったけど何の価値もないよ <br /> マクロ組むレベルですらないし </div><br />
+<font size="2"><div class="t_h" >32: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:06:26.588 ID:NpDa5yl90</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> ていうか、学生ならともかく転職なら職務経歴書はPC作成っしょ <br /> ついでに電車賃の申請とかのwordをちょいちょいっとレイアウト修正して印刷して名前は手書きでハンコ押せばPCスキルも見せられるし </div><br />
+<font size="2"><div class="t_h" >33: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:06:29.409 ID:VWnD6QJ30</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 面接官「パソコンはできる？」 <br /> 俺「両手でキーボード押せます」 <br />  <br />  <br />  <br /> 入社後 <br /> 先輩「パソコン得意なんだって？すげえじゃん」 <br />  <br />  <br /> 10年前の実話 </div><br />
+<font size="2"><div class="t_h" >34: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:06:30.674 ID:bnomogmR0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> というか最近の面接官ってパソコンはできますか？ <br /> なんて聞くの？ <br /> 世代的に出来て当たり前だろ？ <br /> それ聞かれた時点で既に興味ないんじゃないんだろうか </div><br />
+<font size="2"><div class="t_h t_i" >39: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:08:25.153 ID:BkfMciKD0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;34</span> <br /> 今の学生は出来なくて当たり前な時代だよ、スマホしか使わないから </div><br />
+<font size="2"><div class="t_h t_i" >43: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:11:39.793 ID:bnomogmR0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;39</span> <br /> そうなんだ <br /> それは俺が無知だったなすまん </div><br />
+<font size="2"><div class="t_h t_i" >47: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:15:34.192 ID:DTlmojP80</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;43</span> <br /> まあ普通の学生なら研究して論文を書くのでエクセルやらパワポやらワードやら使いこなせて当たり前だし、おっさんの認識で正しいと思うよ <br />  <br /> ただ最近は論文書かなくても、卒業できたり、a4で日記みたいな内容を2枚書けば卒論認定するようなふざけた大学も多いから、よくわからん大学の人には聞いたほうがいいのも事実 </div><br />
+<font size="2"><div class="t_h t_i" >63: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:29:17.759 ID:ptYasYOgM</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;47</span> <br /> 最近は、とは言うがそれレベルに簡単に卒業出来た大学は昔のがむしろ酷かったレベルだろ </div><br />
+<font size="2"><div class="t_h t_i" >67: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:30:46.697 ID:DTlmojP80</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;63</span> <br /> 昔よりよくわからん大学の数だけめちゃくちゃ増えてるからな… </div><br />
+<font size="2"><div class="t_h t_i" >71: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:34:31.557 ID:XXVdEPvma</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;47</span> <br /> オレ化学専攻だったからよーわからんのだけど、そんな卒論で発表のときどうするん？ <br />  <br /> 文系だと学会に出たり、定期報告会みたいのはなくて、適当に書いて提出したら終わりなん？ <br /> 誰とも意見交換したり、質疑応答とかしないん？ </div><br />
+<font size="2"><div class="t_h t_i" >75: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:39:27.525 ID:f4CgmZzc0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;71</span> <br /> このスレでする話じゃないけど <br /> 文系は <br /> 「真面目にゼミやる→ガリ勉の非リア負け組 <br /> 　卒論頑張る→根暗の負け組」 <br /> （ｒｙ <br /> みたいな風潮あると知って愕然としたことがある </div><br />
+<font size="2"><div class="t_h t_i" >80: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:47:36.401 ID:78DdoZ+A0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;75</span> <br /> マジかよワロタ <br /> 最早住んでる国ちげえだろ </div><br />
+<font size="2"><div class="t_h t_i" >76: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:40:55.694 ID:DTlmojP80</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;71</span> <br /> 発表があると思うなよ <br /> 適当に出して終わりや </div><br />
+<font size="2"><div class="t_h" >35: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:06:46.453 ID:DTlmojP80</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> うちの会社だと、何のソフトを使ったことがありますかだな <br /> そこにエクセルとかパワポとか記入する <br /> 特に採用に関係ないらしいけど </div><br />
+<font size="2"><div class="t_h" >38: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:07:14.747 ID:NpDa5yl90</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> ところがどっこい、若い世代はスマホだからローマ字入力できない奴がいっぱいなんすよね </div><br />
+<font size="2"><div class="t_h" >40: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:08:46.937 ID:eILeRd350</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> PC自分でつくれます！ <br /> （半導体レイアウト含む） </div><br />
+<font size="2"><div class="t_h" >41: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:09:59.542 ID:c2Gj+wyS0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 一太郎なら使いこなせます </div><br />
+<font size="2"><div class="t_h" >44: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:11:58.081 ID:GkqQkvXW0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 業種・職種によって違うけど、 <br /> 基本的に面接の時に「パソコンは得意ですか？」と聞かれたらExcelとかのこと <br /> ガチガチに理系でプログラミング組んだりするような人は、 <br /> 「パソコンは得意か」ではなく、経験のある「言語」や「開発環境」とかを聞く </div><br />
+<font size="2"><div class="t_h" >45: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:13:39.210 ID:BkfMciKD0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 自作PCは本当に詳しい人間と、まったく知識がなく初心者と分かれるから判断難しいが <br /> 初めて作って成功してPC覚えたというのは大きな勘違い <br />  <br /> 昔PCインストラクターの資格取ってその後勉強して <br /> インストラクターの資格ですら超初心者でなにも分かってなかったと今実感してるわ </div><br />
+<font size="2"><div class="t_h" >48: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:15:36.434 ID:BkfMciKD0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> パソコンっていうとあまりに幅広い世界だけど <br /> 何かを覚えれば覚えるほど自分が無知だと気づく <br /> 知識の上限が見えないし情報が底なしに感じるからね </div><br />
+<font size="2"><div class="t_h" >50: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:18:05.198 ID:BkfMciKD0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> でも面接時でJAVAとかC分かれば十分有能だと思うけどな、それ以上を求めるかね </div><br />
+<font size="2"><div class="t_h" >53: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:21:20.679 ID:f5sS/AhH0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> たかが大学4年で学ぶ言語の知識と <br /> 採用企業が欲する技術とは別じゃね？ </div><br />
+<font size="2"><div class="t_h" >55: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:23:26.060 ID:b1Q3onhZ0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> Windows10上でMSOffice2016のエクセルは使いこなせますか？　→NO→　以上です、お疲れ様でした。 <br /> ↓YES <br /> それでは次の質問です <br />  <br /> これがホワイトカラーの世界の現状 </div><br />
+<font size="2"><div class="t_h t_i" >60: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:28:29.864 ID:bnomogmR0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;55</span> <br /> そんなの聞くなら最初からパワーポイントで自己紹介プレゼンさせろって話しだよな <br /> 面接の二週間前くらいに連絡入れてな <br /> 良い悪いにしろパソコン詳しいですか？の質問時点でもう採用決まってるでしょ </div><br />
+<font size="2"><div class="t_h" >56: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:23:31.393 ID:DTlmojP80</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 工学部電気工学科の友人がNTT◯日本採用されたときは、特に何も書けないけど受かってたぞ <br /> 書くのは下請けの仕事だから別にいらねえぐらいの勢いだったらしい </div><br />
+<font size="2"><div class="t_h" >57: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:24:32.680 ID:78DdoZ+A0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 今どきオフィスも使えない原始人なんかいねーよ <br /> いつの時代の話してんだ石器時代か？ </div><br />
+<font size="2"><div class="t_h t_i" >65: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:29:58.822 ID:DTlmojP80</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;57</span> <br /> エクセルでルックアップ使えないとか <br /> ワードでタブも使えないとかいくらでもおるぞ </div><br />
+<font size="2"><div class="t_h" >58: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:25:24.577 ID:xv1Gzk380</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> なんで学生は「人並み程度」とかあほな答えしてるんだこれ <br /> 素直に「プログラミングであればCとJAVAを多少扱えます」とか言えば良いだけなのだが <br />  <br /> まあそういった受け応えが上手く出来ないということが把握できた時点で <br /> 企業側の面接としては成功だからいいけどさ </div><br />
+<font size="2"><div class="t_h t_i" >62: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:29:01.639 ID:BkfMciKD0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;58</span> <br /> ほんと自分を過小評価してると思う、PC使えない学生が増えてる中で <br /> JAVA、C分かるなんて優秀と言える <br /> もっとガンガン攻めの精神持てよってな </div><br />
+<font size="2"><div class="t_h" >61: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:28:31.406 ID:UYHKsR2g0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> スマホさえあればPCいらないだろって真顔で言ってるやつは <br /> ワークマンで売ってる服着た仕事しか出来なさそう </div><br />
+<font size="2"><div class="t_h" >66: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:30:44.270 ID:wDzrM6Le0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> プログラミングできるおばちゃんとiPad持ってるだけの若いので後者取っちゃう人もいるらしいぞ </div><br />
+<font size="2"><div class="t_h t_i" >69: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:33:15.393 ID:f4CgmZzc0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;66</span> <br /> それ情報源Twitterだから真偽わかんねえよ </div><br />
+<font size="2"><div class="t_h t_i" >77: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:41:13.882 ID:b1Q3onhZ0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;66</span> <br /> それ極論の妄想でマウント取りたいだけのクズだから <br /> 実際そんな面接あったらどっちも落選 </div><br />
+<font size="2"><div class="t_h" >68: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:32:33.945 ID:BkfMciKD0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> office使える学生のスキルって表作れる、グラフ作れるくらいじゃないの？ <br /> 学校でLOOKUPとかIFとか教える？教えられる教師がいるかすら怪しいのに </div><br />
+<font size="2"><div class="t_h t_i" >73: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:37:06.633 ID:bnomogmR0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;68</span> <br /> ルックアップとかイフとか最低限でしょ？ <br /> イズブランクでちょっとカッコ良くするとか <br />  <br /> ぶっちゃけ一般事務レベルならヘッダーフッダーの編集できればオケだしな </div><br />
+<font size="2"><div class="t_h" >79: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:44:51.585 ID:QGYOVF/B0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> スレタイみたいな具体性のない回答する奴は落ちるよね </div><br />
+<font size="2"><div class="t_h" >81: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:49:40.907 ID:wOm0sd8/0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> そんな曖昧なとこなんかは出来なくてもやれるっていえばいいんだよやれるって言えばいいんだよ <br /> 面接なんか騙し合いだぞ <br /> 入社してレベル高すぎたらそれはそれでスキルアップと思って少しだけ頑張りゃいいんだよ </div><br />
+<font size="2"><div class="t_h" >82: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:51:45.862 ID:EBOVZpDd0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 得意です <br /> と答えて、どのくらいできるのか続けて言えばいい。 </div><br />
+<font size="2"><div class="t_h" >83: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:55:34.315 ID:bnomogmR0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 面接って <br /> 面接官「趣味競馬ってあるけど・・・」 <br /> 俺「はい！趣味は競馬です！たかが数分のﾚｰｽですがそれまでに蓄積された傾向や期待値を元に分析して馬券を買うｽﾘﾙがたまらないですね！ <br /> 面接官「そうなんだ(苦笑]うちの会社転勤あるかもしれないですし勤務地はあそこになる可能性もありますが大丈夫ですか？」 <br /> 俺「行けと言われれば半袖で北極にでも行きます！」 <br /> 面接官「あっそうですか（笑）」 <br />  <br /> 転職の時何社か受けたがこれしか言ってねえ </div><br />
+<font size="2"><div class="t_h" >85: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 03:31:35.478 ID:Osgo52v0d</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 明日面接なんだが <br /> 面接官より絶対業界未経験のオレの方が詳しくて気使うんだけど <br /> どういう方向で攻めたらいい？ </div><br />
+<font size="2"><div class="t_h t_i" >86: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 03:32:25.050 ID:GkqQkvXW0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;85</span> <br /> 詳しいと思う理由は？ </div><br />
+<font size="2"><div class="t_h t_i" >87: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 03:36:34.878 ID:Osgo52v0d</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;86</span>マニアだから… <br /> 採用ノルマとかあんのかなー？人手不足ガチだな <br /> オレの歳じゃ現場はまずとらないのが業界慣行だろうと未経験なのに言ってみる </div><br />
+<font size="2"><div class="t_h t_i" >89: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 03:38:54.887 ID:GkqQkvXW0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;87</span> <br /> お前がマニアなら相手はプロだぞ </div><br />
+<font size="2"><div class="t_h t_i" >94: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 03:57:48.011 ID:QI6bgXCsd</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;89</span>いやさすがに自社製品は詳しいと思うけど <br /> てかオレ使ったことないし <br />  <br /> 業界は一次面接レベルならオレの方が詳しいかなー <br /> オレたぶん社長の友達であろう同業社長の顧客だし <br /> ちなみに今いる業界もなぜか重鎮のように語れる <br /> マニアってあんまり採用しない方がいいと思うんだけどな <br /> 変にこだわるから </div><br />
+<font size="2"><div class="t_h" >88: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 03:37:42.414 ID:GdxRtED60</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> CとJAVAで何を作れるんですか？ <br /> できるって関数を知ってる程度なんでしょ？ｗ </div><br />
+<font size="2"><div class="t_h" >90: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 03:39:34.110 ID:GdxRtED60</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> SEが足りなくなるのは見えてるから、何にもできなくても入れるのが今の業界 <br /> ただ薄給な割に、トラブル起きると徹夜は当たり前 <br /> バグ出たら3日寝ずに作業やらされるのも頻繁に起きるから健康には非常に悪い世界だなｗ </div><br />
+<font size="2"><div class="t_h" >72: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2018/02/12(月) 02:35:52.260 ID:N5wO9HrH0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;margin-bottom:30px;margin-top:20px;"> 人並ってなんだ </div><br />
+<br>
+<p style="color:gray;text-align:right;"><font size="2">引用元： <a href="http://hebi.5ch.net/test/read.cgi/news4vip/1518367428/" target="_blank">http://hebi.5ch.net/test/read.cgi/news4vip/1518367428/</font></a></p>
+
+</div>
+                        
+<!-- タグのリスト表示セット -->
+                        </div>
+<br>
+
+
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=2Z8HPD+9K4KFM+34FI+NUES2" alt="">
+                    </div>
+                    <!-- 記事本文 ここまで-->
+
+
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HV7V6" alt="">
+
+
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www26.a8.net/svt/bgt?aid=190821728180&wid=001&eno=01&mid=s00000011866017004000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" alt=""></td>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+3257OY+3Y6M+601S1" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www24.a8.net/svt/bgt?aid=190821728185&wid=001&eno=01&mid=s00000018427001008000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=35LYZK+3257OY+3Y6M+601S1" alt=""></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+
+
+                    <!-- 記事フッター、コメント、ソーシャルボタン -->
+                    <footer class="article-footer">
+                        <div class="article-footer-comment">
+                            
+                                <a href="http://pathtimeblog.com/archives/7071033.html#comments">0コメント</a>
+                            
+                        </div>
+                        <div class="article-social-btn">
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HVFKY" alt="">
+
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/7071033.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/7071033.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="面接官「パソコンは得意ですか？（エクセルは使いこなせるかな？）」学生「（得意…CとJAVAくらいは書けるが…）ひ、人並程度には…」 	 - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=%E9%9D%A2%E6%8E%A5%E5%AE%98%E3%80%8C%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E3%81%AF%E5%BE%97%E6%84%8F%E3%81%A7%E3%81%99%E3%81%8B%EF%BC%9F%EF%BC%88%E3%82%A8%E3%82%AF%E3%82%BB%E3%83%AB%E3%81%AF%E4%BD%BF%E3%81%84%E3%81%93%E3%81%AA%E3%81%9B%E3%82%8B%E3%81%8B%E3%81%AA%EF%BC%9F%EF%BC%89%E3%80%8D%E5%AD%A6%E7%94%9F%E3%80%8C%EF%BC%88%E5%BE%97%E6%84%8F%E2%80%A6C%E3%81%A8JAVA%E3%81%8F%E3%82%89%E3%81%84%E3%81%AF%E6%9B%B8%E3%81%91%E3%82%8B%E3%81%8C%E2%80%A6%EF%BC%89%E3%81%B2%E3%80%81%E4%BA%BA%E4%B8%A6%E7%A8%8B%E5%BA%A6%E3%81%AB%E3%81%AF%E2%80%A6%E3%80%8D%20%09%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/7071033.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/7071033.html" data-text="面接官「パソコンは得意ですか？（エクセルは使いこなせるかな？）」学生「（得意…CとJAVAくらいは書けるが…）ひ、人並程度には…」 	 - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F7071033.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                        </div>
+                    </footer>
+                    <!-- /記事フッター、コメント、ソーシャルボタン -->
+
+
+                    <!-- カテゴリの最新記事表示 はじまり-->
+                    <div class="article-sub-category">
+                        <div id="ldblog_related_articles_4bab2bf6">
+
+<div class="related-articles ldblog_related_articles_4bab2bf6" data-category-id="155974" data-article-rows="5">
+<h3>「面接」カテゴリの最新記事</h3>
+<ul id="ldblog_related_articles_4bab2bf6_155974"></ul>
+</div>
+</div>
+<script type="text/html" id="ldblog_related_articles_4bab2bf6_tmpl">
+<% for(var i=0,l=articles.length;i<l;i++) {%><% if(i>=rows) break; %>
+<li><a href="<%=articles[i].permalink%>"><%=articles[i].title%></a></li>
+<% } %>
+</script>
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/related_articles.js?t=20180221"></script>
+<script type="text/javascript">
+(function(){
+RelatedArticles.load('ldblog_related_articles_4bab2bf6', '7071033');
+})();
+</script>
+<!-- 関連記事の表示 -->
+                    </div>
+                    <!-- /カテゴリの最新記事表示 ここまで-->
+
+
+
+
+                    <div id="ad2"></div><!-- 広告表示 -->
+
+                    <!-- 記事オプション はじまり-->
+                    <div class="article-option" id="article-options">
+
+                        <!-- コメントエリア　はじまり -->
+                        
+                        <section id="comments">
+                        
+                        <h1 class="comment-form-title">コメントする</h1>
+<div class="article-option" id="comment-form">
+    <form
+      action="https://comment.blogcms.jp/livedoor/shukatu2ch/7071033/post"
+      method="post"
+      name="comment_form"
+          id="comment-form-body"
+      onsubmit="setCommentAuthor(this); return submitOnce(this.button);"
+    >
+    <fieldset>
+        <legend>コメントフォーム</legend>
+    <dl class="comment-form-author">
+        <dt><label for="comment-form-author">名前</label></dt>
+        <dd id="comment-author-form"><input type="text" class="text" id="comment-form-author" name="author" required="required" value="" /></dd>
+    </dl>
+  <dl class="comment-form-body">
+    <dt><label for="comment-form-textarea">コメント</label></dt>
+    <dd>
+      <textarea id="comment-form-textarea" name="body" rows="7" required="required"></textarea>
+      <div id="comment-form-tools">
+        <span class="facemark"><a href="javascript:void(0);" id="emojiLink1" onClick="showEmojiPanel(this.id, 'comment-form-textarea')"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/icon_facemark.png" /></a></span>
+        <span class="rating">
+                    <input type="hidden" name="rating" value="">
+                    <input type="hidden" name="rating_icon" value="star">
+                    <div class="rating-value">
+                        <span id="default-rating-value">評価する</span>
+                        <div class="caret"><span></span></div>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/face/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/face/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/face/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/face/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/face/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/star/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/star/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/star/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/star/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/star/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                    </div>
+                    <div class="rating-icon">
+                        <div data-value="face">顔</div>
+                        <div class="selected" data-value="star">星</div>
+                    </div>
+        </span>
+        <span class="submit"><button type="submit">投稿する</button></span>
+        <span class="memorize"><label for="bake"><input type="checkbox" id="bake" name="cookie" /> 情報を記憶</label></span>
+      </div>
+    </dd>
+  </dl>
+  </fieldset>
+  </form>
+  <script type="text/javascript" src="https://parts.blog.livedoor.jp/js/comment.0.2.js?v=20130430"></script>
+  <script type="text/javascript">
+    loadCommentAuthor(document.comment_form);
+    ldblogComment.init();
+  </script>
+<!-- /#comment-form --></div><!-- コメント投稿フォーム -->
+
+
+                        </section>
+                        
+                        <!-- コメントエリア　ここまで -->
+
+
+                        <!-- トラックバック受け付け　はじまり -->
+                        
+                        <!-- トラックバック受け付け　ここまで -->
+
+                    </div>
+                    <!-- 記事オプション ここまで-->
+
+                </article>
+                <!-- 記事　ここまで -->
+
+
+                <!-- ページ送り はじまり-->
+<!-- Article Pager // -->
+  <div class="pager article-pager-type2">
+    <div class="pager-inner">
+    <div class="article-pager-outer">
+    <ul class="article-pager"><li class="prev"><a href="http://pathtimeblog.com/archives/7070962.html" title="２５歳で年収４５０万だけどどういうイメージ？？？？ 	">&nbsp２５歳で年収４５０万だけどどういうイメージ？？？？ 	</a></li><li class="next both"><a href="http://pathtimeblog.com/archives/7071180.html" title="営業「営業はやめとけ」　CE「CEはやめとけ」　土方「土方はやめとけ」　コンビニ「コンビニはやめとけ」　無職「無職はやめとけ」 	">営業「営業はやめとけ」　CE「CEはやめとけ」　土方「土方はやめとけ」　コンビニ「コンビニはやめとけ」　無職「無職はやめとけ」 	&nbsp</a></li>    </ul>
+    </div>
+    </div>
+  </div>
+<!-- // Article Pager -->
+
+                <!-- /ページ送り ここまで-->
+
+            </div><!-- /main-column-inner-->
+        </div>
+        <!-- コンテンツの箱の中　真ん中728px ここまで-->
+
+
+        <!-- コンテンツの箱の中　左側200px はじまり-->
+        <aside class="left-container">
+            <div class="left-column-inner">
+            
+
+
+
+<div class="plugin-popular_articles sidewrapper">
+  <div class="sidetitlebody">
+    <div class="sidetitle">人気記事</div>
+  </div>
+  <div class="sidetop"></div>
+  <div class="side">
+
+
+    <div class="popular-articles">
+      <table id="populararticles-472933"></table>
+      <div class="popular-articles-freearea"></div>
+    </div>
+  </div>
+
+  <div class="sidebottom"></div>
+</div>
+
+<script type="text/javascript" language="javascript"><!--
+(function(){
+  var url = 'http://pathtimeblog.com/archives/popular_articles.json'
+         + '?rangetype=custom'
+         + '&from=0'
+         + '&range=13'
+         + '&limit=50'
+         + '&offset=0'
+         ;
+
+  var callback = function(data) {
+    var table = document.getElementById('populararticles-472933');
+    for (i = 0; i < data.articles.length; i++) {
+      var rank = i + 1;
+      var prefix = 'populararticles-472933-'+ rank;
+
+      var row = table.insertRow(-1);
+      var elm1 = row.insertCell(-1);
+      elm1.className = 'populararticles-rank';
+      elm1.innerHTML = '<span><b>' + rank + '</b></span>';
+      var elm2 = row.insertCell(-1);
+      elm2.className = 'populararticles-title';
+      elm2.innerHTML = '<a href="' + data.articles[i].url + '?ref=popular_article&id=7836571-472933">' + data.articles[i].title + '</a>'
+      ;
+
+    }
+  };
+
+  var xhr = (function () {
+      if (window.XMLHttpRequest)
+        return new XMLHttpRequest();
+      else {
+        var msxml = [
+          "Msxml2.ServerXMLHTTP.6.0", "Msxml2.ServerXMLHTTP.5.0", "Msxml2.ServerXMLHTTP.4.0", "Msxml2.ServerXMLHTTP.3.0",
+          "Msxml2.ServerXMLHTTP", "Microsoft.ServerXMLHTTP", "Msxml2.XMLHTTP.6.0", "Msxml2.XMLHTTP.5.0",
+          "Msxml2.XMLHTTP.4.0", "Msxml2.XMLHTTP.3.0", "Msxml2.XMLHTTP", "Microsoft.XMLHTTP"
+        ];
+        for (var i = 0; i<msxml.length; i++ ){
+          try {
+            return new ActiveXObject(msxml[i]);
+          }
+          catch(e) { }
+        }
+        return null;
+      }
+  })();
+    
+  if (!xhr) return;
+  xhr.open('GET', url, true);
+  xhr.onreadystatechange = function () {
+    if (xhr.readyState == 4 && xhr.status == 200) {
+      eval('var ld_popular_articles_json = ' + xhr.responseText);
+      callback(ld_popular_articles_json);
+    }
+  };
+  xhr.send();
+
+})();
+//-->
+</script>
+
+<div class="plugin-recent_articles sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">最新記事</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27108137.html">21卒就活生ワイ、内定辞退でしこたま怒鳴られる</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/10257766.html">ニートって難しい資格取って仕事探そうとするけどさ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839910.html">【学歴フィルター】企業にとっての一流大学とは？【就職偏差値】</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839719.html">ワイニート歴2年、就職して初年度の年収500万円！！！！</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073431.html">あ、面接落ちたなってフラグ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073465.html">【悲報】上級国民大手企業様「下請けに仕事やらせてガッポリ中抜きｗ」→夏ボーナス92万5947円</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27075072.html">ワイ21卒、会社選びを間違ってしまったと後悔する</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027071.html">【悲報】キャリア採用の銀行員ワイ、周囲の人間があまりにも有能すぎてマジでドン引き……………………</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27063977.html">【速報】大学、終わる。　Googleが大卒資格を得られるコースを提供へ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027029.html">教師「Ｆ欄ＯＫです、公務員です、毎日定時で帰れます、年収700万です」←こいつが馬鹿にされる理由ｗ</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-recent_articles -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「A」設定のブログパーツ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　左側200px ここまで-->
+
+
+        <!-- コンテンツの箱の中　右側200px はじまり-->
+        <aside class="right-container">
+            <div class="right-column-inner">
+            
+
+
+
+<div class="plugin-categorize sidewrapper" id="plugin-categorize-457691">
+    <div class="sidetitlebody">
+        <div class="sidetitle">カテゴリー</div>
+    </div>
+    <div class="sidetop"></div>
+    <div class="side">
+
+
+      
+
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160301.html">就活準備 (243)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161699.html">自己分析 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161700.html">企業・業界研究 (66)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155971.html">資格 (39)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155966.html">選考 (254)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155977.html">インターン (23)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155978.html">説明会 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155975.html">ES (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155976.html">SPIなど (7)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155974.html">面接 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155972.html">内定 (222)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160304.html">NNT(無内定) (68)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160302.html">内定後・入社前 (110)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160308.html">アドバイス (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160460.html">入社後 (924)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220065.html">新卒 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220063.html">上司 (95)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_219473.html">社会人生活 (299)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160474.html">ブラック企業 (65)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160303.html">転職 (175)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163214.html">副業 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220667.html">収入 (102)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_299497.html">採用担当 (3)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_318465.html">第二新卒 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161711.html">学生生活 (46)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163247.html">浪人・留年 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155967.html">学歴 (119)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_223545.html">ニート (38)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155969.html">業界別 (314)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156035.html">金融 (34)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156099.html">建築・不動産 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160357.html">物流・運送 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160358.html">IT・メディア (55)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160359.html">エネルギー・資源 (1)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160310.html">自動車・機械 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160360.html">食品・小売 (14)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160311.html">公務員・準公務員 (89)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160356.html">サービス (21)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160473.html">その他 (42)</a>
+          
+        </div>
+        
+    
+        
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160476.html">その他 (472)</a>
+          
+        </div>
+        
+    
+    
+
+    </div>    
+    <div class="sidebottom"></div>
+</div><!-- // plugin-categorize -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+<a href="//blog.with2.net/link/?1955545"><img src="https://blog.with2.net/img/banner/banner_21.gif" title="人気ブログランキング"></a><br><a href="//blog.with2.net/link/?1955545" style="font-size: 0.8em;">人気ブログランキング</a>
+
+<div class="plugin-link sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">リンク集</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://0matome.com/" target="_blank">おまとめ</a></div>
+
+<div class="sidebody"><a href="http://2chnavi.net/allentries/?threshold=0" target="_blank">2chnavi</a></div>
+
+<div class="sidebody"><a href="http://http://iwashi.biz/" target="_blank">いわしアンテナ &gt;°))))彡</a></div>
+
+<div class="sidebody"><a href="http://2ch-2.net/" target="_blank"> つーアンテナ(*ﾟ∀ﾟ)</a></div>
+
+<div class="sidebody"><a href="https://ii-antenna.net/?about" target="_blank">いーあんてな(#ﾟｗﾟ)</a></div>
+
+<div class="sidebody"><a href="https://2ch-mi.net/" target="_blank">みーアンテナ（´∀｀）</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-link -->
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">検索</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="https://cse.google.com/cse.js?cx=014565878756483497884:urusxdcjffe"></script>
+<div class="gcse-search"></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「B」設定のブログパーツ表示 -->
+            
+<!-- LDR・RSSリンクとブログのロゴ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　右側200px ここまで-->
+
+        <!-- このページのトップヘ　はじまり -->
+        <p class="to-pagetop"><a href="#"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/to_pagetop.png" width="70" height="70" alt="このページのトップヘ" /></a></p>
+        <!-- このページのトップヘ ここまで -->
+
+    </div>
+    <!-- コンテンツ全体 ここまで-->
+
+    <!-- ブログのフッター はじまり-->
+    <footer id="blog-footer">
+    <!-- Blog Common Footer // --><div id="footer"><p>Powered by <a href="http://blog.livedoor.com/" title="ライブドアブログ">ライブドアブログ</a></p></div><!-- // Blog Common Footer --><!-- 共通フッター表示 -->
+    </footer>
+    <!-- /ブログのフッター ここまで-->
+
+</div>
+<!-- コンテンツエリア ここまで-->
+
+
+<!-- Add Body Tag // --><script type="text/javascript">
+(function(){
+  var traq = document.createElement('script'); traq.type = 'text/javascript'; traq.async = true;
+  traq.src = 'https://t.blog.livedoor.jp/u.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(traq, s);
+})();
+</script>
+<noscript>
+<img src="https://t.blog.livedoor.jp/u.gif" alt="traq">
+</noscript>
+<!-- // Add Body Tag -->
+
+<script>
+(function($) {
+  var cookieName = 'livedoor-blog-gdpr-agreed';
+  $(document).ready(function() {
+    if (navigator.userAgent.match(/https?:\/\//)) {
+      // UA に http:// or https:// があればスルー
+      return;
+    }
+
+    var agreed = document.cookie.indexOf(cookieName) >= 0;
+    if (agreed) {
+      // 同意済み Cookie があればスルー
+      return;
+    }
+
+    var banner = $('<div>');
+    banner.attr('id', 'gdpr-banner');
+    var label = $('<p>');
+    label.html('\
+      ライブドアブログでは広告のパーソナライズや効果測定のためクッキー(cookie)を使用しています。<br>\
+      このバナーを閉じるか閲覧を継続することでクッキーの使用を承認いただいたものとさせていただきます。<br>\
+      また、お客様は当社パートナー企業における所定の手続きにより、クッキーの使用を管理することもできます。<br>\
+      詳細は<a href="http://www.livedoor.com/rules/" target="_blank" style="color:#023780;text-decoration:underline;">ライブドア利用規約</a>をご確認ください。\
+    ');
+    banner.append(label);
+
+    var closeButton = $('<button>');
+    closeButton.attr('type', 'button');
+    closeButton.html('閉じる');
+    closeButton.on('click', function() {
+      $('#gdpr-banner').hide();
+      document.cookie = cookieName + '="1";expires=Tue, 31-Dec-2037 00:00:00 GMT;path=/;';
+    });
+    banner.append(closeButton);
+
+    banner.css({
+      'position': 'fixed',
+      'left': '0',
+      'right': '0',
+      'bottom': '0',
+      'background': '#dcdcdc',
+      'color': '#000',
+      'padding': '20px',
+      'text-align': 'center',
+      'box-shadow': '0 -2px 2px rgba(102, 102, 102, 0.86)',
+      'z-index': '2147483647',
+    });
+    label.css({
+      'display': 'inline-block',
+      'text-align': 'left',
+      'font-size': '14px',
+      'color': '#000',
+      'vertical-align': 'middle',
+      'line-height': '1.5',
+    });
+    closeButton.css({
+      'display': 'inline-block',
+      'color': '#fff',
+      'border': 'none',
+      'font-size': '14px',
+      'padding': '4px 40px',
+      'margin-left': '40px',
+      'background': '#535353',
+      'vertical-align': 'middle',
+    });
+
+    var script = document.createElement('script');
+    script.type = "text/javascript";
+    script.src = "https://ipcheck.blogsys.jp/check.js?t=" + Date.now();
+    script.onerror = function() {
+      $('body').append(banner);
+    };
+    document.body.appendChild(script);
+  });
+})(jQuery);
+</script>
+</body>
+</html>

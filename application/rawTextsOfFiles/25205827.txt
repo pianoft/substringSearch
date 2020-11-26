@@ -1,0 +1,1786 @@
+<!DOCTYPE html>
+<html lang="ja" itemscope itemtype="http://schema.org/Blog">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=1190">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" /><link rel="shortcut icon" type="image/vnd.microsoft.icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/favicon.ico" /><link rel="icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/3ab45ab0.jpg" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/template.css?v=20190826" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/heart.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/icon.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="http://pathtimeblog.com/site.css?_=20190831163247" type="text/css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://pathtimeblog.com/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://pathtimeblog.com/atom.xml" /><link rel="canonical" href="http://pathtimeblog.com/archives/25205827.html" /><link rel="openid.server" href="http://auth.livedoor.com/openid/server" /><link rel="openid.delegate" href="http://profile.livedoor.com/shukatu2ch/" />
+<link rel="mixi-check-alternate" media="mixi-device-mobile" type="text/html" href="http://blog.m.livedoor.jp/shukatu2ch/article/25205827" />
+<link rel="mixi-check-alternate" media="mixi-device-smartphone" type="text/html" href="http://pathtimeblog.com/archives/25205827.html" />
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/jquery-1.11.1.min.js"></script>
+
+<meta name="description" content="1: 風吹けば名無し  2020/06/14(日) 16:58:24.13 ID:TTXFYd9V0
+  もうあかん  
+" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="就活中のワイ、涙を流す💩💩💩 : 2ch就活まとめ" />
+<meta property="og:description" content="1: 風吹けば名無し  2020/06/14(日) 16:58:24.13 ID:TTXFYd9V0  もうあかん  " />
+<meta property="og:url" content="http://pathtimeblog.com/archives/25205827.html" />
+<meta property="og:site_name" content="2ch就活まとめ" />
+<meta property="og:locale" content="ja_JP" />
+<meta property="og:image" content="https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png" />
+
+<meta name="twitter:site" content="@2chshukatu" />
+<meta name="twitter:title" content="就活中のワイ、涙を流す💩💩💩 : 2ch就活まとめ" />
+<meta name="twitter:description" content="1: 風吹けば名無し  2020/06/14(日) 16:58:24.13 ID:TTXFYd9V0  もうあかん  " />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image:src" content="https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png" />
+<link rel="alternate" media="handheld" type="application/xhtml+xml" href="http://blog.m.livedoor.jp/shukatu2ch/" />
+
+<title>就活中のワイ、涙を流す💩💩💩 : 2ch就活まとめ</title>
+<script src="https://parts.blog.livedoor.jp/js/emoji.js"></script>
+<script src="https://parts.blog.livedoor.jp/js/misc.js?v=20190710"></script>
+<!--[if lt IE 9]>
+<script src="https://parts.blog.livedoor.jp/js/html5.js"></script>
+<![endif]-->
+<script src="https://parts.blog.livedoor.jp/js/usr/import.js"></script>
+<script>
+$(function(){
+  if($('.header-inner01').children('#blog-header-image').length) {
+    $(window).bind('load', function() {
+      var title1 = $('#blog-header-image').height();
+      var title2 = $('.header-menu').height();
+      var headerHeight = title1-title2-15;
+      $("hgroup").css("height", headerHeight);
+    });
+  }
+});
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-3064778048578600",
+          enable_page_level_ads: true
+     });
+</script>
+
+<!-- Add Google Analytics Tag // -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-113178806-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- // Add Google Analytics Tag -->
+
+
+<meta name="referrer" content="always">
+<meta name="referrer" content="unsafe-url">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1638469-45"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+var blogId = '';
+if (blogId) {
+  gtag('config', 'UA-1638469-45', {
+    'custom_map': {'dimension1': 'blog_id'},
+    'blog_id': blogId
+  });
+} else {
+  gtag('config', 'UA-1638469-45');
+}
+</script>
+
+</head>
+<body class="default_2012 page-article layout-2col sidebar-right"><script type="text/javascript"><!--
+var ld_blog_vars = {
+  provider_id : '1',
+  provider_name : 'livedoor',
+  id : '7836571',
+  name : 'shukatu2ch',
+  charset : 'utf8',
+  url : 'http://pathtimeblog.com/',
+  title : '2ch就活まとめ',
+  blog_design: {
+      version: 1
+  },
+  blog_category: {
+    id: '243',
+    permalink: 'https://blog.livedoor.com/category/243/',
+    name: 'まとめ(総合) > まとめ',
+    is_adult : 0,
+    is_gambling : 0,
+    hierarchy: [{ id: '431', name: 'まとめ(総合)', permalink: 'https://blog.livedoor.com/category/431/' },{ id: '243', name: 'まとめ', permalink: 'https://blog.livedoor.com/category/243/' }]
+  },
+  current_page : {
+    type : 'article',    page : ''
+  },
+  articles : [ {
+       id : '25205827',
+       permalink : 'http://pathtimeblog.com/archives/25205827.html',
+       title : '就活中のワイ、涙を流す💩💩💩',
+       categories : [ { id:'160476', name:'その他', permalink:'http://pathtimeblog.com/archives/cat_160476.html' }, { id:'', name:'', permalink:'' } ],
+       date : '2020-06-19 11:30:31'
+}   ]
+};
+//-->
+</script><div id="analyzer_tags" style="display:none">
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/c2.js?v=20191010"></script>
+<script type="text/javascript">blog_counter('shukatu2ch', 7836571, 'http://pathtimeblog.com/')</script>
+</div><script type="text/javascript" src="https://parts.blog.livedoor.jp/js/smartphone.js?v=20200824"></script>
+<script type="text/javascript" src="http://pathtimeblog.com/settings/header.js?v=20190705"></script><script type="text/javascript" src="http://pathtimeblog.com/settings/ad.js"></script>
+<script type="text/javascript">
+var palette_src = 'https://parts.blog.livedoor.jp/img/emoji/3/palette.png';
+if (typeof IMAGE_CACHE == 'object' && IMAGE_CACHE['emoji_palette']) IMAGE_CACHE['emoji_palette'].src = palette_src;
+</script>
+
+<!-- Blog Common Header // -->
+<!-- // Blog Common Header -->
+<!-- 共通ヘッダー表示 -->
+
+<!-- ブログタイトル はじまり-->
+<header id="blog-header">
+
+    <div id="blog-header01">
+
+        <div class="header-inner01 show-image hide-text">
+
+            <hgroup>
+                <!--ブログタイトル　はじまり-->
+                <h1 id="blog-title"><a href="http://pathtimeblog.com/">2ch就活まとめ</a></h1>
+                <!--ブログタイトル　ここまで-->
+                <!--ブログ説明　はじまり-->
+                <h2 id="blog-description">新卒・転職・社会人生活などを含め、就活・就職に関することをまとめてます。</h2>
+                <!--ブログ説明　ここまで-->
+            </hgroup>
+
+            <a href="http://pathtimeblog.com/"><img src="https://resize.blogsys.jp/727db0f9da9f42eb7d26b703338c30b3eef0157c/trim2/0x243_94p_1200x388/http://livedoor.blogimg.jp/shukatu2ch/imgs/0/5/055bbafe.jpg" id="blog-header-image" /></a>
+
+            <div id="blog-header02">
+                <div class="header-inner02">
+                    <ul class="header-menu">
+                        <li><a href="http://pathtimeblog.com/">HOME</a></li><!--メニューを入れてください-->
+                        <li class="ldb_menu-item-url"><a href="http://blog.livedoor.jp/shukatu2ch/archives/6126504.html">ABOUT</a></li><!--メニューを入れてください-->
+                        <li><a href="mailto:shukatumatome@gmail.com">お問い合わせ</a></li><!--メニューを入れてください-->
+                    </ul>
+                    <ul class="header-sarch">
+                        <li><a href="http://twitter.com"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_twitter.png" alt="Twitter" /></a></li><!--Twitter-->
+                        <li><a href="http://pathtimeblog.com/index.rdf"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_rss.png" alt="RSS" /></a></li><!--RSS-->
+                        <li>
+                        <form action="http://pathtimeblog.com/search" method="GET" style="padding:0;margin:0px;">
+                        <input type="TEXT" name="q" class="sf">
+                        <input type="SUBMIT" value="検索" class="sfbtn">
+                        </form>
+                        </li><!--検索窓-->
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</header>
+<!-- /ブログタイトル ここまで-->
+
+
+<!-- コンテンツエリア はじまり-->
+<div id="wrapper">
+
+    <!-- コンテンツ全体 はじまり-->
+    <div id="container">
+
+        <!-- 相互RSS はじまり-->
+        <div class="rss-blogroll">
+
+            <!-- 相互RSSを設置する場合の注意事項
+                コードに含まれる以下のCSSは外して設置してください
+                http://blogroll.livedoor.net/css/default2.css -->
+
+                 <!-- 相互RSSのコード ひとつ目-->
+            <script type="text/javascript">
+            <!--
+                   var blogroll_channel_id = 255242;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード ふたつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 265945;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード みっつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 255442;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href= />
+        </div>
+        <!-- 相互RSS ここまで-->
+
+        <!-- コンテンツの箱の中　真ん中728px はじまり-->
+        <div class="main-container">
+            <div class="main-column-inner">
+<br>
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+<br>
+                <!-- メッセージボード -->
+                 
+
+
+
+                <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://pathtimeblog.com/archives/25205827.html"
+    trackback:ping="http://trackback.blogsys.jp/livedoor/shukatu2ch/25205827"
+    dc:title="就活中のワイ、涙を流す💩💩💩"
+    dc:identifier="http://pathtimeblog.com/archives/25205827.html"
+    dc:subject="その他"
+    dc:description="1: 風吹けば名無し  2020/06/14(日) 16:58:24.13 ID:TTXFYd9V0  もうあかん  "
+    dc:creator="shukatu2ch"
+    dc:date="2020-06-19T11:30:31+09:00" />
+</rdf:RDF>
+-->
+<div id="ad_rs" class="ad_rs_b"></div><!-- 記事のトラックバック・オートディスカバリー -->
+
+
+                <!-- 記事 はじまり-->
+                <article class="article first-article" itemscope itemtype="http://schema.org/BlogPosting">
+
+                    <!-- 記事タイトル　記事下の情報　はじまり-->
+                    <header class="article-header">
+
+                        <h1 class="article-title" itemprop="name"><a href="http://pathtimeblog.com/archives/25205827.html" itemprop="url">就活中のワイ、涙を流す💩💩💩</a></h1><!-- 記事のタイトル -->
+
+                            <!-- 記事下の記事情報 はじまり-->
+                            <div class="article-header-inner">
+
+                                <!-- 記事情報の上の行 はじまり-->
+                                <div class="article-header-top">
+                                <p class="article-header-date"><time datetime="2020-06-19T11:30:31+09:00" pubdate="pubdate">2020年06月19日</time></p>
+                                
+                                <ul class="article-header-category">
+                                    <li>
+                                        <dl><dt>カテゴリ:</dt><dd class="article-category1"><a href="http://pathtimeblog.com/archives/cat_160476.html">その他</a></dd></dl>
+                                    </li>
+                                </ul>
+                                
+
+                                <!-- 記事の評価アイコン はじまり-->
+                                
+                                <!-- 記事の評価アイコン ここまで-->
+
+                                </div>
+                                <!-- 記事情報の上の行 ここまで-->
+                                <!-- ソーシャルボタン　はじまり -->
+                                <ul class="article-social-btn">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/25205827.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/25205827.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="就活中のワイ、涙を流す💩💩💩 - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=%E5%B0%B1%E6%B4%BB%E4%B8%AD%E3%81%AE%E3%83%AF%E3%82%A4%E3%80%81%E6%B6%99%E3%82%92%E6%B5%81%E3%81%99%F0%9F%92%A9%F0%9F%92%A9%F0%9F%92%A9%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/25205827.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/25205827.html" data-text="就活中のワイ、涙を流す💩💩💩 - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F25205827.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                                </ul>
+                                 <!-- ソーシャルボタン　ここまで -->
+                            </div>
+                            <!-- 記事下の記事情報 ここまで-->
+
+                    </header>
+                    <!-- 記事タイトル　記事下の情報　ここまで-->
+
+
+
+                    <!-- 記事本文 はじまり-->
+                    <div class="article-body">
+                        <div class="article-body-inner">
+<!-- 参加している共通テーマの表示 -->
+                        <span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">1: <span  style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span  style="color: gray;"> 2020/06/14(日) 16:58:24.13 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:TTXFYd9V0</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b">  もうあかん  </div><br />
+<!-- Generated by まとめくす (http://2mtmex.com/) --><!-- 本文 --><div class="article-body-more" id="more"><font size="2"><div class="t_h" >2: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 16:58:47.47 ID:U1IQYQSDM</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;1</span> <br /> ＜━━━━━━━＞ <br /> ＞━━━━━━━＜ <br />  <br /> こうすると下の棒の方が一見長く見えます。これが目の錯覚です。  </div><br />
+<font size="2"><div class="t_h" >3: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 16:58:48.13 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  明日、連絡が来る… <br /> 来なきゃ終わりや  </div><br />
+<font size="2"><div class="t_h" >4: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 16:59:06.27 ID:ZaLMsOTYd</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;margin-bottom:30px;margin-top:20px;">  でぇじょうぶだ <br /> 来年がある  </div><br />
+<font size="2"><div class="t_h t_i" >7: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 16:59:19.33 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;4</span> <br /> 無いよ  </div><br />
+<font size="2"><div class="t_h" >5: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 16:59:08.00 ID:35rEzr9Lr</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  クソも垂れとるやん  </div><br />
+<font size="2"><div class="t_h t_i" >8: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 16:59:23.72 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;5</span> <br /> うん  </div><br />
+<font size="2"><div class="t_h" >6: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 16:59:11.22 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  21年間遊んで暮らせたからコスパは悪くなかったわ…  </div><br />
+<font size="2"><div class="t_h" >9: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 16:59:50.22 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  来年なんかただでさえキツイのに、今年まともに就活できなかったやつが来年戦えるわけないやん  </div><br />
+<font size="2"><div class="t_h" >10: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:00:03.41 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  身投げや  </div><br />
+<font size="2"><div class="t_h" >11: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:00:08.64 ID:/fkytiar0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  こんにちは <br />  <br /> 就活って長期化するとだれて疲れてくるよな  </div><br />
+<font size="2"><div class="t_h t_i" >15: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:00:49.43 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;11</span> <br /> ワイは自業自得で勝手に長期化してるだけや  </div><br />
+<font size="2"><div class="t_h" >12: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:00:11.99 ID:fWqurqHs0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  また府大か  </div><br />
+<font size="2"><div class="t_h t_i" >19: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:00:57.33 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;12</span> <br /> 💩  </div><br />
+<font size="2"><div class="t_h" >13: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:00:27.77 ID:+NqarZZb0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  ワイ20卒やが今年の2月まで就活してたぞ  </div><br />
+<font size="2"><div class="t_h t_i" >20: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:01:11.36 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;13</span> <br /> そうか <br /> よく頑張ったな <br /> わいはもう疲れたんや  </div><br />
+<font size="2"><div class="t_h" >14: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:00:30.92 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  Fランの電電とか行っとけば楽やったんかな  </div><br />
+<font size="2"><div class="t_h" >16: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:00:49.76 ID:MILchOo00</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  内定ひとつもないの？  </div><br />
+<font size="2"><div class="t_h t_i" >22: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:01:27.92 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;16</span> <br /> 一つある <br /> 中小のSEや <br /> 基本給18  </div><br />
+<font size="2"><div class="t_h t_i" >50: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:06:23.27 ID:MILchOo00</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;22</span> <br /> あーお前か <br /> ウザいからはよ死ね  </div><br />
+<font size="2"><div class="t_h t_i" >53: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:07:13.85 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;50</span> <br /> 来週まで待って  </div><br />
+<font size="2"><div class="t_h t_i" >75: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:09:31.00 ID:MILchOo00</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;53</span> <br /> 来週までになんかあんのか？  </div><br />
+<font size="2"><div class="t_h t_i" >86: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:10:30.79 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;75</span> <br /> 今受けてるところが多分来週中に結果来る  </div><br />
+<font size="2"><div class="t_h t_i" >92: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:11:02.00 ID:MILchOo00</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;86</span> <br /> 最終面接？  </div><br />
+<font size="2"><div class="t_h t_i" >95: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:11:24.79 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;92</span> <br /> うん <br /> そうや  </div><br />
+<font size="2"><div class="t_h t_i" >97: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:11:51.01 ID:MILchOo00</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;95</span> <br /> そこは納得できるところなん？  </div><br />
+<font size="2"><div class="t_h t_i" >102: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:12:30.87 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;97</span> <br /> できる  </div><br />
+<font size="2"><div class="t_h t_i" >111: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:13:24.54 ID:MILchOo00</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;102</span> <br /> そうか <br /> じゃあ来週スレ立ててそこの結果教えろよ  </div><br />
+<font size="2"><div class="t_h t_i" >116: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:14:24.21 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;111</span> <br /> うん <br /> どっちにしろそれで消えるからそれで我慢して <br /> ごめんぬ  </div><br />
+<font size="2"><div class="t_h t_i" >118: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:14:46.07 ID:MILchOo00</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;116</span> <br /> ええよ <br /> ワイも就活やから大変なのはわかるし  </div><br />
+<font size="2"><div class="t_h t_i" >126: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:15:23.50 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;118</span> <br /> ありがとう  </div><br />
+<font size="2"><div class="t_h" >18: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:00:54.93 ID:CPwAgGR00</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  介護施設がお前を待っとる <br />  <br /> うんこマン誕生や！  </div><br />
+<font size="2"><div class="t_h t_i" >23: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:01:38.71 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;18</span> <br /> 嫌 </div><br />
+<font size="2"><div class="t_h t_i" >46: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:05:22.31 ID:CPwAgGR00</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;23</span> <br /> なんでや！お前がうんこ処理せんやったら臭くなるやんけ！  </div><br />
+<font size="2"><div class="t_h" >24: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:01:50.33 ID:In6niqKx0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  ワイ22卒震える  </div><br />
+<font size="2"><div class="t_h t_i" >26: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:02:03.05 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;24</span> <br /> がんぼれ  </div><br />
+<font size="2"><div class="t_h t_i" >27: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:02:29.56 ID:In6niqKx0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;26</span> <br /> 大学3年のときどんなことしてた？  </div><br />
+<font size="2"><div class="t_h t_i" >30: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:02:44.55 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;27</span> <br /> 夏からインターン行ってたよ  </div><br />
+<font size="2"><div class="t_h t_i" >32: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:03:06.63 ID:In6niqKx0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;30</span> <br /> ありがとうインターンの予約してみるわ  </div><br />
+<font size="2"><div class="t_h t_i" >37: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:03:43.94 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;32</span> <br /> がんばってな  </div><br />
+<font size="2"><div class="t_h t_i" >38: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:04:01.17 ID:U+Uw5gB80</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;30</span> <br /> それで内定ウンコとかどんだけやねん <br /> ワイはやる気なくて９月に就活始めたで  </div><br />
+<font size="2"><div class="t_h t_i" >44: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:04:51.34 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;38</span> <br /> ワイくんが無能やからや  </div><br />
+<font size="2"><div class="t_h" >28: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:02:33.47 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  なんでワイは去年の夏から就活して、まだまともに結果出てないかって？ <br /> 無能やからや  </div><br />
+<font size="2"><div class="t_h" >31: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:03:02.98 ID:U+Uw5gB80</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  ワイも新卒のときは中小IT やった <br /> 今は辞めて独立に向けて準備中  </div><br />
+<font size="2"><div class="t_h t_i" >35: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:03:20.28 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;31</span> <br /> 頑張れ <br /> ワイには無理や  </div><br />
+<font size="2"><div class="t_h" >34: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:03:11.56 ID:/fkytiar0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  コロナ不況のせいで、これから飛び込みするやつ増えてくるんかな？  </div><br />
+<font size="2"><div class="t_h t_i" >36: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:03:33.44 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;34</span> <br /> 今年は関係ないと思うわ <br /> 来年はわからん  </div><br />
+<font size="2"><div class="t_h" >39: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:04:06.92 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  コロナ関係ないんよなぁ… <br /> ワイが20卒でも結果は同じや  </div><br />
+<font size="2"><div class="t_h" >41: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:04:22.85 ID:fWqurqHs0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  インターン一度も行かなかった産近甲龍文系の💩やが一応内定あるわ <br /> 中小やけど  </div><br />
+<font size="2"><div class="t_h t_i" >47: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:05:57.93 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;41</span> <br /> ワイもインターン行かんでもよかったわ <br /> 金と時間を無駄にしただけ <br /> 情けないわ  </div><br />
+<font size="2"><div class="t_h" >42: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:04:35.50 ID:cZmMc5hLa</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;1</span> <br /> お！ええやんええやん！ええやんか！ええやんか！察するに大手と言いたいとこだけど中小でもええやんか！あと飲食とか介護やんなあ！内定もらえたならええやんええやん！就活辞めれてよかったですね！Fラン大生は需要があってよろしいなあ！ギューン  </div><br />
+<font size="2"><div class="t_h t_i" >45: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:05:21.12 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;42</span> <br /> うん <br /> 中小の内定やけどな  </div><br />
+<font size="2"><div class="t_h" >48: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:06:01.36 ID:nIvWn/QN0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  努力不足だろうな、能力無いとわかってたなら人より速く多くやるのは基本やぞ  </div><br />
+<font size="2"><div class="t_h t_i" >51: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:07:03.35 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;48</span> <br /> せやね <br /> 要するに努力した"つもり"でしかなかったんや、どれだけ力入れようが結果が悪かったら努力不足や  </div><br />
+<font size="2"><div class="t_h t_i" >63: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:08:13.70 ID:nIvWn/QN0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;51</span> <br /> まー頑張れや、この努力が一生続くのが仕事や  </div><br />
+<font size="2"><div class="t_h t_i" >71: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:09:12.67 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;63</span> <br /> じゃああかんな  </div><br />
+<font size="2"><div class="t_h" >52: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:07:11.00 ID:Eje+F6xx0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  面接でも流暢にしゃべれないタイプ？  </div><br />
+<font size="2"><div class="t_h t_i" >55: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:07:25.02 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;52</span> <br /> 面接はむしろ得意や  </div><br />
+<font size="2"><div class="t_h t_i" >74: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:09:30.40 ID:JU/TJUcS0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;55</span> <br /> ほな落ちるわけない <br /> 客観的に見れてないんちゃうの？  </div><br />
+<font size="2"><div class="t_h t_i" >84: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:10:11.21 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;74</span> <br /> 面接で話せても、話す内容が薄かったり、テストの点数が悪いとあかんねん  </div><br />
+<font size="2"><div class="t_h t_i" >96: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:11:25.97 ID:JU/TJUcS0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;84</span> <br /> 話す内容薄いって面接下手ってことやで <br /> 君まさか最低限の質問受け答えができるだけで面接自信あると思ってたんか？ <br /> そんなもんやべえやつ以外誰でもできる  </div><br />
+<font size="2"><div class="t_h t_i" >101: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:12:21.35 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;96</span> <br /> せやな <br /> じゃああかんかったわ  </div><br />
+<font size="2"><div class="t_h" >54: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:07:21.55 ID:JU/TJUcS0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  大阪府立大生やっけ？？  </div><br />
+<font size="2"><div class="t_h t_i" >56: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:07:31.75 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;54</span> <br /> いちだい  </div><br />
+<font size="2"><div class="t_h t_i" >61: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:08:07.62 ID:JU/TJUcS0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;56</span> <br /> せやったか <br /> 関関同立くらいは戦えるん？？  </div><br />
+<font size="2"><div class="t_h t_i" >65: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:08:30.37 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;61</span> <br /> 知らん <br /> 関関同立はピン切りすぎる  </div><br />
+<font size="2"><div class="t_h" >60: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:08:03.49 ID:tOX8GG9ld</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  中小でもやっぱきついん？ <br /> 志望業界は？  </div><br />
+<font size="2"><div class="t_h t_i" >67: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:09:01.16 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;60</span> <br /> 志望業界なんてもうないよ <br /> 給料やすいし昇給ないのは嫌  </div><br />
+<font size="2"><div class="t_h t_i" >158: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:19:23.56 ID:EDvTC+Nd0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;67</span> <br /> 阪急バスとか受けたらどうや？  </div><br />
+<font size="2"><div class="t_h t_i" >161: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:19:55.50 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;158</span> <br /> バス？ <br /> 採用してんの？  </div><br />
+<font size="2"><div class="t_h t_i" >164: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:20:21.31 ID:EDvTC+Nd0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;161</span> <br /> してるはず <br /> 総合職  </div><br />
+<font size="2"><div class="t_h t_i" >166: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:20:38.11 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;164</span> <br /> 年収いいん？  </div><br />
+<font size="2"><div class="t_h t_i" >173: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:21:43.47 ID:EDvTC+Nd0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;166</span> <br /> ええわけないやろ <br /> たぶん平均600とかや <br />  <br /> ただ、残ってる中からマシなのさがさなあかんやん  </div><br />
+<font size="2"><div class="t_h t_i" >179: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:22:37.22 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;173</span> <br /> 😭 <br /> もう新しく受けることはないぞ  </div><br />
+<font size="2"><div class="t_h t_i" >188: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:23:33.66 ID:EDvTC+Nd0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;179</span> <br /> 大学のキャリセンとかに来てる求人は比較的マシやろから <br /> そっから探してエントリーせえや  </div><br />
+<font size="2"><div class="t_h t_i" >194: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:24:18.64 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;188</span> <br /> オープンワーク2.3とか2.5やぞ  </div><br />
+<font size="2"><div class="t_h t_i" >197: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:24:59.75 ID:EDvTC+Nd0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;194</span> <br /> それ運ちゃんの待遇が悪いからやで  </div><br />
+<font size="2"><div class="t_h" >66: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:08:56.48 ID:JU/TJUcS0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  市大文系とかやったら大手行ける方がレアなんちゃうの？？  </div><br />
+<font size="2"><div class="t_h t_i" >73: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:09:27.70 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;66</span> <br /> そうかな <br /> そうかも  </div><br />
+<font size="2"><div class="t_h" >70: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:09:10.51 ID:G5/rJ4bua</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  大学に来てる求人使えよ  </div><br />
+<font size="2"><div class="t_h t_i" >78: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:09:47.53 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;70</span> <br /> いや  </div><br />
+<font size="2"><div class="t_h" >79: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:09:48.13 ID:EVZhMVSA0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  公務員志望？  </div><br />
+<font size="2"><div class="t_h t_i" >87: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:10:38.85 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;79</span> <br /> ちがう  </div><br />
+<font size="2"><div class="t_h t_i" >99: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:12:17.87 ID:EVZhMVSA0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;87</span> <br /> ならアドバイスできんわ  </div><br />
+<font size="2"><div class="t_h t_i" >103: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:12:40.35 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;99</span> <br /> うん <br /> ありがとうね  </div><br />
+<font size="2"><div class="t_h" >80: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:09:50.14 ID:Eje+F6xx0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  面接得意ならワンチャンあるやろ  </div><br />
+<font size="2"><div class="t_h t_i" >88: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:10:43.26 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;80</span> <br /> なかった  </div><br />
+<font size="2"><div class="t_h" >83: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:10:09.46 ID:JU/TJUcS0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  文系で平均が大手行けるのって宮廷早慶くらいか？？ <br /> いやそれでも厳しいか？  </div><br />
+<font size="2"><div class="t_h t_i" >89: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:10:46.48 ID:MILchOo00</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;83</span> <br /> 文系だから大手行けないとかないやろ <br /> 商社でも金融でもいくらでもあるやん  </div><br />
+<font size="2"><div class="t_h t_i" >100: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:12:19.57 ID:JU/TJUcS0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;89</span> <br /> そら行ける人は行けるやろ <br /> ただ平均はどこ行ってるかってことや  </div><br />
+<font size="2"><div class="t_h t_i" >108: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:12:54.71 ID:MILchOo00</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;100</span> <br /> 平均とるなら宮廷早慶じゃ大手無理やな <br /> 東京一くらい  </div><br />
+<font size="2"><div class="t_h" >85: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:10:27.36 ID:16XGZjuq0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  国立文系なら地元帰って公務員でもなればええのに <br /> 下手な民間より100倍ええやん　その学歴ならそれなりに出世もできるやろ  </div><br />
+<font size="2"><div class="t_h t_i" >94: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:11:16.31 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;85</span> <br /> 給料やすい  </div><br />
+<font size="2"><div class="t_h" >93: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:11:07.44 ID:Qik/kghS0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  内定ある時点で別にやばくないやんけ  </div><br />
+<font size="2"><div class="t_h t_i" >98: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:12:07.01 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;93</span> <br /> ここ行かんもん <br /> 中小SEで客先常駐やで？初任給の基本給18万やで？しかも東京 <br /> 暮らせやんわ  </div><br />
+<font size="2"><div class="t_h t_i" >104: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:12:42.80 ID:JU/TJUcS0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;98</span> <br /> それっていわゆるSESってやつですか？？  </div><br />
+<font size="2"><div class="t_h t_i" >107: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:12:51.90 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;104</span> <br /> 多分そうなんやと思う  </div><br />
+<font size="2"><div class="t_h t_i" >122: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:14:52.84 ID:Qik/kghS0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;98</span> <br /> ゴミみたいな内定先やけど、ある程度妥協することも大事やと思うで <br /> 学歴が関関同立未満なら納得できるやろ  </div><br />
+<font size="2"><div class="t_h t_i" >127: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:15:35.92 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;122</span> <br /> そうかな <br /> そうかも  </div><br />
+<font size="2"><div class="t_h" >105: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:12:45.73 ID:KMiUywK2M</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  市大やなくて同志社選んだワイも不安になるわ  </div><br />
+<font size="2"><div class="t_h t_i" >113: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:13:51.29 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;105</span> <br /> 市大も関関同立も府大も、所詮学歴フィルター突破できるくらいしかメリット無いよ <br /> あとは自分の力や  </div><br />
+<font size="2"><div class="t_h t_i" >115: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:14:03.55 ID:JU/TJUcS0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;105</span> <br /> 就活においてその辺の学歴の違いってほぼほぼ影響せんで <br /> 就活実績の違いは結局はそこの学生のレベルが高いかどうかや <br /> 同志社やから関大より加点！とかない  </div><br />
+<font size="2"><div class="t_h t_i" >128: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:15:36.38 ID:KMiUywK2M</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;115</span> <br /> だよなンゴ <br /> 負けんように頑張ります </div><br />
+<font size="2"><div class="t_h" >109: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:12:59.08 ID:YEOzjQUo0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  マジで何が目的なんや <br /> アドバイス求める訳でもなく慰めが欲しいわけでもなくなんのためにスレ立てたんや <br /> ほんまきらいやわお前みたいなやつ  </div><br />
+<font size="2"><div class="t_h t_i" >114: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:14:00.47 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;109</span> <br /> ごめん  </div><br />
+<font size="2"><div class="t_h" >112: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:13:51.09 ID:Eje+F6xx0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  がんばれよ <br /> うちの弟は泣きながら公務員勉強してるぞ  </div><br />
+<font size="2"><div class="t_h t_i" >120: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:14:48.82 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;112</span> <br /> わいはもう疲れた <br /> これでだめならもうだめや <br /> 弟さん応援したげてな  </div><br />
+<font size="2"><div class="t_h" >121: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:14:49.50 ID:RJUCaanka</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  あんま考えずにSIerばっか受けたけどなんか嫌になってきたなあ  </div><br />
+<font size="2"><div class="t_h t_i" >124: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:15:14.76 ID:MILchOo00</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;121</span> <br /> IT業界は基本ブラックやからなあ <br /> デスマ覚悟はしとくべきやね  </div><br />
+<font size="2"><div class="t_h t_i" >138: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:16:56.19 ID:RJUCaanka</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;124</span> <br /> まあまだ内定ないんですけどね🤪 <br /> 働きたくないしニートになるほうがええかな  </div><br />
+<font size="2"><div class="t_h" >130: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:15:56.23 ID:pJu1axFc0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  SEってことは理系？院行けばいいじゃん  </div><br />
+<font size="2"><div class="t_h t_i" >133: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:16:15.25 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;130</span> <br /> 文  </div><br />
+<font size="2"><div class="t_h t_i" >135: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:16:30.32 ID:JU/TJUcS0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;130</span> <br /> SEは文系もめちゃくちゃおるよ  </div><br />
+<font size="2"><div class="t_h t_i" >148: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:17:49.41 ID:pJu1axFc0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;135</span> <br /> はえ～知らんかったわ <br /> いろんな学部から受けれるってことは人気な所は倍率エグそうやな  </div><br />
+<font size="2"><div class="t_h t_i" >154: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:18:50.58 ID:JU/TJUcS0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;148</span> <br /> いや基本大量採用やからそうでもないで  </div><br />
+<font size="2"><div class="t_h" >131: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:16:06.47 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  22卒のみんなはワイの汚い屍を超えていくんやで  </div><br />
+<font size="2"><div class="t_h" >132: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:16:10.83 ID:qpEnIWJxd</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  イッチは人の話聞かんしどこ行っても無理やと思うわ  </div><br />
+<font size="2"><div class="t_h t_i" >134: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:16:28.81 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;132</span> <br /> そうかも  </div><br />
+<font size="2"><div class="t_h" >137: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:16:45.81 ID:0nJ4UdP20</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  営業来いよ景気ええぞ  </div><br />
+<font size="2"><div class="t_h t_i" >143: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:17:26.58 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;137</span> <br /> なんの営業？ <br /> 投資信託は嫌やで  </div><br />
+<font size="2"><div class="t_h" >139: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:16:59.02 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  Hello Worldくらいしかやったことないのに、なぜか内定出された  </div><br />
+<font size="2"><div class="t_h t_i" >142: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:17:14.76 ID:MILchOo00</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;139</span> <br /> ポテンシャル見込まれたんやろ  </div><br />
+<font size="2"><div class="t_h t_i" >150: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:18:00.56 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;142</span> <br /> 無いよ～😭  </div><br />
+<font size="2"><div class="t_h" >141: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:17:09.70 ID:mreW7TGZ0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  文系なのになんでSEになりたがるんや  </div><br />
+<font size="2"><div class="t_h t_i" >147: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:17:45.03 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;141</span> <br /> なりたくなかった <br /> エージェントに半ば無理やり  </div><br />
+<font size="2"><div class="t_h" >144: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:17:35.85 ID:801CMFFZ0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  かんぽ生命の営業は誰でも受かるで  </div><br />
+<font size="2"><div class="t_h t_i" >151: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:18:22.39 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;144</span> <br /> 今からかんぽ受けるやつって相当ブラック人材やろ  </div><br />
+<font size="2"><div class="t_h t_i" >207: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:26:16.69 ID:mUOfDTAc0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;144</span> <br /> ワイ落ちたで  </div><br />
+<font size="2"><div class="t_h" >145: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:17:43.87 ID:puFgJytM0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  市大でそれってよっぽど無キャやったんやな  </div><br />
+<font size="2"><div class="t_h t_i" >152: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:18:28.64 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;145</span> <br /> うん  </div><br />
+<font size="2"><div class="t_h" >149: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:17:49.61 ID:S3jEgKpX0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  文系の内定率が露骨に下がりすぎてて怖い <br /> 理系はほぼノーダメやったね  </div><br />
+<font size="2"><div class="t_h" >153: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:18:30.03 ID:mreW7TGZ0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  理系は例年通りやわ <br /> 多少影響あったがな  </div><br />
+<font size="2"><div class="t_h t_i" >157: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:19:13.68 ID:MILchOo00</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;153</span> <br /> 選考遅れてるところは結構あるな  </div><br />
+<font size="2"><div class="t_h" >155: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:18:58.56 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  今年は早く動いたやつが概ね勝ってるね <br /> ワイは負けたけど  </div><br />
+<font size="2"><div class="t_h" >156: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:19:01.99 ID:/8hcoqnn0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  大学出してもらって年収300～400万の底辺に甘んじるとか馬鹿かよ <br /> もっと頑張れよ  </div><br />
+<font size="2"><div class="t_h t_i" >159: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:19:33.33 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;156</span> <br /> それが嫌やから次の結果次第で生き続けるか死ぬか決まるんや  </div><br />
+<font size="2"><div class="t_h" >162: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:20:08.14 ID:3mowkWA50</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  プログラム触って、手動かすの向いてないと分かって上流SI目指すのはまだわかる <br /> 一行もコード書いたことないのになぜIT企業行きたいって思うのかがホンマ謎  </div><br />
+<font size="2"><div class="t_h t_i" >230: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:31:10.47 ID:eWvz65kka</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;162</span> <br /> 言うても1回もトレーディングしたことなくても商社行ったりするのと変わらんやろ  </div><br />
+<font size="2"><div class="t_h t_i" >267: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:39:37.56 ID:3mowkWA50</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;230</span> <br /> トレーディングのハードルの高さはどうだか知らんが、コードちょっと書くだけのハードルは低い（無料で勉強できる）し、ホントに興味あるなら触ってみりゃ良いのにって話や  </div><br />
+<font size="2"><div class="t_h" >163: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:20:13.11 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  バスって観光やばい煽り受けてるんちゃうの  </div><br />
+<font size="2"><div class="t_h" >165: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:20:37.53 ID:Xq2k9qYP0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  面接はどんな話した？  </div><br />
+<font size="2"><div class="t_h t_i" >169: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:21:16.12 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;165</span> <br /> 最後の？ <br /> 昨日のコピべペになるけど <br />  <br /> 君の専攻はウチで活用できるね！！！ <br /> 君みたいな趣味の人多いよ！！！ <br /> 他所よりうちのほうがいいよ！！ <br />  <br /> ここまで言われて落とされたらどうしたらいいん  </div><br />
+<font size="2"><div class="t_h" >167: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:20:41.48 ID:CnCH56t60</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  自分の行きたいとこ受けて落ちたなら受かったとこが自分に合ったとこなんや  </div><br />
+<font size="2"><div class="t_h t_i" >172: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:21:41.07 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;167</span> <br /> せやね  </div><br />
+<font size="2"><div class="t_h" >168: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:20:57.58 ID:mreW7TGZ0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  なんの能力もないのにプライドばっかり高いやつ多いよな <br /> だいたいNNT  </div><br />
+<font size="2"><div class="t_h t_i" >170: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:21:27.02 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;168</span> <br /> ワイぢゃん（笑）  </div><br />
+<font size="2"><div class="t_h" >171: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:21:40.13 ID:xIYLunoi0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  ワイ大手のSIerに内定やで  </div><br />
+<font size="2"><div class="t_h t_i" >175: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:22:16.36 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;171</span> <br /> SIerって何するかいまいちよくわからんねん <br /> 大塚商会からめっちゃ説明会のお知らせ来るけど見てすらない  </div><br />
+<font size="2"><div class="t_h" >174: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:21:55.82 ID:AmX36cpR0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  地頭に自信ニキなら資格とれ  </div><br />
+<font size="2"><div class="t_h t_i" >180: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:22:48.17 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;174</span> <br /> 地頭悪い  </div><br />
+<font size="2"><div class="t_h" >177: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:22:31.45 ID:u2qjHge20</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  市大なのにかなり頭悪そう  </div><br />
+<font size="2"><div class="t_h t_i" >182: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:22:54.03 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;177</span> <br /> うん  </div><br />
+<font size="2"><div class="t_h" >178: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:22:33.71 ID:kLEd57yu0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  コイツが一生手取り20万超えない生活を送ると思うとヨダレが止まらん  </div><br />
+<font size="2"><div class="t_h t_i" >183: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:23:08.74 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;178</span> <br /> 泣ける  </div><br />
+<font size="2"><div class="t_h" >181: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:22:52.55 ID:G4ERoRltp</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  一致学部は？  </div><br />
+<font size="2"><div class="t_h t_i" >189: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:23:36.61 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;181</span> <br /> 経♥  </div><br />
+<font size="2"><div class="t_h" >184: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:23:24.92 ID:mreW7TGZ0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  なんで業界こだわって他見ないん？ <br /> どうせ入社できても思ってたのと違うって言うんやろ  </div><br />
+<font size="2"><div class="t_h t_i" >191: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:23:52.62 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;184</span> <br /> 業界に尽く落とされたから  </div><br />
+<font size="2"><div class="t_h t_i" >195: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:24:33.48 ID:EDvTC+Nd0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;191</span> <br /> 何の業界や？ <br /> それは何を理由に選んだんや？  </div><br />
+<font size="2"><div class="t_h t_i" >201: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:25:57.53 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;195</span> <br /> 業界はバレるからいい <br /> 理由はありきたりや  </div><br />
+<font size="2"><div class="t_h t_i" >209: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:26:32.09 ID:EDvTC+Nd0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;201</span> <br /> もうちょっと選んだ理由を抽象化して考えてみろや <br /> 他の業界にも通じることに気付くはずやで  </div><br />
+<font size="2"><div class="t_h t_i" >214: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:27:40.72 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;209</span> <br /> 他の業界も落ちてるで <br />  <br /> あと、もう志望動機を考える段階は終わったんや <br /> あとは運や  </div><br />
+<font size="2"><div class="t_h" >185: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:23:26.09 ID:M8yt3qz/0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  働き出して暫く経つけど <br /> 今思い返しても就活市場を取り巻く人間が一番気持ち悪いわ、就活生自身も含めて  </div><br />
+<font size="2"><div class="t_h t_i" >193: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:24:14.30 ID:JU/TJUcS0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;185</span> <br /> どう気持ち悪いん？？ <br /> 就活にどっぷり使ってる自分じゃわからん  </div><br />
+<font size="2"><div class="t_h t_i" >244: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:34:11.79 ID:M8yt3qz/0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;193</span> <br /> 就活市場の社会人はトンボ鉛筆のアレみたいな勘違いした3流ばっかや <br /> 年数長いやつほどおかしいやつ多い <br /> 就活生は新卒就活を天下分け目の決戦みたいに思うけど <br /> 入ったら大半は転職するし、新卒就活なんて所詮1回の裏ぐらいやで  </div><br />
+<font size="2"><div class="t_h t_i" >248: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:35:34.40 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;244</span> <br /> 転職前提だとしても、最初は大手にいかんとあかんやん <br /> 零細から転職なんて寄り悪い零細しか行けやんやろ  </div><br />
+<font size="2"><div class="t_h t_i" >257: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:36:59.56 ID:XqWDA4y8d</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;248</span> <br /> まあ額面通りの零細やと厳しいわな <br /> 大手企業向けに下請けでないサービス提供してるとこやないと  </div><br />
+<font size="2"><div class="t_h" >190: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:23:48.24 ID:BtzsI9Vj0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  内々定に納得してないのに来週には決まるとかガイジ？ <br /> 9月まで頑張れや  </div><br />
+<font size="2"><div class="t_h t_i" >196: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:24:50.74 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;190</span> <br /> 卒業したら死ぬから、ここで就活やめてあとは遊ぶんや  </div><br />
+<font size="2"><div class="t_h" >200: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:25:50.18 ID:uDcZqfMW0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  薄っぺらい学生時代過ごして来たくせに高望みするのか  </div><br />
+<font size="2"><div class="t_h t_i" >206: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:26:13.49 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;200</span> <br /> そうなんよ  </div><br />
+<font size="2"><div class="t_h" >202: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:25:57.69 ID:mreW7TGZ0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  就活やめてどうするんや  </div><br />
+<font size="2"><div class="t_h t_i" >208: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:26:20.45 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;202</span> <br /> 終活  </div><br />
+<font size="2"><div class="t_h t_i" >215: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:27:42.80 ID:mreW7TGZ0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;208</span> <br /> あのさぁ <br /> いっときの感情に流されて自暴自棄になってどうすんねん <br /> アホなことやってないで残り頑張れや  </div><br />
+<font size="2"><div class="t_h t_i" >221: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:28:43.22 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;215</span> <br /> もう疲れた <br /> メチャクチャ幸運が続いたとしても、二十年後三十年後笑ってる自分が想像できない  </div><br />
+<font size="2"><div class="t_h t_i" >232: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:31:27.37 ID:mreW7TGZ0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;221</span> <br /> お前が就活うまく行かない理由がよくわかるわ  </div><br />
+<font size="2"><div class="t_h t_i" >235: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:31:56.44 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;232</span> <br /> ワイもわかってる  </div><br />
+<font size="2"><div class="t_h" >203: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:26:00.48 ID:elIE94W60</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  就職してからの方がしんどいぞ😉  </div><br />
+<font size="2"><div class="t_h t_i" >210: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:26:42.23 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;203</span> <br /> そんなん知らん <br /> とりあえず今は内定のほうが大事  </div><br />
+<font size="2"><div class="t_h" >204: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:26:03.36 ID:w7UHarIw0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  留年しそうな場合って就活どうすんねん  </div><br />
+<font size="2"><div class="t_h t_i" >212: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:27:04.30 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;204</span> <br /> 普通にやって留年決定したらごめんなさいする  </div><br />
+<font size="2"><div class="t_h" >211: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:26:50.22 ID:kLEd57yu0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  一生同じレベルのアパートでネットして暮らすねん <br /> 楽しみは週末の外食一食  </div><br />
+<font size="2"><div class="t_h t_i" >216: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:27:54.13 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;211</span> <br /> そんなことはない <br /> 死ぬから  </div><br />
+<font size="2"><div class="t_h" >218: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:28:12.50 ID:k/kW8ZTDd</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  リクルーターつくと楽なんだけどな  </div><br />
+<font size="2"><div class="t_h t_i" >225: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:29:07.30 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;218</span> <br /> 企業人事のリクルーターも二回ついたよ  </div><br />
+<font size="2"><div class="t_h" >219: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:28:15.19 ID:SVNjwCWW0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  就職エージェントは使ったか？  </div><br />
+<font size="2"><div class="t_h t_i" >224: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:28:54.44 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;219</span> <br /> エージェントつかったよ </div><br />
+<font size="2"><div class="t_h" >220: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:28:40.87 ID:BtzsI9Vj0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  文カスは就活苦労して同然だよな <br /> 就活見据えて理系行くのが普通だし  </div><br />
+<font size="2"><div class="t_h t_i" >226: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:29:38.89 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;220</span> <br /> 痛感してる <br /> ワイが理系だったら就活まともにできたか、と言われるとそうとも言えやんけど  </div><br />
+<font size="2"><div class="t_h" >223: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:28:50.82 ID:CnCH56t60</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  匿名掲示板ですら自分のやりたいことはっきり言えんのか  </div><br />
+<font size="2"><div class="t_h t_i" >227: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:30:04.08 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;223</span> <br /> そんなもんない <br /> お金と休みくれたらある程度は何でもするわ  </div><br />
+<font size="2"><div class="t_h" >229: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:30:32.64 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  リクルーターに呼ばれて面接受けたのに、2次でサイレントされた  </div><br />
+<font size="2"><div class="t_h" >231: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:31:13.05 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  来週いっぱいまではここにいさせてくれ <br /> その後は潔く消えるから  </div><br />
+<font size="2"><div class="t_h" >233: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:31:32.95 ID:0Udtx8DE0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  就活を食い物にしたら儲かるんやろうな毎年必ず需要あるし不安しかない学生が顧客だから  </div><br />
+<font size="2"><div class="t_h t_i" >236: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:32:20.02 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;233</span> <br /> 頭いいよな <br /> ワイもこういうことこと思いつく人間になりたかった  </div><br />
+<font size="2"><div class="t_h" >234: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:31:44.69 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  やりたいことってなんやねん <br /> そんなもん多すぎるし具体的じゃないし  </div><br />
+<font size="2"><div class="t_h" >237: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:32:45.84 ID:tidgSL5ma</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  産業車両最大手内々定やけどここの評価はどんなや？  </div><br />
+<font size="2"><div class="t_h t_i" >239: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:32:54.04 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;237</span> <br /> 最高  </div><br />
+<font size="2"><div class="t_h" >238: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:32:47.57 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  中抜きしてる団体とか、賄賂もらってる役人とか羨ましくてしゃーない  </div><br />
+<font size="2"><div class="t_h" >240: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:33:34.48 ID:DX5MNDfva</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  大阪府立ガイジ？  </div><br />
+<font size="2"><div class="t_h t_i" >243: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:33:55.36 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;240</span> <br /> そんな感じ <br /> 今は市大生や  </div><br />
+<font size="2"><div class="t_h" >241: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:33:37.93 ID:H3CReiJX0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  うちの妹4年なのにまだスーツ着てるとこ見てないんだけどやばくないか？  </div><br />
+<font size="2"><div class="t_h t_i" >245: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:34:17.83 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;241</span> <br /> スーツ着なくてもいいところあるし… <br /> まだ希望はある  </div><br />
+<font size="2"><div class="t_h" >242: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:33:44.37 ID:0Udtx8DE0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  無能は医療系の資格とればええぞ無能でも普通の絶対働き口あるし  </div><br />
+<font size="2"><div class="t_h t_i" >246: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:34:55.32 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;242</span> <br /> また学校行くんか？ <br /> 職歴無しアラサーの出来上がりやん  </div><br />
+<font size="2"><div class="t_h t_i" >259: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:37:08.84 ID:0Udtx8DE0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;246</span> <br /> 無職アラサーよりましやろ  </div><br />
+<font size="2"><div class="t_h t_i" >260: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:37:36.60 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;259</span> <br /> 似たようなもんちゃうか <br /> 職歴なし資格ありのアラサーなんて雇ってくれるんか？  </div><br />
+<font size="2"><div class="t_h" >247: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:35:08.11 ID:1Wgc6g1j0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  最終受けてるところの待遇とか規模はどんな感じ？  </div><br />
+<font size="2"><div class="t_h t_i" >250: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:36:08.57 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;247</span> <br /> 市場独占、規模は大きくない、待遇神  </div><br />
+<font size="2"><div class="t_h" >249: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:35:52.78 ID:4kCYc9ma0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  ワイ住宅設備メーカー大手内定やけどどんなイメージ？  </div><br />
+<font size="2"><div class="t_h t_i" >253: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:36:31.80 ID:ypxze+aHa</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;249</span> <br /> 斜陽確定やけどアホだまして楽しそうではある  </div><br />
+<font size="2"><div class="t_h" >256: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:36:58.68 ID:uJwOjPuGa</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  オンラインばっかりの就活楽だけどリクルートスーツのJDを拝む機会失ってると考えるとめっちゃ損した気分になるよな  </div><br />
+<font size="2"><div class="t_h t_i" >261: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:37:36.71 ID:xIYLunoi0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;256</span> <br /> 対面の説明会の帰りに可愛い子と話すの楽しかった☺  </div><br />
+<font size="2"><div class="t_h" >258: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:37:04.62 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  新卒で零細行ったら一発逆転ない限り一生そのままや  </div><br />
+<font size="2"><div class="t_h t_i" >262: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:37:47.47 ID:XqWDA4y8d</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;258</span> <br /> 英語できて数学できたら別やで  </div><br />
+<font size="2"><div class="t_h t_i" >263: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:38:20.76 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;262</span> <br /> そんなやつは新卒でまともなとこ行く  </div><br />
+<font size="2"><div class="t_h t_i" >265: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:39:10.35 ID:XqWDA4y8d</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;263</span> <br /> そういうことになるわな <br /> 零細でも額面通りの零細とは言えない場とかもあるやし  </div><br />
+<font size="2"><div class="t_h" >264: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:38:57.15 ID:Njei1uraa</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  3大コミュ症に人気だけどなってはいけない職業 <br />  <br /> 事務、SE、研究職  </div><br />
+<font size="2"><div class="t_h t_i" >269: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:39:59.52 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;264</span> <br /> コミュ力は人並みにあると思ってる <br /> 思い込んでるだけかも  </div><br />
+<font size="2"><div class="t_h" >266: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:39:36.69 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  大学卒業までの22年でまともに成果挙げられないからその程度の就職先なんや <br /> 就職後のたった数年でまともにスキルを得て、資格を得てなんてできるわけ無いやろ！  </div><br />
+<font size="2"><div class="t_h" >268: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:39:58.30 ID:jSlMsrjUH</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  とりあえず就職して向いてなきゃ公務員にでも転職すりゃええやん  </div><br />
+<font size="2"><div class="t_h t_i" >270: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:40:40.58 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;268</span> <br /> 公務員て年齢層あるやろ？  </div><br />
+<font size="2"><div class="t_h t_i" >280: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:43:49.48 ID:jSlMsrjUH</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;270</span> <br /> だいたい30までだし余裕やろ  </div><br />
+<font size="2"><div class="t_h t_i" >284: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:44:42.15 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;280</span> <br /> そうかな  </div><br />
+<font size="2"><div class="t_h t_i" >297: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:46:40.06 ID:jSlMsrjUH</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;284</span> <br /> 民間からの転職、就活浪人、元フリーターなんて普通におるで <br /> 給料安いけど豪遊しなきゃ貯金は普通に出来る  </div><br />
+<font size="2"><div class="t_h" >271: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:41:00.27 ID:k3N3DRZxa</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  大手病の奴って大変やな  </div><br />
+<font size="2"><div class="t_h t_i" >273: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:41:43.13 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;271</span> <br /> 大手じゃなくてもいいけど、福利厚生やその後の人生設計をまともにしようとすると、結局大手病になるよ  </div><br />
+<font size="2"><div class="t_h" >272: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:41:30.54 ID:Njei1uraa</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  中小でナンバーワン目指すのもワイはありやと思うわマジで  </div><br />
+<font size="2"><div class="t_h t_i" >275: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:42:27.50 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;272</span> <br /> 高学歴がお山の大将目指すのはありやと思うよ <br /> でもしかた無く中小に滑り込んだ間抜けがそんなポテンシャルあるのかって話よ  </div><br />
+<font size="2"><div class="t_h" >274: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:41:49.19 ID:PNsPpMJr0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  なんや公立大学なんやったらええやん  </div><br />
+<font size="2"><div class="t_h t_i" >276: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:43:11.96 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;274</span> <br /> 何がよ <br /> メリットは学歴フィルター通るくらいやぞ <br /> 大学名なんか一次面接以降は糞の役にも立たんよ  </div><br />
+<font size="2"><div class="t_h" >279: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:43:48.97 ID:XZBFyBBe0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  市大ってそこそこ就職良さそうやけどな <br /> 周りはどうなん？  </div><br />
+<font size="2"><div class="t_h t_i" >283: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:44:31.54 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;279</span> <br /> 内定無しがほとんどや <br /> まぁ、ワイに気使ってるだけかも知らんが  </div><br />
+<font size="2"><div class="t_h t_i" >293: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:46:21.70 ID:XZBFyBBe0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;283</span> <br /> そうなんか <br /> 意外やな  </div><br />
+<font size="2"><div class="t_h" >281: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:43:57.45 ID:HVn7by/Ra</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;margin-bottom:30px;margin-top:20px;">  人間万事塞翁が馬やで <br /> ワイなんて新卒時では想像もしなかった職についてる  </div><br />
+<font size="2"><div class="t_h" >282: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:44:05.59 ID:XEg+do9g0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  死ぬな <br /> 死ななければなんとかなるで <br /> ワイは死なんで良かったって思ってる  </div><br />
+<font size="2"><div class="t_h t_i" >291: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:46:17.95 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;282</span> <br /> そうかな <br /> ワイは死んで良かったって思えるかも知らん  </div><br />
+<font size="2"><div class="t_h" >285: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:44:48.13 ID:u46iKfXYa</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  イッチ大阪市立大学とか優秀やん🤔　どこでも就職出来るやろ😶　ワイは就職戦線詳しゅうないが  </div><br />
+<font size="2"><div class="t_h t_i" >289: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:45:58.50 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;285</span> <br /> 高学歴ではないから贅沢言えやん  </div><br />
+<font size="2"><div class="t_h t_i" >325: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:52:38.54 ID:u46iKfXYa</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;289</span>十分高学歴やん🤔　ワイは地方駅弁やからすごいと思うけどなあ🤔  </div><br />
+<font size="2"><div class="t_h t_i" >330: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:53:27.08 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;325</span> <br /> 地方駅弁との差なんかないよ <br /> 学歴フィルター超えたらあとは東大京大以外みんな同じや  </div><br />
+<font size="2"><div class="t_h t_i" >344: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:57:19.96 ID:u46iKfXYa</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;330</span> 胸を張っていいと思う☺　妥協しないで頑張って欲しいわ☺　こんなに感じええやつなかなかおらん  </div><br />
+<font size="2"><div class="t_h" >286: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:45:09.76 ID:fQXv16aQ0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  就職したら終わりと思ってんのか？入ってからも地獄やぞ  </div><br />
+<font size="2"><div class="t_h t_i" >287: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:45:43.51 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;286</span> <br /> とりあえず入るまでの地獄を抜けたいんや <br /> 入ってからの地獄は入ってから考える  </div><br />
+<font size="2"><div class="t_h t_i" >295: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:46:27.95 ID:fQXv16aQ0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;287</span> <br /> 入ってからのが地獄やろ <br /> ワイなんか精神病にかかって一年休んでたわ  </div><br />
+<font size="2"><div class="t_h" >309: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:49:37.13 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  資格のために勉強して成功するやつは他の分野でも上手く行くよ <br /> 逆も然り  </div><br />
+<font size="2"><div class="t_h" >315: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:51:10.95 ID:WTrPQxP6a</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  内定あるとかうらやまC  </div><br />
+<font size="2"><div class="t_h t_i" >318: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:51:32.16 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;315</span> <br /> 使わない内定だよ  </div><br />
+<font size="2"><div class="t_h t_i" >321: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:51:46.75 ID:WTrPQxP6a</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;318</span> <br /> なぜ受けたし  </div><br />
+<font size="2"><div class="t_h t_i" >323: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:51:59.94 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;321</span> <br /> エージェントに強制された  </div><br />
+<font size="2"><div class="t_h" >317: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:51:31.78 ID:QEt6zQN+0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  来年また就活すればええやろ <br /> 切り替えてけ  </div><br />
+<font size="2"><div class="t_h t_i" >319: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:51:44.58 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;317</span> <br /> 今年ダメなやつは来年もだめだよ  </div><br />
+<font size="2"><div class="t_h t_i" >324: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:52:28.06 ID:QEt6zQN+0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;319</span> <br /> じゃあ再来年に期待や  </div><br />
+<font size="2"><div class="t_h t_i" >326: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:52:49.56 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;324</span> <br /> 年食ってるから余計だめや <br /> 今年しかない  </div><br />
+<font size="2"><div class="t_h" >320: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:51:45.34 ID:SkNazvMHa</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  面接から合否連絡まで2週間くらい待たされるのしんどいわ <br /> 例年これくらいなのかコロナの影響関係あるのか知らないかど  </div><br />
+<font size="2"><div class="t_h" >335: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:54:49.60 ID:JAlMiLr50</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  就活で悩む必要ないで気楽に行くんやで <br /> ワイも第一志望群に入ったけど無能で辛くて転職活動中やし正解なんて分からん  </div><br />
+<font size="2"><div class="t_h" >340: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:55:58.27 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  ちなみに昨日泣きまくったから今日は言うほど泣いてない  </div><br />
+<font size="2"><div class="t_h" >343: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:57:16.70 ID:M5pI1i1yp</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  なんか何したいのかようわからんのやけど  </div><br />
+<font size="2"><div class="t_h t_i" >346: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:57:48.62 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:TTXFYd9V0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;343</span> <br /> したいことなんかないよ <br /> したくないことは山程ある  </div><br />
+<font size="2"><div class="t_h t_i" >348: <span style="color: rgb(124, 199, 84);">風吹けば名無し</span> <span style="color: gray;"> 2020/06/14(日) 17:58:56.40 ID:4Uj/QDe80</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;346</span> <br /> そら内定貰えんわ <br /> やる気見せられないもんな <br /> 能力とかやないんやで  </div><br />
+<br>
+<p style="color:gray;text-align:right;"><font size="2">引用元： <a href="https://swallow.5ch.net/test/read.cgi/livejupiter/1592121504/" target="_blank">https://swallow.5ch.net/test/read.cgi/livejupiter/1592121504/</font></a></p>
+<br>
+
+</div>
+                        
+<!-- タグのリスト表示セット -->
+                        </div>
+<br>
+
+
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=2Z8HPD+9K4KFM+34FI+NUES2" alt="">
+                    </div>
+                    <!-- 記事本文 ここまで-->
+
+
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HV7V6" alt="">
+
+
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www26.a8.net/svt/bgt?aid=190821728180&wid=001&eno=01&mid=s00000011866017004000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" alt=""></td>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+3257OY+3Y6M+601S1" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www24.a8.net/svt/bgt?aid=190821728185&wid=001&eno=01&mid=s00000018427001008000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=35LYZK+3257OY+3Y6M+601S1" alt=""></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+
+
+                    <!-- 記事フッター、コメント、ソーシャルボタン -->
+                    <footer class="article-footer">
+                        <div class="article-footer-comment">
+                            
+                                <a href="http://pathtimeblog.com/archives/25205827.html#comments">0コメント</a>
+                            
+                        </div>
+                        <div class="article-social-btn">
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HVFKY" alt="">
+
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/25205827.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/25205827.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="就活中のワイ、涙を流す💩💩💩 - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=%E5%B0%B1%E6%B4%BB%E4%B8%AD%E3%81%AE%E3%83%AF%E3%82%A4%E3%80%81%E6%B6%99%E3%82%92%E6%B5%81%E3%81%99%F0%9F%92%A9%F0%9F%92%A9%F0%9F%92%A9%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/25205827.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/25205827.html" data-text="就活中のワイ、涙を流す💩💩💩 - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F25205827.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                        </div>
+                    </footer>
+                    <!-- /記事フッター、コメント、ソーシャルボタン -->
+
+
+                    <!-- カテゴリの最新記事表示 はじまり-->
+                    <div class="article-sub-category">
+                        <div id="ldblog_related_articles_44d8ad35">
+
+<div class="related-articles ldblog_related_articles_44d8ad35" data-category-id="160476" data-article-rows="5">
+<h3>「その他」カテゴリの最新記事</h3>
+<ul id="ldblog_related_articles_44d8ad35_160476"></ul>
+</div>
+</div>
+<script type="text/html" id="ldblog_related_articles_44d8ad35_tmpl">
+<% for(var i=0,l=articles.length;i<l;i++) {%><% if(i>=rows) break; %>
+<li><a href="<%=articles[i].permalink%>"><%=articles[i].title%></a></li>
+<% } %>
+</script>
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/related_articles.js?t=20180221"></script>
+<script type="text/javascript">
+(function(){
+RelatedArticles.load('ldblog_related_articles_44d8ad35', '25205827');
+})();
+</script>
+<!-- 関連記事の表示 -->
+                    </div>
+                    <!-- /カテゴリの最新記事表示 ここまで-->
+
+
+
+
+                    <div id="ad2"></div><!-- 広告表示 -->
+
+                    <!-- 記事オプション はじまり-->
+                    <div class="article-option" id="article-options">
+
+                        <!-- コメントエリア　はじまり -->
+                        
+                        <section id="comments">
+                        
+                        <h1 class="comment-form-title">コメントする</h1>
+<div class="article-option" id="comment-form">
+    <form
+      action="https://comment.blogcms.jp/livedoor/shukatu2ch/25205827/post"
+      method="post"
+      name="comment_form"
+          id="comment-form-body"
+      onsubmit="setCommentAuthor(this); return submitOnce(this.button);"
+    >
+    <fieldset>
+        <legend>コメントフォーム</legend>
+    <dl class="comment-form-author">
+        <dt><label for="comment-form-author">名前</label></dt>
+        <dd id="comment-author-form"><input type="text" class="text" id="comment-form-author" name="author" required="required" value="" /></dd>
+    </dl>
+  <dl class="comment-form-body">
+    <dt><label for="comment-form-textarea">コメント</label></dt>
+    <dd>
+      <textarea id="comment-form-textarea" name="body" rows="7" required="required"></textarea>
+      <div id="comment-form-tools">
+        <span class="facemark"><a href="javascript:void(0);" id="emojiLink1" onClick="showEmojiPanel(this.id, 'comment-form-textarea')"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/icon_facemark.png" /></a></span>
+        <span class="rating">
+                    <input type="hidden" name="rating" value="">
+                    <input type="hidden" name="rating_icon" value="star">
+                    <div class="rating-value">
+                        <span id="default-rating-value">評価する</span>
+                        <div class="caret"><span></span></div>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/face/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/face/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/face/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/face/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/face/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/star/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/star/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/star/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/star/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/star/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                    </div>
+                    <div class="rating-icon">
+                        <div data-value="face">顔</div>
+                        <div class="selected" data-value="star">星</div>
+                    </div>
+        </span>
+        <span class="submit"><button type="submit">投稿する</button></span>
+        <span class="memorize"><label for="bake"><input type="checkbox" id="bake" name="cookie" /> 情報を記憶</label></span>
+      </div>
+    </dd>
+  </dl>
+  </fieldset>
+  </form>
+  <script type="text/javascript" src="https://parts.blog.livedoor.jp/js/comment.0.2.js?v=20130430"></script>
+  <script type="text/javascript">
+    loadCommentAuthor(document.comment_form);
+    ldblogComment.init();
+  </script>
+<!-- /#comment-form --></div><!-- コメント投稿フォーム -->
+
+
+                        </section>
+                        
+                        <!-- コメントエリア　ここまで -->
+
+
+                        <!-- トラックバック受け付け　はじまり -->
+                        
+                        <!-- トラックバック受け付け　ここまで -->
+
+                    </div>
+                    <!-- 記事オプション ここまで-->
+
+                </article>
+                <!-- 記事　ここまで -->
+
+
+                <!-- ページ送り はじまり-->
+<!-- Article Pager // -->
+  <div class="pager article-pager-type2">
+    <div class="pager-inner">
+    <div class="article-pager-outer">
+    <ul class="article-pager"><li class="prev"><a href="http://pathtimeblog.com/archives/25206505.html" title="新入社員「首かゆいんで休みますぅ～」「体しんどいんで休みますぅ～」">&nbsp新入社員「首かゆいんで休みますぅ～」「体しんどいんで休みますぅ～」</a></li><li class="next both"><a href="http://pathtimeblog.com/archives/25206559.html" title="俺の4年前の給与明細見たいか？">俺の4年前の給与明細見たいか？&nbsp</a></li>    </ul>
+    </div>
+    </div>
+  </div>
+<!-- // Article Pager -->
+
+                <!-- /ページ送り ここまで-->
+
+            </div><!-- /main-column-inner-->
+        </div>
+        <!-- コンテンツの箱の中　真ん中728px ここまで-->
+
+
+        <!-- コンテンツの箱の中　左側200px はじまり-->
+        <aside class="left-container">
+            <div class="left-column-inner">
+            
+
+
+
+<div class="plugin-popular_articles sidewrapper">
+  <div class="sidetitlebody">
+    <div class="sidetitle">人気記事</div>
+  </div>
+  <div class="sidetop"></div>
+  <div class="side">
+
+
+    <div class="popular-articles">
+      <table id="populararticles-472933"></table>
+      <div class="popular-articles-freearea"></div>
+    </div>
+  </div>
+
+  <div class="sidebottom"></div>
+</div>
+
+<script type="text/javascript" language="javascript"><!--
+(function(){
+  var url = 'http://pathtimeblog.com/archives/popular_articles.json'
+         + '?rangetype=custom'
+         + '&from=0'
+         + '&range=13'
+         + '&limit=50'
+         + '&offset=0'
+         ;
+
+  var callback = function(data) {
+    var table = document.getElementById('populararticles-472933');
+    for (i = 0; i < data.articles.length; i++) {
+      var rank = i + 1;
+      var prefix = 'populararticles-472933-'+ rank;
+
+      var row = table.insertRow(-1);
+      var elm1 = row.insertCell(-1);
+      elm1.className = 'populararticles-rank';
+      elm1.innerHTML = '<span><b>' + rank + '</b></span>';
+      var elm2 = row.insertCell(-1);
+      elm2.className = 'populararticles-title';
+      elm2.innerHTML = '<a href="' + data.articles[i].url + '?ref=popular_article&id=7836571-472933">' + data.articles[i].title + '</a>'
+      ;
+
+    }
+  };
+
+  var xhr = (function () {
+      if (window.XMLHttpRequest)
+        return new XMLHttpRequest();
+      else {
+        var msxml = [
+          "Msxml2.ServerXMLHTTP.6.0", "Msxml2.ServerXMLHTTP.5.0", "Msxml2.ServerXMLHTTP.4.0", "Msxml2.ServerXMLHTTP.3.0",
+          "Msxml2.ServerXMLHTTP", "Microsoft.ServerXMLHTTP", "Msxml2.XMLHTTP.6.0", "Msxml2.XMLHTTP.5.0",
+          "Msxml2.XMLHTTP.4.0", "Msxml2.XMLHTTP.3.0", "Msxml2.XMLHTTP", "Microsoft.XMLHTTP"
+        ];
+        for (var i = 0; i<msxml.length; i++ ){
+          try {
+            return new ActiveXObject(msxml[i]);
+          }
+          catch(e) { }
+        }
+        return null;
+      }
+  })();
+    
+  if (!xhr) return;
+  xhr.open('GET', url, true);
+  xhr.onreadystatechange = function () {
+    if (xhr.readyState == 4 && xhr.status == 200) {
+      eval('var ld_popular_articles_json = ' + xhr.responseText);
+      callback(ld_popular_articles_json);
+    }
+  };
+  xhr.send();
+
+})();
+//-->
+</script>
+
+<div class="plugin-recent_articles sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">最新記事</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27108137.html">21卒就活生ワイ、内定辞退でしこたま怒鳴られる</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/10257766.html">ニートって難しい資格取って仕事探そうとするけどさ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839910.html">【学歴フィルター】企業にとっての一流大学とは？【就職偏差値】</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839719.html">ワイニート歴2年、就職して初年度の年収500万円！！！！</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073431.html">あ、面接落ちたなってフラグ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073465.html">【悲報】上級国民大手企業様「下請けに仕事やらせてガッポリ中抜きｗ」→夏ボーナス92万5947円</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27075072.html">ワイ21卒、会社選びを間違ってしまったと後悔する</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027071.html">【悲報】キャリア採用の銀行員ワイ、周囲の人間があまりにも有能すぎてマジでドン引き……………………</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27063977.html">【速報】大学、終わる。　Googleが大卒資格を得られるコースを提供へ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027029.html">教師「Ｆ欄ＯＫです、公務員です、毎日定時で帰れます、年収700万です」←こいつが馬鹿にされる理由ｗ</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-recent_articles -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「A」設定のブログパーツ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　左側200px ここまで-->
+
+
+        <!-- コンテンツの箱の中　右側200px はじまり-->
+        <aside class="right-container">
+            <div class="right-column-inner">
+            
+
+
+
+<div class="plugin-categorize sidewrapper" id="plugin-categorize-457691">
+    <div class="sidetitlebody">
+        <div class="sidetitle">カテゴリー</div>
+    </div>
+    <div class="sidetop"></div>
+    <div class="side">
+
+
+      
+
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160301.html">就活準備 (243)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161699.html">自己分析 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161700.html">企業・業界研究 (66)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155971.html">資格 (39)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155966.html">選考 (254)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155977.html">インターン (23)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155978.html">説明会 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155975.html">ES (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155976.html">SPIなど (7)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155974.html">面接 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155972.html">内定 (222)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160304.html">NNT(無内定) (68)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160302.html">内定後・入社前 (110)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160308.html">アドバイス (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160460.html">入社後 (924)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220065.html">新卒 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220063.html">上司 (95)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_219473.html">社会人生活 (299)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160474.html">ブラック企業 (65)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160303.html">転職 (175)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163214.html">副業 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220667.html">収入 (102)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_299497.html">採用担当 (3)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_318465.html">第二新卒 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161711.html">学生生活 (46)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163247.html">浪人・留年 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155967.html">学歴 (119)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_223545.html">ニート (38)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155969.html">業界別 (314)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156035.html">金融 (34)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156099.html">建築・不動産 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160357.html">物流・運送 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160358.html">IT・メディア (55)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160359.html">エネルギー・資源 (1)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160310.html">自動車・機械 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160360.html">食品・小売 (14)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160311.html">公務員・準公務員 (89)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160356.html">サービス (21)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160473.html">その他 (42)</a>
+          
+        </div>
+        
+    
+        
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160476.html">その他 (472)</a>
+          
+        </div>
+        
+    
+    
+
+    </div>    
+    <div class="sidebottom"></div>
+</div><!-- // plugin-categorize -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+<a href="//blog.with2.net/link/?1955545"><img src="https://blog.with2.net/img/banner/banner_21.gif" title="人気ブログランキング"></a><br><a href="//blog.with2.net/link/?1955545" style="font-size: 0.8em;">人気ブログランキング</a>
+
+<div class="plugin-link sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">リンク集</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://0matome.com/" target="_blank">おまとめ</a></div>
+
+<div class="sidebody"><a href="http://2chnavi.net/allentries/?threshold=0" target="_blank">2chnavi</a></div>
+
+<div class="sidebody"><a href="http://http://iwashi.biz/" target="_blank">いわしアンテナ &gt;°))))彡</a></div>
+
+<div class="sidebody"><a href="http://2ch-2.net/" target="_blank"> つーアンテナ(*ﾟ∀ﾟ)</a></div>
+
+<div class="sidebody"><a href="https://ii-antenna.net/?about" target="_blank">いーあんてな(#ﾟｗﾟ)</a></div>
+
+<div class="sidebody"><a href="https://2ch-mi.net/" target="_blank">みーアンテナ（´∀｀）</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-link -->
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">検索</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="https://cse.google.com/cse.js?cx=014565878756483497884:urusxdcjffe"></script>
+<div class="gcse-search"></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「B」設定のブログパーツ表示 -->
+            
+<!-- LDR・RSSリンクとブログのロゴ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　右側200px ここまで-->
+
+        <!-- このページのトップヘ　はじまり -->
+        <p class="to-pagetop"><a href="#"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/to_pagetop.png" width="70" height="70" alt="このページのトップヘ" /></a></p>
+        <!-- このページのトップヘ ここまで -->
+
+    </div>
+    <!-- コンテンツ全体 ここまで-->
+
+    <!-- ブログのフッター はじまり-->
+    <footer id="blog-footer">
+    <!-- Blog Common Footer // --><div id="footer"><p>Powered by <a href="http://blog.livedoor.com/" title="ライブドアブログ">ライブドアブログ</a></p></div><!-- // Blog Common Footer --><!-- 共通フッター表示 -->
+    </footer>
+    <!-- /ブログのフッター ここまで-->
+
+</div>
+<!-- コンテンツエリア ここまで-->
+
+
+<!-- Add Body Tag // --><script type="text/javascript">
+(function(){
+  var traq = document.createElement('script'); traq.type = 'text/javascript'; traq.async = true;
+  traq.src = 'https://t.blog.livedoor.jp/u.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(traq, s);
+})();
+</script>
+<noscript>
+<img src="https://t.blog.livedoor.jp/u.gif" alt="traq">
+</noscript>
+<!-- // Add Body Tag -->
+
+<script>
+(function($) {
+  var cookieName = 'livedoor-blog-gdpr-agreed';
+  $(document).ready(function() {
+    if (navigator.userAgent.match(/https?:\/\//)) {
+      // UA に http:// or https:// があればスルー
+      return;
+    }
+
+    var agreed = document.cookie.indexOf(cookieName) >= 0;
+    if (agreed) {
+      // 同意済み Cookie があればスルー
+      return;
+    }
+
+    var banner = $('<div>');
+    banner.attr('id', 'gdpr-banner');
+    var label = $('<p>');
+    label.html('\
+      ライブドアブログでは広告のパーソナライズや効果測定のためクッキー(cookie)を使用しています。<br>\
+      このバナーを閉じるか閲覧を継続することでクッキーの使用を承認いただいたものとさせていただきます。<br>\
+      また、お客様は当社パートナー企業における所定の手続きにより、クッキーの使用を管理することもできます。<br>\
+      詳細は<a href="http://www.livedoor.com/rules/" target="_blank" style="color:#023780;text-decoration:underline;">ライブドア利用規約</a>をご確認ください。\
+    ');
+    banner.append(label);
+
+    var closeButton = $('<button>');
+    closeButton.attr('type', 'button');
+    closeButton.html('閉じる');
+    closeButton.on('click', function() {
+      $('#gdpr-banner').hide();
+      document.cookie = cookieName + '="1";expires=Tue, 31-Dec-2037 00:00:00 GMT;path=/;';
+    });
+    banner.append(closeButton);
+
+    banner.css({
+      'position': 'fixed',
+      'left': '0',
+      'right': '0',
+      'bottom': '0',
+      'background': '#dcdcdc',
+      'color': '#000',
+      'padding': '20px',
+      'text-align': 'center',
+      'box-shadow': '0 -2px 2px rgba(102, 102, 102, 0.86)',
+      'z-index': '2147483647',
+    });
+    label.css({
+      'display': 'inline-block',
+      'text-align': 'left',
+      'font-size': '14px',
+      'color': '#000',
+      'vertical-align': 'middle',
+      'line-height': '1.5',
+    });
+    closeButton.css({
+      'display': 'inline-block',
+      'color': '#fff',
+      'border': 'none',
+      'font-size': '14px',
+      'padding': '4px 40px',
+      'margin-left': '40px',
+      'background': '#535353',
+      'vertical-align': 'middle',
+    });
+
+    var script = document.createElement('script');
+    script.type = "text/javascript";
+    script.src = "https://ipcheck.blogsys.jp/check.js?t=" + Date.now();
+    script.onerror = function() {
+      $('body').append(banner);
+    };
+    document.body.appendChild(script);
+  });
+})(jQuery);
+</script>
+</body>
+</html>

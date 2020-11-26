@@ -1,0 +1,1522 @@
+<!DOCTYPE html>
+<html lang="ja" itemscope itemtype="http://schema.org/Blog">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=1190">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" /><link rel="shortcut icon" type="image/vnd.microsoft.icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/favicon.ico" /><link rel="icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/3ab45ab0.jpg" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/template.css?v=20190826" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/heart.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/icon.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="http://pathtimeblog.com/site.css?_=20190831163247" type="text/css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://pathtimeblog.com/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://pathtimeblog.com/atom.xml" /><link rel="canonical" href="http://pathtimeblog.com/archives/15462628.html" /><link rel="openid.server" href="http://auth.livedoor.com/openid/server" /><link rel="openid.delegate" href="http://profile.livedoor.com/shukatu2ch/" />
+<link rel="mixi-check-alternate" media="mixi-device-mobile" type="text/html" href="http://blog.m.livedoor.jp/shukatu2ch/article/15462628" />
+<link rel="mixi-check-alternate" media="mixi-device-smartphone" type="text/html" href="http://pathtimeblog.com/archives/15462628.html" />
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/jquery-1.11.1.min.js"></script>
+
+<meta name="description" content="1: 以下、5ちゃんねるからVIPがお送りします  2019/01/21(月) 21:34:53.558 ID:Gerkkc7i0
+ 就活やった人ならわかるよな？    文系は理系職種を受けようとすると門前払い  なのに、理系は文系職種も受けられるどころか採用もされる    割とひどい差別だと思う    せめて逆にす" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="就活における文系差別を是正しないとダメだと思う 	 : 2ch就活まとめ" />
+<meta property="og:description" content="1: 以下、5ちゃんねるからVIPがお送りします  2019/01/21(月) 21:34:53.558 ID:Gerkkc7i0 就活やった人ならわかるよな？    文系は理系職種を受けようとすると門前払い  なのに、理系は文系職種も受けられるどころか採用もされる    割とひどい差別だと思う    せめて逆にす" />
+<meta property="og:url" content="http://pathtimeblog.com/archives/15462628.html" />
+<meta property="og:site_name" content="2ch就活まとめ" />
+<meta property="og:locale" content="ja_JP" />
+<meta property="og:image" content="https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png" />
+
+<meta name="twitter:site" content="@2chshukatu" />
+<meta name="twitter:title" content="就活における文系差別を是正しないとダメだと思う 	 : 2ch就活まとめ" />
+<meta name="twitter:description" content="1: 以下、5ちゃんねるからVIPがお送りします  2019/01/21(月) 21:34:53.558 ID:Gerkkc7i0 就活やった人ならわかるよな？    文系は理系職種を受けようとすると門前払い  なのに、理系は文系職種も受けられるどころか採用もされる    割とひどい差別だと思う    せめて逆にす" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image:src" content="https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png" />
+<link rel="alternate" media="handheld" type="application/xhtml+xml" href="http://blog.m.livedoor.jp/shukatu2ch/" />
+
+<title>就活における文系差別を是正しないとダメだと思う 	 : 2ch就活まとめ</title>
+<script src="https://parts.blog.livedoor.jp/js/emoji.js"></script>
+<script src="https://parts.blog.livedoor.jp/js/misc.js?v=20190710"></script>
+<!--[if lt IE 9]>
+<script src="https://parts.blog.livedoor.jp/js/html5.js"></script>
+<![endif]-->
+<script src="https://parts.blog.livedoor.jp/js/usr/import.js"></script>
+<script>
+$(function(){
+  if($('.header-inner01').children('#blog-header-image').length) {
+    $(window).bind('load', function() {
+      var title1 = $('#blog-header-image').height();
+      var title2 = $('.header-menu').height();
+      var headerHeight = title1-title2-15;
+      $("hgroup").css("height", headerHeight);
+    });
+  }
+});
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-3064778048578600",
+          enable_page_level_ads: true
+     });
+</script>
+
+<!-- Add Google Analytics Tag // -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-113178806-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- // Add Google Analytics Tag -->
+
+
+<meta name="referrer" content="always">
+<meta name="referrer" content="unsafe-url">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1638469-45"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+var blogId = '';
+if (blogId) {
+  gtag('config', 'UA-1638469-45', {
+    'custom_map': {'dimension1': 'blog_id'},
+    'blog_id': blogId
+  });
+} else {
+  gtag('config', 'UA-1638469-45');
+}
+</script>
+
+</head>
+<body class="default_2012 page-article layout-2col sidebar-right"><script type="text/javascript"><!--
+var ld_blog_vars = {
+  provider_id : '1',
+  provider_name : 'livedoor',
+  id : '7836571',
+  name : 'shukatu2ch',
+  charset : 'utf8',
+  url : 'http://pathtimeblog.com/',
+  title : '2ch就活まとめ',
+  blog_design: {
+      version: 1
+  },
+  blog_category: {
+    id: '243',
+    permalink: 'https://blog.livedoor.com/category/243/',
+    name: 'まとめ(総合) > まとめ',
+    is_adult : 0,
+    is_gambling : 0,
+    hierarchy: [{ id: '431', name: 'まとめ(総合)', permalink: 'https://blog.livedoor.com/category/431/' },{ id: '243', name: 'まとめ', permalink: 'https://blog.livedoor.com/category/243/' }]
+  },
+  current_page : {
+    type : 'article',    page : ''
+  },
+  articles : [ {
+       id : '15462628',
+       permalink : 'http://pathtimeblog.com/archives/15462628.html',
+       title : '就活における文系差別を是正しないとダメだと思う \t',
+       categories : [ { id:'160476', name:'その他', permalink:'http://pathtimeblog.com/archives/cat_160476.html' }, { id:'', name:'', permalink:'' } ],
+       date : '2019-01-22 17:30:50'
+}   ]
+};
+//-->
+</script><div id="analyzer_tags" style="display:none">
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/c2.js?v=20191010"></script>
+<script type="text/javascript">blog_counter('shukatu2ch', 7836571, 'http://pathtimeblog.com/')</script>
+</div><script type="text/javascript" src="https://parts.blog.livedoor.jp/js/smartphone.js?v=20200824"></script>
+<script type="text/javascript" src="http://pathtimeblog.com/settings/header.js?v=20190705"></script><script type="text/javascript" src="http://pathtimeblog.com/settings/ad.js"></script>
+<script type="text/javascript">
+var palette_src = 'https://parts.blog.livedoor.jp/img/emoji/3/palette.png';
+if (typeof IMAGE_CACHE == 'object' && IMAGE_CACHE['emoji_palette']) IMAGE_CACHE['emoji_palette'].src = palette_src;
+</script>
+
+<!-- Blog Common Header // -->
+<!-- // Blog Common Header -->
+<!-- 共通ヘッダー表示 -->
+
+<!-- ブログタイトル はじまり-->
+<header id="blog-header">
+
+    <div id="blog-header01">
+
+        <div class="header-inner01 show-image hide-text">
+
+            <hgroup>
+                <!--ブログタイトル　はじまり-->
+                <h1 id="blog-title"><a href="http://pathtimeblog.com/">2ch就活まとめ</a></h1>
+                <!--ブログタイトル　ここまで-->
+                <!--ブログ説明　はじまり-->
+                <h2 id="blog-description">新卒・転職・社会人生活などを含め、就活・就職に関することをまとめてます。</h2>
+                <!--ブログ説明　ここまで-->
+            </hgroup>
+
+            <a href="http://pathtimeblog.com/"><img src="https://resize.blogsys.jp/727db0f9da9f42eb7d26b703338c30b3eef0157c/trim2/0x243_94p_1200x388/http://livedoor.blogimg.jp/shukatu2ch/imgs/0/5/055bbafe.jpg" id="blog-header-image" /></a>
+
+            <div id="blog-header02">
+                <div class="header-inner02">
+                    <ul class="header-menu">
+                        <li><a href="http://pathtimeblog.com/">HOME</a></li><!--メニューを入れてください-->
+                        <li class="ldb_menu-item-url"><a href="http://blog.livedoor.jp/shukatu2ch/archives/6126504.html">ABOUT</a></li><!--メニューを入れてください-->
+                        <li><a href="mailto:shukatumatome@gmail.com">お問い合わせ</a></li><!--メニューを入れてください-->
+                    </ul>
+                    <ul class="header-sarch">
+                        <li><a href="http://twitter.com"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_twitter.png" alt="Twitter" /></a></li><!--Twitter-->
+                        <li><a href="http://pathtimeblog.com/index.rdf"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_rss.png" alt="RSS" /></a></li><!--RSS-->
+                        <li>
+                        <form action="http://pathtimeblog.com/search" method="GET" style="padding:0;margin:0px;">
+                        <input type="TEXT" name="q" class="sf">
+                        <input type="SUBMIT" value="検索" class="sfbtn">
+                        </form>
+                        </li><!--検索窓-->
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</header>
+<!-- /ブログタイトル ここまで-->
+
+
+<!-- コンテンツエリア はじまり-->
+<div id="wrapper">
+
+    <!-- コンテンツ全体 はじまり-->
+    <div id="container">
+
+        <!-- 相互RSS はじまり-->
+        <div class="rss-blogroll">
+
+            <!-- 相互RSSを設置する場合の注意事項
+                コードに含まれる以下のCSSは外して設置してください
+                http://blogroll.livedoor.net/css/default2.css -->
+
+                 <!-- 相互RSSのコード ひとつ目-->
+            <script type="text/javascript">
+            <!--
+                   var blogroll_channel_id = 255242;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード ふたつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 265945;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード みっつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 255442;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href= />
+        </div>
+        <!-- 相互RSS ここまで-->
+
+        <!-- コンテンツの箱の中　真ん中728px はじまり-->
+        <div class="main-container">
+            <div class="main-column-inner">
+<br>
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+<br>
+                <!-- メッセージボード -->
+                 
+
+
+
+                <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://pathtimeblog.com/archives/15462628.html"
+    trackback:ping="http://trackback.blogsys.jp/livedoor/shukatu2ch/15462628"
+    dc:title="就活における文系差別を是正しないとダメだと思う 	"
+    dc:identifier="http://pathtimeblog.com/archives/15462628.html"
+    dc:subject="その他"
+    dc:description="1: 以下、5ちゃんねるからVIPがお送りします  2019/01/21(月) 21:34:53.558 ID:Gerkkc7i0 就活やった人ならわかるよな？    文系は理系職種を受けようとすると門前払い  なのに、理系は文系職種も受けられるどころか採用もされる    割とひどい差別だと思う    せめて逆にす"
+    dc:creator="shukatu2ch"
+    dc:date="2019-01-22T17:30:50+09:00" />
+</rdf:RDF>
+-->
+<div id="ad_rs" class="ad_rs_b"></div><!-- 記事のトラックバック・オートディスカバリー -->
+
+
+                <!-- 記事 はじまり-->
+                <article class="article first-article" itemscope itemtype="http://schema.org/BlogPosting">
+
+                    <!-- 記事タイトル　記事下の情報　はじまり-->
+                    <header class="article-header">
+
+                        <h1 class="article-title" itemprop="name"><a href="http://pathtimeblog.com/archives/15462628.html" itemprop="url">就活における文系差別を是正しないとダメだと思う 	</a></h1><!-- 記事のタイトル -->
+
+                            <!-- 記事下の記事情報 はじまり-->
+                            <div class="article-header-inner">
+
+                                <!-- 記事情報の上の行 はじまり-->
+                                <div class="article-header-top">
+                                <p class="article-header-date"><time datetime="2019-01-22T17:30:50+09:00" pubdate="pubdate">2019年01月22日</time></p>
+                                
+                                <ul class="article-header-category">
+                                    <li>
+                                        <dl><dt>カテゴリ:</dt><dd class="article-category1"><a href="http://pathtimeblog.com/archives/cat_160476.html">その他</a></dd></dl>
+                                    </li>
+                                </ul>
+                                
+
+                                <!-- 記事の評価アイコン はじまり-->
+                                
+                                <!-- 記事の評価アイコン ここまで-->
+
+                                </div>
+                                <!-- 記事情報の上の行 ここまで-->
+                                <!-- ソーシャルボタン　はじまり -->
+                                <ul class="article-social-btn">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/15462628.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/15462628.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="就活における文系差別を是正しないとダメだと思う 	 - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=%E5%B0%B1%E6%B4%BB%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%96%87%E7%B3%BB%E5%B7%AE%E5%88%A5%E3%82%92%E6%98%AF%E6%AD%A3%E3%81%97%E3%81%AA%E3%81%84%E3%81%A8%E3%83%80%E3%83%A1%E3%81%A0%E3%81%A8%E6%80%9D%E3%81%86%20%09%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/15462628.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/15462628.html" data-text="就活における文系差別を是正しないとダメだと思う 	 - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F15462628.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                                </ul>
+                                 <!-- ソーシャルボタン　ここまで -->
+                            </div>
+                            <!-- 記事下の記事情報 ここまで-->
+
+                    </header>
+                    <!-- 記事タイトル　記事下の情報　ここまで-->
+
+
+
+                    <!-- 記事本文 はじまり-->
+                    <div class="article-body">
+                        <div class="article-body-inner">
+<!-- 参加している共通テーマの表示 -->
+                        <span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">1: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 21:34:53.558 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:Gerkkc7i0</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b"> 就活やった人ならわかるよな？ <br />  <br /> 文系は理系職種を受けようとすると門前払い <br /> なのに、理系は文系職種も受けられるどころか採用もされる <br />  <br /> 割とひどい差別だと思う <br />  <br /> せめて逆にすべき <br /> 理系は人数少なくて、文系の方が人数多いんだから <br /> 人数の多い文系が少ない選択肢で仕事を奪い合うのはおかしい <br /> 逆にして、文系は理系職種を受けていいように法律を変えて、理系は文系職種を受けられないようにしないとダメ </div><br />
+<!-- Generated by 2chまとめくす (http://2mtmex.com/) --><!-- 本文 --><div class="article-body-more" id="more"><span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">2: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 21:36:21.295 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> このままじゃ日本のビジネスは崩壊する </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">94: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:23:38.210 ID:1MmKrhSHp</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;2</span> <br /> 世界中が理系有利だしなあ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">99: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:25:09.111 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;94</span> <br /> じゃあ、世界中の差別をなくそうでいいわ <br /> 結局差別があることを認めてしまったな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">107: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:27:29.201 ID:1MmKrhSHp</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;99</span> <br /> 認めるも何も俺は別に差別は無いなんて言ってないし </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">110: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:28:13.355 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;107</span> <br /> じゃあお前は差別がある社会をそのままにするのか？ <br /> それをなくそうってスレなんだがスレタイ読めるようになってくれよ頼むからよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">113: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:29:13.251 ID:1MmKrhSHp</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;110</span> <br /> どうやって無くすの </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">115: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:30:01.824 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;113</span> <br /> 制度を変えるんだよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">120: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:31:41.527 ID:1MmKrhSHp</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;115</span> <br /> 国が文系でも理系就職しやすいようにか？ <br /> 何で知識無い人を企業が雇わないといけないんだ <br /> メーカー技術職に文系が来ても使えるのかよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">127: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:33:52.006 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;120</span> <br /> 使えるかよ、じゃなくて、使えるようにするんだよ <br /> それが企業の責任 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">132: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:35:15.922 ID:Ev4ByRLXM</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;127</span> <br /> それで？ <br /> 最初から使える人より君を選ぶ企業側のメリットは？ <br /> それがなきゃ雇われないよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">133: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:35:47.965 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;132</span> <br /> メリットデメリットだけしか頭にないのか </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">135: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:36:31.367 ID:Ev4ByRLXM</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;133</span> <br /> 他に何があるの？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">142: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:38:40.930 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;135</span> <br /> 目先のメリットばかり見ても将来は崩壊する </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">144: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:39:38.522 ID:3P7MN9gXd</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;142</span> <br /> 何も学んでない人ではなく理系の専門を6年学んだ人を取るメリットは目先などではなく恒久的なメリットだよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">145: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:40:16.584 ID:Ev4ByRLXM</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;142</span> <br /> まるで君を雇うと将来的に得をするかのような言い方だな <br /> もしそうなのであればぜひその根拠を相手に示してやればいい <br /> ただそれだけだ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">3: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 21:38:26.361 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> そもそも理系と文系で理系の方が頭いいというのは間違い <br />  <br /> トーク力は頭の良さ <br /> 文系の方がコミュ力高いんだから頭がいい </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">4: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 21:38:49.615 ID:tEJ7Eniq0</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> でも実際のところ <br /> 営業職や事務職とかは誰でもできるけど <br /> 理系職種は理科の知識ないと難しくね？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">6: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 21:40:09.416 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;4</span> <br /> お前のいる中小はそうかもな <br /> でも本当にちゃんとした会社なら研修があるだろ <br /> それを怠けてる企業の怠慢 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">102: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:25:26.751 ID:XCga7E6B0</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;6</span> <br /> 文系って、実質高校数学はやってないから <br /> 中卒レベルじゃん <br />  <br /> 半年の研修で高校から大学まで7年分の数学をやるんか </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">106: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:27:12.474 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;102</span> <br /> は？ <br /> 高2まで、数II数Bはやるから <br /> 中卒か？ <br /> センターも数学受けるし </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">112: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:28:34.169 ID:XCga7E6B0</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;106</span> <br /> でも文系は捨ててるやろそれ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">5: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 21:39:26.323 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> 俺はクラスででかい声で話すタイプじゃなかったけど、弁当の時間は友達を笑わせてた </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">8: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 21:42:52.922 ID:8qDmeqQC0</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> だって本当に使えないんだもん文系 <br />  <br /> 散々理系の下位互換だって言われてんのに文系選択したお前が悪いよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">14: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 21:45:23.409 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;8</span> <br /> 営業がいないと仕事を取ってこれないんだけどな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">9: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 21:43:17.480 ID:fzgbjTYqM</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> うわぁ…こじらせるとこうなっちゃうのか </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">11: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 21:44:11.615 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;9</span> <br /> 反論できないからってレッテル貼りか </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">12: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 21:44:22.925 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> 立ち上がろうよみんな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">15: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 21:45:33.959 ID:OmivpNBb0</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:18px;line-height:27px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;12</span> <br /> 座ってろ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">13: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 21:44:34.132 ID:G7vEnlHy0</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> ワロタ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">16: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 21:45:43.628 ID:h2gYTYQcr</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 文系のクセにコミュ力で理系圧倒できないとか何しに文系行ったのwww </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">17: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 21:47:22.809 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;16</span> <br /> 勉強だけど <br /> 大学を遊びに行くとこだと思ってんの？ <br /> そういう低学歴に用はない <br />  <br /> あと理系はコミュ力ないよ <br /> コンピュータがお友達 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">30: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 21:55:25.833 ID:h2gYTYQcr</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;17</span> <br /> 理系はコミュ力ないんだから文系のお前が圧倒しろよって言ってるんだ <br /> こんな文章の意味も理解できないのか、コミュ力以前の問題だわ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">32: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 21:57:01.392 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;30</span> <br /> だからスレタイ読めるか？ <br /> 圧倒しようにも理系が採用されるのが問題 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">20: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 21:48:20.753 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> お前ら色々言ってるけど、それはつまり差別を認めるってことか？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">21: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 21:48:42.308 ID:konc+3n/d</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 認めるわ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">24: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 21:49:24.907 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;21</span> <br /> クソじゃん </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">23: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 21:49:02.647 ID:Eqi3Bp7+0</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 色々言ってるのはお前だけだよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">25: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 21:49:59.687 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;23</span> <br /> そういう意味じゃないよ <br /> 俺に対して色々言ってるけどって意味だぞ <br /> そこまで説明しないとわからんか？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">26: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 21:50:31.298 ID:M5lI5/Rn0</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 文理あおりするならもう少しネタ練ってこいよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">27: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 21:52:31.883 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;26</span> <br /> 正論だろ <br /> 現に誰も反論できてない </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">28: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 21:53:21.012 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> まともな反論なし <br /> 俺の勝ちね </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">35: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 21:58:27.443 ID:OmivpNBb0</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;28</span> <br /> 勝つとなんか良いことあるのか？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">36: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 21:59:09.376 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;35</span> <br /> 議論だから </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">31: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 21:57:00.503 ID:em+A6Tyra</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 文系で学ぶ内容なんて社会に出てなんの役にも立たんじゃん <br /> コミュ力しか求められてないんだから大学行かずに語学留学でもしてくればいいのに </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">33: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 21:57:51.345 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;31</span> <br /> 文系大学生として遊んだ経験が社会で役立つ <br /> ガリ勉に価値はない </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">34: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 21:58:07.404 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;31</span> <br /> なぜならビジネスに正解はない </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">37: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 21:59:32.645 ID:jfj/CJDUa</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 立ち上がりたいならまずは中小の理系枠でちゃんとアピールすればいけるだろ <br /> 今は人手不足だし <br /> もちろん大手は学歴から見るからダメ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">40: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:00:29.062 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;37</span> <br /> 理系職種を受けさせないだろ <br /> 文系ってだけで <br /> そういう差別がまかり通ってるのが問題 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">39: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:00:22.590 ID:dpM8io7F0</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 電力会社の給電指令所勤務だが、正直この仕事文系卒でも本気出せばできる気がする </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">41: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:01:07.090 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;39</span> <br /> やっと話がわかる人が来たな <br /> その通り <br /> 教えられればできるに決まってる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">61: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:13:24.964 ID:dpM8io7F0</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;41</span> <br /> まあ、数学の知識があまりいらないからなんだけどね <br /> ガチで数学使うような業務は文系卒には不可能とまでは言わないが自分で勉強して補うとかの苦労が伴ってくると思われ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">42: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:02:01.854 ID:rkGjXpLm0</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 差別ってか職能による区別やろ <br /> 嫌なら起業でもしたら </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">45: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:05:36.217 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;42</span> <br /> なんでそんなリスク負わせる話に飛躍してんだよ <br /> 極論ばっかりだな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">63: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:13:44.507 ID:rkGjXpLm0</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;45</span>職能による区別ってことには反論ないのね <br />  <br /> あと、文系職種でも専門性高いやつはちゃんとそれ勉強した人しかなれない <br />  <br /> 終身雇用形態が崩壊して転職が当たり前になって久しいのに会社が育成しろとかいってる時点で文系としても頭悪いし </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">43: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:03:19.033 ID:Ev4ByRLXM</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 理系のこと学んできてない奴に理系職に就かせたい企業があるわけないだろ <br /> 何様だよ <br /> 嫌なら勉強してこい </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">44: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:05:12.633 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;43</span> <br /> で、文系職種はいいと？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">46: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:05:42.788 ID:Ev4ByRLXM</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:18px;line-height:27px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;44</span> <br /> 文系で学んだことなんて使わんからな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">47: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:07:07.536 ID:F8Sil8/c0</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 俺文系だったけど理系の就活って <br /> 「君理系でそんな研究してきたのか！採用！その研究を活かしてくれ」って感じでトントン拍子で決まるみたいな感じに言われているけどそうなん？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">49: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:08:07.510 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;47</span> <br /> らしいな <br /> そういうとこもおかしい </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">55: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:11:03.037 ID:Ev4ByRLXM</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;49</span> <br /> 君も採用担当にそう思わせるもんがあればええやん <br /> ないんやろ？なら不利でも仕方ないな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">64: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:13:48.586 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;55</span> <br /> つまり単位を取るなってことか？ <br /> 極論ばっかりだ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">68: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:14:25.360 ID:Ev4ByRLXM</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;64</span> <br /> この人は何を言ってるんだ？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">50: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:08:36.307 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;47</span> <br /> 就活において文系ばかり不利な条件でやらされてる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">51: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:08:59.303 ID:8BXnBmpV0</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> どうせ高校数学物理化学レベルの筆記試験も文系はできないからそれを課せば同じ結果になる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">56: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:11:36.966 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;51</span> <br /> だから、そうやって筆記試験で文系が習ってないものばっかりにするのもおかしい <br /> 逆だと絶対そんな失礼なことしない </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">62: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:13:28.277 ID:Ev4ByRLXM</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;56</span> <br /> 知識要る仕事を知識ない人にやらせるわけないじゃん <br /> もうやめてくれ <br /> お前のせいで文系がなおさら頭悪いと思われちまうだろ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">77: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:16:52.351 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;62</span> <br /> じゃあ理系に文系職種をやる知識あるのかよ <br /> つーかそんな知識なんて研修で教えろよ <br /> 企業の怠慢だろ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">80: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:18:56.631 ID:Ev4ByRLXM</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;77</span> <br /> 文系職種に知識なんかいらんぞ <br /> そもそも選択肢として <br /> 知識ある人と知識ない人 <br /> どちらを取るかなんてバカでもわかると思うけど <br /> 君はそれもわからないおバカさんなのかな？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">87: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:21:05.856 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;80</span> <br /> 知識知識知識 <br /> 頭固そう <br /> コミュ力ないの丸出し </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">89: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:22:12.536 ID:Ev4ByRLXM</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;87</span> <br /> ？ <br /> コミュ力あれば理系職が務まるとでも？ <br /> そんなガイジ雇う企業あったらやばいわ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">92: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:23:30.518 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;89</span> <br /> コミュ力はトーク力 <br /> つまり頭の回転が早い <br /> それはつまり理系職もできる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">105: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:26:59.979 ID:Ev4ByRLXM</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;92</span> <br /> 謎理論過ぎてわろた <br /> 理系の人たちが4年ないし6年身につけた専門知識はその頭の回転とやらからは生み出せないよ？ <br /> まさかそれを給料払う企業に教えさせる気じゃないよな？ <br /> それなら最初から必要なことを学んできた人を雇うよ <br /> 企業からしたら根拠のない頭の回転()さしか取り柄のない人なんかいらんからな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">119: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:31:16.971 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;105</span> <br /> じゃあ理系も営業できないだろ <br /> 文系の4年間がある <br /> それなのに今の制度は理系も文系職種を受けていいことになってる <br /> おかしいだろ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">123: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:32:31.220 ID:Ev4ByRLXM</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;119</span> <br /> 文系の4年間で営業の何を学んでるのかな？ <br /> コミュ力とかそんなのは文理の問題じゃない <br />  <br /> 人による <br />  <br /> ただそれだけ <br /> とりあえず謎の思い込みだけはやめよう </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">125: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:32:59.203 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;123</span> <br /> 文系は必要ないとでも言いたいようだけど、ムダだから </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">130: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:34:31.832 ID:Ev4ByRLXM</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;125</span> <br /> そんなこと言ってないよ <br /> ただ理系職にはわざわざ要らんわ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">83: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:19:54.401 ID:IuBEOYGTp</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;77</span> <br /> 理系がお金を払って勉強してきたことを文系に給料払いながら勉強させんの？ <br /> だったら高卒雇って勉強させたほうがよっぽどマシだろｗｗｗ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">95: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:24:19.886 ID:rkGjXpLm0</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"><span  style="color: mediumblue;" class="anchor">&gt;&gt;83</span>が正しい <br /> 会社の怠慢ではなく自分の怠慢 <br /> 学生時代にできなかったことが社会人になって出来る人は少ない</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">52: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:09:19.545 ID:yu+PQWLvM</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 理系はコミュ力がないという偏見 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">58: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:12:46.400 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;52</span> <br /> ないよ <br /> だから理系に行く </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">60: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:13:16.333 ID:yu+PQWLvM</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;58</span> <br /> 理系がコミュ力がないという根拠は？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">69: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:14:41.152 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;60</span> <br /> コンピュータのことばかり考えてるから </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">72: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:15:18.686 ID:yu+PQWLvM</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;69</span> <br /> コンピュータを使ってない人たちもいるけど？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">54: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:10:43.047 ID:BcRNBqKg0</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 頭いいなら今後有利になる理系を選択すると思うんだが </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">57: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:12:21.586 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;54</span> <br /> それはつまり制度に踊らされろってことか？ <br /> 思考停止だな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">73: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:15:29.493 ID:BcRNBqKg0</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;57</span> <br /> なんで制度に踊らされちゃダメなの?思考停止は理系科目から逃げた文系だろ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">59: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:12:55.745 ID:otK0VB7R0</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 文系で有能なら企画部行くぞ <br /> 頑張れ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">74: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:16:00.774 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;59</span> <br /> そんな勉強してないんだが大丈夫なのか？ <br /> 結局それも理系が受けられるってオチじゃないよな？ <br /> それだと差別は変わらないんだが <br />  <br /> 親に申し訳ないと思わないのか？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">76: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:16:48.747 ID:Ev4ByRLXM</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;74</span> <br /> 勉強しろよｗｗｗ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">66: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:14:11.453 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> 急に発狂すんなや </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">67: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:14:18.703 ID:iJaokHzK0</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;margin-bottom:30px;margin-top:20px;"> 最低限コミュ力ない奴は実験のときめっちゃ邪魔 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">70: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:14:57.256 ID:YDhI5lYL0</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> hello worldも出来ないゴミ文系は正直IT業界来ないで欲しい </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">79: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:17:45.661 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;70</span> <br /> ダッサ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">84: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:20:11.908 ID:zsZHIFf70</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 知らんけど文系がこんなうざいならいらんわ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">90: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:22:44.316 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;84</span> <br /> なるほど <br /> 反論できなくなって腐ったんだね </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">85: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:20:45.931 ID:u/m3dUx10</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> プロパーで採ったFラン理系より、派遣で採った宮廷文系の方が使えるとかよくある@ソフトウェア開発 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">88: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:21:48.253 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;85</span> <br /> だろ <br /> やればできる <br /> 頭の回転は文系の方が圧倒的 <br /> 人と話すのは頭回転がすごくいる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">91: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:23:15.136 ID:u/m3dUx10</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;88</span> <br /> 文理の問題じゃなくて時頭レベルの問題じゃね <br /> 宮廷文系と駅弁理系だったら駅弁理系のが使えるよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">96: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:24:20.499 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;91</span> <br /> 地頭な <br /> その程度の漢字がわからんとかお前の方が地頭悪いわ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">86: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:20:57.472 ID:YDhI5lYL0</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> コミュ力ない奴は理系文系とかいう問題じゃないからしんでいいけど <br /> マジでゴミ文系は自重してIT来ないで欲しい <br /> 訳分からん馬鹿を相手にするマナー講座とか作者の気持ちを考えるとかだけやってて欲しい </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">93: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:23:35.035 ID:q1ZDyESOa</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;margin-bottom:30px;margin-top:20px;"> そもそももう高校では文理選択やめてみんな理系科目やらせろと </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">98: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:24:56.707 ID:K7Zx44/q0</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 文系は基本営業職しかない <br /> これ常識 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">103: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:25:37.204 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;98</span> <br /> うん <br /> だからそれが差別だっての <br /> スレタイ読める？ <br /> 意味わかる？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">100: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:25:13.073 ID:2CaQyYUq0</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> どう見ても<span  style="color: mediumblue;" class="anchor">&gt;&gt;1</span>の釣りだろ <br /> 多分こいつ理系やぞ <br /> 分かってて文系のネガキャンしてんじゃん </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">134: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:36:18.440 ID:rkGjXpLm0</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;100</span>そうであってほしいよ <br /> 本当に文系だったら文系出身者として恥ずかしい <br />  <br /> あと、この人言葉のキャッチボール出来てないから仕事に必要なコミュ力ないね <br /> 都合の悪い情報はスルーだし </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">140: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:38:11.269 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;134</span> <br /> 「文系出身者として」 <br /> クサすぎ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">101: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:25:19.589 ID:u/m3dUx10</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> まあIT系なんか結局言語こねくり回すようなもんだからなあ <br /> 情報の表現は言語能力の上に成り立っていて、ある意味文系的 <br /> 思考は言語に制限される </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">108: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:27:29.313 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;101</span> <br /> その通り </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">109: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:28:04.107 ID:XCga7E6B0</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;101</span> <br /> ITは文系がプログラミングの専門学校出てきた <br /> みたいなやつばっかりだよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">116: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:30:21.007 ID:Kn2JojY+p</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 理系のマーチクラスですら <br /> 「情報系なんでハードはちょっと…」とか言ってオームの法則すら怪しかったりするし <br /> 流石に文系はちょっとって感ある <br /> 四工以下クラスだと電気出てても電気が怪しいけど </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">117: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:30:46.696 ID:UyHONXvU0</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 少なくとも理系は思考力を問われる入試だから評価高くて当たり前じゃん <br />  <br /> 文系は意味のないことをたらたら覚えるだけのことを勉強と捉えて <br /> そこに疑問を抱けないまま大学入るような先見の明の無さがマイナスだな <br />  <br /> 国家資格でもとるしかないだろ <br /> 暗記するトレーニングはしてるんだし </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">121: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:32:00.741 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;117</span> <br /> あー、学歴を受験でしかみてない底辺の発想が元になってるんだね </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">187: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:53:46.477 ID:UyHONXvU0</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;121</span> <br /> マイナスを一つあげただけでそれ以上は言及してないってのがミソだったんだけど <br /> 勝手に負け惜しみされても困るなあ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">118: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:31:06.802 ID:YDhI5lYL0</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 文系はマジで屁理屈こねてまともに仕事してくれないし <br /> 自分のミスも認めずに何故か人のせいにするし <br /> 自分の謎理論で仕事とめるしマジで辞めて欲しい </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">122: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:32:31.048 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;118</span> <br /> 屁理屈こねるのも地頭だけどな <br /> つまり優秀なんじゃん <br /> 戦略を立てる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">124: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:32:49.221 ID:Kn2JojY+p</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 逆に専門性を高めていくべきだけどね <br /> 理系でも日本じゃなんでもできるフルスタックエンジニアばっかり重宝される <br /> 世界の潮流は水平分業化 <br /> スペシャリストを作らないと未来はない </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">131: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:34:50.485 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;124</span> <br /> お前はさっきから意味不明 <br /> 理系ってこういう感じで人に伝える力がない <br /> だから使えない </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">149: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:41:38.877 ID:g84vyjEA0</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;131</span> <br /> 君が理解力ないコミュ症なだけじゃ… </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">157: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:44:22.770 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;149</span> <br /> わからない人にわかりやすく教えるのが本当の頭の良さ <br /> そしてコミュ力 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">137: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:37:14.339 ID:yy6dbS330</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 専門性の高い職は専門を学んだ人しか受けることができないと言うごく当たり前の帰結じゃん <br /> 数学と自然科学を大学で6年程度勉強しなければ理系職の多くに就くことができない一方で文系職の多くは文系の専門性は必要ないわけで </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">143: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:39:38.372 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;137</span> <br /> じゃあ営業や事務も専門性があるようにしろよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">147: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:40:51.702 ID:yy6dbS330</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;143</span> <br /> 専門性は業務の内容によっては付加されていくもの <br /> 強いて言えば簿記なんかがあるじゃん </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">152: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:42:52.669 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;147</span> <br /> 経理なんて女の仕事じゃん <br /> 男が持ってたら面接で突っ込まれて逆に不利になる <br />  <br /> 文系職の採用面接は理系の想像よりはるかに理不尽で厳しいんだよ <br /> 甘く見るな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">156: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:44:18.182 ID:Ev4ByRLXM</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;152</span> <br /> でもお前には何もないじゃん？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">161: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:45:50.446 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:Gerkkc7i0</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;156</span> <br /> 俺の何を知ってるの？ <br /> 知り合い？ <br /> レッテル貼りか </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">164: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:47:16.987 ID:Ev4ByRLXM</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;161</span> <br /> 何かあるならええやん <br /> 理系職において理系より優れてるもんを本当にお持ちなのであればそれでいいじゃん </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">139: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 22:38:07.819 ID:Ev4ByRLXM</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> くそわろた </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">234: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/01/21(月) 23:15:58.098 ID:fV3z7Oeo0</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> はよ寝ろ </div><br />
+<br />
+<p  style="color:gray;text-align:right;"><span  style="font-size: 81.25%;">引用元： <a  href="http://hebi.5ch.net/test/read.cgi/news4vip/1548074093/" target="_blank">http://hebi.5ch.net/test/read.cgi/news4vip/1548074093/</a><br /></span></p><p  style="color:gray;text-align:right;"><br /><span  style="font-size: 81.25%;"></span></p>
+
+</div>
+                        
+<!-- タグのリスト表示セット -->
+                        </div>
+<br>
+
+
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=2Z8HPD+9K4KFM+34FI+NUES2" alt="">
+                    </div>
+                    <!-- 記事本文 ここまで-->
+
+
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HV7V6" alt="">
+
+
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www26.a8.net/svt/bgt?aid=190821728180&wid=001&eno=01&mid=s00000011866017004000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" alt=""></td>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+3257OY+3Y6M+601S1" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www24.a8.net/svt/bgt?aid=190821728185&wid=001&eno=01&mid=s00000018427001008000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=35LYZK+3257OY+3Y6M+601S1" alt=""></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+
+
+                    <!-- 記事フッター、コメント、ソーシャルボタン -->
+                    <footer class="article-footer">
+                        <div class="article-footer-comment">
+                            
+                                <a href="http://pathtimeblog.com/archives/15462628.html#comments">0コメント</a>
+                            
+                        </div>
+                        <div class="article-social-btn">
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HVFKY" alt="">
+
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/15462628.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/15462628.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="就活における文系差別を是正しないとダメだと思う 	 - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=%E5%B0%B1%E6%B4%BB%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%96%87%E7%B3%BB%E5%B7%AE%E5%88%A5%E3%82%92%E6%98%AF%E6%AD%A3%E3%81%97%E3%81%AA%E3%81%84%E3%81%A8%E3%83%80%E3%83%A1%E3%81%A0%E3%81%A8%E6%80%9D%E3%81%86%20%09%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/15462628.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/15462628.html" data-text="就活における文系差別を是正しないとダメだと思う 	 - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F15462628.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                        </div>
+                    </footer>
+                    <!-- /記事フッター、コメント、ソーシャルボタン -->
+
+
+                    <!-- カテゴリの最新記事表示 はじまり-->
+                    <div class="article-sub-category">
+                        <div id="ldblog_related_articles_8033cbfb">
+
+<div class="related-articles ldblog_related_articles_8033cbfb" data-category-id="160476" data-article-rows="5">
+<h3>「その他」カテゴリの最新記事</h3>
+<ul id="ldblog_related_articles_8033cbfb_160476"></ul>
+</div>
+</div>
+<script type="text/html" id="ldblog_related_articles_8033cbfb_tmpl">
+<% for(var i=0,l=articles.length;i<l;i++) {%><% if(i>=rows) break; %>
+<li><a href="<%=articles[i].permalink%>"><%=articles[i].title%></a></li>
+<% } %>
+</script>
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/related_articles.js?t=20180221"></script>
+<script type="text/javascript">
+(function(){
+RelatedArticles.load('ldblog_related_articles_8033cbfb', '15462628');
+})();
+</script>
+<!-- 関連記事の表示 -->
+                    </div>
+                    <!-- /カテゴリの最新記事表示 ここまで-->
+
+
+
+
+                    <div id="ad2"></div><!-- 広告表示 -->
+
+                    <!-- 記事オプション はじまり-->
+                    <div class="article-option" id="article-options">
+
+                        <!-- コメントエリア　はじまり -->
+                        
+                        <section id="comments">
+                        
+                        <h1 class="comment-form-title">コメントする</h1>
+<div class="article-option" id="comment-form">
+    <form
+      action="https://comment.blogcms.jp/livedoor/shukatu2ch/15462628/post"
+      method="post"
+      name="comment_form"
+          id="comment-form-body"
+      onsubmit="setCommentAuthor(this); return submitOnce(this.button);"
+    >
+    <fieldset>
+        <legend>コメントフォーム</legend>
+    <dl class="comment-form-author">
+        <dt><label for="comment-form-author">名前</label></dt>
+        <dd id="comment-author-form"><input type="text" class="text" id="comment-form-author" name="author" required="required" value="" /></dd>
+    </dl>
+  <dl class="comment-form-body">
+    <dt><label for="comment-form-textarea">コメント</label></dt>
+    <dd>
+      <textarea id="comment-form-textarea" name="body" rows="7" required="required"></textarea>
+      <div id="comment-form-tools">
+        <span class="facemark"><a href="javascript:void(0);" id="emojiLink1" onClick="showEmojiPanel(this.id, 'comment-form-textarea')"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/icon_facemark.png" /></a></span>
+        <span class="rating">
+                    <input type="hidden" name="rating" value="">
+                    <input type="hidden" name="rating_icon" value="star">
+                    <div class="rating-value">
+                        <span id="default-rating-value">評価する</span>
+                        <div class="caret"><span></span></div>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/face/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/face/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/face/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/face/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/face/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/star/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/star/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/star/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/star/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/star/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                    </div>
+                    <div class="rating-icon">
+                        <div data-value="face">顔</div>
+                        <div class="selected" data-value="star">星</div>
+                    </div>
+        </span>
+        <span class="submit"><button type="submit">投稿する</button></span>
+        <span class="memorize"><label for="bake"><input type="checkbox" id="bake" name="cookie" /> 情報を記憶</label></span>
+      </div>
+    </dd>
+  </dl>
+  </fieldset>
+  </form>
+  <script type="text/javascript" src="https://parts.blog.livedoor.jp/js/comment.0.2.js?v=20130430"></script>
+  <script type="text/javascript">
+    loadCommentAuthor(document.comment_form);
+    ldblogComment.init();
+  </script>
+<!-- /#comment-form --></div><!-- コメント投稿フォーム -->
+
+
+                        </section>
+                        
+                        <!-- コメントエリア　ここまで -->
+
+
+                        <!-- トラックバック受け付け　はじまり -->
+                        
+                        <!-- トラックバック受け付け　ここまで -->
+
+                    </div>
+                    <!-- 記事オプション ここまで-->
+
+                </article>
+                <!-- 記事　ここまで -->
+
+
+                <!-- ページ送り はじまり-->
+<!-- Article Pager // -->
+  <div class="pager article-pager-type2">
+    <div class="pager-inner">
+    <div class="article-pager-outer">
+    <ul class="article-pager"><li class="prev"><a href="http://pathtimeblog.com/archives/15456987.html" title="【速報】トヨタパナソニックマツダスバル電気自動車が週内にも設立、ホンダにも声は掛けた 	">&nbsp【速報】トヨタパナソニックマツダスバル電気自動車が週内にも設立、ホンダにも声は掛けた 	</a></li><li class="next both"><a href="http://pathtimeblog.com/archives/15456338.html" title="【朗報】有給休暇代行業、全国で広まる 	">【朗報】有給休暇代行業、全国で広まる 	&nbsp</a></li>    </ul>
+    </div>
+    </div>
+  </div>
+<!-- // Article Pager -->
+
+                <!-- /ページ送り ここまで-->
+
+            </div><!-- /main-column-inner-->
+        </div>
+        <!-- コンテンツの箱の中　真ん中728px ここまで-->
+
+
+        <!-- コンテンツの箱の中　左側200px はじまり-->
+        <aside class="left-container">
+            <div class="left-column-inner">
+            
+
+
+
+<div class="plugin-popular_articles sidewrapper">
+  <div class="sidetitlebody">
+    <div class="sidetitle">人気記事</div>
+  </div>
+  <div class="sidetop"></div>
+  <div class="side">
+
+
+    <div class="popular-articles">
+      <table id="populararticles-472933"></table>
+      <div class="popular-articles-freearea"></div>
+    </div>
+  </div>
+
+  <div class="sidebottom"></div>
+</div>
+
+<script type="text/javascript" language="javascript"><!--
+(function(){
+  var url = 'http://pathtimeblog.com/archives/popular_articles.json'
+         + '?rangetype=custom'
+         + '&from=0'
+         + '&range=13'
+         + '&limit=50'
+         + '&offset=0'
+         ;
+
+  var callback = function(data) {
+    var table = document.getElementById('populararticles-472933');
+    for (i = 0; i < data.articles.length; i++) {
+      var rank = i + 1;
+      var prefix = 'populararticles-472933-'+ rank;
+
+      var row = table.insertRow(-1);
+      var elm1 = row.insertCell(-1);
+      elm1.className = 'populararticles-rank';
+      elm1.innerHTML = '<span><b>' + rank + '</b></span>';
+      var elm2 = row.insertCell(-1);
+      elm2.className = 'populararticles-title';
+      elm2.innerHTML = '<a href="' + data.articles[i].url + '?ref=popular_article&id=7836571-472933">' + data.articles[i].title + '</a>'
+      ;
+
+    }
+  };
+
+  var xhr = (function () {
+      if (window.XMLHttpRequest)
+        return new XMLHttpRequest();
+      else {
+        var msxml = [
+          "Msxml2.ServerXMLHTTP.6.0", "Msxml2.ServerXMLHTTP.5.0", "Msxml2.ServerXMLHTTP.4.0", "Msxml2.ServerXMLHTTP.3.0",
+          "Msxml2.ServerXMLHTTP", "Microsoft.ServerXMLHTTP", "Msxml2.XMLHTTP.6.0", "Msxml2.XMLHTTP.5.0",
+          "Msxml2.XMLHTTP.4.0", "Msxml2.XMLHTTP.3.0", "Msxml2.XMLHTTP", "Microsoft.XMLHTTP"
+        ];
+        for (var i = 0; i<msxml.length; i++ ){
+          try {
+            return new ActiveXObject(msxml[i]);
+          }
+          catch(e) { }
+        }
+        return null;
+      }
+  })();
+    
+  if (!xhr) return;
+  xhr.open('GET', url, true);
+  xhr.onreadystatechange = function () {
+    if (xhr.readyState == 4 && xhr.status == 200) {
+      eval('var ld_popular_articles_json = ' + xhr.responseText);
+      callback(ld_popular_articles_json);
+    }
+  };
+  xhr.send();
+
+})();
+//-->
+</script>
+
+<div class="plugin-recent_articles sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">最新記事</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27108137.html">21卒就活生ワイ、内定辞退でしこたま怒鳴られる</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/10257766.html">ニートって難しい資格取って仕事探そうとするけどさ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839910.html">【学歴フィルター】企業にとっての一流大学とは？【就職偏差値】</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839719.html">ワイニート歴2年、就職して初年度の年収500万円！！！！</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073431.html">あ、面接落ちたなってフラグ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073465.html">【悲報】上級国民大手企業様「下請けに仕事やらせてガッポリ中抜きｗ」→夏ボーナス92万5947円</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27075072.html">ワイ21卒、会社選びを間違ってしまったと後悔する</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027071.html">【悲報】キャリア採用の銀行員ワイ、周囲の人間があまりにも有能すぎてマジでドン引き……………………</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27063977.html">【速報】大学、終わる。　Googleが大卒資格を得られるコースを提供へ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027029.html">教師「Ｆ欄ＯＫです、公務員です、毎日定時で帰れます、年収700万です」←こいつが馬鹿にされる理由ｗ</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-recent_articles -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「A」設定のブログパーツ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　左側200px ここまで-->
+
+
+        <!-- コンテンツの箱の中　右側200px はじまり-->
+        <aside class="right-container">
+            <div class="right-column-inner">
+            
+
+
+
+<div class="plugin-categorize sidewrapper" id="plugin-categorize-457691">
+    <div class="sidetitlebody">
+        <div class="sidetitle">カテゴリー</div>
+    </div>
+    <div class="sidetop"></div>
+    <div class="side">
+
+
+      
+
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160301.html">就活準備 (243)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161699.html">自己分析 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161700.html">企業・業界研究 (66)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155971.html">資格 (39)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155966.html">選考 (254)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155977.html">インターン (23)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155978.html">説明会 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155975.html">ES (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155976.html">SPIなど (7)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155974.html">面接 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155972.html">内定 (222)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160304.html">NNT(無内定) (68)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160302.html">内定後・入社前 (110)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160308.html">アドバイス (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160460.html">入社後 (924)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220065.html">新卒 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220063.html">上司 (95)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_219473.html">社会人生活 (299)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160474.html">ブラック企業 (65)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160303.html">転職 (175)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163214.html">副業 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220667.html">収入 (102)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_299497.html">採用担当 (3)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_318465.html">第二新卒 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161711.html">学生生活 (46)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163247.html">浪人・留年 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155967.html">学歴 (119)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_223545.html">ニート (38)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155969.html">業界別 (314)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156035.html">金融 (34)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156099.html">建築・不動産 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160357.html">物流・運送 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160358.html">IT・メディア (55)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160359.html">エネルギー・資源 (1)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160310.html">自動車・機械 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160360.html">食品・小売 (14)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160311.html">公務員・準公務員 (89)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160356.html">サービス (21)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160473.html">その他 (42)</a>
+          
+        </div>
+        
+    
+        
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160476.html">その他 (472)</a>
+          
+        </div>
+        
+    
+    
+
+    </div>    
+    <div class="sidebottom"></div>
+</div><!-- // plugin-categorize -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+<a href="//blog.with2.net/link/?1955545"><img src="https://blog.with2.net/img/banner/banner_21.gif" title="人気ブログランキング"></a><br><a href="//blog.with2.net/link/?1955545" style="font-size: 0.8em;">人気ブログランキング</a>
+
+<div class="plugin-link sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">リンク集</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://0matome.com/" target="_blank">おまとめ</a></div>
+
+<div class="sidebody"><a href="http://2chnavi.net/allentries/?threshold=0" target="_blank">2chnavi</a></div>
+
+<div class="sidebody"><a href="http://http://iwashi.biz/" target="_blank">いわしアンテナ &gt;°))))彡</a></div>
+
+<div class="sidebody"><a href="http://2ch-2.net/" target="_blank"> つーアンテナ(*ﾟ∀ﾟ)</a></div>
+
+<div class="sidebody"><a href="https://ii-antenna.net/?about" target="_blank">いーあんてな(#ﾟｗﾟ)</a></div>
+
+<div class="sidebody"><a href="https://2ch-mi.net/" target="_blank">みーアンテナ（´∀｀）</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-link -->
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">検索</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="https://cse.google.com/cse.js?cx=014565878756483497884:urusxdcjffe"></script>
+<div class="gcse-search"></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「B」設定のブログパーツ表示 -->
+            
+<!-- LDR・RSSリンクとブログのロゴ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　右側200px ここまで-->
+
+        <!-- このページのトップヘ　はじまり -->
+        <p class="to-pagetop"><a href="#"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/to_pagetop.png" width="70" height="70" alt="このページのトップヘ" /></a></p>
+        <!-- このページのトップヘ ここまで -->
+
+    </div>
+    <!-- コンテンツ全体 ここまで-->
+
+    <!-- ブログのフッター はじまり-->
+    <footer id="blog-footer">
+    <!-- Blog Common Footer // --><div id="footer"><p>Powered by <a href="http://blog.livedoor.com/" title="ライブドアブログ">ライブドアブログ</a></p></div><!-- // Blog Common Footer --><!-- 共通フッター表示 -->
+    </footer>
+    <!-- /ブログのフッター ここまで-->
+
+</div>
+<!-- コンテンツエリア ここまで-->
+
+
+<!-- Add Body Tag // --><script type="text/javascript">
+(function(){
+  var traq = document.createElement('script'); traq.type = 'text/javascript'; traq.async = true;
+  traq.src = 'https://t.blog.livedoor.jp/u.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(traq, s);
+})();
+</script>
+<noscript>
+<img src="https://t.blog.livedoor.jp/u.gif" alt="traq">
+</noscript>
+<!-- // Add Body Tag -->
+
+<script>
+(function($) {
+  var cookieName = 'livedoor-blog-gdpr-agreed';
+  $(document).ready(function() {
+    if (navigator.userAgent.match(/https?:\/\//)) {
+      // UA に http:// or https:// があればスルー
+      return;
+    }
+
+    var agreed = document.cookie.indexOf(cookieName) >= 0;
+    if (agreed) {
+      // 同意済み Cookie があればスルー
+      return;
+    }
+
+    var banner = $('<div>');
+    banner.attr('id', 'gdpr-banner');
+    var label = $('<p>');
+    label.html('\
+      ライブドアブログでは広告のパーソナライズや効果測定のためクッキー(cookie)を使用しています。<br>\
+      このバナーを閉じるか閲覧を継続することでクッキーの使用を承認いただいたものとさせていただきます。<br>\
+      また、お客様は当社パートナー企業における所定の手続きにより、クッキーの使用を管理することもできます。<br>\
+      詳細は<a href="http://www.livedoor.com/rules/" target="_blank" style="color:#023780;text-decoration:underline;">ライブドア利用規約</a>をご確認ください。\
+    ');
+    banner.append(label);
+
+    var closeButton = $('<button>');
+    closeButton.attr('type', 'button');
+    closeButton.html('閉じる');
+    closeButton.on('click', function() {
+      $('#gdpr-banner').hide();
+      document.cookie = cookieName + '="1";expires=Tue, 31-Dec-2037 00:00:00 GMT;path=/;';
+    });
+    banner.append(closeButton);
+
+    banner.css({
+      'position': 'fixed',
+      'left': '0',
+      'right': '0',
+      'bottom': '0',
+      'background': '#dcdcdc',
+      'color': '#000',
+      'padding': '20px',
+      'text-align': 'center',
+      'box-shadow': '0 -2px 2px rgba(102, 102, 102, 0.86)',
+      'z-index': '2147483647',
+    });
+    label.css({
+      'display': 'inline-block',
+      'text-align': 'left',
+      'font-size': '14px',
+      'color': '#000',
+      'vertical-align': 'middle',
+      'line-height': '1.5',
+    });
+    closeButton.css({
+      'display': 'inline-block',
+      'color': '#fff',
+      'border': 'none',
+      'font-size': '14px',
+      'padding': '4px 40px',
+      'margin-left': '40px',
+      'background': '#535353',
+      'vertical-align': 'middle',
+    });
+
+    var script = document.createElement('script');
+    script.type = "text/javascript";
+    script.src = "https://ipcheck.blogsys.jp/check.js?t=" + Date.now();
+    script.onerror = function() {
+      $('body').append(banner);
+    };
+    document.body.appendChild(script);
+  });
+})(jQuery);
+</script>
+</body>
+</html>

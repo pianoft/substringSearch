@@ -1,0 +1,1706 @@
+<!DOCTYPE html>
+<html lang="ja" itemscope itemtype="http://schema.org/Blog">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=1190">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" /><link rel="shortcut icon" type="image/vnd.microsoft.icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/favicon.ico" /><link rel="icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/3ab45ab0.jpg" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/template.css?v=20190826" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/heart.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/icon.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="http://pathtimeblog.com/site.css?_=20190831163247" type="text/css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://pathtimeblog.com/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://pathtimeblog.com/atom.xml" /><link rel="canonical" href="http://pathtimeblog.com/archives/9876138.html" /><link rel="openid.server" href="http://auth.livedoor.com/openid/server" /><link rel="openid.delegate" href="http://profile.livedoor.com/shukatu2ch/" />
+<link rel="mixi-check-alternate" media="mixi-device-mobile" type="text/html" href="http://blog.m.livedoor.jp/shukatu2ch/article/9876138" />
+<link rel="mixi-check-alternate" media="mixi-device-smartphone" type="text/html" href="http://pathtimeblog.com/archives/9876138.html" />
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/jquery-1.11.1.min.js"></script>
+
+<meta name="description" content="1: 就職戦線異状名無しさん  2018/06/07(木) 00:24:49.37 ID:bofeSDQ9
+ みんなの就活状況を聞きたい  3月から始めてるのに面接落ちまくってる人いる？ 
+" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="2019卒 死にかけてるNNT集まれ 	 : 2ch就活まとめ" />
+<meta property="og:description" content="1: 就職戦線異状名無しさん  2018/06/07(木) 00:24:49.37 ID:bofeSDQ9 みんなの就活状況を聞きたい  3月から始めてるのに面接落ちまくってる人いる？ " />
+<meta property="og:url" content="http://pathtimeblog.com/archives/9876138.html" />
+<meta property="og:site_name" content="2ch就活まとめ" />
+<meta property="og:locale" content="ja_JP" />
+<meta property="og:image" content="https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png" />
+
+<meta name="twitter:site" content="@2chshukatu" />
+<meta name="twitter:title" content="2019卒 死にかけてるNNT集まれ 	 : 2ch就活まとめ" />
+<meta name="twitter:description" content="1: 就職戦線異状名無しさん  2018/06/07(木) 00:24:49.37 ID:bofeSDQ9 みんなの就活状況を聞きたい  3月から始めてるのに面接落ちまくってる人いる？ " />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image:src" content="https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png" />
+<link rel="alternate" media="handheld" type="application/xhtml+xml" href="http://blog.m.livedoor.jp/shukatu2ch/" />
+
+<title>2019卒 死にかけてるNNT集まれ 	 : 2ch就活まとめ</title>
+<script src="https://parts.blog.livedoor.jp/js/emoji.js"></script>
+<script src="https://parts.blog.livedoor.jp/js/misc.js?v=20190710"></script>
+<!--[if lt IE 9]>
+<script src="https://parts.blog.livedoor.jp/js/html5.js"></script>
+<![endif]-->
+<script src="https://parts.blog.livedoor.jp/js/usr/import.js"></script>
+<script>
+$(function(){
+  if($('.header-inner01').children('#blog-header-image').length) {
+    $(window).bind('load', function() {
+      var title1 = $('#blog-header-image').height();
+      var title2 = $('.header-menu').height();
+      var headerHeight = title1-title2-15;
+      $("hgroup").css("height", headerHeight);
+    });
+  }
+});
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-3064778048578600",
+          enable_page_level_ads: true
+     });
+</script>
+
+<!-- Add Google Analytics Tag // -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-113178806-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- // Add Google Analytics Tag -->
+
+
+<meta name="referrer" content="always">
+<meta name="referrer" content="unsafe-url">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1638469-45"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+var blogId = '';
+if (blogId) {
+  gtag('config', 'UA-1638469-45', {
+    'custom_map': {'dimension1': 'blog_id'},
+    'blog_id': blogId
+  });
+} else {
+  gtag('config', 'UA-1638469-45');
+}
+</script>
+
+</head>
+<body class="default_2012 page-article layout-2col sidebar-right"><script type="text/javascript"><!--
+var ld_blog_vars = {
+  provider_id : '1',
+  provider_name : 'livedoor',
+  id : '7836571',
+  name : 'shukatu2ch',
+  charset : 'utf8',
+  url : 'http://pathtimeblog.com/',
+  title : '2ch就活まとめ',
+  blog_design: {
+      version: 1
+  },
+  blog_category: {
+    id: '243',
+    permalink: 'https://blog.livedoor.com/category/243/',
+    name: 'まとめ(総合) > まとめ',
+    is_adult : 0,
+    is_gambling : 0,
+    hierarchy: [{ id: '431', name: 'まとめ(総合)', permalink: 'https://blog.livedoor.com/category/431/' },{ id: '243', name: 'まとめ', permalink: 'https://blog.livedoor.com/category/243/' }]
+  },
+  current_page : {
+    type : 'article',    page : ''
+  },
+  articles : [ {
+       id : '9876138',
+       permalink : 'http://pathtimeblog.com/archives/9876138.html',
+       title : '2019卒 死にかけてるNNT集まれ \t',
+       categories : [ { id:'160304', name:'NNT(無内定)', permalink:'http://pathtimeblog.com/archives/cat_160304.html' }, { id:'', name:'', permalink:'' } ],
+       date : '2018-06-10 08:30:06'
+}   ]
+};
+//-->
+</script><div id="analyzer_tags" style="display:none">
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/c2.js?v=20191010"></script>
+<script type="text/javascript">blog_counter('shukatu2ch', 7836571, 'http://pathtimeblog.com/')</script>
+</div><script type="text/javascript" src="https://parts.blog.livedoor.jp/js/smartphone.js?v=20200824"></script>
+<script type="text/javascript" src="http://pathtimeblog.com/settings/header.js?v=20190705"></script><script type="text/javascript" src="http://pathtimeblog.com/settings/ad.js"></script>
+<script type="text/javascript">
+var palette_src = 'https://parts.blog.livedoor.jp/img/emoji/3/palette.png';
+if (typeof IMAGE_CACHE == 'object' && IMAGE_CACHE['emoji_palette']) IMAGE_CACHE['emoji_palette'].src = palette_src;
+</script>
+
+<!-- Blog Common Header // -->
+<!-- // Blog Common Header -->
+<!-- 共通ヘッダー表示 -->
+
+<!-- ブログタイトル はじまり-->
+<header id="blog-header">
+
+    <div id="blog-header01">
+
+        <div class="header-inner01 show-image hide-text">
+
+            <hgroup>
+                <!--ブログタイトル　はじまり-->
+                <h1 id="blog-title"><a href="http://pathtimeblog.com/">2ch就活まとめ</a></h1>
+                <!--ブログタイトル　ここまで-->
+                <!--ブログ説明　はじまり-->
+                <h2 id="blog-description">新卒・転職・社会人生活などを含め、就活・就職に関することをまとめてます。</h2>
+                <!--ブログ説明　ここまで-->
+            </hgroup>
+
+            <a href="http://pathtimeblog.com/"><img src="https://resize.blogsys.jp/727db0f9da9f42eb7d26b703338c30b3eef0157c/trim2/0x243_94p_1200x388/http://livedoor.blogimg.jp/shukatu2ch/imgs/0/5/055bbafe.jpg" id="blog-header-image" /></a>
+
+            <div id="blog-header02">
+                <div class="header-inner02">
+                    <ul class="header-menu">
+                        <li><a href="http://pathtimeblog.com/">HOME</a></li><!--メニューを入れてください-->
+                        <li class="ldb_menu-item-url"><a href="http://blog.livedoor.jp/shukatu2ch/archives/6126504.html">ABOUT</a></li><!--メニューを入れてください-->
+                        <li><a href="mailto:shukatumatome@gmail.com">お問い合わせ</a></li><!--メニューを入れてください-->
+                    </ul>
+                    <ul class="header-sarch">
+                        <li><a href="http://twitter.com"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_twitter.png" alt="Twitter" /></a></li><!--Twitter-->
+                        <li><a href="http://pathtimeblog.com/index.rdf"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_rss.png" alt="RSS" /></a></li><!--RSS-->
+                        <li>
+                        <form action="http://pathtimeblog.com/search" method="GET" style="padding:0;margin:0px;">
+                        <input type="TEXT" name="q" class="sf">
+                        <input type="SUBMIT" value="検索" class="sfbtn">
+                        </form>
+                        </li><!--検索窓-->
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</header>
+<!-- /ブログタイトル ここまで-->
+
+
+<!-- コンテンツエリア はじまり-->
+<div id="wrapper">
+
+    <!-- コンテンツ全体 はじまり-->
+    <div id="container">
+
+        <!-- 相互RSS はじまり-->
+        <div class="rss-blogroll">
+
+            <!-- 相互RSSを設置する場合の注意事項
+                コードに含まれる以下のCSSは外して設置してください
+                http://blogroll.livedoor.net/css/default2.css -->
+
+                 <!-- 相互RSSのコード ひとつ目-->
+            <script type="text/javascript">
+            <!--
+                   var blogroll_channel_id = 255242;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード ふたつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 265945;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード みっつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 255442;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href= />
+        </div>
+        <!-- 相互RSS ここまで-->
+
+        <!-- コンテンツの箱の中　真ん中728px はじまり-->
+        <div class="main-container">
+            <div class="main-column-inner">
+<br>
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+<br>
+                <!-- メッセージボード -->
+                 
+
+
+
+                <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://pathtimeblog.com/archives/9876138.html"
+    trackback:ping="http://trackback.blogsys.jp/livedoor/shukatu2ch/9876138"
+    dc:title="2019卒 死にかけてるNNT集まれ 	"
+    dc:identifier="http://pathtimeblog.com/archives/9876138.html"
+    dc:subject="NNT(無内定)"
+    dc:description="1: 就職戦線異状名無しさん  2018/06/07(木) 00:24:49.37 ID:bofeSDQ9 みんなの就活状況を聞きたい  3月から始めてるのに面接落ちまくってる人いる？ "
+    dc:creator="shukatu2ch"
+    dc:date="2018-06-10T08:30:06+09:00" />
+</rdf:RDF>
+-->
+<div id="ad_rs" class="ad_rs_b"></div><!-- 記事のトラックバック・オートディスカバリー -->
+
+
+                <!-- 記事 はじまり-->
+                <article class="article first-article" itemscope itemtype="http://schema.org/BlogPosting">
+
+                    <!-- 記事タイトル　記事下の情報　はじまり-->
+                    <header class="article-header">
+
+                        <h1 class="article-title" itemprop="name"><a href="http://pathtimeblog.com/archives/9876138.html" itemprop="url">2019卒 死にかけてるNNT集まれ 	</a></h1><!-- 記事のタイトル -->
+
+                            <!-- 記事下の記事情報 はじまり-->
+                            <div class="article-header-inner">
+
+                                <!-- 記事情報の上の行 はじまり-->
+                                <div class="article-header-top">
+                                <p class="article-header-date"><time datetime="2018-06-10T08:30:06+09:00" pubdate="pubdate">2018年06月10日</time></p>
+                                
+                                <ul class="article-header-category">
+                                    <li>
+                                        <dl><dt>カテゴリ:</dt><dd class="article-category1"><a href="http://pathtimeblog.com/archives/cat_160304.html">NNT(無内定)</a></dd></dl>
+                                    </li>
+                                </ul>
+                                
+
+                                <!-- 記事の評価アイコン はじまり-->
+                                
+                                <!-- 記事の評価アイコン ここまで-->
+
+                                </div>
+                                <!-- 記事情報の上の行 ここまで-->
+                                <!-- ソーシャルボタン　はじまり -->
+                                <ul class="article-social-btn">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/9876138.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/9876138.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="2019卒 死にかけてるNNT集まれ 	 - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=2019%E5%8D%92%20%E6%AD%BB%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E3%82%8BNNT%E9%9B%86%E3%81%BE%E3%82%8C%20%09%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/9876138.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/9876138.html" data-text="2019卒 死にかけてるNNT集まれ 	 - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F9876138.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                                </ul>
+                                 <!-- ソーシャルボタン　ここまで -->
+                            </div>
+                            <!-- 記事下の記事情報 ここまで-->
+
+                    </header>
+                    <!-- 記事タイトル　記事下の情報　ここまで-->
+
+
+
+                    <!-- 記事本文 はじまり-->
+                    <div class="article-body">
+                        <div class="article-body-inner">
+<!-- 参加している共通テーマの表示 -->
+                        <span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">1: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 00:24:49.37 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:bofeSDQ9</i></span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> みんなの就活状況を聞きたい <br /> 3月から始めてるのに面接落ちまくってる人いる？ </div><br />
+<!-- Generated by 2chまとめくす (http://2mtmex.com/) --><!-- 本文 --><div class="article-body-more" id="more"><span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">2: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 00:30:57.53 ID:YHN3GWEh</span></span></div>
+<div  style="font-weight:bold;font-size:18px;line-height:27px;margin-bottom:30px;margin-top:20px;" class="t_b"> コミュ障無能はつらい </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">3: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 00:34:31.96 ID:IjUkIniq</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ES、筆記試験落ち2社 <br /> 2次面接落ち1社 <br />  <br /> 6月なのにまだ3社しか受けてないンゴ、就活のやる気が起きない特にやりたい仕事ないしどうしようねぇ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">5: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 00:58:04.45 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:bofeSDQ9</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;3</span> <br /> 日本郵政、年金機構、IT系、市役所 受けたらどう？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">12: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 01:49:19.36 ID:cx6YtX4f</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;5</span> <br /> 前者二つはもう締め切ってるやろ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">4: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 00:52:44.39 ID:XbofycWX</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> どうせ社会不適合者ですよーだ <br /> こっちが社会に出ようとしているのに拒否されるんやからな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">6: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 01:03:48.08 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:bofeSDQ9</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b"> ワイの欠点 <br /> ・声が低い <br /> ・頼りなさそうに見える <br /> ・熱意があるように見られない </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">7: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 01:03:52.23 ID:62xsAiaE</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ○○○○○は誰でも受かるけど年収600あるよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">11: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 01:38:12.03 ID:pc/9ZmXZ</span></span></div>
+<div  style="font-weight:bold;font-size:18px;line-height:27px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;7</span> <br /> おはオプンハス </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">8: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 01:04:18.80 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:bofeSDQ9</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b"> ちなIT系受けてるが10社一次落ち </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">14: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 02:31:50.18 ID:+Lep6y1U</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;8</span> <br /> 高望みしすぎなのかお前が無能すぎるのか分からんな <br /> ITなんて人売りが大半だから高望みしなければ内定は余裕 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">9: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 01:07:31.54 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:bofeSDQ9</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b"> ユー子 3社 <br /> デー子 1社 <br /> 独立系 6社 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">10: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 01:17:33.94 ID:XTa4/bqU</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ワイ最近初めて1次通ったレベルやで </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">13: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 01:52:56.41 ID:XUhwUJbK</span></span></div>
+<div  style="font-weight:bold;font-size:13.3333px;line-height:20px;color:#800080;margin-bottom:30px;margin-top:20px;" class="t_b"> 就留すればいいじゃん(いいじゃん) </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">15: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 02:35:02.35 ID:WIYFYdcn</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 中小sierにも受からないゾ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">16: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 03:45:45.61 ID:npk587ns</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 中小独立sier以外は並の業界より楽なsierが最近は多いから普通に倍率そこそこあるんだよなぁ <br /> てか情報系卒以外が受かりやすいのって一番人気の高いユー子だからそういうジレンマもあるから本気で内定取りに行くなら四天王に目を向けた方がいいと思う </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">17: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 06:57:29.89 ID:MM4Wct9Q</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 就留とか馬鹿げてるよな。大学院や留学くらいいってレベルアップしてきな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">19: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 09:41:08.10 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:bofeSDQ9</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;17</span> <br /> 確かに <br /> もう20卒の就活始まってるしな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">18: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 08:31:43.00 ID:sr4Dslok</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> よく聞くけどユー子・デー子・メー子て何の略や？ <br /> 何かの子会社やんな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">20: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 09:45:29.78 ID:SMsIACjO</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;18</span> <br /> SIerのこっちゃ <br /> ・データ <br /> ・元メーカー(富士通、NEC) <br /> ・社内SE(メガバン、メーカー) <br /> ・ユーザー系子会社(～総研、商社子会社) <br /> ・メーカー系子会社(富士通系、日立系) <br /> ・データ系子会社(データアイ) <br /> ・独立系(ワークス、フューチャー) <br /> に分かれるんや。 <br />  <br /> 年収とまったり的にユー子が人気 <br /> 事業規模と安定的にデータもクソ人気 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">36: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 13:32:09.36 ID:sr4Dslok</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;20</span> <br /> なるほどサンガツ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">117: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 16:46:58.85 ID:MeUk2UXB</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;20</span> <br /> 大元が誰でも知ってるような商社だから俺はユー子かもしれないな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">21: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 09:50:49.14 ID:7pI+raF7</span></span></div>
+<div  style="font-weight:bold;font-size:18px;line-height:27px;color:#dc143c;margin-bottom:30px;margin-top:20px;" class="t_b"> 機電系学部卒nntがさっそうと登場 <br /> 11社受けて最終までたどり着いたの1社だけっていうね </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">22: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 09:51:50.76 ID:SMsIACjO</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;21</span> <br /> 機電推薦あるやろ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">24: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 10:22:03.35 ID:sRXsCoQ2</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#dc143c;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;22</span> <br /> 推薦落ちたんや </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">23: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 10:19:35.17 ID:zv2Iy8mi</span></span></div>
+<div  style="font-weight:bold;font-size:18px;line-height:27px;margin-bottom:30px;margin-top:20px;" class="t_b"> いつも思うがなんで機電以外の奴らは機電推薦に全幅の信頼を置いてるんだ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">25: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 10:28:51.52 ID:DOohHpsG</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 昨日数えてみたら面接15社落ち グルディス3社落ち よくわからんベンチャー説明会落ち2社 <br /> 筆記or書類落ち5社落ち NNDT </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">26: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 10:32:16.14 ID:rRNXUqNL</span></span></div>
+<div  style="font-weight:bold;font-size:18px;line-height:27px;color:#ffa500;margin-bottom:30px;margin-top:20px;" class="t_b"> 死んだ2019卒は何処へ行けばええんや？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">27: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 10:44:40.61 ID:YHN3GWEh</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> IT物流建設で探すんや </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">28: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 10:46:24.61 ID:DRQwOiKY</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 自己分析しようとすると吐き気とめまいがひどいんだが <br /> このままじゃ精神的に病むぞ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">29: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 10:49:49.00 ID:ntNN+WYi</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 991 就職戦線異状名無しさん[] 2018/05/19(土) 01:16:49.93 ID:WpBCLPRQ  <br /> <span  style="color: mediumblue;" class="anchor">&gt;&gt;957</span>  <br /> マジレスすると  <br />  <br /> まずは自己分析をして強み・長所・短所、普段の自分のやりがいを感じる場面や価値観などを整理しておくことやな  <br /> そこから自分が将来やりたい仕事とどのように結びつくかやどんな場面で自身の強みが活かせるかをまとめておく  <br />  <br /> そして予め希望業界職種が決まっていればあれやけど決まってないなら今の時期はインターンの合説などに参加して雰囲気を掴んだり面白そうな仕事を見つけるんや  <br /> そしてインターンに応募して自己PRやガクチカを書く練習をするんや  <br /> 場合によっては選考で面接をする企業もあるから練習できる  <br /> インターンに参加すれば本選で選考過程が免除されたりすることもあるから時間があれば色々興味あるところは見てみるとええで  <br /> 暇なら夏休みにSPI対策など参考書やってみてもええけどこれは毎日コツコツやることが大事やな  <br /> 試験に関しては志望業界によって出る問題も違うから予め調べとくとええで  <br /> あとは思いっきり打ち込めることをやっておいたり今まだこの時期なら何か大きいこともチャレンジできるからガクチカに使えそうなエピソードを作るのも大事や  <br /> バイトでも趣味でもサークルでもボランティアでも家の家事手伝いでも本当になんでもええ  <br /> その時に動機・課題に直面した時にどう乗り越えるか・どんな気持ちで取り組んだかに留意して頑張るように  <br /> 仲間と取り組めばなお良しや  <br />  <br /> 頑張れ  <br /> ワイらの二の舞になるなよ  <br />  <br /> by NNT </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">30: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 11:28:03.54 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:bofeSDQ9</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b"> 5社以内で内定取ってるやつ羨ましい </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">31: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 13:02:34.63 ID:5R6ZPm5O</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 面接で見られてるポイント <br /> ・安定感(マナー、清潔感、言葉遣い) <br /> ・人柄(好感度、表情、考え、経験値) <br /> ・会話のキャッチボール </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">32: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 13:08:01.25 ID:O+unz3+4</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 持ち駒0の内定0 <br /> 体育会なのになんでこんなことになってしまったんや </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">34: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 13:09:25.05 ID:LSSjLT++</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;32</span> <br /> ジムのトレーナーは厳しいんか? </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">35: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 13:19:37.11 ID:O+unz3+4</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;34</span> <br /> そーいうのも探してみるか </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">33: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 13:09:08.68 ID:Dn3FaQIG</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 機電系NNTワイ説明会をドタキャンする </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">37: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 13:39:42.33 ID:5R6ZPm5O</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;33</span> <br /> 何やっとるんや！！ <br />  <br />  <br /> てか、機電系NNTとか体育会系NNTとか早稲田でNNTとかホンマにおるんか？？ <br /> 嘘末じゃないよね？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">40: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 14:09:30.83 ID:Dn3FaQIG</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;37</span> <br /> 特に理由なく高校中退してる社会不適合者だからなあ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">41: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 14:10:50.20 ID:O+unz3+4</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;37</span> <br /> 体育会やけどNNT予備軍やで </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">42: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 14:11:37.68 ID:SMsIACjO</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;41</span> <br /> ほんとに脳筋なの？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">44: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 14:20:16.66 ID:O+unz3+4</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;42</span> <br /> 脳筋ではないけど勉強は全然してないで </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">39: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 14:08:06.03 ID:npk587ns</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 機電系は自分の専門分野嫌いすぎて他の業界と職種に移ろうとして就活に苦戦するの多そう </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">43: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 14:20:07.91 ID:O3TbXOrZ</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 理系体育会のワイ。無事死亡。もう死にたい </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">45: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 15:05:35.96 ID:HpsTw2kr</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 理系院生のワイ、推薦落ちる <br /> ろくさっぽ自由も受けてないからNNT <br /> やべーよやべーよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">46: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 15:10:50.65 ID:sRXsCoQ2</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 理系だから推薦余っているところ使う予定にしたよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">47: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 20:05:10.93 ID:uCSEVD2q</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 理系で内定取れんやつはよっぽど化け物みたいな顔をしてるんだろう </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">48: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 20:16:54.12 ID:Oci2KIt2</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 市役所とかって実際どうなん？今からでもいける？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">49: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 20:19:29.50 ID:O3TbXOrZ</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;48</span> <br /> 大体のエントリーは終わってるんやない？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">50: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 20:32:37.76 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:5Q6c5rfP</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;margin-bottom:30px;margin-top:20px;" class="t_b"> 面接一回しか通ったことない、ＧＤ全敗、一次選考から先に進んでる企業無し、未だに説明会に参加する日々　ちな早 <br /> 人間力勝負の就活だから学歴取ったら何も残らん人間は辛いわ　親いなかったらとっくに自殺してる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">51: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 20:33:56.08 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:5Q6c5rfP</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;margin-bottom:30px;margin-top:20px;" class="t_b"> ちな大手病じゃないから本当にどうしようもない　ワイが行けるところない説あるで </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">52: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 20:35:02.08 ID:PZjbREfp</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;51</span> <br /> 高学歴なのに大手受けねえからそうなってんだろ <br /> 大手ぶっ込め </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">54: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 20:48:27.63 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:5Q6c5rfP</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;52</span> <br /> じゃあ本当のこと言うわ、大手７社くらい本エントリーしたけどほとんどＥＳ（多分性格検査で落とされた？）落ちとＧＤ落ちだよ <br />  </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">55: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 21:04:30.33 ID:SMsIACjO</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;54</span> <br /> いろんな要素に点をつけれるとしたら10点満点で1か2の項目が多い人間ってことでいい？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">56: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 21:14:00.91 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:5Q6c5rfP</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;55</span> <br /> わからんけどまぁそんなもんかなぁ・・・精神科通ってた期間なんか誰とも関わらずバイトもせずひたすら家と大学往復してるだけだったしもったいなかったなぁ <br /> もちろんノンサー　 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">57: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 21:15:28.02 ID:SMsIACjO</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;56</span> <br /> 心療内科の方がええで絶対 <br /> イジメでもうけたん？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">59: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 21:25:31.80 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:5Q6c5rfP</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;57</span> <br /> 全然効果なくて一年前に通院やめちゃったわ　イジメなんてものはまったくなかったで、異常なほど劣等感感じるタイプの人間だからか勝手に惨めになって病んだだけ <br />  </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">53: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 20:40:09.55 ID:SMsIACjO</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;51</span> <br /> 人に比べて明らかに劣ってると思える要素ってある？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">54: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 20:48:27.63 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:5Q6c5rfP</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;53</span> <br /> 逆に優れてる部分が見当たらないくらいのダメ人間の陰キャラや、そのおかげで面接までこぎつけても印象悪いのか一次面接が通らんわ</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">58: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 21:15:41.80 ID:WIYFYdcn</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 俺も早稲田だけど最終まで進んだことないわ <br /> もちろんNNT </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">59: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 21:25:31.80 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:5Q6c5rfP</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;58</span> <br /> 学歴有利に働くのって面接の前段階（筆記とか）だけやもんな・・・俺も学歴こそは良い部類なんだろうけど人間力は超絶Ｆランだからどうしようもないわ</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">61: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 21:29:15.18 ID:XbofycWX</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ここまで来ると社会構造を破壊したくなってきた </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">62: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 21:38:25.39 ID:bwYfyfV6</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ガチFはええやろ <br /> 学歴あってNNT程惨めなものはないで <br /> 小売内定あるけど行く気ないから実質NNTやし </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">63: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 21:40:55.24 ID:XbofycWX</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;62</span> <br /> これ <br /> なんのために今までやってきたのか </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">64: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 21:41:30.86 ID:SMsIACjO</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 小売受けただけすごい </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">65: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 22:02:07.01 ID:O2/NZr8Q</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 俺も最近までNNT機電院だったけど、研究内容やガクチカ全て自分が答えやすく、印象もよくなるように話したら通るようになった <br /> やっぱり就活は嘘ついてなんぼなんだね </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">66: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 22:02:38.64 ID:SMsIACjO</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;65</span> <br /> 嘘ついちゃったんか？ガクチカ？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">70: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 22:09:48.59 ID:O2/NZr8Q</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;66</span> <br /> やってないけどチームでゲーム開発したと言った <br /> 結構受けが良かったよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">67: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 22:08:09.69 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:5Q6c5rfP</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;margin-bottom:30px;margin-top:20px;" class="t_b"> なんＪ内定先マウント部とか地獄みたいなスレあって草も生えん　一生書き込むことはなさそう </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">68: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 22:08:21.15 ID:X2zHHzBg</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> これまで学歴の恩恵を受けたことが無い </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">69: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 22:09:35.86 ID:4+o3cd4u</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ワイFランやけど周りに内定持ってる奴は増えてきたで </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">71: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 22:10:42.59 ID:XbofycWX</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 学歴は関係ないんやな <br /> 本当に人生馬鹿らしい <br /> 棒に振ったわ <br /> リセットしようかな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">73: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 22:28:09.56 ID:x0hZCKNv</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;71</span> <br /> 単に会社勤めが向いてないだけや <br /> ハイリー・センシティブ・パーソンってやつじゃないの? </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">72: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 22:18:02.98 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:5Q6c5rfP</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;margin-bottom:30px;margin-top:20px;" class="t_b"> 学歴での偏差値２０減らしてその分を就職偏差値に回したらいい感じになると思うわ <br /> 結局人間力とかほんまアホらしいわ、学歴が就活で活かされたことないし　陰キャラの時点で詰みなんやなって </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">74: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 22:28:23.17 ID:XKR+R9Y0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ワイもそうなんやが他にも早稲田NNTおるんやな <br /> 地方出身やったら地銀受けると学歴ですんなり内定貰えるで <br /> ワイは体育会系が無理だからカウントに入れてないがな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">76: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 22:32:12.57 ID:LbkB8qhg</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 無能が学歴いいと地獄だろうな <br /> 無能のクセにプライドだけは高くなるから <br /> 早大卒とFラン卒が均等に扱われるのが社会 <br /> 浪人は無意味 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">77: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 22:33:19.24 ID:XbofycWX</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;76</span> <br /> 完全に俺でわろた <br /> もう死ぬわ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">80: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 23:16:53.64 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:5Q6c5rfP</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;76</span> <br /> 小売りは絶対嫌だ！とか言ってプレエンすらしなかったワイやん　なお人気業界志望して無事死亡 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">78: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 22:46:15.56 ID:LbkB8qhg</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 上位大卒で無い内定は相当やばい <br /> 何らかの知的障害があるか見た目が完全に犯罪者のそれ <br />  <br /> 無い内定は人を見るプロである人事から社会不適合の烙印を押されたと言うこと <br /> Fランなら知能が問題だが上位大卒なら異常者か病人か不快な容姿を持つ者のいずれか </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">79: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 22:55:18.44 ID:EOhmjUVO</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;" class="t_b"> 役員が鬼門すぎる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">83: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 23:18:55.16 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:5Q6c5rfP</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;margin-bottom:30px;margin-top:20px;" class="t_b"> まだ６月初めやしＮＮＴでも相当ヤバいってわけではないやろ（希望的観測） <br /> 問題は来月中旬くらいでもなかったら本当にヤバイと思うけど、ワイはその時期でも自分が就活してる光景が想像できてしまう </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">84: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 23:30:46.64 ID:dI5quJvn</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 上位大学出て中小や小売しか内定取れなくて <br /> 高卒とか学歴低い上司に叱咤されながら働くとかプライドやばそう </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">85: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 23:53:48.22 ID:2hZ60tis</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 正直この時期nntがヤバイって感覚が分からん <br /> 多分既卒になっても分からんと思う <br /> 今まで運よくレールの上に乗っかれてただけで中学ぐらいからホームレスでも良かったし <br /> これからの人生で成し得たいことなんてこれっぽっちもないからあ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">88: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 23:59:00.34 ID:khRKc6rZ</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;85</span> <br /> さとり世代の先鋭だな <br /> 親死んでも自殺はするなよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">86: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/07(木) 23:57:18.29 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:5Q6c5rfP</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;margin-bottom:30px;margin-top:20px;" class="t_b"> この時期に説明会行きまくってるけどどの企業も○次募集で既に内々定何人かに出しているのかなと思うともう就活面倒になってきたわ <br /> 俺がこの枠に入れるのかよって思う </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">89: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 00:01:04.77 ID:zm+W+Ife</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> もう大学の夏の合説に賭けるしかない </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">90: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 00:01:34.90 ID:lRhhJ7Be</span></span></div>
+<div  style="font-weight:bold;font-size:18px;line-height:27px;color:#ff0000;margin-bottom:30px;margin-top:20px;" class="t_b"> 絶対年が明けても就活してるわ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">91: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 00:06:17.20 ID:QsKv79dw</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> マジにいえば、公務員の採用が決まるのは夏以降や <br /> そっから内々定がゴッソリ抜けるから、秋にもう一回チャンスがあるよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">92: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 00:07:35.53 ID:d9pW2hSg</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> とりあえず劣等感持つのはやめとけ <br /> 社会出たら自分より背高い人もイケメンな人も年収高い人も学歴高い人も、そしてすべて揃えてる人もいくらでも遭遇するからな <br /> いちいち比較して自分より優れてるなんてやってたら壊れるぞ <br />  <br /> あと、劣等感ある人は見下しがち <br /> 「この程度のところなら俺でも受かるだろ」みたいな不純な動機が透けて見えるんやないか？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">93: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 00:26:27.41 ID:2e5ji+7b</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 最近不安で眠れないんだけど鬱病の初期症状なのかもしれない </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">94: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 00:49:56.36 ID:Uk8LIGvb</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;93</span> <br /> 一緒に心療内科行くか <br /> 俺も地底院なのにNNTで辛いわ <br /> 周りは皆大手決まってるのに </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">97: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 07:16:34.14 ID:z3aVMcN6</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 今の時期無い内定なら年内で就活終えられれば合格点 <br /> 企業は時期が後ろになるほど冷徹にお祈りメールを送ってくると思う <br />  <br /> 他社に祈られまくった残飯と一緒に仕事したい人は少ない <br /> 採用数も相当絞ってるからかなり狭き門だよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">99: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 11:39:31.71 ID:5E3aAjqo</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 就活生減ったなーと感じる電車内 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">100: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 11:58:01.41 ID:pqkQwJqw</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> NNTで焦ってる奴の気持ちがわからん。だって面接解禁から1週間しか経ってなくない？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">101: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 12:01:45.16 ID:TKuAkjZO</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;100</span> <br /> もう20卒の就活が始まってるんだが </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">102: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 12:17:42.43 ID:CFo4omhk</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ワシは理系院卒のおかげもあるのかESはほぼ全通で面接はほぼ爆死じゃよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">103: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 12:21:57.52 ID:8nlRWPsq</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> やべえ奴はキャリアセンターに相談しに行け <br /> メンバーは無能かもしれんが、今の時期にNNTの奴も無能なんだから、気にするな <br /> とりあえず誰かに相談してアドバイスもらえ <br />  <br /> 何も状況は変わらんが精神的には楽になった </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">104: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 12:26:20.31 ID:pn91AXdt</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ワイNNTDI <br /> 今更面接セミナーに参加 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">105: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 12:29:58.11 ID:/brUiydx</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 陰キャ文系という社会の闇 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">106: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 12:32:12.27 ID:tJRUBIHL</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;" class="t_b"> この時期のキャリアセンターめちゃくちゃ優しいから心が荒んでるやつにはオススメ <br /> あんまりやばいなら心療内科を勧めるが </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">107: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 12:42:07.01 ID:/uwXKVBA</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> とうとう就活しているのが研究室で俺だけになってしまった、、辛すぎる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">109: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 13:09:35.21 ID:hva0pTir</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 就活うまくいってないことにしか目がいってなくて、持ち駒全然ないことに気づいてなかった <br /> 今月はひたすら説明会行く感じになりそうやね……就活いつ終わるんだろ <br />  <br /> そういや今月初めでの内々定率65%ちょいらしいね </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">110: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 13:15:01.17 ID:mRFtOkez</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> nntって35%しかいないのかやべえと思うか35%もいるじゃん余裕と思うか </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">112: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 13:23:09.58 ID:5E3aAjqo</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 体組成計メーカー開発職からお祈りを食らう。最後の砦やったのに。しにたい </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">113: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 13:25:50.71 ID:1ooUQWnY</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 研究も就活も進んでなくてやばいわ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">124: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 19:36:37.22 ID:KW+nddAx</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;113</span> <br /> それな、就活終わったら集中してやろうと思ってたのに就活が終わる気配ないわ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">116: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 16:40:32.05 ID:tnFKFMHt</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 20卒で内定出たンゴｗｗｗｗｗｗ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">119: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 17:09:55.15 ID:5E3aAjqo</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;116</span> <br /> 嘘松(nntからの嫉妬) </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">118: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 17:07:07.42 ID:XvZkoeOt</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 介護小売ITなら待遇気にしなければ中小大手問わずいつでも誰でも受け入れてくれるぞ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">123: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 19:15:39.71 ID:kwdNJiNZ</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;118</span> <br /> IT大手ってデータ？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">125: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 19:40:35.30 ID:CctW7yk9</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> データみたいな最大手は難しいけど普通の大手なら高学歴でコミュ力あれば陽キャじゃなくても通るぞ <br /><br /> </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">126: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 19:41:26.81 ID:67DEZ4dy</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 今2つの学会準備と実験と就活が同時平行で死にそうだぜ <br /> 6月までには終わらせる予定だったのになあ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">127: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 19:54:43.62 ID:WcnklLby</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 本日の最終面接落ちた模様 <br /> さーて人生設計から考え直そう </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">131: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 20:37:30.48 ID:3eTtysRV</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> わいの周り、無能やと思ってたヤツらが内定貰ってて有能やと思ってたヤツがnntなんは、選り好みしすぎなんかな、、 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">155: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 21:36:31.44 ID:QsKv79dw</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;131</span> <br /> 同じ学科だから能力は同程度 <br /> 企業の人は、素直かどうかをみてるだけや </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">132: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 20:40:43.96 ID:wiVLcins</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> キミが人を見る目ないんやろ <br /> 一見優秀に見えるけど実力はなくてプライドだけ高い意識高い系とか多いわ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">141: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 20:56:34.08 ID:3qR5Hwsy</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;132</span> <br /> 普通に面接で全部判断するのとか無理だろ <br /> 無能でも嘘つくのが上手かったりすれば普通に大手受かるし有能な奴でもなかなか内定でないことなんてザラだけど </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">133: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 20:42:37.80 ID:2e5ji+7b</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ガチのnntってこれから何する予定なの？説明会参加とか？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">135: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 20:44:56.93 ID:yrRnuB4P</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 今日は説明会行ってきたよ <br /> 7月に初めての最終面接があるからその前にできるだけ弾補充して備えるつもり </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">137: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 20:50:57.99 ID:YjhxOlAb</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> これからひたすら説明会や　エージェントから紹介されて行ってもいいなと思うところひたすら行くのみよ <br /> 正直終わりが見えん　ちなみに来週就活の予定少なくて不安や </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">139: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 20:53:27.22 ID:3eTtysRV</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ガチでnntのやつは、公務員受けようとか思わんのか？ガチ勉するだけやんけ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">140: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 20:56:09.45 ID:yrRnuB4P</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> やりたい業種決めてるし公務員なりたいとも思わないからないわ <br /> そもそも今から公務員目指すとかブレブレやないか </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">143: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 21:09:37.36 ID:HGqtj6Nk</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> もう就活疲れた <br /> 何もしたくない <br /> 頑張ってもどうせ祈られる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">144: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 21:10:12.98 ID:D8nBz3Uo</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#800080;margin-bottom:30px;margin-top:20px;" class="t_b"> 19卒 <br /> 外銀、外コン志望 <br /> 就活開始3月 <br /> ノー内定(11/11) <br /> 大学偏差値は67.5 <br /> TOEIC910、英語ほぼネイティブ <br /> 貯金150マン <br />  <br /> 今年の就活は諦めて就留したい <br /> 今から始めれば外資系のインターンに間に合う </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">145: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 21:11:53.97 ID:WcnklLby</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ハイスペックすぎ <br /> 海外で就職すれば？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">146: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 21:12:46.70 ID:fZ4acu8n</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b"> ブサイクなんやろなあ… </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">147: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 21:13:29.27 ID:D8nBz3Uo</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#800080;margin-bottom:30px;margin-top:20px;" class="t_b"> 遅すぎたんや <br /> 絶対きちんと準備したら受かったはずの場所何個も落ちた <br /> 自分の大学で自分のスペックでノー内定は死ぬほど屈辱 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">162: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 22:02:47.62 ID:d9pW2hSg</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;147</span> <br /> べつに3月からは遅すぎでもないぞ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">171: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 22:51:39.56 ID:rOdkFOsK</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#800080;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;162</span> <br /> コンサル、外銀、シンクタンク志望なんだよね </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">148: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 21:17:31.48 ID:25maZetV</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 早慶マーチでもNNTで卒業する奴は一定数おるからな <br /> それなりの緊張感は持った方がいい </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">149: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 21:18:02.34 ID:HGqtj6Nk</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 俺なんて卒業してNNTだからなw </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">151: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 21:24:15.90 ID:unH4RqGB</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;149</span> <br /> 既卒の面接ってどんな感じなん？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">152: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 21:26:55.24 ID:HGqtj6Nk</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;151</span> <br /> あなたは卒業されたってことでいいんですか？ <br /> 今まで何をやってきましたか？ <br /> なぜそのような進路にされたんですか？ <br /> の質問が来るだけ <br /> 枠自体は新卒と変わらない </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">157: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 21:38:38.11 ID:KrzoT/Rd</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;152</span> <br /> 既卒って分かった瞬間、驚かれる？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">158: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 21:39:36.17 ID:HGqtj6Nk</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;157</span> <br /> 特には <br /> まぁ内定出てないけどな！ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">173: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 23:20:36.04 ID:WP/YcIpn</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;149</span> <br /> 就留は考えなかったの？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">183: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 00:16:28.87 ID:K52YETAk</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;173</span> <br /> 留年は学費がかかるからね <br /> 印象も悪いし </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">150: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 21:20:22.27 ID:YjhxOlAb</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;" class="t_b"> 落ちまくって結構な人数の就活アドバイザーと話したけど皆から公務員目指せばって言われるの草 <br /> なお一年以上前に親からも言われた模様　 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">154: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 21:28:48.42 ID:swsSehGO</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> お前らいつから就活始めたん？ <br /> 俺は2月くらいから説明会行き始めた </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">156: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 21:38:00.90 ID:zgDqsCrW</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> まだ6月じゃん <br /> 2次募集が本格的に始まる時期だからこれからじゃん <br /> お盆過ぎたらさすが焦った方がいいけど </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">160: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 21:54:53.97 ID:YjhxOlAb</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 俺は１２月に大学の就職ガイダンス受けて１月から合説行きまくって～って感じやね <br /> ２５社くらい落ちたかもしれんけどとりあえず夏休み終わるくらいまではやってみようと思うわ <br /> なお未だ２次選考に進んだことがないガイジＮＮＴのもよう </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">159: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 21:53:52.83 ID:fMPo4rVV</span></span></div>
+<div  style="font-weight:bold;font-size:18px;line-height:27px;margin-bottom:30px;margin-top:20px;" class="t_b"> すまんけどスペックにモノ言わせるのはやめといたほうがいい <br /> 上には上がおるし新卒は人柄の方が100倍重視されるから </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">163: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 22:03:25.93 ID:u4CnThXo</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 就活はスペック＋印象だからな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">165: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 22:24:17.32 ID:KW+nddAx</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 売り手市場なのに中高大ワイと仲良かった奴らワイ含めもれなくNNTで草 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">166: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 22:26:43.09 ID:u4CnThXo</span></span></div>
+<div  style="font-weight:bold;font-size:18px;line-height:27px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;165</span> <br /> 類は友を呼ぶんやろなあ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">168: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 22:30:08.28 ID:idJ7OIf5</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 就職アドバイザー（４月）「君なら引く手数多やで」 <br /> ワイ「ほーん」 <br />  <br /> なお </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">169: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 22:40:41.59 ID:BU57xiMm</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ワイはこんな自己PRとガクチカじゃどこも厳しいって言われながらも変えないでいったら一回も面接落ちなかったンゴねぇ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">170: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 22:45:56.32 ID:mWzTUx2q</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 御社のいいところはいくらでも思い浮かぶのに自分のいいところがまったく浮かんでこないンゴねぇ… </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">192: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 01:45:42.79 ID:0xrfNy2V</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;170</span> <br /> 禿同 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">172: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 23:12:45.17 ID:pbsVV21Y</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 自己PRもガクチカも褒められるけど面接官を前にすると頭真っ白なるわ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">174: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 23:20:54.05 ID:YjhxOlAb</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 一次面接の一番最初の質問で志望動機いきなり聞かれたときマジで頭真っ白になってパニックになったわ <br /> ちゃんと考えてきたのに全く違うこと言ってたし、他の質問でも重要な部分抜け落ちて言ってたし笑えん <br /> 面接は場数とは言うがその前の段階で落とされることばっかだしもうダメかもわからんね </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">178: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 23:33:45.83 ID:k8Toe3wW</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;174</span> <br /> わかるわ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">176: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 23:26:08.43 ID:WP/YcIpn</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 偏差値高ければ高いほど就留はありだと思うが <br /> 多分スペック高めるより面接練習頑張ったほうがいいんだろうな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">177: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 23:28:14.19 ID:FlIt893B</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;176</span> <br /> 本当にこれだと思う <br /> そのための場数を踏めって事やったんだって今更後悔 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">181: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/08(金) 23:58:20.13 ID:YjhxOlAb</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> まぁぶっちゃけ親いなかったらとっくに自殺してるレベル </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">209: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 12:34:29.89 ID:y5Pyey0e</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;181</span> <br /> ワイもや。親を悲しませたくない一心で自殺してないわ。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">182: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 00:09:46.83 ID:B8FOGQ2l</span></span></div>
+<div  style="font-weight:bold;font-size:18px;line-height:27px;color:#ff0000;margin-bottom:30px;margin-top:20px;" class="t_b"> 就活(面接)ってスポーツだからな <br />  <br /> どんなに頭の中で考えても、面接官を納得されるプレゼンや会話力が必要だし、何より面接官に好かれないとその他大勢の受験者に埋もれるだけ <br />  <br /> 小手先のテクニックじゃ、こんなのは無理。 <br />  <br /> 就活始まる前までにいかに多くの大人と話してきたか、教室だけでなくいかに外に出て動いていたか(遊び含め)によって人間力が高まる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">184: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 00:18:34.39 ID:Kqtw6CRl</span></span></div>
+<div  style="font-weight:bold;font-size:13.3333px;line-height:20px;margin-bottom:30px;margin-top:20px;" class="t_b"> 無能が留年しても意味ねえよなあ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">185: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 00:24:03.14 ID:rIHDenrB</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 3月とかにPRとか色々書こうとしてネット見てたがベンチャーインターンとか海外ボランティアとか絶対嘘だろって例文ばかりでやる気なくなった <br />  <br /> なお明日は第一希望の一次選考 <br /> 月曜日は最終選考 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">187: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 00:31:40.79 ID:feQbSYxZ</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 友達みんな内定貰ってて辛い <br /> 凄い気遣ってくれるのも余計に辛いよ普通に接してくれ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">189: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 00:47:10.44 ID:cN9TavoZ</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;" class="t_b"> 富士ソフトに賭けるで <br /> it土方でもなんでもやったる！ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">190: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 00:54:08.53 ID:pY6mM/F9</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> お前らは重大な事実を忘れているな <br /> 今年の就活はもう終盤戦で残りカスをゴキブリどもが群がっている状態 <br />  <br /> カブトムシやクワガタはハチミツやスイカをむさぼり食って余った残飯をカナブンが分けあったのがゴールデンウィーク周辺 <br />  <br /> で梅雨入りあたりからゴキブリホイホイの如くブラック零細糞会社が内定を出す <br /> しかしその後のゴキブリの行く末は悲惨なものだ <br />  <br /> 今の時点で無い内定ならもはやまともな職にはありつけない </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">193: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 03:07:06.84 ID:4HlojTtg</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 就留するとしても1年間何すればええんや <br /> 留学は金銭的にキツイし資格は役に立つ業界絞られそうだし </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">194: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 03:33:09.22 ID:FTddNdjG</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#a52a2a;margin-bottom:30px;margin-top:20px;" class="t_b"> 7～9月は夏季インターン <br /> 10～1月は冬季インターン <br /> 3月から選考開始 <br /> 言うほど暇はないだろう </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">195: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 10:09:50.49 ID:TA+XUZRh</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 内定が取れなくて心が荒む <br /> →あまり行きたくない業種の会社をいやいや受けるからモチベーションが上がらない、面接も覇気がない <br />  <br /> の悪循環になってきた </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">197: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 10:33:25.34 ID:XLU0Btkr</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> エピソード自体は大して重要ちゃうで <br /> 留学したり体育会入ってたような奴は得てしてコミュ力も高くてハキハキしてるから就活うまくいくだけや <br />  <br /> 明るくハキハキ論理的に喋れれば、エピソードの内容はバイトでも家のお手伝いでも構わんやろ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">198: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 10:41:37.13 ID:OCtUnmjF</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> とはいえさすがにバイサーゼミなし文系はかなりきついぞ(経験者談) </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">202: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 10:49:32.19 ID:zcIO4kL3</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ゼミか部活のどっちかはあった方がええやろな <br /> バイト&amp;サークルは遊びの域やし </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">203: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 10:49:40.65 ID:XLU0Btkr</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> すまんゼミサーはともかくバイト無しは擁護できんわ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">205: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 11:20:13.08 ID:RfHR4cp2</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;203</span> <br /> 品出しバイトは？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">204: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 10:50:19.91 ID:XLU0Btkr</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ゼミは力を入れた科目、授業で代用できるし </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">210: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 12:36:23.57 ID:y5Pyey0e</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#008000;margin-bottom:30px;margin-top:20px;" class="t_b"> もう大手はバイリンガル向きの採用になってるしな、、、 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">211: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 12:40:50.42 ID:lOrxrUSK</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 乱れ打ち？してると一社一社の研究や動機が薄くならん？ <br /> そーゆーのあかんと思う <br /> 自分に合った会社探さないとね </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">212: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 12:45:10.79 ID:Dr2pAcws</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 第一志望群全滅して乱れ打ちしてからもう第一志望の企業が自分でもわからなくなっとるわ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">214: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 12:57:41.78 ID:M+JV+0db</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> この時期にどうやってモチベ保てばいいんや？ <br /> 流石にやる気なくなってきたンゴ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">215: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 13:02:06.02 ID:JXznSxsG</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;214</span> <br /> 今を逃したら就活は死ぬって思い込むんだ <br /> 焦ってモチベーション云々の話じゃ無くなってくる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">221: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 13:33:15.84 ID:M+JV+0db</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;215</span> <br /> 面接の度、前の面接の改善点を直して行っても受からない失敗体験の積み重ねでメンタル死 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">223: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 13:41:53.88 ID:P8qqJl9d</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;221</span> <br /> 面接で失敗引きずるのは良くないで <br /> 減点法じゃなくて加点法なんだからどうやったら自分の魅力を最大限伝えられるかを考えるんや </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">225: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 13:46:13.90 ID:M+JV+0db</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;223</span> <br /> わかった <br /> 苦手だけど頑張るンゴ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">218: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 13:11:10.76 ID:l8dPJlVj</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ワイのモチベは就活とかいうクソ制度への挑戦やぞ <br /> とことん自分を偽って打ち勝ったるわ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">222: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 13:40:02.10 ID:M+JV+0db</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;218</span> <br /> メンタル強いなぁ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">220: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 13:33:15.55 ID:NY4tbbot</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 負のスパイラルに陥ってて抜け出せそうにないわ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">227: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 13:55:09.21 ID:6fytQRWI</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ここにいるのってみんな文系なの？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">228: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 13:56:10.20 ID:WUAA6nvQ</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 理系院だが </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">229: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 13:56:25.95 ID:69hbECog</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;228</span> <br /> つ推薦 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">234: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 14:21:38.90 ID:6fytQRWI</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;228</span> <br /> 同じや <br /> 学歴と専攻はどんなもんや？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">239: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 15:18:14.20 ID:WUAA6nvQ</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;234</span> <br /> 宮廷機電以外の工学系 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">230: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 13:56:49.00 ID:A2PpQoFd</span></span></div>
+<div  style="font-weight:bold;font-size:13.3333px;line-height:20px;margin-bottom:30px;margin-top:20px;" class="t_b"> 6月からが本当の解禁や </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">231: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 14:02:36.26 ID:Pl2s7phy</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> くそ緊張して声上ずってたんだが受かってるかなぁ... <br /> 堂々としてればよかった </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">232: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 14:09:30.47 ID:4y0MTQ1d</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 声ジェスチャー張り切りまくったら押しが強いって言われたンゴ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">233: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 14:12:45.34 ID:WUAA6nvQ</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 東芝メモリ推薦使うつもり </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">235: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 14:28:49.33 ID:5EkL58g6</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 東芝メモリの推薦ってJM成立後だからあんま意味なくね </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">236: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 14:33:05.53 ID:r+IRBtOP</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> お前らにまだ募集してるいい企業教えてやるで <br /> 日東金属工業 <br /> 中小だけどステンレス機器のナショナルブランドで薬品・医療等将来性のある業界を顧客にもってるで <br /> 立地はＴＸ沿い、ボーナス６ヶ月、社員はお前らみたいなやつばっか、筆記はあるけどクソ簡単 <br /> うけてみてや </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">238: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 14:35:07.69 ID:dyieYi0P</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;236</span> <br /> おは人事 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">237: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 14:34:47.49 ID:OCtUnmjF</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 工学部と早慶以上の文系でバブル期NNTって半ガイジじゃね？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">241: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 15:49:04.49 ID:YX8IdmLi</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> そこそこ話せる奴は目力入れてキビキビ動けば内定取れる気がする <br /> 体育会が好かれるのは振る舞いが俊敏で頑張ってくれそうだからだと個人的には思うし </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">242: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 16:04:33.84 ID:FJRpdoo/</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ワイ無能バイオ理系NNT、食品関係を受け続けるも25連敗 <br /> なお初めて到達した2次面接の御社では16日待たされた挙句に祈られた模様 <br /> 御社ふざけんなよ御社 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">244: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 16:11:20.33 ID:v8rLoFaC</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 三年の夏からインターンにも精を出して頑張ったのにＮＮＴの人々にはマジで同情するわ <br />  <br /> ｂｙインターンまったく目を向けずひたすら楽なバイトだけしてエピソードも作らなかったワイ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">247: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 16:24:11.64 ID:v8rLoFaC</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> あーなんでワイ選考早い企業にエントリーして場慣れとかしなかったんや　この時期の面接でもあたふたしてるとか本当に情けない　集団面接もしたことないし </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">252: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 17:05:02.23 ID:v8rLoFaC</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 最終の控えすらもないＮＮＴなのに来週全然予定入ってなくて草生えない </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">254: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 17:09:22.92 ID:mRLzdK4L</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 内定取れない奴が就留したって無駄やろ <br /> より価値の下がった状態で挑まなきゃならんのだし <br /> それに2020年卒は今年より求人倍率下がるって言われてるぞ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">258: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 17:31:10.56 ID:eMxeNo7t</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;" class="t_b"> 理系院やが博士進学も見えてきたわ <br /> つらたん </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">260: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 17:34:38.79 ID:zZmmfPRK</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 面接大失敗して辛いわ <br /> 自分は社会不適合なんやと思うと涙出てくるよホント </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">262: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 17:39:45.87 ID:JfkSi7mQ</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 三菱電機ビルテクノサービスが君らを待ってるで </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">264: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 18:01:54.42 ID:YhshewtA</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;262</span> <br /> そんな訳わからん子会社嫌や <br /> 一流大手に入って「すごーい！」とか言われたいんや </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">263: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 17:41:13.74 ID:rWxJkBD9</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 7月にある最終だけが希望 <br /> てか何でこんな遅いんだ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">265: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 18:04:54.42 ID:A2PpQoFd</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> パナソニックとか今月からやろ？受かりゃいいざんすよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">267: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 18:09:04.58 ID:Uv9xpYHC</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ビルテクノサービス舐め過ぎだろ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">270: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 18:22:30.32 ID:YhshewtA</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;267</span> <br /> 三菱電機本体ならまあギリギリ納得できるが、子会社じゃね </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">268: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 18:10:47.22 ID:FJRpdoo/</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 選考期間伸ばすだけ伸ばして落とす御社も嫌いだけど、 <br /> 最初の適性検査から落とすような会社の求人をこっちに送りつけてきやがるキャリアアドバイザーも嫌い <br /> お前のことだぞリ〇ナビキャリアドこのやろー </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">271: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 18:36:40.46 ID:roMXRxWg</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b"> ビルテクノは年収はそこそこいいけどワークライフバランスが崩壊してる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">272: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 18:39:03.27 ID:BombPMAx</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ●人気企業100社合計就職数 <br /> 早大1463、慶應1371、同大716、明治562、上智406、青山399、関学326 <br />  <br /> ●人気100社就職率/就職者数 <br /> 慶應36％、上智27％、早大25％、同大20％、青山14％、明治13％、関学10％ <br />  <br /> ●人気100社総合職就職率/就職者数 <br /> 慶應36％、早大20％、上智19％、同大16％、青山10％、明治10％、関学7％ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">273: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 18:42:02.57 ID:IoRpqNPA</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 一次まではいけるんや <br /> そこから全落なんや <br /> 語ることも多いし大学での実績もあるし、イベント企画も成功させてるんや <br /> なのになんでなんや <br /> もう死んでやる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">275: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 19:02:00.08 ID:iGxpK+N6</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;273</span> <br /> 大学ランクは？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">277: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 19:24:04.01 ID:Gi4PS4ld</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;275</span> <br /> 国立やけど宮廷には劣る </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">278: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 19:27:08.46 ID:fqAclplI</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 一次はまともな応対が出来るかくらいしか見てないと思うぞ <br /> 書類通るなら学歴もそこまで大きく影響しないと思うし </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">280: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 19:37:24.47 ID:TJ+bV+ml</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> この超売り手市場でNNTてホンマかいな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">282: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 19:47:12.17 ID:wy1uuz8I</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;280</span> <br /> 自分がたまたま上手く行っただけの癖に売り手市場なんて言葉を弄して何も知らん就活生を惑わすお前みたいな奴がおるからNNTが生まれるんや <br /> ワイは絶対許さへんぞ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">289: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 21:08:30.89 ID:tPvLcM39</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> NNTの闇深いな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">287: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/06/09(土) 20:26:07.71 ID:BpZU6tvL</span></span></div>
+<div  style="font-weight:bold;font-size:24px;line-height:36px;margin-bottom:30px;margin-top:20px;" class="t_b"> 公務員落ちたら人生終わるンゴ </div><br />
+<br />
+<p  style="color:gray;text-align:right;"><span  style="font-size: 81.25%;">引用元： <a  target="_blank" href="http://rio2016.5ch.net/test/read.cgi/recruit/1528298689/">http://rio2016.5ch.net/test/read.cgi/recruit/1528298689/</a></span></p>
+<br />
+
+</div>
+                        
+<!-- タグのリスト表示セット -->
+                        </div>
+<br>
+
+
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=2Z8HPD+9K4KFM+34FI+NUES2" alt="">
+                    </div>
+                    <!-- 記事本文 ここまで-->
+
+
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HV7V6" alt="">
+
+
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www26.a8.net/svt/bgt?aid=190821728180&wid=001&eno=01&mid=s00000011866017004000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" alt=""></td>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+3257OY+3Y6M+601S1" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www24.a8.net/svt/bgt?aid=190821728185&wid=001&eno=01&mid=s00000018427001008000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=35LYZK+3257OY+3Y6M+601S1" alt=""></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+
+
+                    <!-- 記事フッター、コメント、ソーシャルボタン -->
+                    <footer class="article-footer">
+                        <div class="article-footer-comment">
+                            
+                                <a href="http://pathtimeblog.com/archives/9876138.html#comments">0コメント</a>
+                            
+                        </div>
+                        <div class="article-social-btn">
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HVFKY" alt="">
+
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/9876138.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/9876138.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="2019卒 死にかけてるNNT集まれ 	 - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=2019%E5%8D%92%20%E6%AD%BB%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E3%82%8BNNT%E9%9B%86%E3%81%BE%E3%82%8C%20%09%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/9876138.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/9876138.html" data-text="2019卒 死にかけてるNNT集まれ 	 - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F9876138.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                        </div>
+                    </footer>
+                    <!-- /記事フッター、コメント、ソーシャルボタン -->
+
+
+                    <!-- カテゴリの最新記事表示 はじまり-->
+                    <div class="article-sub-category">
+                        <div id="ldblog_related_articles_ef1d3a10">
+
+<div class="related-articles ldblog_related_articles_ef1d3a10" data-category-id="160304" data-article-rows="5">
+<h3>「NNT(無内定)」カテゴリの最新記事</h3>
+<ul id="ldblog_related_articles_ef1d3a10_160304"></ul>
+</div>
+</div>
+<script type="text/html" id="ldblog_related_articles_ef1d3a10_tmpl">
+<% for(var i=0,l=articles.length;i<l;i++) {%><% if(i>=rows) break; %>
+<li><a href="<%=articles[i].permalink%>"><%=articles[i].title%></a></li>
+<% } %>
+</script>
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/related_articles.js?t=20180221"></script>
+<script type="text/javascript">
+(function(){
+RelatedArticles.load('ldblog_related_articles_ef1d3a10', '9876138');
+})();
+</script>
+<!-- 関連記事の表示 -->
+                    </div>
+                    <!-- /カテゴリの最新記事表示 ここまで-->
+
+
+
+
+                    <div id="ad2"></div><!-- 広告表示 -->
+
+                    <!-- 記事オプション はじまり-->
+                    <div class="article-option" id="article-options">
+
+                        <!-- コメントエリア　はじまり -->
+                        
+                        <section id="comments">
+                        
+                        <h1 class="comment-form-title">コメントする</h1>
+<div class="article-option" id="comment-form">
+    <form
+      action="https://comment.blogcms.jp/livedoor/shukatu2ch/9876138/post"
+      method="post"
+      name="comment_form"
+          id="comment-form-body"
+      onsubmit="setCommentAuthor(this); return submitOnce(this.button);"
+    >
+    <fieldset>
+        <legend>コメントフォーム</legend>
+    <dl class="comment-form-author">
+        <dt><label for="comment-form-author">名前</label></dt>
+        <dd id="comment-author-form"><input type="text" class="text" id="comment-form-author" name="author" required="required" value="" /></dd>
+    </dl>
+  <dl class="comment-form-body">
+    <dt><label for="comment-form-textarea">コメント</label></dt>
+    <dd>
+      <textarea id="comment-form-textarea" name="body" rows="7" required="required"></textarea>
+      <div id="comment-form-tools">
+        <span class="facemark"><a href="javascript:void(0);" id="emojiLink1" onClick="showEmojiPanel(this.id, 'comment-form-textarea')"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/icon_facemark.png" /></a></span>
+        <span class="rating">
+                    <input type="hidden" name="rating" value="">
+                    <input type="hidden" name="rating_icon" value="star">
+                    <div class="rating-value">
+                        <span id="default-rating-value">評価する</span>
+                        <div class="caret"><span></span></div>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/face/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/face/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/face/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/face/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/face/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/star/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/star/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/star/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/star/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/star/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                    </div>
+                    <div class="rating-icon">
+                        <div data-value="face">顔</div>
+                        <div class="selected" data-value="star">星</div>
+                    </div>
+        </span>
+        <span class="submit"><button type="submit">投稿する</button></span>
+        <span class="memorize"><label for="bake"><input type="checkbox" id="bake" name="cookie" /> 情報を記憶</label></span>
+      </div>
+    </dd>
+  </dl>
+  </fieldset>
+  </form>
+  <script type="text/javascript" src="https://parts.blog.livedoor.jp/js/comment.0.2.js?v=20130430"></script>
+  <script type="text/javascript">
+    loadCommentAuthor(document.comment_form);
+    ldblogComment.init();
+  </script>
+<!-- /#comment-form --></div><!-- コメント投稿フォーム -->
+
+
+                        </section>
+                        
+                        <!-- コメントエリア　ここまで -->
+
+
+                        <!-- トラックバック受け付け　はじまり -->
+                        
+                        <!-- トラックバック受け付け　ここまで -->
+
+                    </div>
+                    <!-- 記事オプション ここまで-->
+
+                </article>
+                <!-- 記事　ここまで -->
+
+
+                <!-- ページ送り はじまり-->
+<!-- Article Pager // -->
+  <div class="pager article-pager-type2">
+    <div class="pager-inner">
+    <div class="article-pager-outer">
+    <ul class="article-pager"><li class="prev"><a href="http://pathtimeblog.com/archives/9843823.html" title="ワイ地方公務員、新人くん(23)の言動で胃が痛い日々">&nbspワイ地方公務員、新人くん(23)の言動で胃が痛い日々</a></li><li class="next both"><a href="http://pathtimeblog.com/archives/9787428.html" title="老害上司「高い腕時計しろ、立派なスーツ着ろ、かばんちゃんとしろ」 	">老害上司「高い腕時計しろ、立派なスーツ着ろ、かばんちゃんとしろ」 	&nbsp</a></li>    </ul>
+    </div>
+    </div>
+  </div>
+<!-- // Article Pager -->
+
+                <!-- /ページ送り ここまで-->
+
+            </div><!-- /main-column-inner-->
+        </div>
+        <!-- コンテンツの箱の中　真ん中728px ここまで-->
+
+
+        <!-- コンテンツの箱の中　左側200px はじまり-->
+        <aside class="left-container">
+            <div class="left-column-inner">
+            
+
+
+
+<div class="plugin-popular_articles sidewrapper">
+  <div class="sidetitlebody">
+    <div class="sidetitle">人気記事</div>
+  </div>
+  <div class="sidetop"></div>
+  <div class="side">
+
+
+    <div class="popular-articles">
+      <table id="populararticles-472933"></table>
+      <div class="popular-articles-freearea"></div>
+    </div>
+  </div>
+
+  <div class="sidebottom"></div>
+</div>
+
+<script type="text/javascript" language="javascript"><!--
+(function(){
+  var url = 'http://pathtimeblog.com/archives/popular_articles.json'
+         + '?rangetype=custom'
+         + '&from=0'
+         + '&range=13'
+         + '&limit=50'
+         + '&offset=0'
+         ;
+
+  var callback = function(data) {
+    var table = document.getElementById('populararticles-472933');
+    for (i = 0; i < data.articles.length; i++) {
+      var rank = i + 1;
+      var prefix = 'populararticles-472933-'+ rank;
+
+      var row = table.insertRow(-1);
+      var elm1 = row.insertCell(-1);
+      elm1.className = 'populararticles-rank';
+      elm1.innerHTML = '<span><b>' + rank + '</b></span>';
+      var elm2 = row.insertCell(-1);
+      elm2.className = 'populararticles-title';
+      elm2.innerHTML = '<a href="' + data.articles[i].url + '?ref=popular_article&id=7836571-472933">' + data.articles[i].title + '</a>'
+      ;
+
+    }
+  };
+
+  var xhr = (function () {
+      if (window.XMLHttpRequest)
+        return new XMLHttpRequest();
+      else {
+        var msxml = [
+          "Msxml2.ServerXMLHTTP.6.0", "Msxml2.ServerXMLHTTP.5.0", "Msxml2.ServerXMLHTTP.4.0", "Msxml2.ServerXMLHTTP.3.0",
+          "Msxml2.ServerXMLHTTP", "Microsoft.ServerXMLHTTP", "Msxml2.XMLHTTP.6.0", "Msxml2.XMLHTTP.5.0",
+          "Msxml2.XMLHTTP.4.0", "Msxml2.XMLHTTP.3.0", "Msxml2.XMLHTTP", "Microsoft.XMLHTTP"
+        ];
+        for (var i = 0; i<msxml.length; i++ ){
+          try {
+            return new ActiveXObject(msxml[i]);
+          }
+          catch(e) { }
+        }
+        return null;
+      }
+  })();
+    
+  if (!xhr) return;
+  xhr.open('GET', url, true);
+  xhr.onreadystatechange = function () {
+    if (xhr.readyState == 4 && xhr.status == 200) {
+      eval('var ld_popular_articles_json = ' + xhr.responseText);
+      callback(ld_popular_articles_json);
+    }
+  };
+  xhr.send();
+
+})();
+//-->
+</script>
+
+<div class="plugin-recent_articles sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">最新記事</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27108137.html">21卒就活生ワイ、内定辞退でしこたま怒鳴られる</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/10257766.html">ニートって難しい資格取って仕事探そうとするけどさ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839910.html">【学歴フィルター】企業にとっての一流大学とは？【就職偏差値】</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839719.html">ワイニート歴2年、就職して初年度の年収500万円！！！！</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073431.html">あ、面接落ちたなってフラグ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073465.html">【悲報】上級国民大手企業様「下請けに仕事やらせてガッポリ中抜きｗ」→夏ボーナス92万5947円</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27075072.html">ワイ21卒、会社選びを間違ってしまったと後悔する</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027071.html">【悲報】キャリア採用の銀行員ワイ、周囲の人間があまりにも有能すぎてマジでドン引き……………………</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27063977.html">【速報】大学、終わる。　Googleが大卒資格を得られるコースを提供へ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027029.html">教師「Ｆ欄ＯＫです、公務員です、毎日定時で帰れます、年収700万です」←こいつが馬鹿にされる理由ｗ</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-recent_articles -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「A」設定のブログパーツ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　左側200px ここまで-->
+
+
+        <!-- コンテンツの箱の中　右側200px はじまり-->
+        <aside class="right-container">
+            <div class="right-column-inner">
+            
+
+
+
+<div class="plugin-categorize sidewrapper" id="plugin-categorize-457691">
+    <div class="sidetitlebody">
+        <div class="sidetitle">カテゴリー</div>
+    </div>
+    <div class="sidetop"></div>
+    <div class="side">
+
+
+      
+
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160301.html">就活準備 (243)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161699.html">自己分析 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161700.html">企業・業界研究 (66)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155971.html">資格 (39)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155966.html">選考 (254)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155977.html">インターン (23)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155978.html">説明会 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155975.html">ES (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155976.html">SPIなど (7)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155974.html">面接 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155972.html">内定 (222)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160304.html">NNT(無内定) (68)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160302.html">内定後・入社前 (110)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160308.html">アドバイス (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160460.html">入社後 (924)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220065.html">新卒 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220063.html">上司 (95)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_219473.html">社会人生活 (299)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160474.html">ブラック企業 (65)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160303.html">転職 (175)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163214.html">副業 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220667.html">収入 (102)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_299497.html">採用担当 (3)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_318465.html">第二新卒 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161711.html">学生生活 (46)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163247.html">浪人・留年 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155967.html">学歴 (119)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_223545.html">ニート (38)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155969.html">業界別 (314)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156035.html">金融 (34)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156099.html">建築・不動産 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160357.html">物流・運送 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160358.html">IT・メディア (55)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160359.html">エネルギー・資源 (1)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160310.html">自動車・機械 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160360.html">食品・小売 (14)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160311.html">公務員・準公務員 (89)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160356.html">サービス (21)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160473.html">その他 (42)</a>
+          
+        </div>
+        
+    
+        
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160476.html">その他 (472)</a>
+          
+        </div>
+        
+    
+    
+
+    </div>    
+    <div class="sidebottom"></div>
+</div><!-- // plugin-categorize -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+<a href="//blog.with2.net/link/?1955545"><img src="https://blog.with2.net/img/banner/banner_21.gif" title="人気ブログランキング"></a><br><a href="//blog.with2.net/link/?1955545" style="font-size: 0.8em;">人気ブログランキング</a>
+
+<div class="plugin-link sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">リンク集</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://0matome.com/" target="_blank">おまとめ</a></div>
+
+<div class="sidebody"><a href="http://2chnavi.net/allentries/?threshold=0" target="_blank">2chnavi</a></div>
+
+<div class="sidebody"><a href="http://http://iwashi.biz/" target="_blank">いわしアンテナ &gt;°))))彡</a></div>
+
+<div class="sidebody"><a href="http://2ch-2.net/" target="_blank"> つーアンテナ(*ﾟ∀ﾟ)</a></div>
+
+<div class="sidebody"><a href="https://ii-antenna.net/?about" target="_blank">いーあんてな(#ﾟｗﾟ)</a></div>
+
+<div class="sidebody"><a href="https://2ch-mi.net/" target="_blank">みーアンテナ（´∀｀）</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-link -->
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">検索</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="https://cse.google.com/cse.js?cx=014565878756483497884:urusxdcjffe"></script>
+<div class="gcse-search"></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「B」設定のブログパーツ表示 -->
+            
+<!-- LDR・RSSリンクとブログのロゴ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　右側200px ここまで-->
+
+        <!-- このページのトップヘ　はじまり -->
+        <p class="to-pagetop"><a href="#"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/to_pagetop.png" width="70" height="70" alt="このページのトップヘ" /></a></p>
+        <!-- このページのトップヘ ここまで -->
+
+    </div>
+    <!-- コンテンツ全体 ここまで-->
+
+    <!-- ブログのフッター はじまり-->
+    <footer id="blog-footer">
+    <!-- Blog Common Footer // --><div id="footer"><p>Powered by <a href="http://blog.livedoor.com/" title="ライブドアブログ">ライブドアブログ</a></p></div><!-- // Blog Common Footer --><!-- 共通フッター表示 -->
+    </footer>
+    <!-- /ブログのフッター ここまで-->
+
+</div>
+<!-- コンテンツエリア ここまで-->
+
+
+<!-- Add Body Tag // --><script type="text/javascript">
+(function(){
+  var traq = document.createElement('script'); traq.type = 'text/javascript'; traq.async = true;
+  traq.src = 'https://t.blog.livedoor.jp/u.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(traq, s);
+})();
+</script>
+<noscript>
+<img src="https://t.blog.livedoor.jp/u.gif" alt="traq">
+</noscript>
+<!-- // Add Body Tag -->
+
+<script>
+(function($) {
+  var cookieName = 'livedoor-blog-gdpr-agreed';
+  $(document).ready(function() {
+    if (navigator.userAgent.match(/https?:\/\//)) {
+      // UA に http:// or https:// があればスルー
+      return;
+    }
+
+    var agreed = document.cookie.indexOf(cookieName) >= 0;
+    if (agreed) {
+      // 同意済み Cookie があればスルー
+      return;
+    }
+
+    var banner = $('<div>');
+    banner.attr('id', 'gdpr-banner');
+    var label = $('<p>');
+    label.html('\
+      ライブドアブログでは広告のパーソナライズや効果測定のためクッキー(cookie)を使用しています。<br>\
+      このバナーを閉じるか閲覧を継続することでクッキーの使用を承認いただいたものとさせていただきます。<br>\
+      また、お客様は当社パートナー企業における所定の手続きにより、クッキーの使用を管理することもできます。<br>\
+      詳細は<a href="http://www.livedoor.com/rules/" target="_blank" style="color:#023780;text-decoration:underline;">ライブドア利用規約</a>をご確認ください。\
+    ');
+    banner.append(label);
+
+    var closeButton = $('<button>');
+    closeButton.attr('type', 'button');
+    closeButton.html('閉じる');
+    closeButton.on('click', function() {
+      $('#gdpr-banner').hide();
+      document.cookie = cookieName + '="1";expires=Tue, 31-Dec-2037 00:00:00 GMT;path=/;';
+    });
+    banner.append(closeButton);
+
+    banner.css({
+      'position': 'fixed',
+      'left': '0',
+      'right': '0',
+      'bottom': '0',
+      'background': '#dcdcdc',
+      'color': '#000',
+      'padding': '20px',
+      'text-align': 'center',
+      'box-shadow': '0 -2px 2px rgba(102, 102, 102, 0.86)',
+      'z-index': '2147483647',
+    });
+    label.css({
+      'display': 'inline-block',
+      'text-align': 'left',
+      'font-size': '14px',
+      'color': '#000',
+      'vertical-align': 'middle',
+      'line-height': '1.5',
+    });
+    closeButton.css({
+      'display': 'inline-block',
+      'color': '#fff',
+      'border': 'none',
+      'font-size': '14px',
+      'padding': '4px 40px',
+      'margin-left': '40px',
+      'background': '#535353',
+      'vertical-align': 'middle',
+    });
+
+    var script = document.createElement('script');
+    script.type = "text/javascript";
+    script.src = "https://ipcheck.blogsys.jp/check.js?t=" + Date.now();
+    script.onerror = function() {
+      $('body').append(banner);
+    };
+    document.body.appendChild(script);
+  });
+})(jQuery);
+</script>
+</body>
+</html>

@@ -1,0 +1,1405 @@
+<!DOCTYPE html>
+<html lang="ja" itemscope itemtype="http://schema.org/Blog">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=1190">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" /><link rel="shortcut icon" type="image/vnd.microsoft.icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/favicon.ico" /><link rel="icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/3ab45ab0.jpg" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/template.css?v=20190826" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/heart.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/icon.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="http://pathtimeblog.com/site.css?_=20190831163247" type="text/css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://pathtimeblog.com/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://pathtimeblog.com/atom.xml" /><link rel="canonical" href="http://pathtimeblog.com/archives/22122635.html" /><link rel="openid.server" href="http://auth.livedoor.com/openid/server" /><link rel="openid.delegate" href="http://profile.livedoor.com/shukatu2ch/" />
+<link rel="mixi-check-alternate" media="mixi-device-mobile" type="text/html" href="http://blog.m.livedoor.jp/shukatu2ch/article/22122635" />
+<link rel="mixi-check-alternate" media="mixi-device-smartphone" type="text/html" href="http://pathtimeblog.com/archives/22122635.html" />
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/jquery-1.11.1.min.js"></script>
+
+<meta name="description" content="1: 以下、5ちゃんねるからVIPがお送りします  2019/11/08(金) 20:54:44.524 ID:5OJ/eFxX0
+ 大企業特有の良さって何だと思っているの？ 
+" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="大企業に入りたがる人って、大企業の何にそんなに惹かれているの？ 	 : 2ch就活まとめ" />
+<meta property="og:description" content="1: 以下、5ちゃんねるからVIPがお送りします  2019/11/08(金) 20:54:44.524 ID:5OJ/eFxX0 大企業特有の良さって何だと思っているの？ " />
+<meta property="og:url" content="http://pathtimeblog.com/archives/22122635.html" />
+<meta property="og:site_name" content="2ch就活まとめ" />
+<meta property="og:locale" content="ja_JP" />
+<meta property="og:image" content="https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png" />
+
+<meta name="twitter:site" content="@2chshukatu" />
+<meta name="twitter:title" content="大企業に入りたがる人って、大企業の何にそんなに惹かれているの？ 	 : 2ch就活まとめ" />
+<meta name="twitter:description" content="1: 以下、5ちゃんねるからVIPがお送りします  2019/11/08(金) 20:54:44.524 ID:5OJ/eFxX0 大企業特有の良さって何だと思っているの？ " />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image:src" content="https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png" />
+<link rel="alternate" media="handheld" type="application/xhtml+xml" href="http://blog.m.livedoor.jp/shukatu2ch/" />
+
+<title>大企業に入りたがる人って、大企業の何にそんなに惹かれているの？ 	 : 2ch就活まとめ</title>
+<script src="https://parts.blog.livedoor.jp/js/emoji.js"></script>
+<script src="https://parts.blog.livedoor.jp/js/misc.js?v=20190710"></script>
+<!--[if lt IE 9]>
+<script src="https://parts.blog.livedoor.jp/js/html5.js"></script>
+<![endif]-->
+<script src="https://parts.blog.livedoor.jp/js/usr/import.js"></script>
+<script>
+$(function(){
+  if($('.header-inner01').children('#blog-header-image').length) {
+    $(window).bind('load', function() {
+      var title1 = $('#blog-header-image').height();
+      var title2 = $('.header-menu').height();
+      var headerHeight = title1-title2-15;
+      $("hgroup").css("height", headerHeight);
+    });
+  }
+});
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-3064778048578600",
+          enable_page_level_ads: true
+     });
+</script>
+
+<!-- Add Google Analytics Tag // -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-113178806-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- // Add Google Analytics Tag -->
+
+
+<meta name="referrer" content="always">
+<meta name="referrer" content="unsafe-url">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1638469-45"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+var blogId = '';
+if (blogId) {
+  gtag('config', 'UA-1638469-45', {
+    'custom_map': {'dimension1': 'blog_id'},
+    'blog_id': blogId
+  });
+} else {
+  gtag('config', 'UA-1638469-45');
+}
+</script>
+
+</head>
+<body class="default_2012 page-article layout-2col sidebar-right"><script type="text/javascript"><!--
+var ld_blog_vars = {
+  provider_id : '1',
+  provider_name : 'livedoor',
+  id : '7836571',
+  name : 'shukatu2ch',
+  charset : 'utf8',
+  url : 'http://pathtimeblog.com/',
+  title : '2ch就活まとめ',
+  blog_design: {
+      version: 1
+  },
+  blog_category: {
+    id: '243',
+    permalink: 'https://blog.livedoor.com/category/243/',
+    name: 'まとめ(総合) > まとめ',
+    is_adult : 0,
+    is_gambling : 0,
+    hierarchy: [{ id: '431', name: 'まとめ(総合)', permalink: 'https://blog.livedoor.com/category/431/' },{ id: '243', name: 'まとめ', permalink: 'https://blog.livedoor.com/category/243/' }]
+  },
+  current_page : {
+    type : 'article',    page : ''
+  },
+  articles : [ {
+       id : '22122635',
+       permalink : 'http://pathtimeblog.com/archives/22122635.html',
+       title : '大企業に入りたがる人って、大企業の何にそんなに惹かれているの？ \t',
+       categories : [ { id:'160476', name:'その他', permalink:'http://pathtimeblog.com/archives/cat_160476.html' }, { id:'', name:'', permalink:'' } ],
+       date : '2019-11-18 19:00:39'
+}   ]
+};
+//-->
+</script><div id="analyzer_tags" style="display:none">
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/c2.js?v=20191010"></script>
+<script type="text/javascript">blog_counter('shukatu2ch', 7836571, 'http://pathtimeblog.com/')</script>
+</div><script type="text/javascript" src="https://parts.blog.livedoor.jp/js/smartphone.js?v=20200824"></script>
+<script type="text/javascript" src="http://pathtimeblog.com/settings/header.js?v=20190705"></script><script type="text/javascript" src="http://pathtimeblog.com/settings/ad.js"></script>
+<script type="text/javascript">
+var palette_src = 'https://parts.blog.livedoor.jp/img/emoji/3/palette.png';
+if (typeof IMAGE_CACHE == 'object' && IMAGE_CACHE['emoji_palette']) IMAGE_CACHE['emoji_palette'].src = palette_src;
+</script>
+
+<!-- Blog Common Header // -->
+<!-- // Blog Common Header -->
+<!-- 共通ヘッダー表示 -->
+
+<!-- ブログタイトル はじまり-->
+<header id="blog-header">
+
+    <div id="blog-header01">
+
+        <div class="header-inner01 show-image hide-text">
+
+            <hgroup>
+                <!--ブログタイトル　はじまり-->
+                <h1 id="blog-title"><a href="http://pathtimeblog.com/">2ch就活まとめ</a></h1>
+                <!--ブログタイトル　ここまで-->
+                <!--ブログ説明　はじまり-->
+                <h2 id="blog-description">新卒・転職・社会人生活などを含め、就活・就職に関することをまとめてます。</h2>
+                <!--ブログ説明　ここまで-->
+            </hgroup>
+
+            <a href="http://pathtimeblog.com/"><img src="https://resize.blogsys.jp/727db0f9da9f42eb7d26b703338c30b3eef0157c/trim2/0x243_94p_1200x388/http://livedoor.blogimg.jp/shukatu2ch/imgs/0/5/055bbafe.jpg" id="blog-header-image" /></a>
+
+            <div id="blog-header02">
+                <div class="header-inner02">
+                    <ul class="header-menu">
+                        <li><a href="http://pathtimeblog.com/">HOME</a></li><!--メニューを入れてください-->
+                        <li class="ldb_menu-item-url"><a href="http://blog.livedoor.jp/shukatu2ch/archives/6126504.html">ABOUT</a></li><!--メニューを入れてください-->
+                        <li><a href="mailto:shukatumatome@gmail.com">お問い合わせ</a></li><!--メニューを入れてください-->
+                    </ul>
+                    <ul class="header-sarch">
+                        <li><a href="http://twitter.com"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_twitter.png" alt="Twitter" /></a></li><!--Twitter-->
+                        <li><a href="http://pathtimeblog.com/index.rdf"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_rss.png" alt="RSS" /></a></li><!--RSS-->
+                        <li>
+                        <form action="http://pathtimeblog.com/search" method="GET" style="padding:0;margin:0px;">
+                        <input type="TEXT" name="q" class="sf">
+                        <input type="SUBMIT" value="検索" class="sfbtn">
+                        </form>
+                        </li><!--検索窓-->
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</header>
+<!-- /ブログタイトル ここまで-->
+
+
+<!-- コンテンツエリア はじまり-->
+<div id="wrapper">
+
+    <!-- コンテンツ全体 はじまり-->
+    <div id="container">
+
+        <!-- 相互RSS はじまり-->
+        <div class="rss-blogroll">
+
+            <!-- 相互RSSを設置する場合の注意事項
+                コードに含まれる以下のCSSは外して設置してください
+                http://blogroll.livedoor.net/css/default2.css -->
+
+                 <!-- 相互RSSのコード ひとつ目-->
+            <script type="text/javascript">
+            <!--
+                   var blogroll_channel_id = 255242;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード ふたつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 265945;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード みっつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 255442;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href= />
+        </div>
+        <!-- 相互RSS ここまで-->
+
+        <!-- コンテンツの箱の中　真ん中728px はじまり-->
+        <div class="main-container">
+            <div class="main-column-inner">
+<br>
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+<br>
+                <!-- メッセージボード -->
+                 
+
+
+
+                <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://pathtimeblog.com/archives/22122635.html"
+    trackback:ping="http://trackback.blogsys.jp/livedoor/shukatu2ch/22122635"
+    dc:title="大企業に入りたがる人って、大企業の何にそんなに惹かれているの？ 	"
+    dc:identifier="http://pathtimeblog.com/archives/22122635.html"
+    dc:subject="その他"
+    dc:description="1: 以下、5ちゃんねるからVIPがお送りします  2019/11/08(金) 20:54:44.524 ID:5OJ/eFxX0 大企業特有の良さって何だと思っているの？ "
+    dc:creator="shukatu2ch"
+    dc:date="2019-11-18T19:00:39+09:00" />
+</rdf:RDF>
+-->
+<div id="ad_rs" class="ad_rs_b"></div><!-- 記事のトラックバック・オートディスカバリー -->
+
+
+                <!-- 記事 はじまり-->
+                <article class="article first-article" itemscope itemtype="http://schema.org/BlogPosting">
+
+                    <!-- 記事タイトル　記事下の情報　はじまり-->
+                    <header class="article-header">
+
+                        <h1 class="article-title" itemprop="name"><a href="http://pathtimeblog.com/archives/22122635.html" itemprop="url">大企業に入りたがる人って、大企業の何にそんなに惹かれているの？ 	</a></h1><!-- 記事のタイトル -->
+
+                            <!-- 記事下の記事情報 はじまり-->
+                            <div class="article-header-inner">
+
+                                <!-- 記事情報の上の行 はじまり-->
+                                <div class="article-header-top">
+                                <p class="article-header-date"><time datetime="2019-11-18T19:00:39+09:00" pubdate="pubdate">2019年11月18日</time></p>
+                                
+                                <ul class="article-header-category">
+                                    <li>
+                                        <dl><dt>カテゴリ:</dt><dd class="article-category1"><a href="http://pathtimeblog.com/archives/cat_160476.html">その他</a></dd></dl>
+                                    </li>
+                                </ul>
+                                
+
+                                <!-- 記事の評価アイコン はじまり-->
+                                
+                                <!-- 記事の評価アイコン ここまで-->
+
+                                </div>
+                                <!-- 記事情報の上の行 ここまで-->
+                                <!-- ソーシャルボタン　はじまり -->
+                                <ul class="article-social-btn">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/22122635.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/22122635.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="大企業に入りたがる人って、大企業の何にそんなに惹かれているの？ 	 - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=%E5%A4%A7%E4%BC%81%E6%A5%AD%E3%81%AB%E5%85%A5%E3%82%8A%E3%81%9F%E3%81%8C%E3%82%8B%E4%BA%BA%E3%81%A3%E3%81%A6%E3%80%81%E5%A4%A7%E4%BC%81%E6%A5%AD%E3%81%AE%E4%BD%95%E3%81%AB%E3%81%9D%E3%82%93%E3%81%AA%E3%81%AB%E6%83%B9%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%EF%BC%9F%20%09%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/22122635.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/22122635.html" data-text="大企業に入りたがる人って、大企業の何にそんなに惹かれているの？ 	 - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F22122635.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                                </ul>
+                                 <!-- ソーシャルボタン　ここまで -->
+                            </div>
+                            <!-- 記事下の記事情報 ここまで-->
+
+                    </header>
+                    <!-- 記事タイトル　記事下の情報　ここまで-->
+
+
+
+                    <!-- 記事本文 はじまり-->
+                    <div class="article-body">
+                        <div class="article-body-inner">
+<!-- 参加している共通テーマの表示 -->
+                        <span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">1: <span  style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span  style="color: gray;"> 2019/11/08(金) 20:54:44.524 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:5OJ/eFxX0</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b"> 大企業特有の良さって何だと思っているの？ </div><br />
+<!-- Generated by 2chまとめくす (http://2mtmex.com/) --><!-- 本文 --><div class="article-body-more" id="more"><font size="2"><div class="t_h" >2: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 20:55:14.210 ID:g3zZSFrbd</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 給料 </div><br />
+<font size="2"><div class="t_h" >4: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 20:55:39.005 ID:EYbWLTYe0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 親戚たちにマウントを取れる <br /> 残業がない <br /> 安定した月給 </div><br />
+<font size="2"><div class="t_h t_i" >5: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 20:56:13.968 ID:24QcMrQda</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;4</span> <br /> 自慢ぐらいしかできないぞ <br /> いつリストラされてもおかしくない時代だしな </div><br />
+<font size="2"><div class="t_h" >6: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 20:56:29.046 ID:uGCZxJMLa</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> それ以外の選択肢を知らないだけやろ <br /> 後は他人と比べてマウント取りたいとか </div><br />
+<font size="2"><div class="t_h" >7: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 20:56:31.882 ID:Sy2xZDoU0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;"> 一定の能力は保証されてる同僚 </div><br />
+<font size="2"><div class="t_h" >8: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 20:56:54.776 ID:7H5WMzDV0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> これからは巨大企業が世界を動かしていく時代ぞ </div><br />
+<font size="2"><div class="t_h t_i" >22: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:01:56.443 ID:y4b05Y6q0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;8</span> <br /> グローバル企業だな <br />  <br /> これからはGAFAに淘汰されるような企業は大企業でも厳しい時代になるだろうな </div><br />
+<font size="2"><div class="t_h t_i" >30: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:11:23.929 ID:jEv0nuuKp</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;22</span> <br /> IT系は幅広い分野に応用が効くからな <br /> と思いきや実は機械や電気に縛られるので、 <br /> どっちかに逃げれば勝ち確なんだけどな </div><br />
+<font size="2"><div class="t_h" >9: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 20:56:56.684 ID:eYW+T/nI0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 常識がある同僚 </div><br />
+<font size="2"><div class="t_h" >10: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 20:57:12.676 ID:sXuOniNed</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 収入と待遇が違うぞ </div><br />
+<font size="2"><div class="t_h" >11: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 20:57:44.093 ID:/ya3CSF10</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 収入と待遇と社会的評価 </div><br />
+<font size="2"><div class="t_h" >13: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 20:57:57.194 ID:K9zi+UM2a</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;margin-bottom:30px;margin-top:20px;"> 逆に大企業に入りたくない奴っているの？ </div><br />
+<font size="2"><div class="t_h" >14: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 20:57:57.791 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5OJ/eFxX0</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> 安定は自己資本比率の方が大事だし、給与は必ずしも大企業が高いって感じではないような…。 <br /> マクロの傾向としてはあるかもだけど、特有ではないと思う。 </div><br />
+<font size="2"><div class="t_h t_i" >17: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 20:58:41.551 ID:9tBBFkVZr</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;14</span> <br /> マクロの傾向で語っちゃダメならもう大企業って括りで語るのやめなよ </div><br />
+<font size="2"><div class="t_h t_i" >21: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:00:56.839 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5OJ/eFxX0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;17</span> <br /> まぁそれもそうだね。 <br /> そう言う要素を兼ね備えているパターンは多いからって言うのがありそうか。 </div><br />
+<font size="2"><div class="t_h" >15: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 20:57:59.758 ID:9tBBFkVZr</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 俺もそう思ってたんだけど、人間的にまともな人ばっかで人間関係が楽だわ </div><br />
+<font size="2"><div class="t_h" >16: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 20:58:41.046 ID:ezZG6d1U0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> メリット→福利厚生が半端なく良くて倒産のリスクも低くて他人にドヤれる <br /> デメリット→転勤のリスクがあって多忙な上に責任も重い </div><br />
+<font size="2"><div class="t_h" >19: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:00:11.123 ID:VecCGnLJd</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 能力と給料のアンバランスさ <br /> キャリアに箔がつく <br /> なんだかんだ活躍してる人て最初は大企業 </div><br />
+<font size="2"><div class="t_h" >20: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:00:21.267 ID:sTVDcBTz0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 仕事の幅広さ、キャリアパスの融通 </div><br />
+<font size="2"><div class="t_h" >23: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:02:09.097 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5OJ/eFxX0</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> 安定と収入は大企業特有でもないし、大企業である必要がない。それなら安定して待遇の良い会社で良いと思うんだけどなぁ。まぁ説明口調で長ったらしいからかな。 </div><br />
+<font size="2"><div class="t_h t_i" >31: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:12:24.792 ID:2Cx4lb5K0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;23</span> <br /> 低賃金で福利厚生ゴミでも大企業入りたいって言ってる奴を連れてこいよ <br /> そんな奴いんのか？ </div><br />
+<font size="2"><div class="t_h t_i" >38: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:18:29.300 ID:W26z25MWd</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;31</span> <br /> 郵便局 <br /> 佐川急便 <br /> がっつり人手不足やね </div><br />
+<font size="2"><div class="t_h" >24: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:02:53.920 ID:K9zi+UM2a</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> こいつ経済かじった程度の大学生だろ </div><br />
+<font size="2"><div class="t_h" >25: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:03:29.608 ID:VecCGnLJd</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 学歴みたいなもんか <br /> 新卒スクリーニングの勝者 <br /> 一般レベルだけど </div><br />
+<font size="2"><div class="t_h" >27: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:04:21.305 ID:PiybySCGM</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> キャリアパスが自由、勉強が山ほどできる。 <br /> 特に後者の環境はかなりよい </div><br />
+<font size="2"><div class="t_h" >28: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:09:02.164 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5OJ/eFxX0</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> 僕は大企業には特有の良さがあると思っているよ。 </div><br />
+<font size="2"><div class="t_h" >29: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:10:30.038 ID:PsCoA6Xga</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;1</span>は大企業を勘違いしてない？ <br /> 大企業の定義ってめっちゃハードル低いぞ？ <br />  <br /> みんな入りたがってるのは優良大手だからな <br /> 福利厚生とか退職金が違いすぎるよ <br />  <br /> とくに退職金とか人生の終盤にもらうからゴミ企業に入ってると死ぬまで後悔するよ <br /> 挽回不可能だし </div><br />
+<font size="2"><div class="t_h t_i" >32: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:13:10.093 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5OJ/eFxX0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;29</span> <br /> たしかに大企業っていい方は曖昧だった…。 <br /> ただ、不思議だと思うのは、優良「企業」と優良「大手」の差って何だと思っているのかなって思った。 </div><br />
+<font size="2"><div class="t_h t_i" >35: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:17:05.487 ID:FPS/+TqX0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;32</span> <br /> 大企業なら安泰という時代ではないけど <br /> 中小に比べれば大企業のほうが安定してるだろ </div><br />
+<font size="2"><div class="t_h" >36: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:17:57.248 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5OJ/eFxX0</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> まぁやっぱり社会的地位の高さと待遇優良の蓋然性の高さが多いか。両方を兼ねるとなると、特に前者がほとんど大企業か。 </div><br />
+<font size="2"><div class="t_h" >37: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:18:08.386 ID:9L8SnsCod</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 中小と大企業どっち選ぶかといわれたら大企業でしょ <br /> 中小は転職で入れるし </div><br />
+<font size="2"><div class="t_h" >39: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:19:19.848 ID:cTAyi+i70</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 社会的信用だよ <br />  <br /> 中小の俺は3500万のローン審査落ちたけど大企業の嫁は通ったからな！ </div><br />
+<font size="2"><div class="t_h" >41: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:20:41.690 ID:9J7i7Zui0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 堂々とできるのは特典だよな <br /> 自営の俺なんて <br /> 嫁の親に本当の仕事内容を話していないんだぜ？ <br /> 大企業より稼いでいるのに </div><br />
+<font size="2"><div class="t_h t_i" >43: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:21:10.250 ID:T3x7bMbsr</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;41</span> <br /> 本当は何してるの？ </div><br />
+<font size="2"><div class="t_h t_i" >44: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:21:55.489 ID:9J7i7Zui0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;43</span> <br /> アダルト関係 <br /> だから余計に親戚に話せない <br /> 小さい会社で事務職やってる事になってる </div><br />
+<font size="2"><div class="t_h t_i" >46: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:22:37.475 ID:T3x7bMbsr</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;44</span> <br /> それもう自営かどうかの問題じゃねぇな </div><br />
+<font size="2"><div class="t_h t_i" >49: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:25:45.324 ID:FPS/+TqX0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;44</span> <br /> そんな仕事してりゃ当然だわな </div><br />
+<font size="2"><div class="t_h" >45: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:21:55.664 ID:PsCoA6Xga</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> あとこれから日本は深刻な労働力不足に陥るから、社員数少ないところから死んでいく </div><br />
+<font size="2"><div class="t_h" >48: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:25:16.785 ID:phltvqbp0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 大企業って表現がなあ <br /> 人数揃えれば大企業 <br /> 小売飲食も大企業大量ってのに大企業大企業って小学生で終われよ </div><br />
+<font size="2"><div class="t_h" >50: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:26:32.486 ID:Xq5/3W3V0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 給料 <br /> 労働環境 <br /> 転職のしやすさ <br /> 研修費用めっちゃ出る <br /> 起業してもネームバリュー利用できる </div><br />
+<font size="2"><div class="t_h" >52: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:28:30.521 ID:phltvqbp0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 話題にしても <br />  <br /> 学歴＞大企業＞年収＞実績 <br /> 高校生か大学生しかいないせいか？ </div><br />
+<font size="2"><div class="t_h t_i" >54: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:30:42.174 ID:wbx68ZV/0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;52</span> <br /> 結局マウント取りたいだけだしな </div><br />
+<font size="2"><div class="t_h t_i" >56: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:32:44.701 ID:y4b05Y6q0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;52</span> <br /> 本来評価されるべきは <br />  <br /> 実績＞年収＞大企業＞学歴 <br /> だよな </div><br />
+<font size="2"><div class="t_h t_i" >59: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:35:00.092 ID:FPS/+TqX0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;56</span> <br /> 年収に繋がらない「実績ｗ」なんてさあ <br /> 本来は「年収」だけど「年収」は分からないから「大企業」なんだろ </div><br />
+<font size="2"><div class="t_h t_i" >60: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:38:21.804 ID:y4b05Y6q0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;59</span> <br /> 今の時代は実績のある有能が生き残って実績のない無能が淘汰される時代だからな <br /> 学歴や大企業の肩書きだけしか誇れない無能は40過ぎたら退職させられるケースが増えてるからね </div><br />
+<font size="2"><div class="t_h t_i" >64: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:40:39.588 ID:FPS/+TqX0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;60</span> <br /> 会社の現状はそんなんにはなってねえぞ <br /> 学生だろ？ <br /> 社会経験あればそんな夢物語は語らない </div><br />
+<font size="2"><div class="t_h" >55: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:31:51.475 ID:phltvqbp0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 大企業じゃ傾向すらねえだろ <br /> 有名大手上場企業や高収入企業、安定企業って <br /> 大企業以外の指標好し <br /> 大企業って表現こそ嫌うような </div><br />
+<font size="2"><div class="t_h" >58: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:34:53.815 ID:LBQeneTGa</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 零細からの転職で大手企業の面接で、見学させてもらったけど <br /> 働いてる人たちから感じる余裕さが段違いだった <br /> 人が多いと業務が細分化されるというのもあって <br /> 中小零細ならではの裁量権というか経験値の高さを <br /> 自信を持って売り込めれば大手は受かるよ <br /> ちなみにそこ内定もらいました </div><br />
+<font size="2"><div class="t_h" >61: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:39:00.589 ID:DkHNd+Bl0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 売上5000億強のJPX日経400銘柄企業にいたけど数十人の零細に移ったら年収上がったぞ <br /> 30歳で580万から800万に上がった </div><br />
+<font size="2"><div class="t_h t_i" >66: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:41:25.446 ID:T3x7bMbsr</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;61</span> <br /> こういうの聞く度に思うんだが大企業で働いてたから転職後が好待遇なんじゃねーの <br /> その会社で新卒から働いてたらいけてたんか </div><br />
+<font size="2"><div class="t_h t_i" >71: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:43:45.293 ID:DkHNd+Bl0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;66</span> <br /> 新卒からいたら今頃1000万超えてた <br /> まぁ特殊な資格持ってるだけだが </div><br />
+<font size="2"><div class="t_h" >62: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:40:20.503 ID:9J7i7Zui0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 公務員の友人が <br /> わざわざ公務員証みたいなの見せてきて <br /> 公務員の待遇の良さについて小一時間語ってもらえて <br /> 俺は小さい会社で安給料で事務やってるって言ってら <br /> 「大学行ってない奴は大変だな～」って言われたわ </div><br />
+<font size="2"><div class="t_h" >65: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:40:51.523 ID:eYW+T/nI0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 売上○兆 業界の世界大手きたらコンプラ意識高すぎて感動した <br /> 中小は犯罪者多すぎ </div><br />
+<font size="2"><div class="t_h t_i" >68: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:42:28.743 ID:FPS/+TqX0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;65</span> <br /> 三菱自動車「…」 </div><br />
+<font size="2"><div class="t_h t_i" >70: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:43:25.907 ID:T3x7bMbsr</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;68</span> <br /> 大企業だからニュースになってんだぞ </div><br />
+<font size="2"><div class="t_h" >67: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:42:16.890 ID:sYMHMH2o0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 大企業ほどホワイト率が高くなるぞ </div><br />
+<font size="2"><div class="t_h" >72: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:44:31.459 ID:/fPhmEeB0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 一般論として大企業の方が経済的に有利だし待遇も準じて良い可能性が高いだろ </div><br />
+<font size="2"><div class="t_h" >78: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:46:40.610 ID:eShDWibbd</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> これからAI導入で業界地図一変するで <br /> あんまりブランド志向に依存すると危ない </div><br />
+<font size="2"><div class="t_h" >80: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:47:20.549 ID:VecCGnLJd</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 同じことしたら資本多い方が、規模が大きい方が利益でかいからな <br /> いろんな意味でおいしい <br />  <br /> まあOECD調べ民間部門残業代混み平均時給20年前と比べて日本は20%くらい下がってるんで地盤沈下してますが <br /> 野心家とかアスリートみたいな人が目指す感じではなくなってきたな日本の優良大企業総合職は <br /> 競争も激しいけどリスクとリターン考えたら秀才くんの落ち着き場みたいな感じ </div><br />
+<font size="2"><div class="t_h" >87: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:50:11.698 ID:96Jfg4an0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 先端技術専任の凄い奴がいる <br /> 小さい会社では単一の技術分野だけに深く携わる一流の技術者なんていない（維持出来ない） </div><br />
+<font size="2"><div class="t_h" >91: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:51:25.061 ID:nm/Sr4Nxp</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> あと大企業だと合コンとか街コンとかでお持ち帰りしやすくなるな </div><br />
+<font size="2"><div class="t_h" >101: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 21:54:57.911 ID:w+4bmev+0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> おれもガイジだけど大手にいたが <br /> 俺みたいなガイジでも500万ぐらい貰ってたからな </div><br />
+<font size="2"><div class="t_h" >110: <span style="color: rgb(124, 199, 84);">ｷｭｱｲｯﾊﾟﾝﾊｹﾝ ◆PYoPbZwyyI </span> <span style="color: gray;"> 2019/11/08(金) 22:06:59.998 ID:W4CxROtiH</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 中途で一部上場企業入ったときの理由は前の会社つぶれたから <br /> つぶれにくそうなだけで選んだ <br />  <br /> 仕事にやりがいはあまりなかったね </div><br />
+<font size="2"><div class="t_h" >132: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 22:17:48.525 ID:6p8MJ76v0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 仕事が細分化されてるから結果楽 <br /> あれもこれもできんからな </div><br />
+<font size="2"><div class="t_h" >140: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 22:29:10.101 ID:De49N4X+0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 大企業出身だが、大企業の競争がどれだけ激しいか分かってないヤツが大杉だろ <br /> 自殺とか精神病んだり体おかしくするヤツ続出だぞ <br /> 勝ち抜いた数%以外は30代で全部消えてく </div><br />
+<font size="2"><div class="t_h" >143: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 22:33:30.018 ID:WBQJAFXU0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 大企業は大企業で周りも優秀だし <br /> そこでもマウント合戦始まるし大変そう </div><br />
+<font size="2"><div class="t_h" >144: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 22:34:22.732 ID:9J7i7Zui0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 俺が経験した大企業は <br /> 定時に100%帰れて <br /> 台風や積雪はもちろん休み <br /> 辞める奴なんてほとんどいなかったなぁ(´・ω・｀) </div><br />
+<font size="2"><div class="t_h" >145: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2019/11/08(金) 22:35:32.167 ID:kP0Az6nsr</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 大企業って優秀な奴多そうだから正直無能には厳しそうな印象がある <br />  <br /> こういうと大企業にも無能な奴は大勢居ると <br /> 主張する奴が沸きそうだけど <br /> あくまでそういう無能は大企業社員の中で無能なだけであって <br /> 世間の中では寧ろ優秀な部類の人間である <br /> という可能性は普通にあるからな </div><br />
+<br>
+<p style="color:gray;text-align:right;"><font size="2">引用元： <a href="http://hebi.5ch.net/test/read.cgi/news4vip/1573214084/" target="_blank">http://hebi.5ch.net/test/read.cgi/news4vip/1573214084/</font></a></p>
+<br>
+
+
+</div>
+                        
+<!-- タグのリスト表示セット -->
+                        </div>
+<br>
+
+
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=2Z8HPD+9K4KFM+34FI+NUES2" alt="">
+                    </div>
+                    <!-- 記事本文 ここまで-->
+
+
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HV7V6" alt="">
+
+
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www26.a8.net/svt/bgt?aid=190821728180&wid=001&eno=01&mid=s00000011866017004000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" alt=""></td>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+3257OY+3Y6M+601S1" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www24.a8.net/svt/bgt?aid=190821728185&wid=001&eno=01&mid=s00000018427001008000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=35LYZK+3257OY+3Y6M+601S1" alt=""></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+
+
+                    <!-- 記事フッター、コメント、ソーシャルボタン -->
+                    <footer class="article-footer">
+                        <div class="article-footer-comment">
+                            
+                                <a href="http://pathtimeblog.com/archives/22122635.html#comments">0コメント</a>
+                            
+                        </div>
+                        <div class="article-social-btn">
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HVFKY" alt="">
+
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/22122635.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/22122635.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="大企業に入りたがる人って、大企業の何にそんなに惹かれているの？ 	 - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=%E5%A4%A7%E4%BC%81%E6%A5%AD%E3%81%AB%E5%85%A5%E3%82%8A%E3%81%9F%E3%81%8C%E3%82%8B%E4%BA%BA%E3%81%A3%E3%81%A6%E3%80%81%E5%A4%A7%E4%BC%81%E6%A5%AD%E3%81%AE%E4%BD%95%E3%81%AB%E3%81%9D%E3%82%93%E3%81%AA%E3%81%AB%E6%83%B9%E3%81%8B%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%EF%BC%9F%20%09%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/22122635.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/22122635.html" data-text="大企業に入りたがる人って、大企業の何にそんなに惹かれているの？ 	 - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F22122635.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                        </div>
+                    </footer>
+                    <!-- /記事フッター、コメント、ソーシャルボタン -->
+
+
+                    <!-- カテゴリの最新記事表示 はじまり-->
+                    <div class="article-sub-category">
+                        <div id="ldblog_related_articles_028dca9c">
+
+<div class="related-articles ldblog_related_articles_028dca9c" data-category-id="160476" data-article-rows="5">
+<h3>「その他」カテゴリの最新記事</h3>
+<ul id="ldblog_related_articles_028dca9c_160476"></ul>
+</div>
+</div>
+<script type="text/html" id="ldblog_related_articles_028dca9c_tmpl">
+<% for(var i=0,l=articles.length;i<l;i++) {%><% if(i>=rows) break; %>
+<li><a href="<%=articles[i].permalink%>"><%=articles[i].title%></a></li>
+<% } %>
+</script>
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/related_articles.js?t=20180221"></script>
+<script type="text/javascript">
+(function(){
+RelatedArticles.load('ldblog_related_articles_028dca9c', '22122635');
+})();
+</script>
+<!-- 関連記事の表示 -->
+                    </div>
+                    <!-- /カテゴリの最新記事表示 ここまで-->
+
+
+
+
+                    <div id="ad2"></div><!-- 広告表示 -->
+
+                    <!-- 記事オプション はじまり-->
+                    <div class="article-option" id="article-options">
+
+                        <!-- コメントエリア　はじまり -->
+                        
+                        <section id="comments">
+                        
+                        <h1 class="comment-form-title">コメントする</h1>
+<div class="article-option" id="comment-form">
+    <form
+      action="https://comment.blogcms.jp/livedoor/shukatu2ch/22122635/post"
+      method="post"
+      name="comment_form"
+          id="comment-form-body"
+      onsubmit="setCommentAuthor(this); return submitOnce(this.button);"
+    >
+    <fieldset>
+        <legend>コメントフォーム</legend>
+    <dl class="comment-form-author">
+        <dt><label for="comment-form-author">名前</label></dt>
+        <dd id="comment-author-form"><input type="text" class="text" id="comment-form-author" name="author" required="required" value="" /></dd>
+    </dl>
+  <dl class="comment-form-body">
+    <dt><label for="comment-form-textarea">コメント</label></dt>
+    <dd>
+      <textarea id="comment-form-textarea" name="body" rows="7" required="required"></textarea>
+      <div id="comment-form-tools">
+        <span class="facemark"><a href="javascript:void(0);" id="emojiLink1" onClick="showEmojiPanel(this.id, 'comment-form-textarea')"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/icon_facemark.png" /></a></span>
+        <span class="rating">
+                    <input type="hidden" name="rating" value="">
+                    <input type="hidden" name="rating_icon" value="star">
+                    <div class="rating-value">
+                        <span id="default-rating-value">評価する</span>
+                        <div class="caret"><span></span></div>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/face/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/face/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/face/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/face/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/face/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/star/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/star/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/star/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/star/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/star/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                    </div>
+                    <div class="rating-icon">
+                        <div data-value="face">顔</div>
+                        <div class="selected" data-value="star">星</div>
+                    </div>
+        </span>
+        <span class="submit"><button type="submit">投稿する</button></span>
+        <span class="memorize"><label for="bake"><input type="checkbox" id="bake" name="cookie" /> 情報を記憶</label></span>
+      </div>
+    </dd>
+  </dl>
+  </fieldset>
+  </form>
+  <script type="text/javascript" src="https://parts.blog.livedoor.jp/js/comment.0.2.js?v=20130430"></script>
+  <script type="text/javascript">
+    loadCommentAuthor(document.comment_form);
+    ldblogComment.init();
+  </script>
+<!-- /#comment-form --></div><!-- コメント投稿フォーム -->
+
+
+                        </section>
+                        
+                        <!-- コメントエリア　ここまで -->
+
+
+                        <!-- トラックバック受け付け　はじまり -->
+                        
+                        <!-- トラックバック受け付け　ここまで -->
+
+                    </div>
+                    <!-- 記事オプション ここまで-->
+
+                </article>
+                <!-- 記事　ここまで -->
+
+
+                <!-- ページ送り はじまり-->
+<!-- Article Pager // -->
+  <div class="pager article-pager-type2">
+    <div class="pager-inner">
+    <div class="article-pager-outer">
+    <ul class="article-pager"><li class="prev"><a href="http://pathtimeblog.com/archives/22103062.html" title="工業高校→最大手メーカーのワイ、勤続11年目なのに年収370万円ｗｗｗｘｗｗｗｘｗｗｗｘｗｗｗ 	">&nbsp工業高校→最大手メーカーのワイ、勤続11年目なのに年収370万円ｗｗｗｘｗｗｗｘｗｗｗｘｗｗｗ 	</a></li><li class="next both"><a href="http://pathtimeblog.com/archives/21874611.html" title="最新版・首都圏通勤電車混雑率ランキングトップ５ｗｗｗｗｗｗｗｗｗ">最新版・首都圏通勤電車混雑率ランキングトップ５ｗｗｗｗｗｗｗｗｗ&nbsp</a></li>    </ul>
+    </div>
+    </div>
+  </div>
+<!-- // Article Pager -->
+
+                <!-- /ページ送り ここまで-->
+
+            </div><!-- /main-column-inner-->
+        </div>
+        <!-- コンテンツの箱の中　真ん中728px ここまで-->
+
+
+        <!-- コンテンツの箱の中　左側200px はじまり-->
+        <aside class="left-container">
+            <div class="left-column-inner">
+            
+
+
+
+<div class="plugin-popular_articles sidewrapper">
+  <div class="sidetitlebody">
+    <div class="sidetitle">人気記事</div>
+  </div>
+  <div class="sidetop"></div>
+  <div class="side">
+
+
+    <div class="popular-articles">
+      <table id="populararticles-472933"></table>
+      <div class="popular-articles-freearea"></div>
+    </div>
+  </div>
+
+  <div class="sidebottom"></div>
+</div>
+
+<script type="text/javascript" language="javascript"><!--
+(function(){
+  var url = 'http://pathtimeblog.com/archives/popular_articles.json'
+         + '?rangetype=custom'
+         + '&from=0'
+         + '&range=13'
+         + '&limit=50'
+         + '&offset=0'
+         ;
+
+  var callback = function(data) {
+    var table = document.getElementById('populararticles-472933');
+    for (i = 0; i < data.articles.length; i++) {
+      var rank = i + 1;
+      var prefix = 'populararticles-472933-'+ rank;
+
+      var row = table.insertRow(-1);
+      var elm1 = row.insertCell(-1);
+      elm1.className = 'populararticles-rank';
+      elm1.innerHTML = '<span><b>' + rank + '</b></span>';
+      var elm2 = row.insertCell(-1);
+      elm2.className = 'populararticles-title';
+      elm2.innerHTML = '<a href="' + data.articles[i].url + '?ref=popular_article&id=7836571-472933">' + data.articles[i].title + '</a>'
+      ;
+
+    }
+  };
+
+  var xhr = (function () {
+      if (window.XMLHttpRequest)
+        return new XMLHttpRequest();
+      else {
+        var msxml = [
+          "Msxml2.ServerXMLHTTP.6.0", "Msxml2.ServerXMLHTTP.5.0", "Msxml2.ServerXMLHTTP.4.0", "Msxml2.ServerXMLHTTP.3.0",
+          "Msxml2.ServerXMLHTTP", "Microsoft.ServerXMLHTTP", "Msxml2.XMLHTTP.6.0", "Msxml2.XMLHTTP.5.0",
+          "Msxml2.XMLHTTP.4.0", "Msxml2.XMLHTTP.3.0", "Msxml2.XMLHTTP", "Microsoft.XMLHTTP"
+        ];
+        for (var i = 0; i<msxml.length; i++ ){
+          try {
+            return new ActiveXObject(msxml[i]);
+          }
+          catch(e) { }
+        }
+        return null;
+      }
+  })();
+    
+  if (!xhr) return;
+  xhr.open('GET', url, true);
+  xhr.onreadystatechange = function () {
+    if (xhr.readyState == 4 && xhr.status == 200) {
+      eval('var ld_popular_articles_json = ' + xhr.responseText);
+      callback(ld_popular_articles_json);
+    }
+  };
+  xhr.send();
+
+})();
+//-->
+</script>
+
+<div class="plugin-recent_articles sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">最新記事</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27108137.html">21卒就活生ワイ、内定辞退でしこたま怒鳴られる</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/10257766.html">ニートって難しい資格取って仕事探そうとするけどさ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839910.html">【学歴フィルター】企業にとっての一流大学とは？【就職偏差値】</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839719.html">ワイニート歴2年、就職して初年度の年収500万円！！！！</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073431.html">あ、面接落ちたなってフラグ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073465.html">【悲報】上級国民大手企業様「下請けに仕事やらせてガッポリ中抜きｗ」→夏ボーナス92万5947円</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27075072.html">ワイ21卒、会社選びを間違ってしまったと後悔する</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027071.html">【悲報】キャリア採用の銀行員ワイ、周囲の人間があまりにも有能すぎてマジでドン引き……………………</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27063977.html">【速報】大学、終わる。　Googleが大卒資格を得られるコースを提供へ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027029.html">教師「Ｆ欄ＯＫです、公務員です、毎日定時で帰れます、年収700万です」←こいつが馬鹿にされる理由ｗ</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-recent_articles -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「A」設定のブログパーツ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　左側200px ここまで-->
+
+
+        <!-- コンテンツの箱の中　右側200px はじまり-->
+        <aside class="right-container">
+            <div class="right-column-inner">
+            
+
+
+
+<div class="plugin-categorize sidewrapper" id="plugin-categorize-457691">
+    <div class="sidetitlebody">
+        <div class="sidetitle">カテゴリー</div>
+    </div>
+    <div class="sidetop"></div>
+    <div class="side">
+
+
+      
+
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160301.html">就活準備 (243)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161699.html">自己分析 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161700.html">企業・業界研究 (66)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155971.html">資格 (39)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155966.html">選考 (254)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155977.html">インターン (23)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155978.html">説明会 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155975.html">ES (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155976.html">SPIなど (7)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155974.html">面接 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155972.html">内定 (222)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160304.html">NNT(無内定) (68)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160302.html">内定後・入社前 (110)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160308.html">アドバイス (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160460.html">入社後 (924)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220065.html">新卒 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220063.html">上司 (95)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_219473.html">社会人生活 (299)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160474.html">ブラック企業 (65)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160303.html">転職 (175)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163214.html">副業 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220667.html">収入 (102)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_299497.html">採用担当 (3)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_318465.html">第二新卒 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161711.html">学生生活 (46)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163247.html">浪人・留年 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155967.html">学歴 (119)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_223545.html">ニート (38)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155969.html">業界別 (314)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156035.html">金融 (34)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156099.html">建築・不動産 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160357.html">物流・運送 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160358.html">IT・メディア (55)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160359.html">エネルギー・資源 (1)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160310.html">自動車・機械 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160360.html">食品・小売 (14)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160311.html">公務員・準公務員 (89)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160356.html">サービス (21)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160473.html">その他 (42)</a>
+          
+        </div>
+        
+    
+        
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160476.html">その他 (472)</a>
+          
+        </div>
+        
+    
+    
+
+    </div>    
+    <div class="sidebottom"></div>
+</div><!-- // plugin-categorize -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+<a href="//blog.with2.net/link/?1955545"><img src="https://blog.with2.net/img/banner/banner_21.gif" title="人気ブログランキング"></a><br><a href="//blog.with2.net/link/?1955545" style="font-size: 0.8em;">人気ブログランキング</a>
+
+<div class="plugin-link sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">リンク集</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://0matome.com/" target="_blank">おまとめ</a></div>
+
+<div class="sidebody"><a href="http://2chnavi.net/allentries/?threshold=0" target="_blank">2chnavi</a></div>
+
+<div class="sidebody"><a href="http://http://iwashi.biz/" target="_blank">いわしアンテナ &gt;°))))彡</a></div>
+
+<div class="sidebody"><a href="http://2ch-2.net/" target="_blank"> つーアンテナ(*ﾟ∀ﾟ)</a></div>
+
+<div class="sidebody"><a href="https://ii-antenna.net/?about" target="_blank">いーあんてな(#ﾟｗﾟ)</a></div>
+
+<div class="sidebody"><a href="https://2ch-mi.net/" target="_blank">みーアンテナ（´∀｀）</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-link -->
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">検索</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="https://cse.google.com/cse.js?cx=014565878756483497884:urusxdcjffe"></script>
+<div class="gcse-search"></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「B」設定のブログパーツ表示 -->
+            
+<!-- LDR・RSSリンクとブログのロゴ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　右側200px ここまで-->
+
+        <!-- このページのトップヘ　はじまり -->
+        <p class="to-pagetop"><a href="#"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/to_pagetop.png" width="70" height="70" alt="このページのトップヘ" /></a></p>
+        <!-- このページのトップヘ ここまで -->
+
+    </div>
+    <!-- コンテンツ全体 ここまで-->
+
+    <!-- ブログのフッター はじまり-->
+    <footer id="blog-footer">
+    <!-- Blog Common Footer // --><div id="footer"><p>Powered by <a href="http://blog.livedoor.com/" title="ライブドアブログ">ライブドアブログ</a></p></div><!-- // Blog Common Footer --><!-- 共通フッター表示 -->
+    </footer>
+    <!-- /ブログのフッター ここまで-->
+
+</div>
+<!-- コンテンツエリア ここまで-->
+
+
+<!-- Add Body Tag // --><script type="text/javascript">
+(function(){
+  var traq = document.createElement('script'); traq.type = 'text/javascript'; traq.async = true;
+  traq.src = 'https://t.blog.livedoor.jp/u.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(traq, s);
+})();
+</script>
+<noscript>
+<img src="https://t.blog.livedoor.jp/u.gif" alt="traq">
+</noscript>
+<!-- // Add Body Tag -->
+
+<script>
+(function($) {
+  var cookieName = 'livedoor-blog-gdpr-agreed';
+  $(document).ready(function() {
+    if (navigator.userAgent.match(/https?:\/\//)) {
+      // UA に http:// or https:// があればスルー
+      return;
+    }
+
+    var agreed = document.cookie.indexOf(cookieName) >= 0;
+    if (agreed) {
+      // 同意済み Cookie があればスルー
+      return;
+    }
+
+    var banner = $('<div>');
+    banner.attr('id', 'gdpr-banner');
+    var label = $('<p>');
+    label.html('\
+      ライブドアブログでは広告のパーソナライズや効果測定のためクッキー(cookie)を使用しています。<br>\
+      このバナーを閉じるか閲覧を継続することでクッキーの使用を承認いただいたものとさせていただきます。<br>\
+      また、お客様は当社パートナー企業における所定の手続きにより、クッキーの使用を管理することもできます。<br>\
+      詳細は<a href="http://www.livedoor.com/rules/" target="_blank" style="color:#023780;text-decoration:underline;">ライブドア利用規約</a>をご確認ください。\
+    ');
+    banner.append(label);
+
+    var closeButton = $('<button>');
+    closeButton.attr('type', 'button');
+    closeButton.html('閉じる');
+    closeButton.on('click', function() {
+      $('#gdpr-banner').hide();
+      document.cookie = cookieName + '="1";expires=Tue, 31-Dec-2037 00:00:00 GMT;path=/;';
+    });
+    banner.append(closeButton);
+
+    banner.css({
+      'position': 'fixed',
+      'left': '0',
+      'right': '0',
+      'bottom': '0',
+      'background': '#dcdcdc',
+      'color': '#000',
+      'padding': '20px',
+      'text-align': 'center',
+      'box-shadow': '0 -2px 2px rgba(102, 102, 102, 0.86)',
+      'z-index': '2147483647',
+    });
+    label.css({
+      'display': 'inline-block',
+      'text-align': 'left',
+      'font-size': '14px',
+      'color': '#000',
+      'vertical-align': 'middle',
+      'line-height': '1.5',
+    });
+    closeButton.css({
+      'display': 'inline-block',
+      'color': '#fff',
+      'border': 'none',
+      'font-size': '14px',
+      'padding': '4px 40px',
+      'margin-left': '40px',
+      'background': '#535353',
+      'vertical-align': 'middle',
+    });
+
+    var script = document.createElement('script');
+    script.type = "text/javascript";
+    script.src = "https://ipcheck.blogsys.jp/check.js?t=" + Date.now();
+    script.onerror = function() {
+      $('body').append(banner);
+    };
+    document.body.appendChild(script);
+  });
+})(jQuery);
+</script>
+</body>
+</html>

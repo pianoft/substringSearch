@@ -1,0 +1,1438 @@
+<!DOCTYPE html>
+<html lang="ja" itemscope itemtype="http://schema.org/Blog">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=1190">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" /><link rel="shortcut icon" type="image/vnd.microsoft.icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/favicon.ico" /><link rel="icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/3ab45ab0.jpg" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/template.css?v=20190826" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/heart.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/icon.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="http://pathtimeblog.com/site.css?_=20190831163247" type="text/css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://pathtimeblog.com/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://pathtimeblog.com/atom.xml" /><link rel="canonical" href="http://pathtimeblog.com/archives/9919668.html" /><link rel="openid.server" href="http://auth.livedoor.com/openid/server" /><link rel="openid.delegate" href="http://profile.livedoor.com/shukatu2ch/" />
+<link rel="mixi-check-alternate" media="mixi-device-mobile" type="text/html" href="http://blog.m.livedoor.jp/shukatu2ch/article/9919668" />
+<link rel="mixi-check-alternate" media="mixi-device-smartphone" type="text/html" href="http://pathtimeblog.com/archives/9919668.html" />
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/jquery-1.11.1.min.js"></script>
+
+<meta name="description" content="1: 受験番号774  2017/08/08(火) 00:27:29.50 ID:M98mLGTm
+ ホンマ迷う 
+" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="【内定辞退】公務員と民間で迷っている人 : 2ch就活まとめ" />
+<meta property="og:description" content="1: 受験番号774  2017/08/08(火) 00:27:29.50 ID:M98mLGTm ホンマ迷う " />
+<meta property="og:url" content="http://pathtimeblog.com/archives/9919668.html" />
+<meta property="og:site_name" content="2ch就活まとめ" />
+<meta property="og:locale" content="ja_JP" />
+<meta property="og:image" content="https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png" />
+
+<meta name="twitter:site" content="@2chshukatu" />
+<meta name="twitter:title" content="【内定辞退】公務員と民間で迷っている人 : 2ch就活まとめ" />
+<meta name="twitter:description" content="1: 受験番号774  2017/08/08(火) 00:27:29.50 ID:M98mLGTm ホンマ迷う " />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image:src" content="https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png" />
+<link rel="alternate" media="handheld" type="application/xhtml+xml" href="http://blog.m.livedoor.jp/shukatu2ch/" />
+
+<title>【内定辞退】公務員と民間で迷っている人 : 2ch就活まとめ</title>
+<script src="https://parts.blog.livedoor.jp/js/emoji.js"></script>
+<script src="https://parts.blog.livedoor.jp/js/misc.js?v=20190710"></script>
+<!--[if lt IE 9]>
+<script src="https://parts.blog.livedoor.jp/js/html5.js"></script>
+<![endif]-->
+<script src="https://parts.blog.livedoor.jp/js/usr/import.js"></script>
+<script>
+$(function(){
+  if($('.header-inner01').children('#blog-header-image').length) {
+    $(window).bind('load', function() {
+      var title1 = $('#blog-header-image').height();
+      var title2 = $('.header-menu').height();
+      var headerHeight = title1-title2-15;
+      $("hgroup").css("height", headerHeight);
+    });
+  }
+});
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-3064778048578600",
+          enable_page_level_ads: true
+     });
+</script>
+
+<!-- Add Google Analytics Tag // -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-113178806-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- // Add Google Analytics Tag -->
+
+
+<meta name="referrer" content="always">
+<meta name="referrer" content="unsafe-url">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1638469-45"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+var blogId = '';
+if (blogId) {
+  gtag('config', 'UA-1638469-45', {
+    'custom_map': {'dimension1': 'blog_id'},
+    'blog_id': blogId
+  });
+} else {
+  gtag('config', 'UA-1638469-45');
+}
+</script>
+
+</head>
+<body class="default_2012 page-article layout-2col sidebar-right"><script type="text/javascript"><!--
+var ld_blog_vars = {
+  provider_id : '1',
+  provider_name : 'livedoor',
+  id : '7836571',
+  name : 'shukatu2ch',
+  charset : 'utf8',
+  url : 'http://pathtimeblog.com/',
+  title : '2ch就活まとめ',
+  blog_design: {
+      version: 1
+  },
+  blog_category: {
+    id: '243',
+    permalink: 'https://blog.livedoor.com/category/243/',
+    name: 'まとめ(総合) > まとめ',
+    is_adult : 0,
+    is_gambling : 0,
+    hierarchy: [{ id: '431', name: 'まとめ(総合)', permalink: 'https://blog.livedoor.com/category/431/' },{ id: '243', name: 'まとめ', permalink: 'https://blog.livedoor.com/category/243/' }]
+  },
+  current_page : {
+    type : 'article',    page : ''
+  },
+  articles : [ {
+       id : '9919668',
+       permalink : 'http://pathtimeblog.com/archives/9919668.html',
+       title : '【内定辞退】公務員と民間で迷っている人',
+       categories : [ { id:'160311', name:'公務員・準公務員', permalink:'http://pathtimeblog.com/archives/cat_160311.html' }, { id:'155972', name:'内定', permalink:'http://pathtimeblog.com/archives/cat_155972.html' } ],
+       date : '2018-06-15 17:30:35'
+}   ]
+};
+//-->
+</script><div id="analyzer_tags" style="display:none">
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/c2.js?v=20191010"></script>
+<script type="text/javascript">blog_counter('shukatu2ch', 7836571, 'http://pathtimeblog.com/')</script>
+</div><script type="text/javascript" src="https://parts.blog.livedoor.jp/js/smartphone.js?v=20200824"></script>
+<script type="text/javascript" src="http://pathtimeblog.com/settings/header.js?v=20190705"></script><script type="text/javascript" src="http://pathtimeblog.com/settings/ad.js"></script>
+<script type="text/javascript">
+var palette_src = 'https://parts.blog.livedoor.jp/img/emoji/3/palette.png';
+if (typeof IMAGE_CACHE == 'object' && IMAGE_CACHE['emoji_palette']) IMAGE_CACHE['emoji_palette'].src = palette_src;
+</script>
+
+<!-- Blog Common Header // -->
+<!-- // Blog Common Header -->
+<!-- 共通ヘッダー表示 -->
+
+<!-- ブログタイトル はじまり-->
+<header id="blog-header">
+
+    <div id="blog-header01">
+
+        <div class="header-inner01 show-image hide-text">
+
+            <hgroup>
+                <!--ブログタイトル　はじまり-->
+                <h1 id="blog-title"><a href="http://pathtimeblog.com/">2ch就活まとめ</a></h1>
+                <!--ブログタイトル　ここまで-->
+                <!--ブログ説明　はじまり-->
+                <h2 id="blog-description">新卒・転職・社会人生活などを含め、就活・就職に関することをまとめてます。</h2>
+                <!--ブログ説明　ここまで-->
+            </hgroup>
+
+            <a href="http://pathtimeblog.com/"><img src="https://resize.blogsys.jp/727db0f9da9f42eb7d26b703338c30b3eef0157c/trim2/0x243_94p_1200x388/http://livedoor.blogimg.jp/shukatu2ch/imgs/0/5/055bbafe.jpg" id="blog-header-image" /></a>
+
+            <div id="blog-header02">
+                <div class="header-inner02">
+                    <ul class="header-menu">
+                        <li><a href="http://pathtimeblog.com/">HOME</a></li><!--メニューを入れてください-->
+                        <li class="ldb_menu-item-url"><a href="http://blog.livedoor.jp/shukatu2ch/archives/6126504.html">ABOUT</a></li><!--メニューを入れてください-->
+                        <li><a href="mailto:shukatumatome@gmail.com">お問い合わせ</a></li><!--メニューを入れてください-->
+                    </ul>
+                    <ul class="header-sarch">
+                        <li><a href="http://twitter.com"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_twitter.png" alt="Twitter" /></a></li><!--Twitter-->
+                        <li><a href="http://pathtimeblog.com/index.rdf"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_rss.png" alt="RSS" /></a></li><!--RSS-->
+                        <li>
+                        <form action="http://pathtimeblog.com/search" method="GET" style="padding:0;margin:0px;">
+                        <input type="TEXT" name="q" class="sf">
+                        <input type="SUBMIT" value="検索" class="sfbtn">
+                        </form>
+                        </li><!--検索窓-->
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</header>
+<!-- /ブログタイトル ここまで-->
+
+
+<!-- コンテンツエリア はじまり-->
+<div id="wrapper">
+
+    <!-- コンテンツ全体 はじまり-->
+    <div id="container">
+
+        <!-- 相互RSS はじまり-->
+        <div class="rss-blogroll">
+
+            <!-- 相互RSSを設置する場合の注意事項
+                コードに含まれる以下のCSSは外して設置してください
+                http://blogroll.livedoor.net/css/default2.css -->
+
+                 <!-- 相互RSSのコード ひとつ目-->
+            <script type="text/javascript">
+            <!--
+                   var blogroll_channel_id = 255242;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード ふたつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 265945;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード みっつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 255442;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href= />
+        </div>
+        <!-- 相互RSS ここまで-->
+
+        <!-- コンテンツの箱の中　真ん中728px はじまり-->
+        <div class="main-container">
+            <div class="main-column-inner">
+<br>
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+<br>
+                <!-- メッセージボード -->
+                 
+
+
+
+                <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://pathtimeblog.com/archives/9919668.html"
+    trackback:ping="http://trackback.blogsys.jp/livedoor/shukatu2ch/9919668"
+    dc:title="【内定辞退】公務員と民間で迷っている人"
+    dc:identifier="http://pathtimeblog.com/archives/9919668.html"
+    dc:subject="公務員・準公務員,内定"
+    dc:description="1: 受験番号774  2017/08/08(火) 00:27:29.50 ID:M98mLGTm ホンマ迷う "
+    dc:creator="shukatu2ch"
+    dc:date="2018-06-15T17:30:35+09:00" />
+</rdf:RDF>
+-->
+<div id="ad_rs" class="ad_rs_b"></div><!-- 記事のトラックバック・オートディスカバリー -->
+
+
+                <!-- 記事 はじまり-->
+                <article class="article first-article" itemscope itemtype="http://schema.org/BlogPosting">
+
+                    <!-- 記事タイトル　記事下の情報　はじまり-->
+                    <header class="article-header">
+
+                        <h1 class="article-title" itemprop="name"><a href="http://pathtimeblog.com/archives/9919668.html" itemprop="url">【内定辞退】公務員と民間で迷っている人</a></h1><!-- 記事のタイトル -->
+
+                            <!-- 記事下の記事情報 はじまり-->
+                            <div class="article-header-inner">
+
+                                <!-- 記事情報の上の行 はじまり-->
+                                <div class="article-header-top">
+                                <p class="article-header-date"><time datetime="2018-06-15T17:30:35+09:00" pubdate="pubdate">2018年06月15日</time></p>
+                                
+                                <ul class="article-header-category">
+                                    <li>
+                                        <dl><dt>カテゴリ:</dt><dd class="article-category1"><a href="http://pathtimeblog.com/archives/cat_160311.html">公務員・準公務員</a></dd><dd class="article-category2"><a href="http://pathtimeblog.com/archives/cat_155972.html">内定</a></dd></dl>
+                                    </li>
+                                </ul>
+                                
+
+                                <!-- 記事の評価アイコン はじまり-->
+                                
+                                <!-- 記事の評価アイコン ここまで-->
+
+                                </div>
+                                <!-- 記事情報の上の行 ここまで-->
+                                <!-- ソーシャルボタン　はじまり -->
+                                <ul class="article-social-btn">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/9919668.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/9919668.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="【内定辞退】公務員と民間で迷っている人 - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=%E3%80%90%E5%86%85%E5%AE%9A%E8%BE%9E%E9%80%80%E3%80%91%E5%85%AC%E5%8B%99%E5%93%A1%E3%81%A8%E6%B0%91%E9%96%93%E3%81%A7%E8%BF%B7%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E4%BA%BA%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/9919668.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/9919668.html" data-text="【内定辞退】公務員と民間で迷っている人 - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F9919668.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                                </ul>
+                                 <!-- ソーシャルボタン　ここまで -->
+                            </div>
+                            <!-- 記事下の記事情報 ここまで-->
+
+                    </header>
+                    <!-- 記事タイトル　記事下の情報　ここまで-->
+
+
+
+                    <!-- 記事本文 はじまり-->
+                    <div class="article-body">
+                        <div class="article-body-inner">
+<!-- 参加している共通テーマの表示 -->
+                        <span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">1: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/08(火) 00:27:29.50 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:M98mLGTm</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b"> ホンマ迷う </div><br />
+<!-- Generated by 2chまとめくす (http://2mtmex.com/) --><!-- 本文 --><div class="article-body-more" id="more"><span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">2: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/08(火) 06:58:44.12 ID:oambfjbr</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 男は黙って民間 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">3: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/08(火) 09:39:22.47 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:DdUg2ll7</i></span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#a52a2a;margin-bottom:30px;margin-top:20px;"> 5年前なら民間だけど、オリンピック開催一年前から本格的な長期不況に入っていくの確定してるんだから商社やマスコミなどの超大手以外なら公務員だな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">4: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/08(火) 10:26:13.33 ID:7rFYTwhB</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;3</span> <br /> その理屈だと5年前にも民間行く理由が見当たらないのだが </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">6: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/08(火) 13:02:00.54 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:DdUg2ll7</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#a52a2a;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;4</span> <br /> 4～5年前は金融緩和・アベノミクスと東京五輪決定で暫くは好景気確定時期 <br />  <br /> 今は好景気・五輪の恩恵も終わりが見えはじめ出口を探ってる時期よ。 <br /> ハードランディングになるから民間は超有能じゃない奴だと生き残れない </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">7: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/08(火) 13:14:25.71 ID:7rFYTwhB</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;6</span> <br /> お前は10年しか会社勤めしないつもりなのか？ <br /> 業界にもよるが若い頃の賃金なんて大して差がないし、大事なのは40以降の管理職になった時の会社の業績(景気)だと思うのだが </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">8: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/08(火) 14:38:32.58 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:DdUg2ll7</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#a52a2a;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;7</span> <br /> それならなおさら公務員だろ <br /> 五輪終わってしまった後に日本が好景気になる理由が皆無だわ。下手したらまた失われた数十年が到来する。 <br /> 二十数年後の管理職になった時の会社の業績なんてなおさらわからん。10年前にシャープ、東芝、NECが今みたいな状況になるなんて予想できなかったわけで。 <br />  <br /> 都庁や特別区みたいに長期不況でも破綻の可能性が皆無の自治体とかなら公務員だろ。 <br />  <br /> 国家は正直わからん、、、 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">10: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/08(火) 15:46:46.38 ID:sjvWbqgS</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;margin-bottom:30px;margin-top:20px;"> 俺は民間いたけど残業の多さで公務員受けたよ <br /> 30ぐらいまで受けれるんだから色んなとこで働いてみるのがいいんじゃないの </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">12: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/08(火) 17:34:21.58 ID:rzEGWuED</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 大手金融総合職と地上＆特別区、どっちがいいかな？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">13: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/08(火) 18:16:28.94 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:DdUg2ll7</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#a52a2a;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;12</span> <br /> 結婚の人生観で変わる。 <br /> 都内の特別区だと給与や生活費を考えると共働きが必須。転勤ない特別区公務員共働きとかだと早くにローン組んで住宅購入などの将来設計もしやすい。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">14: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/08(火) 18:17:55.22 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:DdUg2ll7</i></span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#a52a2a;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;13</span> <br /> 逆に大手金融だと全国転勤・出向で共働きは難しいでしょう。その分給与はいい。家事育児は奥さんメイン。一家の大黒柱としてバリバリ働きたい人にはオススメかね。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">22: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/08(火) 21:02:26.53 ID:us7GttZw</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"><span  style="color: mediumblue;" class="anchor">&gt;&gt;13</span> <span  style="color: mediumblue;" class="anchor">&gt;&gt;14</span> <br /> だよなあ。自分もそう思う。 <br /> 20代後半には年収1000万円いく企業やから、それと公務員とを比較するとホンマ薄給にしか見えん <br /> あんま学歴高いわけやないし、素直に公務員で落ち着いた方が精神的にいいかもしれん <br /> でもバリバリ働いてがっぽり稼いでいきたいっていう欲もある…全国転勤は別に構わへんのやけどなあ</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">15: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/08(火) 18:20:28.15 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:DdUg2ll7</i></span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#a52a2a;margin-bottom:30px;margin-top:20px;"> 結婚後も働いてくれる公務員の奥さんゲットできそうな顔面偏差値とか自信があるなら公務員。 <br /> ないなら大手金融じゃないかな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">16: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/08(火) 18:21:57.15 ID:qcjcyUFA</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 言うて大手でも若い内は雑用使いパシリでしょ <br /> 貴重な若い数年を何のスキルも身に付かんことに費やすくらいなら <br /> むしろ、ベンチャーでも行ってスキルアップして手に職つけた方が転職チャンスあるだろ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">18: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/08(火) 18:29:00.55 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:DdUg2ll7</i></span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#a52a2a;margin-bottom:30px;margin-top:20px;"> ベンチャー行ってスキルつけて将来は起業だったりで成功したいってやつはそもそも公務員試験なんて受けねーだろ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">19: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/08(火) 18:32:21.26 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:DdUg2ll7</i></span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#a52a2a;margin-bottom:30px;margin-top:20px;"> 新卒で大手入ってその後に退社して起業して成功したっていう話はよく聞くけど、 <br /> 新卒でベンチャー入ってそのあと起業して成功したって話は聞いたことねーわ。 <br />  <br /> ベンチャーと大手なら <br /> 起業資金貯めるためにも大手一択だろ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">20: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/08(火) 18:32:36.72 ID:qcjcyUFA</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 俺は落ちたらプログラマー目指すぞ <br /> 人手不足やし実力あれば稼げるしな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">21: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/08(火) 18:34:49.77 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:DdUg2ll7</i></span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#a52a2a;margin-bottom:30px;margin-top:20px;"> プログラマーとして稼ぐ自信だったり体力があるなら最初からプログラマーなればええやん。 <br />  <br /> おれはそんな体力も自信もないから地方公務員一択だな。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">23: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/08(火) 21:16:32.01 ID:zITHV6sj</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 俺なら金融行くけどねえ <br /> 会社に合えば万々歳だし、合わなくてもそのレベルの企業なら余裕で転職できるでしょ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">24: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/08(火) 21:38:28.33 ID:oo1EDH5o</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 民間に行くべし <br />  <br /> 民間でお国のためにGDPを増やしてくれ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">25: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/08(火) 22:49:39.80 ID:MY1m9t+E</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 国家公務員や都庁なら公務員だけど、他なら民間だね。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">26: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/08(火) 23:32:54.66 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:DdUg2ll7</i></span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#a52a2a;margin-bottom:30px;margin-top:20px;"> 都庁、特別区の公務員夫婦だと転勤なしで4～50代で世帯年収2000万、出世気にせず育休取れるし、認可保育園も共働きで優先的とメリットがでかすぎる。転勤ないから結婚すれば早いうちにローン組んでタワマンにも住めるし </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">27: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/08(火) 23:45:01.40 ID:ab4XkUzp</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;margin-bottom:30px;margin-top:20px;"> 地上なんて既卒多いの自治体もあるぞ <br /> せっかくの新卒カード、民間に使ってみては </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">28: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/09(水) 00:11:11.36 ID:IO1+++yn</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;27</span> <br /> 完全そう思う。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">29: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/09(水) 00:24:26.81 ID:PWvDv0a3</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;27</span> <br /> ただ団塊の退職での公務員採用バブルは今年、来年くらいまでだし <br /> しかも、すでに公務員の60から65への定年引き上げの議論が本格的に始まってるから、その定年引き上げが実施されると新規・中途採用を一気に絞るだろうから公務員採用冬の時代が来るんだよ、、、 <br />  <br /> 迷いどころだな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">31: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/09(水) 01:04:16.94 ID:VDE1QytE</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;29</span> <br /> オリンピックで不況って話もあるし来年が受かりやすさではラストチャンスって感じか <br />  <br /> その先は不況と採用人数減少で倍率が上がる流れになるかもしれないのか </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">30: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/09(水) 00:32:54.62 ID:Sw6SHpDF</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 関東や政令市周辺なら公務員と民間で迷えば良いんだろうけど産業のない田舎は公務員一択だとおもわれる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">32: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/09(水) 20:35:27.49 ID:VqK3jZ8+</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;30</span> <br /> そうやって優秀な人間が地方公務員になってばかりだと官を支える民が痩せ細り地域のためにならない <br />  <br /> 民間で地方創生のために働こう </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">33: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/09(水) 21:18:26.02 ID:cO7SKhAS</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;margin-bottom:30px;margin-top:20px;"> 就活振り返ってみて、民間の面接は割と通過して公務員の面接はダメダメなんだけど、何でなんだろ。世間的な面接難易度は逆なのに。 <br /> あまり深く準備せずその場で考えて話してるからなのか… </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">35: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/09(水) 21:31:27.10 ID:GZ0PZ7lk</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;"> 公務員はなんだかんだで強い <br /> 民間は、客に嫌われたら終わりだけど <br />  <br /> 公務員は国民に嫌われようが何だろうが <br /> 問答無用の強制徴収で金とれるんだからｗ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">36: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/09(水) 23:05:01.69 ID:cO7SKhAS</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 改めて待遇面での公務員と民間を比べた時の公務員の良さって何なんだろ。潰れないとか以外に </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">40: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/10(木) 07:26:23.49 ID:0N6Gm5xt</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;36</span> <br /> 公務員は公務員法や労基法に則って重大な違反が無ければ免職されない。 <br /> 民間は法律無視で首切られる。全く過失がなくても不況や経営者がやらかすととばっちりで解雇される。TPPみたいに国が国内産業を見捨てる政策を選ぶせいで失業もある。 <br /> 企業の乱立する大都市ならともかく、地方ではローンで戸建て買うこともできないのですよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">37: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/09(水) 23:44:57.15 ID:mxEeYnod</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> ネームバリューじゃないかなぁ <br /> やっぱり親戚や友達、昔の知り合いに「公務員になったよ」って話すとみんな目の色が変わる <br /> 合コンでも大うけらしいし、そこが良さなのかもしれないなぁ <br />  <br /> でも給与・福利厚生は大企業より格下だし、 <br /> 正直公務員っていうほどすごいわけじゃないんだな～って思った <br /> 特別区とか受けてて、周りのレベルの低さにちょっと絶望したというか… <br /> いや自分もレベルが低いのは言うまでもないけどさ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">38: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/09(水) 23:51:38.76 ID:MhXJd3qn</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> なんか公務員に幻想を抱き過ぎてた感はある。どちらが良いかは一概には言えないなけど。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">39: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/09(水) 23:53:47.87 ID:mxEeYnod</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;38</span> <br /> これこれ <br /> まぁ働きやすさでは多分圧倒的に公務員なんだろうけどさ <br /> なんかそんなぬるま湯じゃ満足できない自分がいる <br /> バリバリ体を動かして全国海外を転々として働きたいっていうのがあるんだよなぁ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">41: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/10(木) 08:23:06.52 ID:74is5NTB</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 一部の公務員受験生は民間のリスクを過大評価し過ぎだと思う </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">42: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/10(木) 08:47:51.51 ID:lJyWScEt</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;"> それ思うなあ <br /> 「民間＝いつ潰れるか分からん危ないとこ」ってイメージ抱きすぎなんだよなあ <br /> 中小ならいざ知らず、大手企業ならそう簡単に潰れることもない <br />  <br /> まあでも東芝とかSHARPがああなるとは、10年前には誰も予想せんかったけどね </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">43: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/10(木) 14:14:21.70 ID:8AXWmmk2</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 神経図太ければ公務員ほど天国は無いだろう <br /> 仕事サボっても最低限働いてれば分限免職にはならんし <br /> 周りから疎まれようが定時で帰れる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">44: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/10(木) 21:38:39.15 ID:9kXBDS7V</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 日本は自動車と家電だけは安泰とここ30年近く思われてきたのだが家電がおワタ。 <br /> 海外事業が好調なところは海外転勤があるうえに、日本が貧しくなったため東南アジアいけば豪邸に住めるわけもなければ出張手当５割増しすら出せないとこが多いよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">45: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/10(木) 23:43:34.88 ID:VyEAxGqr</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 今後地上合格したら地上行くけど、内定してる公務員(転勤あり)と民間(基本的に東京のみ)とで迷う。 <br /> 結婚の都合もあるからできるだけ転居は避けたいけど、本来なりたいのは公務員だったからなぁ。 <br /> こればっかりは公務員とか民間とかいう以前に価値観の問題なのかね……。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">46: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/10(木) 23:55:56.97 ID:SAx51X1d</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#800080;margin-bottom:30px;margin-top:20px;"> 民間のリスクっていうけど、最近の日本は昔と違い転職が当たり前になってるから、 <br /> 転職市場で民間経験必至なところを考えると公務員より潰しがきくとも言えると思う <br /> 民間だと法律無視で首を切られるとか極端な事例想定しすぎ、むしろ簡単に首をきれないからこそ、 <br /> 派遣社員とか契約社員って雇用形態が普及するようになったのに <br /> なんか公務員信仰してる人って、理屈よりも単純な印象論で物事語ってて根本的な考え方が田舎のジジババと変わらないよね </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">47: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/11(金) 00:57:14.04 ID:TobiP9mM</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;46</span> <br /> その議論は民間でどういった企業に入るかでする話しで公務員はまた別でしょ <br /> 民間への転職する公務員なんてほぼいないんだから転職した場合の仮定は無駄 <br /> 公務員の転職市場での価値の無さなんて将来的な話しではなく今も昔もずっとそうなんだから <br /> だからこそ皆辞めないってものあるんだよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">48: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/11(金) 01:12:17.40 ID:3QEV84vm</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#800080;margin-bottom:30px;margin-top:20px;"> 安定性とリスクの低さという点で公務員のメリットがよく上がるけど、 <br /> 民間では一社に留まらず転職することが公務員より容易だから、 <br /> そういう点も考慮したら必ずしも民間がリスクばかりで公務員がノーリスクとは言えないってこと <br /> 公務員から民間への転職が難しいとか言いたいんじゃなく、民間が言われるほどリスクがあるとは言えないという根拠に、 <br /> 転職のしやすさを上げただけ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">49: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/12(土) 19:43:45.52 ID:oc2bAHyZ</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;margin-bottom:30px;margin-top:20px;"> 公務員は大手民間に内定貰えない奴が行くところ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">50: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/13(日) 07:32:10.88 ID:zJ4BWUAe</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 民間によるので <br /> 一概に言えないが <br /> 離職率比べてみると <br /> 公務員だろ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">51: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/13(日) 07:39:38.56 ID:nbdJ3JRP</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 公務員の号級表みてそれより安い民間は全て除外するべきだな。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">52: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/13(日) 07:42:27.35 ID:ZZd7I+L+</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 市役所で3年以内離職率9%って高いかな？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">53: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/13(日) 07:58:37.90 ID:nbdJ3JRP</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#008000;margin-bottom:30px;margin-top:20px;"> より上級の官庁めざすとか警察学校でいじめ抜かれて辞めるとかを混ぜた数字だと思われる。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">54: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/13(日) 09:19:37.41 ID:zJ4BWUAe</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 大手民間は潰れないと思う <br /> ただし、社内競争半端ない <br /> 転勤も多いしな <br /> 生き残れば年収1000万以上になる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">55: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/13(日) 09:27:20.85 ID:Hz4OQ581</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;54</span> <br /> それは会社によると思う <br /> 金融、ITみたいに大量に採用するところは競争激ヤバだが、一部メーカーやインフラなんかは課長級くらいまでは割と誰でもなれる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">56: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/13(日) 09:37:24.80 ID:zJ4BWUAe</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 課長級ならなれるねwww <br /> 今の大企業で40代で課長に <br /> なっている奴って一割くらいか？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">57: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/13(日) 10:01:04.68 ID:Hz4OQ581</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;56</span> <br /> 大企業って言っても一概には言えないけど、俺がリクルーターから聞いた話だと課長級には30後半から45でほぼ全員昇格、正課長には同期の半分くらい、それ以上はさらにその半分らしい <br /> 採用数の少ない素材業界の話なんでちょっと特殊かもしれん </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">59: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/14(月) 18:47:06.60 ID:0m0wOlWn</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> マイナー市役所でも上場企業並みの安定性だし <br /> 中核市以上なら上場企業の中でも日経225を構成する様な日本の主要企業並みの安定性があるぞ。官僚に至っては下々の民を指導する立場ですよ。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">62: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/16(水) 10:32:15.49 ID:8IUa/WIO</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> メーカーから都庁・特別区に転職するんだが、今の会社なら確実に課長級以上にエスカレーターできるから未練が出てきた </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">63: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/16(水) 12:29:27.50 ID:ihhexuSX</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;62</span> <br /> なんで転職すんの？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">64: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/16(水) 12:55:02.45 ID:8IUa/WIO</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;63</span> <br /> 田舎転勤、アジア転勤で人生の半分過ごすとして割りに合う待遇じゃないからだね </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">66: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/16(水) 15:09:03.02 ID:ZgyHDL3r</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;64</span> <br /> なんかエリートっぽい <br /> どれくらいの給料貰ってるの？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">67: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/16(水) 15:37:22.05 ID:8IUa/WIO</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;66</span> <br /> 公務員の方が年収は下がるけど転勤プレミアムを割り引いたらそんな差はないはず </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">65: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/16(水) 14:51:35.12 ID:tMi3JR6q</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;margin-bottom:30px;margin-top:20px;"> 都庁ならいいけど特別区は後悔しそう </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">68: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/16(水) 17:12:09.91 ID:tMi3JR6q</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:13.3333px;line-height:20px;margin-bottom:30px;margin-top:20px;"> 世界飛び回ってるような人が特別区行ったらなんだこの仕事しない奴ら <br /> そのクセ文句ばっか言いやがってとか思うよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">70: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/16(水) 20:19:16.75 ID:UttGN8+W</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 超大手企業の総合職に何故か受かってしまって、特別区とどっち取ろうか悩んでる… <br />  <br /> 【年収】 <br /> 御社…30才⇒1000万 <br /> 特別区…30才⇒450万 <br />  <br /> 【家賃補助】 <br /> 御社⇒家賃の7割補助 <br /> 特別区⇒雀の涙 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">71: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/16(水) 20:23:25.74 ID:mJkt+yFf</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 悪いことは云わないから特別区いったほうがいい <br /> 似たようなパターンで民間行っていま死ぬほど後悔してる <br /> たくさん貰うとこは貰うなりの働き方があってそれに耐えられる人間は限られてるよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">73: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/16(水) 20:58:04.81 ID:UttGN8+W</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"><span  style="color: mediumblue;" class="anchor">&gt;&gt;71</span> <br /> やっぱそうだよなぁ… <br />  </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">72: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/16(水) 20:56:17.08 ID:ZgyHDL3r</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;"> 30で1000万とか商社か金融くらいやろ？ <br /> 激務上等ならええんちゃう？ <br />  <br /> 精神破壊されなきゃ後々特別区に転職できるだろうし </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">73: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/16(水) 20:58:04.81 ID:UttGN8+W</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"><span  style="color: mediumblue;" class="anchor">&gt;&gt;72</span> <br /> 金融大手や（メガバンではない） <br /> 多分日本人ならみんな名前知ってるくらいのとこ <br /> でもせっかく掴んだチャンス逃したくない…辛いのぉぉぉ <br /> 学歴中途半端やし素直に特別区がええか…</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">74: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/16(水) 21:34:13.41 ID:mfTqiwJQ</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 金融なら特別区もありかもな <br /> 金融以外の大手なら絶対民間だが <br /> ただ公務員は民間行って3年くらいやってダメならでも間に合う </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">90: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/17(木) 21:41:57.96 ID:mJipaASh</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;74</span> <br /> むしろ3年やって社会人枠の方が良いと思う。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">75: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/16(水) 21:50:02.51 ID:mJkt+yFf</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 俺は保険だけど全国転勤で来年どこ行くかいつまでも分からないし、同期は次々と体か心病んで消えてくし都会や良いポジションは学閥組が最初からそういうルートで押さえてるしで何故あの時公務員にしておかなかったのかと未だに悩む <br /> 証券や銀行は知らんけどもっと辛そうな印象 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">77: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/16(水) 21:54:41.18 ID:UttGN8+W</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;75</span> <br /> 幸か不幸か自分も生保大手内定者なんですよねぇ… <br /> ほんま辛いんか・・・ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">79: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/16(水) 22:38:01.31 ID:mJkt+yFf</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;77</span> <br /> まあ俺はマーチ卒&amp;仕事もできる方じゃないダメ社員なので参考までに、こんなこと書いといてあれだけど普通に生き残ってるやつも当たり前だけどそこそこいるからね <br /> あと某海賊王生保なので他社は知らん </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">78: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/16(水) 21:57:05.74 ID:TdsWnsMF</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> というか特別区というのもまたちょっと微妙な <br /> 都庁、政令市、中核市あたりなら公務員もいいんだが </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">96: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/09/09(土) 06:40:51.06 ID:LX1g4994</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;78</span> <br /> 君エアプ？ <br /> その並びなら特別区一択だろ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">84: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/17(木) 12:51:10.35 ID:f0LJWf3X</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> まあいくら金貰っても転勤は嫌って奴もいるし、今は大手でも10年後東芝みたいにならんとも言い切れんし </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">86: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/17(木) 13:19:52.85 ID:naHOjAk4</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> メーカーは工場配属が合わない人もいると思うぞ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">87: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/08/17(木) 14:24:17.02 ID:2vCBD8oc</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 給料につられて民間行って <br /> 死にそうな知り合いはいる <br /> 給料も低いブラック企業でもっと死にそうな知り合いもいる <br />  <br /> 公務員は最善ではなくても正解な選択肢 <br /> ブラック企業よりは確実にマシだから </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">97: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/09/09(土) 07:13:12.36 ID:9DRLsHOq</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 大手金融は400人採っても定年時には40人ものこらんでしよ。頭取でも出そうなら１人だし。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">100: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/09/11(月) 01:12:15.05 ID:HFnOeGQv</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 有能な人は民間の方が稼げるよな。 <br /> 上場企業に逝った高校時代の同級生の年収は俺より150万ほど高い。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">101: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/09/12(火) 18:06:39.89 ID:MkZ1XH4O</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> NTT東と横浜市役所 <br /> 年収は完全NTTだけど… </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">102: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/09/13(水) 05:29:32.62 ID:yonRFcYe</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;101</span> <br /> 凄いですね。 <br /> でも女子なら後者のが幸せかも。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">103: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/09/13(水) 22:29:21.97 ID:QHh/9CG+</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;101</span> <br /> すげーな <br /> でも俺なら迷う要素はないな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">106: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/09/20(水) 17:57:16.20 ID:MkKIvqe8</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 弁護士事務所最大手の秘書と特別区で悩んでる… <br /> 特別区の場合土日勤務が多いって聞いたから民間にしようかと思ってるんだけどアホかな… </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">107: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/09/20(水) 18:15:55.21 ID:5PxPErKO</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;106</span> <br /> 特別区で土日勤務が多いってどこ情報？ <br /> どの自治体よりも１番休日出勤少ないと思うぞ・・・ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">108: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/09/20(水) 18:22:21.64 ID:JXeDMmWl</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;107</span> <br /> そんなわけないやろ… <br /> 税務の調査やお祭は大抵土日駆り出されるわ。 <br /> 東京は祭りめちゃくちゃ多いぞ。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">109: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/09/20(水) 18:25:23.46 ID:5PxPErKO</span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;108</span> <br /> 毎回同じ人が駆り出されるわけじゃないじゃん <br /> 親戚に職員いるけど、選挙の時に駆り出されるくらいだよ(ちゃんと給料支給あり) </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">110: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/09/20(水) 19:13:27.30 ID:6yu90zGp</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;"> 区役所が毎週日曜開いてるから、窓口担当は出勤 <br /> 他部署だと地域振興になると普通にイベントに駆り出されまくりと思ってる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">117: <span  style="color: rgb(124, 199, 84);">受験番号774</span> <span  style="color: gray;"> 2017/09/30(土) 08:39:08.55 ID:orwhOIjo</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;margin-bottom:30px;margin-top:20px;"> バリバリやれる自信ないなら公務員のが楽やん </div><br />
+<br />
+<p  style="color:gray;text-align:right;"><span  style="font-size: 81.25%;">引用元： <a  href="http://medaka.5ch.net/test/read.cgi/govexam/1502119649/" target="_blank">http://medaka.5ch.net/test/read.cgi/govexam/1502119649/</a></span></p>
+<br />
+
+</div>
+                        
+<!-- タグのリスト表示セット -->
+                        </div>
+<br>
+
+
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=2Z8HPD+9K4KFM+34FI+NUES2" alt="">
+                    </div>
+                    <!-- 記事本文 ここまで-->
+
+
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HV7V6" alt="">
+
+
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www26.a8.net/svt/bgt?aid=190821728180&wid=001&eno=01&mid=s00000011866017004000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" alt=""></td>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+3257OY+3Y6M+601S1" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www24.a8.net/svt/bgt?aid=190821728185&wid=001&eno=01&mid=s00000018427001008000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=35LYZK+3257OY+3Y6M+601S1" alt=""></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+
+
+                    <!-- 記事フッター、コメント、ソーシャルボタン -->
+                    <footer class="article-footer">
+                        <div class="article-footer-comment">
+                            
+                                <a href="http://pathtimeblog.com/archives/9919668.html#comments">0コメント</a>
+                            
+                        </div>
+                        <div class="article-social-btn">
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HVFKY" alt="">
+
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/9919668.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/9919668.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="【内定辞退】公務員と民間で迷っている人 - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=%E3%80%90%E5%86%85%E5%AE%9A%E8%BE%9E%E9%80%80%E3%80%91%E5%85%AC%E5%8B%99%E5%93%A1%E3%81%A8%E6%B0%91%E9%96%93%E3%81%A7%E8%BF%B7%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E4%BA%BA%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/9919668.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/9919668.html" data-text="【内定辞退】公務員と民間で迷っている人 - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F9919668.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                        </div>
+                    </footer>
+                    <!-- /記事フッター、コメント、ソーシャルボタン -->
+
+
+                    <!-- カテゴリの最新記事表示 はじまり-->
+                    <div class="article-sub-category">
+                        <div id="ldblog_related_articles_a1d57de6">
+
+<div class="related-articles ldblog_related_articles_a1d57de6" data-category-id="160311" data-article-rows="5">
+<h3>「公務員・準公務員」カテゴリの最新記事</h3>
+<ul id="ldblog_related_articles_a1d57de6_160311"></ul>
+</div>
+</div>
+<script type="text/html" id="ldblog_related_articles_a1d57de6_tmpl">
+<% for(var i=0,l=articles.length;i<l;i++) {%><% if(i>=rows) break; %>
+<li><a href="<%=articles[i].permalink%>"><%=articles[i].title%></a></li>
+<% } %>
+</script>
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/related_articles.js?t=20180221"></script>
+<script type="text/javascript">
+(function(){
+RelatedArticles.load('ldblog_related_articles_a1d57de6', '9919668');
+})();
+</script>
+<!-- 関連記事の表示 -->
+                    </div>
+                    <!-- /カテゴリの最新記事表示 ここまで-->
+
+
+
+
+                    <div id="ad2"></div><!-- 広告表示 -->
+
+                    <!-- 記事オプション はじまり-->
+                    <div class="article-option" id="article-options">
+
+                        <!-- コメントエリア　はじまり -->
+                        
+                        <section id="comments">
+                        
+                        <h1 class="comment-form-title">コメントする</h1>
+<div class="article-option" id="comment-form">
+    <form
+      action="https://comment.blogcms.jp/livedoor/shukatu2ch/9919668/post"
+      method="post"
+      name="comment_form"
+          id="comment-form-body"
+      onsubmit="setCommentAuthor(this); return submitOnce(this.button);"
+    >
+    <fieldset>
+        <legend>コメントフォーム</legend>
+    <dl class="comment-form-author">
+        <dt><label for="comment-form-author">名前</label></dt>
+        <dd id="comment-author-form"><input type="text" class="text" id="comment-form-author" name="author" required="required" value="" /></dd>
+    </dl>
+  <dl class="comment-form-body">
+    <dt><label for="comment-form-textarea">コメント</label></dt>
+    <dd>
+      <textarea id="comment-form-textarea" name="body" rows="7" required="required"></textarea>
+      <div id="comment-form-tools">
+        <span class="facemark"><a href="javascript:void(0);" id="emojiLink1" onClick="showEmojiPanel(this.id, 'comment-form-textarea')"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/icon_facemark.png" /></a></span>
+        <span class="rating">
+                    <input type="hidden" name="rating" value="">
+                    <input type="hidden" name="rating_icon" value="star">
+                    <div class="rating-value">
+                        <span id="default-rating-value">評価する</span>
+                        <div class="caret"><span></span></div>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/face/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/face/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/face/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/face/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/face/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/star/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/star/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/star/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/star/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/star/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                    </div>
+                    <div class="rating-icon">
+                        <div data-value="face">顔</div>
+                        <div class="selected" data-value="star">星</div>
+                    </div>
+        </span>
+        <span class="submit"><button type="submit">投稿する</button></span>
+        <span class="memorize"><label for="bake"><input type="checkbox" id="bake" name="cookie" /> 情報を記憶</label></span>
+      </div>
+    </dd>
+  </dl>
+  </fieldset>
+  </form>
+  <script type="text/javascript" src="https://parts.blog.livedoor.jp/js/comment.0.2.js?v=20130430"></script>
+  <script type="text/javascript">
+    loadCommentAuthor(document.comment_form);
+    ldblogComment.init();
+  </script>
+<!-- /#comment-form --></div><!-- コメント投稿フォーム -->
+
+
+                        </section>
+                        
+                        <!-- コメントエリア　ここまで -->
+
+
+                        <!-- トラックバック受け付け　はじまり -->
+                        
+                        <!-- トラックバック受け付け　ここまで -->
+
+                    </div>
+                    <!-- 記事オプション ここまで-->
+
+                </article>
+                <!-- 記事　ここまで -->
+
+
+                <!-- ページ送り はじまり-->
+<!-- Article Pager // -->
+  <div class="pager article-pager-type2">
+    <div class="pager-inner">
+    <div class="article-pager-outer">
+    <ul class="article-pager"><li class="prev"><a href="http://pathtimeblog.com/archives/9987689.html" title="30代職歴ほぼなしが就職できる資格教えて？ 	">&nbsp30代職歴ほぼなしが就職できる資格教えて？ 	</a></li><li class="next both"><a href="http://pathtimeblog.com/archives/9878189.html" title="大学選びに関して工学部就活経験者の助言求む 	">大学選びに関して工学部就活経験者の助言求む 	&nbsp</a></li>    </ul>
+    </div>
+    </div>
+  </div>
+<!-- // Article Pager -->
+
+                <!-- /ページ送り ここまで-->
+
+            </div><!-- /main-column-inner-->
+        </div>
+        <!-- コンテンツの箱の中　真ん中728px ここまで-->
+
+
+        <!-- コンテンツの箱の中　左側200px はじまり-->
+        <aside class="left-container">
+            <div class="left-column-inner">
+            
+
+
+
+<div class="plugin-popular_articles sidewrapper">
+  <div class="sidetitlebody">
+    <div class="sidetitle">人気記事</div>
+  </div>
+  <div class="sidetop"></div>
+  <div class="side">
+
+
+    <div class="popular-articles">
+      <table id="populararticles-472933"></table>
+      <div class="popular-articles-freearea"></div>
+    </div>
+  </div>
+
+  <div class="sidebottom"></div>
+</div>
+
+<script type="text/javascript" language="javascript"><!--
+(function(){
+  var url = 'http://pathtimeblog.com/archives/popular_articles.json'
+         + '?rangetype=custom'
+         + '&from=0'
+         + '&range=13'
+         + '&limit=50'
+         + '&offset=0'
+         ;
+
+  var callback = function(data) {
+    var table = document.getElementById('populararticles-472933');
+    for (i = 0; i < data.articles.length; i++) {
+      var rank = i + 1;
+      var prefix = 'populararticles-472933-'+ rank;
+
+      var row = table.insertRow(-1);
+      var elm1 = row.insertCell(-1);
+      elm1.className = 'populararticles-rank';
+      elm1.innerHTML = '<span><b>' + rank + '</b></span>';
+      var elm2 = row.insertCell(-1);
+      elm2.className = 'populararticles-title';
+      elm2.innerHTML = '<a href="' + data.articles[i].url + '?ref=popular_article&id=7836571-472933">' + data.articles[i].title + '</a>'
+      ;
+
+    }
+  };
+
+  var xhr = (function () {
+      if (window.XMLHttpRequest)
+        return new XMLHttpRequest();
+      else {
+        var msxml = [
+          "Msxml2.ServerXMLHTTP.6.0", "Msxml2.ServerXMLHTTP.5.0", "Msxml2.ServerXMLHTTP.4.0", "Msxml2.ServerXMLHTTP.3.0",
+          "Msxml2.ServerXMLHTTP", "Microsoft.ServerXMLHTTP", "Msxml2.XMLHTTP.6.0", "Msxml2.XMLHTTP.5.0",
+          "Msxml2.XMLHTTP.4.0", "Msxml2.XMLHTTP.3.0", "Msxml2.XMLHTTP", "Microsoft.XMLHTTP"
+        ];
+        for (var i = 0; i<msxml.length; i++ ){
+          try {
+            return new ActiveXObject(msxml[i]);
+          }
+          catch(e) { }
+        }
+        return null;
+      }
+  })();
+    
+  if (!xhr) return;
+  xhr.open('GET', url, true);
+  xhr.onreadystatechange = function () {
+    if (xhr.readyState == 4 && xhr.status == 200) {
+      eval('var ld_popular_articles_json = ' + xhr.responseText);
+      callback(ld_popular_articles_json);
+    }
+  };
+  xhr.send();
+
+})();
+//-->
+</script>
+
+<div class="plugin-recent_articles sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">最新記事</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27108137.html">21卒就活生ワイ、内定辞退でしこたま怒鳴られる</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/10257766.html">ニートって難しい資格取って仕事探そうとするけどさ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839910.html">【学歴フィルター】企業にとっての一流大学とは？【就職偏差値】</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839719.html">ワイニート歴2年、就職して初年度の年収500万円！！！！</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073431.html">あ、面接落ちたなってフラグ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073465.html">【悲報】上級国民大手企業様「下請けに仕事やらせてガッポリ中抜きｗ」→夏ボーナス92万5947円</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27075072.html">ワイ21卒、会社選びを間違ってしまったと後悔する</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027071.html">【悲報】キャリア採用の銀行員ワイ、周囲の人間があまりにも有能すぎてマジでドン引き……………………</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27063977.html">【速報】大学、終わる。　Googleが大卒資格を得られるコースを提供へ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027029.html">教師「Ｆ欄ＯＫです、公務員です、毎日定時で帰れます、年収700万です」←こいつが馬鹿にされる理由ｗ</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-recent_articles -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「A」設定のブログパーツ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　左側200px ここまで-->
+
+
+        <!-- コンテンツの箱の中　右側200px はじまり-->
+        <aside class="right-container">
+            <div class="right-column-inner">
+            
+
+
+
+<div class="plugin-categorize sidewrapper" id="plugin-categorize-457691">
+    <div class="sidetitlebody">
+        <div class="sidetitle">カテゴリー</div>
+    </div>
+    <div class="sidetop"></div>
+    <div class="side">
+
+
+      
+
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160301.html">就活準備 (243)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161699.html">自己分析 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161700.html">企業・業界研究 (66)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155971.html">資格 (39)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155966.html">選考 (254)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155977.html">インターン (23)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155978.html">説明会 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155975.html">ES (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155976.html">SPIなど (7)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155974.html">面接 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155972.html">内定 (222)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160304.html">NNT(無内定) (68)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160302.html">内定後・入社前 (110)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160308.html">アドバイス (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160460.html">入社後 (924)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220065.html">新卒 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220063.html">上司 (95)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_219473.html">社会人生活 (299)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160474.html">ブラック企業 (65)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160303.html">転職 (175)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163214.html">副業 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220667.html">収入 (102)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_299497.html">採用担当 (3)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_318465.html">第二新卒 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161711.html">学生生活 (46)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163247.html">浪人・留年 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155967.html">学歴 (119)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_223545.html">ニート (38)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155969.html">業界別 (314)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156035.html">金融 (34)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156099.html">建築・不動産 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160357.html">物流・運送 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160358.html">IT・メディア (55)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160359.html">エネルギー・資源 (1)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160310.html">自動車・機械 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160360.html">食品・小売 (14)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160311.html">公務員・準公務員 (89)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160356.html">サービス (21)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160473.html">その他 (42)</a>
+          
+        </div>
+        
+    
+        
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160476.html">その他 (472)</a>
+          
+        </div>
+        
+    
+    
+
+    </div>    
+    <div class="sidebottom"></div>
+</div><!-- // plugin-categorize -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+<a href="//blog.with2.net/link/?1955545"><img src="https://blog.with2.net/img/banner/banner_21.gif" title="人気ブログランキング"></a><br><a href="//blog.with2.net/link/?1955545" style="font-size: 0.8em;">人気ブログランキング</a>
+
+<div class="plugin-link sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">リンク集</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://0matome.com/" target="_blank">おまとめ</a></div>
+
+<div class="sidebody"><a href="http://2chnavi.net/allentries/?threshold=0" target="_blank">2chnavi</a></div>
+
+<div class="sidebody"><a href="http://http://iwashi.biz/" target="_blank">いわしアンテナ &gt;°))))彡</a></div>
+
+<div class="sidebody"><a href="http://2ch-2.net/" target="_blank"> つーアンテナ(*ﾟ∀ﾟ)</a></div>
+
+<div class="sidebody"><a href="https://ii-antenna.net/?about" target="_blank">いーあんてな(#ﾟｗﾟ)</a></div>
+
+<div class="sidebody"><a href="https://2ch-mi.net/" target="_blank">みーアンテナ（´∀｀）</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-link -->
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">検索</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="https://cse.google.com/cse.js?cx=014565878756483497884:urusxdcjffe"></script>
+<div class="gcse-search"></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「B」設定のブログパーツ表示 -->
+            
+<!-- LDR・RSSリンクとブログのロゴ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　右側200px ここまで-->
+
+        <!-- このページのトップヘ　はじまり -->
+        <p class="to-pagetop"><a href="#"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/to_pagetop.png" width="70" height="70" alt="このページのトップヘ" /></a></p>
+        <!-- このページのトップヘ ここまで -->
+
+    </div>
+    <!-- コンテンツ全体 ここまで-->
+
+    <!-- ブログのフッター はじまり-->
+    <footer id="blog-footer">
+    <!-- Blog Common Footer // --><div id="footer"><p>Powered by <a href="http://blog.livedoor.com/" title="ライブドアブログ">ライブドアブログ</a></p></div><!-- // Blog Common Footer --><!-- 共通フッター表示 -->
+    </footer>
+    <!-- /ブログのフッター ここまで-->
+
+</div>
+<!-- コンテンツエリア ここまで-->
+
+
+<!-- Add Body Tag // --><script type="text/javascript">
+(function(){
+  var traq = document.createElement('script'); traq.type = 'text/javascript'; traq.async = true;
+  traq.src = 'https://t.blog.livedoor.jp/u.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(traq, s);
+})();
+</script>
+<noscript>
+<img src="https://t.blog.livedoor.jp/u.gif" alt="traq">
+</noscript>
+<!-- // Add Body Tag -->
+
+<script>
+(function($) {
+  var cookieName = 'livedoor-blog-gdpr-agreed';
+  $(document).ready(function() {
+    if (navigator.userAgent.match(/https?:\/\//)) {
+      // UA に http:// or https:// があればスルー
+      return;
+    }
+
+    var agreed = document.cookie.indexOf(cookieName) >= 0;
+    if (agreed) {
+      // 同意済み Cookie があればスルー
+      return;
+    }
+
+    var banner = $('<div>');
+    banner.attr('id', 'gdpr-banner');
+    var label = $('<p>');
+    label.html('\
+      ライブドアブログでは広告のパーソナライズや効果測定のためクッキー(cookie)を使用しています。<br>\
+      このバナーを閉じるか閲覧を継続することでクッキーの使用を承認いただいたものとさせていただきます。<br>\
+      また、お客様は当社パートナー企業における所定の手続きにより、クッキーの使用を管理することもできます。<br>\
+      詳細は<a href="http://www.livedoor.com/rules/" target="_blank" style="color:#023780;text-decoration:underline;">ライブドア利用規約</a>をご確認ください。\
+    ');
+    banner.append(label);
+
+    var closeButton = $('<button>');
+    closeButton.attr('type', 'button');
+    closeButton.html('閉じる');
+    closeButton.on('click', function() {
+      $('#gdpr-banner').hide();
+      document.cookie = cookieName + '="1";expires=Tue, 31-Dec-2037 00:00:00 GMT;path=/;';
+    });
+    banner.append(closeButton);
+
+    banner.css({
+      'position': 'fixed',
+      'left': '0',
+      'right': '0',
+      'bottom': '0',
+      'background': '#dcdcdc',
+      'color': '#000',
+      'padding': '20px',
+      'text-align': 'center',
+      'box-shadow': '0 -2px 2px rgba(102, 102, 102, 0.86)',
+      'z-index': '2147483647',
+    });
+    label.css({
+      'display': 'inline-block',
+      'text-align': 'left',
+      'font-size': '14px',
+      'color': '#000',
+      'vertical-align': 'middle',
+      'line-height': '1.5',
+    });
+    closeButton.css({
+      'display': 'inline-block',
+      'color': '#fff',
+      'border': 'none',
+      'font-size': '14px',
+      'padding': '4px 40px',
+      'margin-left': '40px',
+      'background': '#535353',
+      'vertical-align': 'middle',
+    });
+
+    var script = document.createElement('script');
+    script.type = "text/javascript";
+    script.src = "https://ipcheck.blogsys.jp/check.js?t=" + Date.now();
+    script.onerror = function() {
+      $('body').append(banner);
+    };
+    document.body.appendChild(script);
+  });
+})(jQuery);
+</script>
+</body>
+</html>

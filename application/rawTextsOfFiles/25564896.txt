@@ -1,0 +1,1450 @@
+<!DOCTYPE html>
+<html lang="ja" itemscope itemtype="http://schema.org/Blog">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=1190">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" /><link rel="shortcut icon" type="image/vnd.microsoft.icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/favicon.ico" /><link rel="icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/3ab45ab0.jpg" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/template.css?v=20190826" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/heart.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/icon.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="http://pathtimeblog.com/site.css?_=20190831163247" type="text/css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://pathtimeblog.com/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://pathtimeblog.com/atom.xml" /><link rel="canonical" href="http://pathtimeblog.com/archives/25564896.html" /><link rel="openid.server" href="http://auth.livedoor.com/openid/server" /><link rel="openid.delegate" href="http://profile.livedoor.com/shukatu2ch/" />
+<link rel="mixi-check-alternate" media="mixi-device-mobile" type="text/html" href="http://blog.m.livedoor.jp/shukatu2ch/article/25564896" />
+<link rel="mixi-check-alternate" media="mixi-device-smartphone" type="text/html" href="http://pathtimeblog.com/archives/25564896.html" />
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/jquery-1.11.1.min.js"></script>
+
+<meta name="description" content="1: 以下、5ちゃんねるからVIPがお送りします  2020/05/16(土) 22:06:45.124 ID:EBP/YKix0
+  勤続8年経過するのに平社員  
+" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="大手企業勤めだが全然出世できない : 2ch就活まとめ" />
+<meta property="og:description" content="1: 以下、5ちゃんねるからVIPがお送りします  2020/05/16(土) 22:06:45.124 ID:EBP/YKix0  勤続8年経過するのに平社員  " />
+<meta property="og:url" content="http://pathtimeblog.com/archives/25564896.html" />
+<meta property="og:site_name" content="2ch就活まとめ" />
+<meta property="og:locale" content="ja_JP" />
+<meta property="og:image" content="https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png" />
+
+<meta name="twitter:site" content="@2chshukatu" />
+<meta name="twitter:title" content="大手企業勤めだが全然出世できない : 2ch就活まとめ" />
+<meta name="twitter:description" content="1: 以下、5ちゃんねるからVIPがお送りします  2020/05/16(土) 22:06:45.124 ID:EBP/YKix0  勤続8年経過するのに平社員  " />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image:src" content="https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png" />
+<link rel="alternate" media="handheld" type="application/xhtml+xml" href="http://blog.m.livedoor.jp/shukatu2ch/" />
+
+<title>大手企業勤めだが全然出世できない : 2ch就活まとめ</title>
+<script src="https://parts.blog.livedoor.jp/js/emoji.js"></script>
+<script src="https://parts.blog.livedoor.jp/js/misc.js?v=20190710"></script>
+<!--[if lt IE 9]>
+<script src="https://parts.blog.livedoor.jp/js/html5.js"></script>
+<![endif]-->
+<script src="https://parts.blog.livedoor.jp/js/usr/import.js"></script>
+<script>
+$(function(){
+  if($('.header-inner01').children('#blog-header-image').length) {
+    $(window).bind('load', function() {
+      var title1 = $('#blog-header-image').height();
+      var title2 = $('.header-menu').height();
+      var headerHeight = title1-title2-15;
+      $("hgroup").css("height", headerHeight);
+    });
+  }
+});
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-3064778048578600",
+          enable_page_level_ads: true
+     });
+</script>
+
+<!-- Add Google Analytics Tag // -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-113178806-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- // Add Google Analytics Tag -->
+
+
+<meta name="referrer" content="always">
+<meta name="referrer" content="unsafe-url">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1638469-45"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+var blogId = '';
+if (blogId) {
+  gtag('config', 'UA-1638469-45', {
+    'custom_map': {'dimension1': 'blog_id'},
+    'blog_id': blogId
+  });
+} else {
+  gtag('config', 'UA-1638469-45');
+}
+</script>
+
+</head>
+<body class="default_2012 page-article layout-2col sidebar-right"><script type="text/javascript"><!--
+var ld_blog_vars = {
+  provider_id : '1',
+  provider_name : 'livedoor',
+  id : '7836571',
+  name : 'shukatu2ch',
+  charset : 'utf8',
+  url : 'http://pathtimeblog.com/',
+  title : '2ch就活まとめ',
+  blog_design: {
+      version: 1
+  },
+  blog_category: {
+    id: '243',
+    permalink: 'https://blog.livedoor.com/category/243/',
+    name: 'まとめ(総合) > まとめ',
+    is_adult : 0,
+    is_gambling : 0,
+    hierarchy: [{ id: '431', name: 'まとめ(総合)', permalink: 'https://blog.livedoor.com/category/431/' },{ id: '243', name: 'まとめ', permalink: 'https://blog.livedoor.com/category/243/' }]
+  },
+  current_page : {
+    type : 'article',    page : ''
+  },
+  articles : [ {
+       id : '25564896',
+       permalink : 'http://pathtimeblog.com/archives/25564896.html',
+       title : '大手企業勤めだが全然出世できない',
+       categories : [ { id:'219473', name:'社会人生活', permalink:'http://pathtimeblog.com/archives/cat_219473.html' }, { id:'', name:'', permalink:'' } ],
+       date : '2020-07-24 11:30:00'
+}   ]
+};
+//-->
+</script><div id="analyzer_tags" style="display:none">
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/c2.js?v=20191010"></script>
+<script type="text/javascript">blog_counter('shukatu2ch', 7836571, 'http://pathtimeblog.com/')</script>
+</div><script type="text/javascript" src="https://parts.blog.livedoor.jp/js/smartphone.js?v=20200824"></script>
+<script type="text/javascript" src="http://pathtimeblog.com/settings/header.js?v=20190705"></script><script type="text/javascript" src="http://pathtimeblog.com/settings/ad.js"></script>
+<script type="text/javascript">
+var palette_src = 'https://parts.blog.livedoor.jp/img/emoji/3/palette.png';
+if (typeof IMAGE_CACHE == 'object' && IMAGE_CACHE['emoji_palette']) IMAGE_CACHE['emoji_palette'].src = palette_src;
+</script>
+
+<!-- Blog Common Header // -->
+<!-- // Blog Common Header -->
+<!-- 共通ヘッダー表示 -->
+
+<!-- ブログタイトル はじまり-->
+<header id="blog-header">
+
+    <div id="blog-header01">
+
+        <div class="header-inner01 show-image hide-text">
+
+            <hgroup>
+                <!--ブログタイトル　はじまり-->
+                <h1 id="blog-title"><a href="http://pathtimeblog.com/">2ch就活まとめ</a></h1>
+                <!--ブログタイトル　ここまで-->
+                <!--ブログ説明　はじまり-->
+                <h2 id="blog-description">新卒・転職・社会人生活などを含め、就活・就職に関することをまとめてます。</h2>
+                <!--ブログ説明　ここまで-->
+            </hgroup>
+
+            <a href="http://pathtimeblog.com/"><img src="https://resize.blogsys.jp/727db0f9da9f42eb7d26b703338c30b3eef0157c/trim2/0x243_94p_1200x388/http://livedoor.blogimg.jp/shukatu2ch/imgs/0/5/055bbafe.jpg" id="blog-header-image" /></a>
+
+            <div id="blog-header02">
+                <div class="header-inner02">
+                    <ul class="header-menu">
+                        <li><a href="http://pathtimeblog.com/">HOME</a></li><!--メニューを入れてください-->
+                        <li class="ldb_menu-item-url"><a href="http://blog.livedoor.jp/shukatu2ch/archives/6126504.html">ABOUT</a></li><!--メニューを入れてください-->
+                        <li><a href="mailto:shukatumatome@gmail.com">お問い合わせ</a></li><!--メニューを入れてください-->
+                    </ul>
+                    <ul class="header-sarch">
+                        <li><a href="http://twitter.com"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_twitter.png" alt="Twitter" /></a></li><!--Twitter-->
+                        <li><a href="http://pathtimeblog.com/index.rdf"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_rss.png" alt="RSS" /></a></li><!--RSS-->
+                        <li>
+                        <form action="http://pathtimeblog.com/search" method="GET" style="padding:0;margin:0px;">
+                        <input type="TEXT" name="q" class="sf">
+                        <input type="SUBMIT" value="検索" class="sfbtn">
+                        </form>
+                        </li><!--検索窓-->
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</header>
+<!-- /ブログタイトル ここまで-->
+
+
+<!-- コンテンツエリア はじまり-->
+<div id="wrapper">
+
+    <!-- コンテンツ全体 はじまり-->
+    <div id="container">
+
+        <!-- 相互RSS はじまり-->
+        <div class="rss-blogroll">
+
+            <!-- 相互RSSを設置する場合の注意事項
+                コードに含まれる以下のCSSは外して設置してください
+                http://blogroll.livedoor.net/css/default2.css -->
+
+                 <!-- 相互RSSのコード ひとつ目-->
+            <script type="text/javascript">
+            <!--
+                   var blogroll_channel_id = 255242;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード ふたつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 265945;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード みっつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 255442;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href= />
+        </div>
+        <!-- 相互RSS ここまで-->
+
+        <!-- コンテンツの箱の中　真ん中728px はじまり-->
+        <div class="main-container">
+            <div class="main-column-inner">
+<br>
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+<br>
+                <!-- メッセージボード -->
+                 
+
+
+
+                <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://pathtimeblog.com/archives/25564896.html"
+    trackback:ping="http://trackback.blogsys.jp/livedoor/shukatu2ch/25564896"
+    dc:title="大手企業勤めだが全然出世できない"
+    dc:identifier="http://pathtimeblog.com/archives/25564896.html"
+    dc:subject="社会人生活"
+    dc:description="1: 以下、5ちゃんねるからVIPがお送りします  2020/05/16(土) 22:06:45.124 ID:EBP/YKix0  勤続8年経過するのに平社員  "
+    dc:creator="shukatu2ch"
+    dc:date="2020-07-24T11:30:00+09:00" />
+</rdf:RDF>
+-->
+<div id="ad_rs" class="ad_rs_b"></div><!-- 記事のトラックバック・オートディスカバリー -->
+
+
+                <!-- 記事 はじまり-->
+                <article class="article first-article" itemscope itemtype="http://schema.org/BlogPosting">
+
+                    <!-- 記事タイトル　記事下の情報　はじまり-->
+                    <header class="article-header">
+
+                        <h1 class="article-title" itemprop="name"><a href="http://pathtimeblog.com/archives/25564896.html" itemprop="url">大手企業勤めだが全然出世できない</a></h1><!-- 記事のタイトル -->
+
+                            <!-- 記事下の記事情報 はじまり-->
+                            <div class="article-header-inner">
+
+                                <!-- 記事情報の上の行 はじまり-->
+                                <div class="article-header-top">
+                                <p class="article-header-date"><time datetime="2020-07-24T11:30:00+09:00" pubdate="pubdate">2020年07月24日</time></p>
+                                
+                                <ul class="article-header-category">
+                                    <li>
+                                        <dl><dt>カテゴリ:</dt><dd class="article-category1"><a href="http://pathtimeblog.com/archives/cat_219473.html">社会人生活</a></dd></dl>
+                                    </li>
+                                </ul>
+                                
+
+                                <!-- 記事の評価アイコン はじまり-->
+                                
+                                <!-- 記事の評価アイコン ここまで-->
+
+                                </div>
+                                <!-- 記事情報の上の行 ここまで-->
+                                <!-- ソーシャルボタン　はじまり -->
+                                <ul class="article-social-btn">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/25564896.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/25564896.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="大手企業勤めだが全然出世できない - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=%E5%A4%A7%E6%89%8B%E4%BC%81%E6%A5%AD%E5%8B%A4%E3%82%81%E3%81%A0%E3%81%8C%E5%85%A8%E7%84%B6%E5%87%BA%E4%B8%96%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/25564896.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/25564896.html" data-text="大手企業勤めだが全然出世できない - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F25564896.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                                </ul>
+                                 <!-- ソーシャルボタン　ここまで -->
+                            </div>
+                            <!-- 記事下の記事情報 ここまで-->
+
+                    </header>
+                    <!-- 記事タイトル　記事下の情報　ここまで-->
+
+
+
+                    <!-- 記事本文 はじまり-->
+                    <div class="article-body">
+                        <div class="article-body-inner">
+<!-- 参加している共通テーマの表示 -->
+                        <font size="2"></font><div class="t_h"><font size="2">1: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:06:45.124 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:EBP/YKix0</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  勤続8年経過するのに平社員  </div><br>
+<!-- Generated by まとめくす (http://2mtmex.com/) --><!-- 本文 --><div class="article-body-more" id="more"><font size="2"><div class="t_h" >4: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:07:28.509 ID:rPsXwAB0a</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  大手は学歴ないと無理ゲ  </div><br />
+<font size="2"><div class="t_h" >5: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:07:37.485 ID:my6dGmvaa</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  上司への媚び売りが足りない  </div><br />
+<font size="2"><div class="t_h" >6: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:08:00.475 ID:dQhBExim0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  出世したい奴の気が知れない  </div><br />
+<font size="2"><div class="t_h" >7: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:08:05.424 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:EBP/YKix0</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  せめて主任になりたい <br /> 名刺交換の時恥ずかしいわ  </div><br />
+<font size="2"><div class="t_h" >8: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:08:14.330 ID:mtM08/8Qd</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;1</span> <br /> 8年で平社員とか今まで何してたの？ <br /> もう出世は完全に閉ざされてるじゃん  </div><br />
+<font size="2"><div class="t_h t_i" >12: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:10:00.230 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:EBP/YKix0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;8</span> <br /> 高卒でも課長になれるから…（震え声）  </div><br />
+<font size="2"><div class="t_h t_i" >59: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:32:49.330 ID:m94WRsqc0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;8</span> <br /> ワイ18年目やけど平やで？  </div><br />
+<font size="2"><div class="t_h" >9: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:08:31.090 ID:SDGHgnaq0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  だいたい出世するやつは入社時に決まってるからな  </div><br />
+<font size="2"><div class="t_h" >11: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:08:58.571 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:EBP/YKix0</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  施主だからわりとちやほやされたりするのに平社員は恥ずかしいわ  </div><br />
+<font size="2"><div class="t_h" >13: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:10:18.532 ID:1JJdv5Ld0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  中小だけど2年で主任、5年で係長、 <br /> 今8年30歳で課長で～すｗｗｗｗ <br /> でも年収500万で～すｗｗｗｗｗｗ  </div><br />
+<font size="2"><div class="t_h t_i" >14: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:10:45.388 ID:gOILv6aT0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;13</span> <br /> わろた  </div><br />
+<font size="2"><div class="t_h t_i" >16: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:12:07.304 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:EBP/YKix0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;13</span> <br /> 30歳平社員で600万だぞ…中小やべぇな  </div><br />
+<font size="2"><div class="t_h t_i" >55: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:31:16.586 ID:/4+2eaMUp</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;13</span> <br /> 中小やけどワイの父ちゃん37で部長なったわ <br /> まあブラックすぎて他の同期半分以上辞めたかららしいけど  </div><br />
+<font size="2"><div class="t_h t_i" >92: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:48:35.515 ID:2Aw/8oWg0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;13</span> <br /> その感じだと部長になっても残業代と相殺されて年収変わらなさそうだな  </div><br />
+<font size="2"><div class="t_h" >15: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:11:04.543 ID:FZGICqUA0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  自分超大手だし、出世のレベルをどう取るかだがうちの会社には30歳以下の役職はいない  </div><br />
+<font size="2"><div class="t_h t_i" >18: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:13:11.902 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:EBP/YKix0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;15</span> <br /> マジか <br /> 主任もいない？  </div><br />
+<font size="2"><div class="t_h t_i" >34: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:19:16.163 ID:FZGICqUA0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;18</span> <br /> 5、6人の規模のリーダーは40歳位かな <br /> 1番若い主任がパナソニックから引き抜かれてきた中途採用で35半ばくらいの人  </div><br />
+<font size="2"><div class="t_h" >17: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:12:41.422 ID:qIFQBqsr0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  むしろ大手で30歳で管理職だったら尊敬するわ  </div><br />
+<font size="2"><div class="t_h" >19: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:14:01.560 ID:JJStW/NZ0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  俺も来年から超大手だけど学歴ウンコだから出世できる気がしねーわ  </div><br />
+<font size="2"><div class="t_h t_i" >24: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:15:52.009 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:EBP/YKix0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;19</span> <br /> 入れる時点で基準は満たしてるだろ <br /> お前の活躍次第だろ  </div><br />
+<font size="2"><div class="t_h" >23: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:15:51.431 ID:dp2GTiHsa</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  中小だけど役職つくのは早くて40だわ <br /> 主任とか係長なんていない <br /> 次長から  </div><br />
+<font size="2"><div class="t_h t_i" >25: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:16:39.138 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:EBP/YKix0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;23</span> <br /> 次長って課長の上だろ… <br /> お前の会社大丈夫か？  </div><br />
+<font size="2"><div class="t_h t_i" >33: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:18:53.343 ID:dp2GTiHsa</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;25</span> <br /> 部しかないから課長もいないよ <br /> 役職なんていらなくね？ <br /> ちな28歳で年収650万  </div><br />
+<font size="2"><div class="t_h t_i" >44: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:24:41.562 ID:5ks4lx1va</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;25</span> <br /> 俺がいたとこも課長まではないな <br /> 部長からだ  </div><br />
+<font size="2"><div class="t_h" >26: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:17:10.781 ID:t1OtcYwea</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  8年で管理職じゃないのは世間的に見れば普通だと思うけど <br /> 社内等級とかも同期から遅れてるの？  </div><br />
+<font size="2"><div class="t_h t_i" >30: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:18:12.418 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:EBP/YKix0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;26</span> <br /> いや管理職じゃなくてもさぁ…？ <br /> 主任や係長、課長代理とかあるやん  </div><br />
+<font size="2"><div class="t_h" >27: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:17:13.754 ID:rPsXwAB0a</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  役職より昇給の方が大事 <br /> 鬼畜な所は名前だけ役職つけて残業代消してくるからな  </div><br />
+<font size="2"><div class="t_h" >36: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:20:30.657 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:EBP/YKix0</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  なんだろ <br /> 箔がつかないんだよな <br />  <br /> こっちが発注側だからまぁいいだろうんだけど相手は次長とか部長クラスが出てきて <br /> 自分は平社員ってわりとしんどい  </div><br />
+<font size="2"><div class="t_h t_i" >41: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:24:03.888 ID:dp2GTiHsa</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;36</span> <br /> なにがしんどいのかわからん <br /> 平だけど取引先の役員と面談とか会食とか普通にあるわ  </div><br />
+<font size="2"><div class="t_h t_i" >47: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:27:39.905 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:EBP/YKix0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;41</span> <br /> いや～きついっす <br /> 気を遣うわ <br /> 自分の親父ぐらいの年齢の人が会食で飲み物頼んでくれたりな <br /> せめて役職が伴ってればいいが平社員が部長クラスに接待させるってしんどい  </div><br />
+<font size="2"><div class="t_h t_i" >46: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:26:48.703 ID:BL4imZ1K0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;36</span> <br /> 受注先に必要充分な依頼関係の資料を渡し、質問にしっかり答えられれば箔が付くよ <br /> いくら肩書きがあっても、いい加減な資料を渡したり、質問に答えられなかったら駄目だろ  </div><br />
+<font size="2"><div class="t_h t_i" >49: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:28:14.120 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:EBP/YKix0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;46</span> <br /> いや、能力があるなんてそんなの当たり前の話だろ  </div><br />
+<font size="2"><div class="t_h t_i" >65: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:34:51.612 ID:BL4imZ1K0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;49</span> <br /> その当たり前のことができているのなら、気にしたくてもいいのでは <br />  <br /> そういえば取引先との接待は全くない <br /> というか禁止されている  </div><br />
+<font size="2"><div class="t_h" >37: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:21:38.550 ID:FZGICqUA0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  なんか見てたら～代理だのえらく役職多いけどホストでもしてるのか？  </div><br />
+<font size="2"><div class="t_h t_i" >40: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:23:49.797 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:EBP/YKix0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;37</span> <br /> 東証一部上場です  </div><br />
+<font size="2"><div class="t_h t_i" >42: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:24:24.781 ID:m/MTZ9+20</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;40</span> <br /> 全部上場してる会社に転職しろ  </div><br />
+<font size="2"><div class="t_h t_i" >130: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 23:24:36.158 ID:fTy4W9ZyM</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;42</span> <br /> 草  </div><br />
+<font size="2"><div class="t_h" >38: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:22:22.903 ID:Ugu0I26c0222222</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  役職と職位って別になってるだろ <br /> 役職は持ってなくても職位は上がってるだろ <br /> それで満足しろ <br /> 上が出ていかない限り下が上ることは出来ないし、上の数より下の数のほうが多いんだからアタリマエ  </div><br />
+<font size="2"><div class="t_h" >39: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:22:35.573 ID:8EjOILZva</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  国立理系修士なのに平社員だよ <br /> しかも同じ大学の学部卒が俺より先に出世した  </div><br />
+<font size="2"><div class="t_h" >43: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:24:37.921 ID:GCWIVqHx0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  超大手のうちには主任という名前自体は存在しないけど <br /> 30歳前後でいわゆる主任の役割に近いことやってるらしい <br /> 8年ならそんなもんじゃないの？  </div><br />
+<font size="2"><div class="t_h" >45: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:26:02.136 ID:SQ2nHV6ka</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  出世なんかしたって責任重くなる割に給料大して上がらないとか良いことないやん  </div><br />
+<font size="2"><div class="t_h t_i" >50: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:29:09.513 ID:dp2GTiHsa</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;45</span> <br /> うちの会社ヒラなのに部長より給料高いって噂のお局様いるわ <br /> 役がついてないから残業単価がたいへんなことになってるらしいｗ  </div><br />
+<font size="2"><div class="t_h" >51: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:29:23.339 ID:ylKyRKvE0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  大企業の出世は上に気に入られるかどうかしかないからな <br />  <br /> 無能でも言うことさえ聞いてれば上には行ける  </div><br />
+<font size="2"><div class="t_h" >52: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:29:39.460 ID:KnrjJcU1d</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  うちも若い主任で35とかそのへん  </div><br />
+<font size="2"><div class="t_h" >53: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:29:51.445 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:EBP/YKix0</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  名刺に保有資格はやたらあるのに役職ないというのが恥ずかしいわ  </div><br />
+<font size="2"><div class="t_h" >54: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:31:09.768 ID:m/MTZ9+20</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  ここまで読む限り無能なんやろな <br /> 中身を気にしろよ…  </div><br />
+<font size="2"><div class="t_h" >60: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:32:51.940 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:EBP/YKix0</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  35以降は係長、課長補佐、課長代理、とかとんとん拍子なんだがなぁ  </div><br />
+<font size="2"><div class="t_h" >61: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:33:09.282 ID:UYUPCHqPM</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  肩書きに執着しすぎで気持ち悪いな <br /> 部長になれるなら年収下がっても喜びそう  </div><br />
+<font size="2"><div class="t_h t_i" >62: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:33:51.909 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:EBP/YKix0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;61</span> <br /> 部長になるのは相当のやり手だからまぁ辞めるまでには課長程度にはなりたいよね <br /> 退職金全然違うし  </div><br />
+<font size="2"><div class="t_h" >63: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:34:11.791 ID:rPsXwAB0a</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  そもそも8年も勤めててまだ将来が見えてないっていうのがヤバい  </div><br />
+<font size="2"><div class="t_h t_i" >67: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:35:31.148 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:EBP/YKix0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;63</span> <br /> 部署によるからなんとも言えんわ  </div><br />
+<font size="2"><div class="t_h" >64: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:34:46.027 ID:dc2AJeWf0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  売上3兆位のメーカーだけど最速で主任が34歳で課長級の主席が39歳だったかな <br /> そもそも出世したい人がいないんだが  </div><br />
+<font size="2"><div class="t_h" >68: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:36:54.899 ID:T1zLYjZ10</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  大企業なんて平でも相当貰えるだろ <br />  <br /> 俺なんか一生平で良いと思ってるけどな  </div><br />
+<font size="2"><div class="t_h t_i" >69: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:37:31.010 ID:ujnI25990</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;68</span> <br /> リストラ食らうわｗｗｗ  </div><br />
+<font size="2"><div class="t_h t_i" >75: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:40:00.703 ID:T1zLYjZ10</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;69</span> <br /> 会社都合でリストラなんてそうそう出来ねーよ <br />  <br /> 特に大企業なんか労働組合強いから平社員一人辞めさせるのにも相当退職金詰んで早期退職って形にしないと無理  </div><br />
+<font size="2"><div class="t_h t_i" >81: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:42:18.111 ID:ujnI25990</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;75</span> <br /> 馬鹿だなあブラック部署に行かされたり未経験の部署に行かされたり <br /> リストラ部屋に入らされたりそんなに甘くねえよ  </div><br />
+<font size="2"><div class="t_h" >70: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:37:39.846 ID:lshCP5TwM</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  ワイの会社は25.6で主任、28くらいで係長、34くらいから課長やな <br /> 一応大手やけどこんなもんやろ？  </div><br />
+<font size="2"><div class="t_h t_i" >74: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:39:58.281 ID:dp2GTiHsa</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;70</span> <br /> めちゃくちゃ上詰まってそう  </div><br />
+<font size="2"><div class="t_h" >71: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:37:54.403 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:EBP/YKix0</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  一生平はない <br /> 退職金ダンチだろ  </div><br />
+<font size="2"><div class="t_h" >72: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:38:15.063 ID:gJp4A/mTa</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  たしかに30で600万はすくねーな <br /> 役職手当に憧れる気持ちもわかる  </div><br />
+<font size="2"><div class="t_h" >73: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:39:15.545 ID:Aalm8Me70</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  大手勤めだけど役職っぽい役職が部長からしかないな <br /> 部長もあんまり部長って認識されてない <br /> 大半が平だ  </div><br />
+<font size="2"><div class="t_h" >78: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:41:12.667 ID:g704pfhX0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  うちも中小で40前後で役職は課長から <br /> 自分は30歳平社員で年収750 <br /> 中途半端に責任負わされるわ残業代出なくなって年収下がるわで絶対出世したくないけどな  </div><br />
+<font size="2"><div class="t_h t_i" >79: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:41:50.632 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:EBP/YKix0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;78</span> <br /> 退職金が段違いだぞ～っと  </div><br />
+<font size="2"><div class="t_h" >80: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:42:09.830 ID:GCWIVqHx0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  30歳ちょうどで600越えは相当多くない？どんだけ残業してるの？  </div><br />
+<font size="2"><div class="t_h t_i" >84: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:43:40.213 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:EBP/YKix0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;80</span> <br /> 月20h前後だが <br /> そんなに多くねーろ  </div><br />
+<font size="2"><div class="t_h" >82: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:42:46.429 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:EBP/YKix0</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  管理職になりたくないとかいうのが意味わからん <br /> 実務なんて部下にやらせときゃいいんだよ  </div><br />
+<font size="2"><div class="t_h t_i" >85: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:44:46.274 ID:FZGICqUA0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;82</span> <br /> 一気に嘘臭くなるな <br /> ほんとに大手か？ <br /> もしくは大手だけど工場勤務とかいうオチ？  </div><br />
+<font size="2"><div class="t_h t_i" >86: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:45:08.485 ID:Aalm8Me70</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;82</span> <br /> 実務が好きな人も多いでしょ  </div><br />
+<font size="2"><div class="t_h t_i" >89: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:46:58.458 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:EBP/YKix0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;86</span> <br /> いるかもしれんが給与と年齢に見合わんだろ… <br /> たまに高齢万年係長がいるが総じて独身だわ <br /> そういう人には向いてるのかもな  </div><br />
+<font size="2"><div class="t_h t_i" >91: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:48:22.576 ID:Aalm8Me70</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;89</span> <br /> 金のために仕事してるの？  </div><br />
+<font size="2"><div class="t_h t_i" >93: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:49:31.356 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:EBP/YKix0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;91</span> <br /> 当たり前じゃねぇか <br /> 金もらえなかったら仕事する意味ねぇだろ  </div><br />
+<font size="2"><div class="t_h t_i" >104: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:55:22.015 ID:Aalm8Me70</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;93</span> <br /> いやもちろん金は貰うのも大事だけどそれだけじゃないでしょ <br /> 家族を養える分さえあれば別によくて、そんなことより仕事を通して叶えたいことや実現したいこと、世に打ち出したいこと、そういうのを理由に働き方を選ぶ人も会社員にだってたくさんいるよ <br />  <br /> 少なくとも俺は一生遊べるだけの金があっても今の仕事は続けるし  </div><br />
+<font size="2"><div class="t_h t_i" >108: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:57:34.916 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:EBP/YKix0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;104</span> <br /> そんな綺麗事はどうでもいい <br /> 生きるために仕事してるんだよ <br /> 少しでも家族に不自由を感じさせない暮らしをしたいから働くんだよ <br /> 金はあればあるだけいい <br /> あって困ることはないけどなくて困ることなんて山ほどある  </div><br />
+<font size="2"><div class="t_h t_i" >111: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 23:01:48.616 ID:NI+baFJsa</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;108</span> <br /> まあ好きでもないことしか仕事にできなかった凡人リーマンはそういう価値になるしかないわな <br /> 死ぬのが怖いだけの奴隷 <br /> どうぞ毎日の生活を消費するだけの人生で家族でも大切にしてくださいw  </div><br />
+<font size="2"><div class="t_h t_i" >113: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 23:04:13.395 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:EBP/YKix0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;111</span> <br /> いや、むしろ死んだらローンなくなるからそっちの方がいいわｗ <br /> やりたい仕事とかないから別に今の仕事でもいいかな <br /> その分プライベートでやりたいことするし  </div><br />
+<font size="2"><div class="t_h t_i" >117: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 23:07:44.369 ID:NI+baFJsa</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;113</span> <br /> 「自分でも就ける範囲内で」やりたい仕事がないんだろ？ <br /> 無能のくせにプライド高いな <br /> 色々諦めた結果それでも死ぬのが怖いから社会底辺、凡人リーマンとして生きるために生きる豚だよお前  </div><br />
+<font size="2"><div class="t_h t_i" >120: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 23:11:00.999 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:EBP/YKix0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;117</span> <br /> う～ん <br /> ギタリストになりたかったけと自分に才能がないのわかってるから <br /> 勉強頑張って大手に入っただけだよ <br /> それ以上でも以下でもない <br /> 結果的にそれでよかったと思ってるよ <br /> 何不自由なく生活できてるし  </div><br />
+<font size="2"><div class="t_h" >95: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:50:22.736 ID:g704pfhX0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  中小だと人手不足で管理職は管理も実務も任されるよ <br /> まあ案の定実務に負われて全然管理できてないけど  </div><br />
+<font size="2"><div class="t_h" >96: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:50:56.091 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:EBP/YKix0</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  大手の管理者と中小の管理者は全然格が違うだろ…  </div><br />
+<font size="2"><div class="t_h" >98: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:52:26.731 ID:jjbYIDEMM</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  能力が伴って気に入られれば出世できるよ  </div><br />
+<font size="2"><div class="t_h" >99: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:52:49.300 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:EBP/YKix0</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  中小の社長が出向いても最悪担当レベルが対応するとかある世界だぞ  </div><br />
+<font size="2"><div class="t_h t_i" >107: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:57:15.593 ID:dp2GTiHsa</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;99</span> <br /> んなの銀行じゃ当たり前だ  </div><br />
+<font size="2"><div class="t_h t_i" >109: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:59:02.434 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:EBP/YKix0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;107</span> <br /> 銀行を取引先と捉えるなアホｗ  </div><br />
+<font size="2"><div class="t_h t_i" >110: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 23:01:19.658 ID:dp2GTiHsa</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;109</span> <br /> いや取引先だけど…  </div><br />
+<font size="2"><div class="t_h" >103: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:55:13.347 ID:v8vbRwaU0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  大企業はリストラじゃなくて出向だろ <br /> それで出向先もろともポイ捨て  </div><br />
+<font size="2"><div class="t_h t_i" >105: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:56:04.463 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:EBP/YKix0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;103</span> <br /> 出向後の転籍だな <br /> 完全にルート外れるけど子会社ではいいポスト確保されるからおやまのボス猿にはなれる  </div><br />
+<font size="2"><div class="t_h t_i" >106: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 22:57:06.847 ID:v8vbRwaU0</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;105</span> <br /> いいポストは親企業とつながってる間だけだぞ <br /> メリットが消えたら逆に立場が危うくなる  </div><br />
+<font size="2"><div class="t_h" >114: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 23:05:02.550 ID:+b/YofMJM</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  そんなに早く役付きになりたいなら中小いけば？ <br /> 大手より待遇いい中小なんていくらでもあるぞ  </div><br />
+<font size="2"><div class="t_h t_i" >115: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 23:06:00.828 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:EBP/YKix0</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;114</span> <br /> いやいや… <br /> さすがに大手から中小に転職はきついっす…  </div><br />
+<font size="2"><div class="t_h t_i" >118: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 23:08:22.428 ID:+b/YofMJM</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;115</span> <br /> なんで？ <br /> そんなネームバリューが大事か？  </div><br />
+<font size="2"><div class="t_h" >131: <span style="color: rgb(124, 199, 84);">以下、5ちゃんねるからVIPがお送りします</span> <span style="color: gray;"> 2020/05/16(土) 23:25:33.523 ID:2wjxbQtY0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  ラージ70企業勤めだけど課長代理までは横並び出世だわ  </div><br />
+<br>
+<p style="color:gray;text-align:right;"><font size="2">引用元： <a href="https://hebi.5ch.net/test/read.cgi/news4vip/1589634405/" target="_blank">https://hebi.5ch.net/test/read.cgi/news4vip/1589634405/</font></a></p>
+<br>
+
+</div>
+                        
+<!-- タグのリスト表示セット -->
+                        </div>
+<br>
+
+
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=2Z8HPD+9K4KFM+34FI+NUES2" alt="">
+                    </div>
+                    <!-- 記事本文 ここまで-->
+
+
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HV7V6" alt="">
+
+
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www26.a8.net/svt/bgt?aid=190821728180&wid=001&eno=01&mid=s00000011866017004000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" alt=""></td>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+3257OY+3Y6M+601S1" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www24.a8.net/svt/bgt?aid=190821728185&wid=001&eno=01&mid=s00000018427001008000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=35LYZK+3257OY+3Y6M+601S1" alt=""></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+
+
+                    <!-- 記事フッター、コメント、ソーシャルボタン -->
+                    <footer class="article-footer">
+                        <div class="article-footer-comment">
+                            
+                                <a href="http://pathtimeblog.com/archives/25564896.html#comments">0コメント</a>
+                            
+                        </div>
+                        <div class="article-social-btn">
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HVFKY" alt="">
+
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/25564896.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/25564896.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="大手企業勤めだが全然出世できない - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=%E5%A4%A7%E6%89%8B%E4%BC%81%E6%A5%AD%E5%8B%A4%E3%82%81%E3%81%A0%E3%81%8C%E5%85%A8%E7%84%B6%E5%87%BA%E4%B8%96%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/25564896.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/25564896.html" data-text="大手企業勤めだが全然出世できない - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F25564896.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                        </div>
+                    </footer>
+                    <!-- /記事フッター、コメント、ソーシャルボタン -->
+
+
+                    <!-- カテゴリの最新記事表示 はじまり-->
+                    <div class="article-sub-category">
+                        <div id="ldblog_related_articles_0a2b80f5">
+
+<div class="related-articles ldblog_related_articles_0a2b80f5" data-category-id="219473" data-article-rows="5">
+<h3>「社会人生活」カテゴリの最新記事</h3>
+<ul id="ldblog_related_articles_0a2b80f5_219473"></ul>
+</div>
+</div>
+<script type="text/html" id="ldblog_related_articles_0a2b80f5_tmpl">
+<% for(var i=0,l=articles.length;i<l;i++) {%><% if(i>=rows) break; %>
+<li><a href="<%=articles[i].permalink%>"><%=articles[i].title%></a></li>
+<% } %>
+</script>
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/related_articles.js?t=20180221"></script>
+<script type="text/javascript">
+(function(){
+RelatedArticles.load('ldblog_related_articles_0a2b80f5', '25564896');
+})();
+</script>
+<!-- 関連記事の表示 -->
+                    </div>
+                    <!-- /カテゴリの最新記事表示 ここまで-->
+
+
+
+
+                    <div id="ad2"></div><!-- 広告表示 -->
+
+                    <!-- 記事オプション はじまり-->
+                    <div class="article-option" id="article-options">
+
+                        <!-- コメントエリア　はじまり -->
+                        
+                        <section id="comments">
+                        
+                        <h1 class="comment-form-title">コメントする</h1>
+<div class="article-option" id="comment-form">
+    <form
+      action="https://comment.blogcms.jp/livedoor/shukatu2ch/25564896/post"
+      method="post"
+      name="comment_form"
+          id="comment-form-body"
+      onsubmit="setCommentAuthor(this); return submitOnce(this.button);"
+    >
+    <fieldset>
+        <legend>コメントフォーム</legend>
+    <dl class="comment-form-author">
+        <dt><label for="comment-form-author">名前</label></dt>
+        <dd id="comment-author-form"><input type="text" class="text" id="comment-form-author" name="author" required="required" value="" /></dd>
+    </dl>
+  <dl class="comment-form-body">
+    <dt><label for="comment-form-textarea">コメント</label></dt>
+    <dd>
+      <textarea id="comment-form-textarea" name="body" rows="7" required="required"></textarea>
+      <div id="comment-form-tools">
+        <span class="facemark"><a href="javascript:void(0);" id="emojiLink1" onClick="showEmojiPanel(this.id, 'comment-form-textarea')"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/icon_facemark.png" /></a></span>
+        <span class="rating">
+                    <input type="hidden" name="rating" value="">
+                    <input type="hidden" name="rating_icon" value="star">
+                    <div class="rating-value">
+                        <span id="default-rating-value">評価する</span>
+                        <div class="caret"><span></span></div>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/face/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/face/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/face/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/face/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/face/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/star/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/star/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/star/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/star/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/star/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                    </div>
+                    <div class="rating-icon">
+                        <div data-value="face">顔</div>
+                        <div class="selected" data-value="star">星</div>
+                    </div>
+        </span>
+        <span class="submit"><button type="submit">投稿する</button></span>
+        <span class="memorize"><label for="bake"><input type="checkbox" id="bake" name="cookie" /> 情報を記憶</label></span>
+      </div>
+    </dd>
+  </dl>
+  </fieldset>
+  </form>
+  <script type="text/javascript" src="https://parts.blog.livedoor.jp/js/comment.0.2.js?v=20130430"></script>
+  <script type="text/javascript">
+    loadCommentAuthor(document.comment_form);
+    ldblogComment.init();
+  </script>
+<!-- /#comment-form --></div><!-- コメント投稿フォーム -->
+
+
+                        </section>
+                        
+                        <!-- コメントエリア　ここまで -->
+
+
+                        <!-- トラックバック受け付け　はじまり -->
+                        
+                        <!-- トラックバック受け付け　ここまで -->
+
+                    </div>
+                    <!-- 記事オプション ここまで-->
+
+                </article>
+                <!-- 記事　ここまで -->
+
+
+                <!-- ページ送り はじまり-->
+<!-- Article Pager // -->
+  <div class="pager article-pager-type2">
+    <div class="pager-inner">
+    <div class="article-pager-outer">
+    <ul class="article-pager"><li class="prev"><a href="http://pathtimeblog.com/archives/25498239.html" title="転職したら年収250万アップでワロタ">&nbsp転職したら年収250万アップでワロタ</a></li><li class="next both"><a href="http://pathtimeblog.com/archives/25596373.html" title="33歳ニートが人生やり直す方法">33歳ニートが人生やり直す方法&nbsp</a></li>    </ul>
+    </div>
+    </div>
+  </div>
+<!-- // Article Pager -->
+
+                <!-- /ページ送り ここまで-->
+
+            </div><!-- /main-column-inner-->
+        </div>
+        <!-- コンテンツの箱の中　真ん中728px ここまで-->
+
+
+        <!-- コンテンツの箱の中　左側200px はじまり-->
+        <aside class="left-container">
+            <div class="left-column-inner">
+            
+
+
+
+<div class="plugin-popular_articles sidewrapper">
+  <div class="sidetitlebody">
+    <div class="sidetitle">人気記事</div>
+  </div>
+  <div class="sidetop"></div>
+  <div class="side">
+
+
+    <div class="popular-articles">
+      <table id="populararticles-472933"></table>
+      <div class="popular-articles-freearea"></div>
+    </div>
+  </div>
+
+  <div class="sidebottom"></div>
+</div>
+
+<script type="text/javascript" language="javascript"><!--
+(function(){
+  var url = 'http://pathtimeblog.com/archives/popular_articles.json'
+         + '?rangetype=custom'
+         + '&from=0'
+         + '&range=13'
+         + '&limit=50'
+         + '&offset=0'
+         ;
+
+  var callback = function(data) {
+    var table = document.getElementById('populararticles-472933');
+    for (i = 0; i < data.articles.length; i++) {
+      var rank = i + 1;
+      var prefix = 'populararticles-472933-'+ rank;
+
+      var row = table.insertRow(-1);
+      var elm1 = row.insertCell(-1);
+      elm1.className = 'populararticles-rank';
+      elm1.innerHTML = '<span><b>' + rank + '</b></span>';
+      var elm2 = row.insertCell(-1);
+      elm2.className = 'populararticles-title';
+      elm2.innerHTML = '<a href="' + data.articles[i].url + '?ref=popular_article&id=7836571-472933">' + data.articles[i].title + '</a>'
+      ;
+
+    }
+  };
+
+  var xhr = (function () {
+      if (window.XMLHttpRequest)
+        return new XMLHttpRequest();
+      else {
+        var msxml = [
+          "Msxml2.ServerXMLHTTP.6.0", "Msxml2.ServerXMLHTTP.5.0", "Msxml2.ServerXMLHTTP.4.0", "Msxml2.ServerXMLHTTP.3.0",
+          "Msxml2.ServerXMLHTTP", "Microsoft.ServerXMLHTTP", "Msxml2.XMLHTTP.6.0", "Msxml2.XMLHTTP.5.0",
+          "Msxml2.XMLHTTP.4.0", "Msxml2.XMLHTTP.3.0", "Msxml2.XMLHTTP", "Microsoft.XMLHTTP"
+        ];
+        for (var i = 0; i<msxml.length; i++ ){
+          try {
+            return new ActiveXObject(msxml[i]);
+          }
+          catch(e) { }
+        }
+        return null;
+      }
+  })();
+    
+  if (!xhr) return;
+  xhr.open('GET', url, true);
+  xhr.onreadystatechange = function () {
+    if (xhr.readyState == 4 && xhr.status == 200) {
+      eval('var ld_popular_articles_json = ' + xhr.responseText);
+      callback(ld_popular_articles_json);
+    }
+  };
+  xhr.send();
+
+})();
+//-->
+</script>
+
+<div class="plugin-recent_articles sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">最新記事</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27108137.html">21卒就活生ワイ、内定辞退でしこたま怒鳴られる</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/10257766.html">ニートって難しい資格取って仕事探そうとするけどさ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839910.html">【学歴フィルター】企業にとっての一流大学とは？【就職偏差値】</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839719.html">ワイニート歴2年、就職して初年度の年収500万円！！！！</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073431.html">あ、面接落ちたなってフラグ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073465.html">【悲報】上級国民大手企業様「下請けに仕事やらせてガッポリ中抜きｗ」→夏ボーナス92万5947円</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27075072.html">ワイ21卒、会社選びを間違ってしまったと後悔する</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027071.html">【悲報】キャリア採用の銀行員ワイ、周囲の人間があまりにも有能すぎてマジでドン引き……………………</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27063977.html">【速報】大学、終わる。　Googleが大卒資格を得られるコースを提供へ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027029.html">教師「Ｆ欄ＯＫです、公務員です、毎日定時で帰れます、年収700万です」←こいつが馬鹿にされる理由ｗ</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-recent_articles -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「A」設定のブログパーツ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　左側200px ここまで-->
+
+
+        <!-- コンテンツの箱の中　右側200px はじまり-->
+        <aside class="right-container">
+            <div class="right-column-inner">
+            
+
+
+
+<div class="plugin-categorize sidewrapper" id="plugin-categorize-457691">
+    <div class="sidetitlebody">
+        <div class="sidetitle">カテゴリー</div>
+    </div>
+    <div class="sidetop"></div>
+    <div class="side">
+
+
+      
+
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160301.html">就活準備 (243)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161699.html">自己分析 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161700.html">企業・業界研究 (66)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155971.html">資格 (39)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155966.html">選考 (254)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155977.html">インターン (23)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155978.html">説明会 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155975.html">ES (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155976.html">SPIなど (7)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155974.html">面接 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155972.html">内定 (222)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160304.html">NNT(無内定) (68)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160302.html">内定後・入社前 (110)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160308.html">アドバイス (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160460.html">入社後 (924)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220065.html">新卒 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220063.html">上司 (95)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_219473.html">社会人生活 (299)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160474.html">ブラック企業 (65)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160303.html">転職 (175)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163214.html">副業 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220667.html">収入 (102)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_299497.html">採用担当 (3)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_318465.html">第二新卒 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161711.html">学生生活 (46)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163247.html">浪人・留年 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155967.html">学歴 (119)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_223545.html">ニート (38)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155969.html">業界別 (314)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156035.html">金融 (34)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156099.html">建築・不動産 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160357.html">物流・運送 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160358.html">IT・メディア (55)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160359.html">エネルギー・資源 (1)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160310.html">自動車・機械 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160360.html">食品・小売 (14)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160311.html">公務員・準公務員 (89)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160356.html">サービス (21)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160473.html">その他 (42)</a>
+          
+        </div>
+        
+    
+        
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160476.html">その他 (472)</a>
+          
+        </div>
+        
+    
+    
+
+    </div>    
+    <div class="sidebottom"></div>
+</div><!-- // plugin-categorize -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+<a href="//blog.with2.net/link/?1955545"><img src="https://blog.with2.net/img/banner/banner_21.gif" title="人気ブログランキング"></a><br><a href="//blog.with2.net/link/?1955545" style="font-size: 0.8em;">人気ブログランキング</a>
+
+<div class="plugin-link sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">リンク集</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://0matome.com/" target="_blank">おまとめ</a></div>
+
+<div class="sidebody"><a href="http://2chnavi.net/allentries/?threshold=0" target="_blank">2chnavi</a></div>
+
+<div class="sidebody"><a href="http://http://iwashi.biz/" target="_blank">いわしアンテナ &gt;°))))彡</a></div>
+
+<div class="sidebody"><a href="http://2ch-2.net/" target="_blank"> つーアンテナ(*ﾟ∀ﾟ)</a></div>
+
+<div class="sidebody"><a href="https://ii-antenna.net/?about" target="_blank">いーあんてな(#ﾟｗﾟ)</a></div>
+
+<div class="sidebody"><a href="https://2ch-mi.net/" target="_blank">みーアンテナ（´∀｀）</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-link -->
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">検索</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="https://cse.google.com/cse.js?cx=014565878756483497884:urusxdcjffe"></script>
+<div class="gcse-search"></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「B」設定のブログパーツ表示 -->
+            
+<!-- LDR・RSSリンクとブログのロゴ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　右側200px ここまで-->
+
+        <!-- このページのトップヘ　はじまり -->
+        <p class="to-pagetop"><a href="#"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/to_pagetop.png" width="70" height="70" alt="このページのトップヘ" /></a></p>
+        <!-- このページのトップヘ ここまで -->
+
+    </div>
+    <!-- コンテンツ全体 ここまで-->
+
+    <!-- ブログのフッター はじまり-->
+    <footer id="blog-footer">
+    <!-- Blog Common Footer // --><div id="footer"><p>Powered by <a href="http://blog.livedoor.com/" title="ライブドアブログ">ライブドアブログ</a></p></div><!-- // Blog Common Footer --><!-- 共通フッター表示 -->
+    </footer>
+    <!-- /ブログのフッター ここまで-->
+
+</div>
+<!-- コンテンツエリア ここまで-->
+
+
+<!-- Add Body Tag // --><script type="text/javascript">
+(function(){
+  var traq = document.createElement('script'); traq.type = 'text/javascript'; traq.async = true;
+  traq.src = 'https://t.blog.livedoor.jp/u.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(traq, s);
+})();
+</script>
+<noscript>
+<img src="https://t.blog.livedoor.jp/u.gif" alt="traq">
+</noscript>
+<!-- // Add Body Tag -->
+
+<script>
+(function($) {
+  var cookieName = 'livedoor-blog-gdpr-agreed';
+  $(document).ready(function() {
+    if (navigator.userAgent.match(/https?:\/\//)) {
+      // UA に http:// or https:// があればスルー
+      return;
+    }
+
+    var agreed = document.cookie.indexOf(cookieName) >= 0;
+    if (agreed) {
+      // 同意済み Cookie があればスルー
+      return;
+    }
+
+    var banner = $('<div>');
+    banner.attr('id', 'gdpr-banner');
+    var label = $('<p>');
+    label.html('\
+      ライブドアブログでは広告のパーソナライズや効果測定のためクッキー(cookie)を使用しています。<br>\
+      このバナーを閉じるか閲覧を継続することでクッキーの使用を承認いただいたものとさせていただきます。<br>\
+      また、お客様は当社パートナー企業における所定の手続きにより、クッキーの使用を管理することもできます。<br>\
+      詳細は<a href="http://www.livedoor.com/rules/" target="_blank" style="color:#023780;text-decoration:underline;">ライブドア利用規約</a>をご確認ください。\
+    ');
+    banner.append(label);
+
+    var closeButton = $('<button>');
+    closeButton.attr('type', 'button');
+    closeButton.html('閉じる');
+    closeButton.on('click', function() {
+      $('#gdpr-banner').hide();
+      document.cookie = cookieName + '="1";expires=Tue, 31-Dec-2037 00:00:00 GMT;path=/;';
+    });
+    banner.append(closeButton);
+
+    banner.css({
+      'position': 'fixed',
+      'left': '0',
+      'right': '0',
+      'bottom': '0',
+      'background': '#dcdcdc',
+      'color': '#000',
+      'padding': '20px',
+      'text-align': 'center',
+      'box-shadow': '0 -2px 2px rgba(102, 102, 102, 0.86)',
+      'z-index': '2147483647',
+    });
+    label.css({
+      'display': 'inline-block',
+      'text-align': 'left',
+      'font-size': '14px',
+      'color': '#000',
+      'vertical-align': 'middle',
+      'line-height': '1.5',
+    });
+    closeButton.css({
+      'display': 'inline-block',
+      'color': '#fff',
+      'border': 'none',
+      'font-size': '14px',
+      'padding': '4px 40px',
+      'margin-left': '40px',
+      'background': '#535353',
+      'vertical-align': 'middle',
+    });
+
+    var script = document.createElement('script');
+    script.type = "text/javascript";
+    script.src = "https://ipcheck.blogsys.jp/check.js?t=" + Date.now();
+    script.onerror = function() {
+      $('body').append(banner);
+    };
+    document.body.appendChild(script);
+  });
+})(jQuery);
+</script>
+</body>
+</html>

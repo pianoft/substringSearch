@@ -1,0 +1,1447 @@
+<!DOCTYPE html>
+<html lang="ja" itemscope itemtype="http://schema.org/Blog">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=1190">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" /><link rel="shortcut icon" type="image/vnd.microsoft.icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/favicon.ico" /><link rel="icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/3ab45ab0.jpg" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/template.css?v=20190826" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/heart.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/icon.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="http://pathtimeblog.com/site.css?_=20190831163247" type="text/css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://pathtimeblog.com/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://pathtimeblog.com/atom.xml" /><link rel="canonical" href="http://pathtimeblog.com/archives/7702701.html" /><link rel="openid.server" href="http://auth.livedoor.com/openid/server" /><link rel="openid.delegate" href="http://profile.livedoor.com/shukatu2ch/" />
+<link rel="mixi-check-alternate" media="mixi-device-mobile" type="text/html" href="http://blog.m.livedoor.jp/shukatu2ch/article/7702701" />
+<link rel="mixi-check-alternate" media="mixi-device-smartphone" type="text/html" href="http://pathtimeblog.com/archives/7702701.html" />
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/jquery-1.11.1.min.js"></script>
+
+<meta name="description" content="1: ノチラ ★  2018/03/05(月) 20:10:29.60 ID:CAP_USER
+ 人月商売のITベンダー、特に下請けITベンダーに入社した若手技術者は、自分に与えられた肩書きを見て悩むという。「SE、システムエンジニアって何？」というわけだ。上司の説明を聞いても、抽象的な言葉の羅列しか返" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="【IT】上司の裁量なのに裁量労働の噴飯、SEの現実をよく見よ！ 	 : 2ch就活まとめ" />
+<meta property="og:description" content="1: ノチラ ★  2018/03/05(月) 20:10:29.60 ID:CAP_USER 人月商売のITベンダー、特に下請けITベンダーに入社した若手技術者は、自分に与えられた肩書きを見て悩むという。「SE、システムエンジニアって何？」というわけだ。上司の説明を聞いても、抽象的な言葉の羅列しか返" />
+<meta property="og:url" content="http://pathtimeblog.com/archives/7702701.html" />
+<meta property="og:site_name" content="2ch就活まとめ" />
+<meta property="og:locale" content="ja_JP" />
+<meta property="og:image" content="https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png" />
+
+<meta name="twitter:site" content="@2chshukatu" />
+<meta name="twitter:title" content="【IT】上司の裁量なのに裁量労働の噴飯、SEの現実をよく見よ！ 	 : 2ch就活まとめ" />
+<meta name="twitter:description" content="1: ノチラ ★  2018/03/05(月) 20:10:29.60 ID:CAP_USER 人月商売のITベンダー、特に下請けITベンダーに入社した若手技術者は、自分に与えられた肩書きを見て悩むという。「SE、システムエンジニアって何？」というわけだ。上司の説明を聞いても、抽象的な言葉の羅列しか返" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image:src" content="https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png" />
+<link rel="alternate" media="handheld" type="application/xhtml+xml" href="http://blog.m.livedoor.jp/shukatu2ch/" />
+
+<title>【IT】上司の裁量なのに裁量労働の噴飯、SEの現実をよく見よ！ 	 : 2ch就活まとめ</title>
+<script src="https://parts.blog.livedoor.jp/js/emoji.js"></script>
+<script src="https://parts.blog.livedoor.jp/js/misc.js?v=20190710"></script>
+<!--[if lt IE 9]>
+<script src="https://parts.blog.livedoor.jp/js/html5.js"></script>
+<![endif]-->
+<script src="https://parts.blog.livedoor.jp/js/usr/import.js"></script>
+<script>
+$(function(){
+  if($('.header-inner01').children('#blog-header-image').length) {
+    $(window).bind('load', function() {
+      var title1 = $('#blog-header-image').height();
+      var title2 = $('.header-menu').height();
+      var headerHeight = title1-title2-15;
+      $("hgroup").css("height", headerHeight);
+    });
+  }
+});
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-3064778048578600",
+          enable_page_level_ads: true
+     });
+</script>
+
+<!-- Add Google Analytics Tag // -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-113178806-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- // Add Google Analytics Tag -->
+
+
+<meta name="referrer" content="always">
+<meta name="referrer" content="unsafe-url">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1638469-45"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+var blogId = '';
+if (blogId) {
+  gtag('config', 'UA-1638469-45', {
+    'custom_map': {'dimension1': 'blog_id'},
+    'blog_id': blogId
+  });
+} else {
+  gtag('config', 'UA-1638469-45');
+}
+</script>
+
+</head>
+<body class="default_2012 page-article layout-2col sidebar-right"><script type="text/javascript"><!--
+var ld_blog_vars = {
+  provider_id : '1',
+  provider_name : 'livedoor',
+  id : '7836571',
+  name : 'shukatu2ch',
+  charset : 'utf8',
+  url : 'http://pathtimeblog.com/',
+  title : '2ch就活まとめ',
+  blog_design: {
+      version: 1
+  },
+  blog_category: {
+    id: '243',
+    permalink: 'https://blog.livedoor.com/category/243/',
+    name: 'まとめ(総合) > まとめ',
+    is_adult : 0,
+    is_gambling : 0,
+    hierarchy: [{ id: '431', name: 'まとめ(総合)', permalink: 'https://blog.livedoor.com/category/431/' },{ id: '243', name: 'まとめ', permalink: 'https://blog.livedoor.com/category/243/' }]
+  },
+  current_page : {
+    type : 'article',    page : ''
+  },
+  articles : [ {
+       id : '7702701',
+       permalink : 'http://pathtimeblog.com/archives/7702701.html',
+       title : '【IT】上司の裁量なのに裁量労働の噴飯、SEの現実をよく見よ！ \t',
+       categories : [ { id:'160358', name:'IT・メディア', permalink:'http://pathtimeblog.com/archives/cat_160358.html' }, { id:'', name:'', permalink:'' } ],
+       date : '2018-03-10 09:00:34'
+}   ]
+};
+//-->
+</script><div id="analyzer_tags" style="display:none">
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/c2.js?v=20191010"></script>
+<script type="text/javascript">blog_counter('shukatu2ch', 7836571, 'http://pathtimeblog.com/')</script>
+</div><script type="text/javascript" src="https://parts.blog.livedoor.jp/js/smartphone.js?v=20200824"></script>
+<script type="text/javascript" src="http://pathtimeblog.com/settings/header.js?v=20190705"></script><script type="text/javascript" src="http://pathtimeblog.com/settings/ad.js"></script>
+<script type="text/javascript">
+var palette_src = 'https://parts.blog.livedoor.jp/img/emoji/3/palette.png';
+if (typeof IMAGE_CACHE == 'object' && IMAGE_CACHE['emoji_palette']) IMAGE_CACHE['emoji_palette'].src = palette_src;
+</script>
+
+<!-- Blog Common Header // -->
+<!-- // Blog Common Header -->
+<!-- 共通ヘッダー表示 -->
+
+<!-- ブログタイトル はじまり-->
+<header id="blog-header">
+
+    <div id="blog-header01">
+
+        <div class="header-inner01 show-image hide-text">
+
+            <hgroup>
+                <!--ブログタイトル　はじまり-->
+                <h1 id="blog-title"><a href="http://pathtimeblog.com/">2ch就活まとめ</a></h1>
+                <!--ブログタイトル　ここまで-->
+                <!--ブログ説明　はじまり-->
+                <h2 id="blog-description">新卒・転職・社会人生活などを含め、就活・就職に関することをまとめてます。</h2>
+                <!--ブログ説明　ここまで-->
+            </hgroup>
+
+            <a href="http://pathtimeblog.com/"><img src="https://resize.blogsys.jp/727db0f9da9f42eb7d26b703338c30b3eef0157c/trim2/0x243_94p_1200x388/http://livedoor.blogimg.jp/shukatu2ch/imgs/0/5/055bbafe.jpg" id="blog-header-image" /></a>
+
+            <div id="blog-header02">
+                <div class="header-inner02">
+                    <ul class="header-menu">
+                        <li><a href="http://pathtimeblog.com/">HOME</a></li><!--メニューを入れてください-->
+                        <li class="ldb_menu-item-url"><a href="http://blog.livedoor.jp/shukatu2ch/archives/6126504.html">ABOUT</a></li><!--メニューを入れてください-->
+                        <li><a href="mailto:shukatumatome@gmail.com">お問い合わせ</a></li><!--メニューを入れてください-->
+                    </ul>
+                    <ul class="header-sarch">
+                        <li><a href="http://twitter.com"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_twitter.png" alt="Twitter" /></a></li><!--Twitter-->
+                        <li><a href="http://pathtimeblog.com/index.rdf"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_rss.png" alt="RSS" /></a></li><!--RSS-->
+                        <li>
+                        <form action="http://pathtimeblog.com/search" method="GET" style="padding:0;margin:0px;">
+                        <input type="TEXT" name="q" class="sf">
+                        <input type="SUBMIT" value="検索" class="sfbtn">
+                        </form>
+                        </li><!--検索窓-->
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</header>
+<!-- /ブログタイトル ここまで-->
+
+
+<!-- コンテンツエリア はじまり-->
+<div id="wrapper">
+
+    <!-- コンテンツ全体 はじまり-->
+    <div id="container">
+
+        <!-- 相互RSS はじまり-->
+        <div class="rss-blogroll">
+
+            <!-- 相互RSSを設置する場合の注意事項
+                コードに含まれる以下のCSSは外して設置してください
+                http://blogroll.livedoor.net/css/default2.css -->
+
+                 <!-- 相互RSSのコード ひとつ目-->
+            <script type="text/javascript">
+            <!--
+                   var blogroll_channel_id = 255242;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード ふたつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 265945;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード みっつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 255442;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href= />
+        </div>
+        <!-- 相互RSS ここまで-->
+
+        <!-- コンテンツの箱の中　真ん中728px はじまり-->
+        <div class="main-container">
+            <div class="main-column-inner">
+<br>
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+<br>
+                <!-- メッセージボード -->
+                 
+
+
+
+                <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://pathtimeblog.com/archives/7702701.html"
+    trackback:ping="http://trackback.blogsys.jp/livedoor/shukatu2ch/7702701"
+    dc:title="【IT】上司の裁量なのに裁量労働の噴飯、SEの現実をよく見よ！ 	"
+    dc:identifier="http://pathtimeblog.com/archives/7702701.html"
+    dc:subject="IT・メディア"
+    dc:description="1: ノチラ ★  2018/03/05(月) 20:10:29.60 ID:CAP_USER 人月商売のITベンダー、特に下請けITベンダーに入社した若手技術者は、自分に与えられた肩書きを見て悩むという。「SE、システムエンジニアって何？」というわけだ。上司の説明を聞いても、抽象的な言葉の羅列しか返"
+    dc:creator="shukatu2ch"
+    dc:date="2018-03-10T09:00:34+09:00" />
+</rdf:RDF>
+-->
+<div id="ad_rs" class="ad_rs_b"></div><!-- 記事のトラックバック・オートディスカバリー -->
+
+
+                <!-- 記事 はじまり-->
+                <article class="article first-article" itemscope itemtype="http://schema.org/BlogPosting">
+
+                    <!-- 記事タイトル　記事下の情報　はじまり-->
+                    <header class="article-header">
+
+                        <h1 class="article-title" itemprop="name"><a href="http://pathtimeblog.com/archives/7702701.html" itemprop="url">【IT】上司の裁量なのに裁量労働の噴飯、SEの現実をよく見よ！ 	</a></h1><!-- 記事のタイトル -->
+
+                            <!-- 記事下の記事情報 はじまり-->
+                            <div class="article-header-inner">
+
+                                <!-- 記事情報の上の行 はじまり-->
+                                <div class="article-header-top">
+                                <p class="article-header-date"><time datetime="2018-03-10T09:00:34+09:00" pubdate="pubdate">2018年03月10日</time></p>
+                                
+                                <ul class="article-header-category">
+                                    <li>
+                                        <dl><dt>カテゴリ:</dt><dd class="article-category1"><a href="http://pathtimeblog.com/archives/cat_160358.html">IT・メディア</a></dd></dl>
+                                    </li>
+                                </ul>
+                                
+
+                                <!-- 記事の評価アイコン はじまり-->
+                                
+                                <!-- 記事の評価アイコン ここまで-->
+
+                                </div>
+                                <!-- 記事情報の上の行 ここまで-->
+                                <!-- ソーシャルボタン　はじまり -->
+                                <ul class="article-social-btn">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/7702701.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/7702701.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="【IT】上司の裁量なのに裁量労働の噴飯、SEの現実をよく見よ！ 	 - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=%E3%80%90IT%E3%80%91%E4%B8%8A%E5%8F%B8%E3%81%AE%E8%A3%81%E9%87%8F%E3%81%AA%E3%81%AE%E3%81%AB%E8%A3%81%E9%87%8F%E5%8A%B4%E5%83%8D%E3%81%AE%E5%99%B4%E9%A3%AF%E3%80%81SE%E3%81%AE%E7%8F%BE%E5%AE%9F%E3%82%92%E3%82%88%E3%81%8F%E8%A6%8B%E3%82%88%EF%BC%81%20%09%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/7702701.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/7702701.html" data-text="【IT】上司の裁量なのに裁量労働の噴飯、SEの現実をよく見よ！ 	 - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F7702701.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                                </ul>
+                                 <!-- ソーシャルボタン　ここまで -->
+                            </div>
+                            <!-- 記事下の記事情報 ここまで-->
+
+                    </header>
+                    <!-- 記事タイトル　記事下の情報　ここまで-->
+
+
+
+                    <!-- 記事本文 はじまり-->
+                    <div class="article-body">
+                        <div class="article-body-inner">
+<!-- 参加している共通テーマの表示 -->
+                        <span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">1: <span  style="color: rgb(124, 199, 84);">ノチラ ★</span> <span  style="color: gray;"> 2018/03/05(月) 20:10:29.60 ID:CAP_USER</span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 人月商売のITベンダー、特に下請けITベンダーに入社した若手技術者は、自分に与えられた肩書きを見て悩むという。「SE、システムエンジニアって何？」というわけだ。上司の説明を聞いても、抽象的な言葉の羅列しか返って来ないので要領を得ない。上司から「まあ、実際に働いてみれば分かるようになる」と言われ、納得できないまま引き下がらざるを得ないとのことだ。 <br />  <br /> 　自分で「SEとは何か」を調べようとする人もいるが、やがて衝撃を受ける。例えばITスキル標準（ITSS）を調べる。プログラマー、アーキテクト、インフラエンジニア、プロジェクトマネジャーなどが列挙されており、その役割や必要なスキルが定義されている。ところがSEについては何も書かれていない。そのために「ヘンだ。私はいったい何者なのか」と真剣に悩んだ人もいると聞く。 <br />  <br /> 　私もそんなに多くはないが、ITベンダーの若手技術者から「何がSEの仕事なんでしょう」と聞かれたことがある。だが、その質問に答えるのは難しい。尋ねてきた技術者が所属するITベンダーの社名を聞けば、（その人の会社における）SEとは何者かを答えられもする。だが、まさか面と向かって「SEとは手配師」「SEとはコーダー」「SEとはコボラー」などとは言えない。 <br />  <br /> 　要は人月商売、多重下請け構造の日本のIT業界においては、SEは「何でも屋」なのだ。技術者の頭数と期間で見積もり額を決めて、後は多重下請け構造をフル活用して様々なITベンダーから技術者をかき集めてくる。そんな商売をしている元請けのITベンダー、つまりSIerにとっては、スキルの差、経験の差にかかわらず誰もが「SE」であったほうが何かと好都合なわけだ。 <br />  <br /> 関連記事：素人でも即座になれる職業はSE、“人財”使い捨てのIT業界の悪行 <br /> 　だが、おのれの不明を恥じるばかりだ。日本におけるSEの明確な定義が存在したのだ。しかも、これ以上ないぐらいの公式な形で。不勉強であった。それなぜ気付いたかというと、国会で繰り広げられた例の「裁量労働制の拡大」のドタバタ劇があったからだ。裁量労働制を巡る不適切データの問題にはあきれてしまったが、そのおかげでSEの明確な定義にたどり着けた。 <br /> 以下ソース <br /> <a  href="http://tech.nikkeibp.co.jp/atcl/nxt/column/18/00148/030100004/" target="_blank">http://tech.nikkeibp.co.jp/atcl/nxt/column/18/00148/030100004/</a> </div><br />
+<!-- Generated by 2chまとめくす (http://2mtmex.com/) --><!-- 本文 --><div class="article-body-more" id="more"><span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">110: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/06(火) 08:24:37.99 ID:r2tJDCZM</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;1</span> <br /> この辺改善しないで裁量労働拡大はありえんね </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">2: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 20:12:46.69 ID:ZXdTBD0A</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;" class="t_b"> SEではなくZE(雑用エンジニア)だ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">4: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 20:17:56.45 ID:SC+ToYeZ</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> IT業界はクソ <br /> 滅ぶのが正解 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">5: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 20:20:26.97 ID:YmVRacEW</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;" class="t_b"> スレイブ・エンジニア </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">6: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 20:23:43.13 ID:Tz6owHpm</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 一つのコードを一人が書いてて、そのコードをまとめるのがSE？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">20: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 20:59:53.90 ID:14OcMK8R</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;6</span> <br /> それはライブラリアンとかそういう部類だろう。 <br /> 今はツールが発達してほとんど自動化されつつあるが。 <br /> じゃあ、SEって何って言われると困るんだがｗ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">7: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 20:23:58.87 ID:Bn2vYMOe</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 年収1000万以上対象だからSEは関係ないよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">9: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 20:33:49.22 ID:S3aWyOAJ</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;7</span> <br /> 嘘つき <br />  <br /> &gt;政府は2月6日の閣議で、裁量労働制について「 契約社員や最低賃金で働く労働者にも適用が可能だ」とする答弁書を決定した。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">11: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 20:38:35.85 ID:QMrwSYjc</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;9</span> <br /> 高プロと裁量労働制をごっちゃにしてる人がいるんだよね <br /> 裁量労働制は高プロとは別に範囲を拡大するって言ってるのに(´・ω・`) </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">85: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 23:13:03.59 ID:mkyvj2Q2</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;7</span> <br /> うちの夫はSEだけど、年収1000万以上だよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">8: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 20:26:56.68 ID:Tz6owHpm</span></span></div>
+<div  style="font-weight:bold;font-size:18px;line-height:27px;margin-bottom:30px;margin-top:20px;" class="t_b"> スキルと資格がゴッチャになってた時代があった。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">10: <span  style="color: rgb(124, 199, 84);">○</span> <span  style="color: gray;"> 2018/03/05(月) 20:38:30.15 ID:uegD4hVN</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 　要件定義やフィット＆ギャップ、導入支援とかするのはコンサルタントに該当するのかな。 <br /> 　<a  target="_blank" href="http://www.ipa.go.jp/files/000024840.pdf">https://www.ipa.go.jp/files/000024840.pdf</a> <br />  <br /> 　ITTSの分類見ても、正直わからん。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">12: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 20:38:37.17 ID:APmGNVvZ</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> AI化してしまえばいらなくなるだろ。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">49: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 22:16:35.73 ID:tLuiLEUy</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;12</span> <br /> サルは黙ってろ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">13: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 20:39:10.76 ID:3HnbnPHX</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 働きすぎてないかくらい自分で考えてコントロールしろよ <br /> 他人のせいにすんな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">14: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 20:43:56.91 ID:NsJ1Qug8</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 安倍ちゃん「最良労働制だろ？」 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">16: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 20:52:54.26 ID:7v7s5yGV</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 派遣制度はいい加減どうにかしろよな <br /> あれは責任のなすりつけだからな自社で教育採用して面倒みたれや <br /> 現代の奴隷制とは良く言った物やで </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">26: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 21:16:01.28 ID:uSRHzftV</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;16</span> <br />  <br /> 企業の労務コストが、なんらGDPに寄与しない派遣会社の中抜きに消えていくのも日本のGPDが <br /> 低迷しデフレが止まらない大きな原因のひとつだからな <br />  <br /> 最低でも中抜き率を15％までにするとか、上限の規制を入れて、ぼったくるようなら重加算税を課して <br /> 国が所得の再配分をしていくべきなんだよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">55: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 22:20:45.81 ID:LHQYGkJ5</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;16</span> <br /> 解雇規制を撤廃して金銭解雇のルールがちゃんと整えば <br /> 派遣なんて誰も使わなくて良くなるんだけどな… </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">58: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 22:27:04.86 ID:S3aWyOAJ</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;55</span> <br /> 悪い方に合わせてどうする。 <br /> 非正規の待遇を正規並みに上げる方が先だろ。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">17: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 20:53:49.26 ID:dkd9wR7V</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 学校卒業してこの業界に入った時、最初から名刺に「システムエンジニア」って <br /> 書いてあったので上司に「プログラマじゃないんですか？」って聞いたら <br /> 「プログラミングしかしなくてもシステムエンジニア。そういう気位で仕事しろ」 <br /> って言われた <br />  <br /> でも最近職業欄に「システムエンジニア」って書くと「それって要するに何なの？」って <br /> 聞かれることが多いので、今は <br /> 「コンピュータプログラマ」 <br /> って書くようになった </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">18: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 20:54:09.18 ID:3qBYBpDp</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;" class="t_b"> SE＝冴えないエンジニア </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">19: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 20:56:50.16 ID:QMrwSYjc</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 現状はシステムエンジニアは裁量労働制の対象、プログラマは対象外らしいね <br /> プログラマでもシステムエンジニアという役職にされて、裁量労働制にされてる人もおるんやろうな(´・ω・`) </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">128: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/06(火) 09:52:40.50 ID:rjtLK334</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;19</span> <br /> SEのふわっとした言葉のイメージで裁量あることになってるんだろうな <br /> 役人のやっつけ仕事っぷりは異常 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">21: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 21:05:51.91 ID:o+FKY9xg</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> システムエンジニアなんてなるもんじゃないよ。 <br /> 将来後悔することになるわ。 <br /> いまSEやってる奴に聴くがお前の会社に５０歳代の先輩がどれだけ居る？ <br /> ほとんど居ないだろ。 <br /> そういう業界なんだよ。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">23: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 21:09:30.01 ID:KBfkDSjr</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> SEってそんなにきつい仕事なの？ <br /> 失礼ながら単純労働っていうイメージがある。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">32: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 21:23:32.47 ID:SXOC/9Ee</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;23</span> <br /> 基本的には単純だけど、品質とコストの問題を作業量で補わなければならないことが多いから、キツい場合もある </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">41: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 21:41:56.69 ID:XPpz1Huv</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;23</span> <br /> 基本的にスキルの全く無い奴が客の要求に答えられなくて苦しむ <br /> まともな技術あるなら大してきつくもない、淡々とこなしてくだけ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">52: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 22:17:55.02 ID:SXOC/9Ee</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;41</span> <br /> 客のレベルや会社同士のパワーバランスもあるからそんなに単純ではない <br /> 出来る人にしわ寄せが来るしね </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">160: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/08(木) 16:40:20.80 ID:YTh//vis</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;41</span> <br /> 質問にならない質問は客の要求に入りますか？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">162: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/09(金) 07:42:07.21 ID:ymgE0dOc</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;160</span> <br /> なるほど、 <br /> ボクちゃんの理解できるレベルまでさげてくださいと。 <br /> そう言うときは、ちやんと <br /> 「分かりません」と言うんだ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">163: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/09(金) 10:06:12.44 ID:+LmFr3AU</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;162</span> <br /> こういうやつが客としている限りはIT業界はチョロい仕事だと思うわ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">165: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/09(金) 15:46:40.12 ID:JOd3bnv0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;160</span> <br /> 営業： <br /> 「（はぁ～っ)あのさぁ160さん、あなた何年この業界やってるんだっけ？ <br /> 　今までの経験からおおまかな方向性とかやりたい事とか分からないわけ？ <br /> 　ちょっとコミュニケーション能力低すぎない？」 <br />  <br /> 　「あのさぁ！営業が！専門的な質問に口出しできるわけないでしょう！ <br /> 　　会話に出てきた単語から回答するのは貴方の仕事なの！」 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">167: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/09(金) 19:29:16.82 ID:p5/COM8/</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;165</span> <br /> つか、課題の把握すら出来ないセンモンカって、ただのオタクやんw <br />  <br /> 客はオタクの自己満足に金だしてるんかい？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">24: <span  style="color: rgb(124, 199, 84);">○</span> <span  style="color: gray;"> 2018/03/05(月) 21:11:39.75 ID:uegD4hVN</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 　お客の訳の分からない要求を纏めて、社内の嫌がらせに近い品証チェックを受けて、上司からは納期と利益を何とかしろとゴリゴリ去れ、営業はさっさと次のプロジェクトを持ってきてこっちもやれと言い出す。 <br /> 　そんなイメージ。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">27: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 21:17:26.61 ID:4/Wm2f36</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 夜8時ぐらいに会社に来て始発で帰っても文句言われないのが裁量労働制 <br /> これに文句付けてきたらそれは裁量労働を採用できる職種ではない </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">33: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 21:29:12.41 ID:vV2iOxAo</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;27</span> <br /> 外注に請負出してもそんな仕事の仕方されたら困るな <br /> 質問やら打ち合わせができんじゃないか </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">34: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 21:30:21.26 ID:4/Wm2f36</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;33</span> <br /> ということは時間に関する裁量がないので裁量労働制は採用できない </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">35: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 21:33:57.39 ID:vV2iOxAo</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;34</span> <br /> それを言ったらこの世に裁量労働を適用できる職種なんてほとんど存在しないんじゃないか？ <br /> 裁量労働制でも朝は定時にこないと怒られるだろうし </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">40: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 21:39:28.81 ID:3qBYBpDp</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;35</span> <br /> 打ち合わせや会議だけ日程調整すればいいだろ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">43: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 21:44:03.14 ID:4/Wm2f36</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;35</span> <br /> 提示の来ないといけない時点で裁量両道性を採用できる職種ではない <br /> 裁量労働職に対しては週1のMTGのためぐらいなら許されるが <br /> 基本的に毎日の出社時間は指定できないし <br /> 11-15時みたいなコアタイムも指定できない、指定していたらそれは労基案件 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">53: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 22:19:06.42 ID:S3aWyOAJ</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;43</span> <br /> 本来はそうだけど導入しようとしているのはただの定額働かせ放題だからね。 <br /> 始業時刻設定もOK。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">61: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 22:31:37.36 ID:UIUgVzkl</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;53</span> <br /> 本来は請け負い業務なので仕様変更が出たら、料金相談。 <br /> それまでは、本来なら、請負契約の仕様どおり作れば良いので顧客とのやり取り不要。 <br /> でもリスク高いので意識あわせのため週時報告やマイルストーン時の報告やらにゃいかんだろうね。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">79: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 22:59:33.12 ID:S3aWyOAJ</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;61</span> <br /> 政府が導入するのは始業終業時間決まっていて <br /> その時間働いていなければ遅刻早退扱いでペナルティ。 <br /> それ以外の時間の労働時間は残業代ゼロという <br /> 使用者に都合のいい裁量労働制。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">47: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 22:03:51.50 ID:JDB1HSRN</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;27</span> <br /> 自分は在宅で、週一でしか出社してないぞ <br /> 残業はしていない <br />  <br /> さすがに夜中働くとリアルタイムでの連絡が取りづらいから、それは嫌だけど相談すれば可能じゃねーかなぁ <br />  <br /> 年収は1000万にはほど遠いなぁ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">28: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 21:18:04.81 ID:Y0ra5zog</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 23は単純労働はキツくないのか？ <br /> 心を捨てて機械になる時、誇りを捨てて元請の責任を被って謝る時 <br /> 感情を捨てて部下のアホコードを大幅修正をする時、 <br /> 時間を捨ててひたすら困難な問題を克服する時！自分を捨てて.... <br /> お前は緩いと思うのか？アホだろ？お前も俺たちも！ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">31: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 21:19:07.73 ID:rrYTbM6x</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 要件定義、基本設計、詳細設計に関わるのがSEじゃね </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">57: <span  style="color: rgb(124, 199, 84);">○</span> <span  style="color: gray;"> 2018/03/05(月) 22:26:36.76 ID:uegD4hVN</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;31</span> <br />  <br /> 　オレのところでは、総合テスト、顧客検収立ち会いまでだな。 <br /> 　純粋な製造は単価の安い外注に出してる。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">60: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 22:29:22.97 ID:JDB1HSRN</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;57</span> <br /> コーディングのことを製造とかいうのはいい加減やめてくれないかなぁ、なんか気持ち悪い <br />  <br /> コーディングは設計の一部で、ビルド作業が製造だよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">66: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 22:39:34.68 ID:PGA3xyGg</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;60</span> <br /> 俺もあの言い方が気持ち悪いと思う <br />  <br /> 「設計したら後は作る*だけ*」という浅はかな考えがにじみ出ていて気持ちが悪い </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">67: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 22:44:57.79 ID:SC+ToYeZ</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;66</span> <br /> え？でもガチでコーディング始めてから迷ってたらまずいよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">69: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 22:47:07.07 ID:JDB1HSRN</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;67</span> <br /> OSやらブラウザのバグで、再現方法や回避方法探すのに時間がかかるって体験したことないの？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">74: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 22:53:18.54 ID:UIUgVzkl</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;67</span> <br /> できればそう言うのはアーキテクチャー屋さんがつぶしていて、 <br /> ルール作りしてほしいね。 <br /> でないとOSやブラウザーの際の吸収の仕方がばらばらにナッテしまう。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">77: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 22:55:40.01 ID:PGA3xyGg</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;67</span> <br /> 違う違う <br /> 設計することはとても重要だ <br /> だれも設計せずにコーディングしろとは言ってない <br />  <br /> 設計も重要だが、それ以上にコーディングがとても重要だ <br /> 設計書さえしっかりしていれば、後は誰かに頼めば設計に沿ったモノが無事"製造"されるという考えが間違ってる <br /> と言いたいのです </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">78: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 22:59:23.69 ID:SC+ToYeZ</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;77</span> <br /> コーディング中に何考えてるの？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">84: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 23:06:08.26 ID:JDB1HSRN</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;78</span> <br /> 人に質問する前に、自分の意見を述べるべきだと思うんだけどね <br />  <br /> まぁ自分の場合、半年後の自分がみたときに、一瞬で理解できるエクセレントなコードを書こうとか考えてるよ <br />  <br /> つーか、最近は内製だから無駄な設計書とか書かないな <br /> 脳内設計、即コーディングだな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">130: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/06(火) 14:23:04.35 ID:MWDqkOvd</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;84</span> <br /> エクセレントは結構だけど <br /> 設計書に書いてないのはエクセレントにならんぞ <br /> 大手5社ぐらいと仕事してるけど <br /> お前の基準のエクセレントが通用する企業はないみたいよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">131: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/06(火) 14:34:17.95 ID:M/2CROcv</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;130</span> <br /> 内製で属人的になってもOKならアリじゃないかな <br /> 大手でも仕様書を誰もメンテしないとかよくあるし </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">132: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/06(火) 16:25:46.34 ID:MWDqkOvd</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;131</span> <br /> でも検収でそれはない <br /> 最強のラスボス品証が立ちはだかる <br /> 開発では「いーよいーよそんなのほっといて」 <br /> とか抜かしてたクソSヨも品証に睨まれた途端に態度変えやがるなんて日常茶飯事 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">133: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/06(火) 18:12:07.83 ID:wMwcK38W</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;130</span> <br /> 受託じゃないんだけど、そこんとこわかってる？ <br /> 無駄な設計書なんて邪魔なだけ <br />  <br /> 仕様書というか、どんな要件かまともなものがあったほうがいいけども </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">36: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 21:34:09.67 ID:V2SHQTVk</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;" class="t_b"> ITやソフト開発知らなくてもSEって肩書付いて、口だけで生き延びてるのが多いこと多いこと。 <br /> 人を使う側に見る目がないから一山いくらで買ってくるしかないけど、そんなのは質の悪い集団だから <br /> 結局炎上して病人続出。大手プロパーにでもならない限り、IT系はやめたほうが良い。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">46: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 21:54:45.28 ID:6HdfZsBy</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> IT=派遣=奴隷 <br />  <br /> この業界は現代の奴隷業界として完成してるよねw </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">54: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 22:19:44.24 ID:lto7b+r4</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> SEというのは周りから <br /> 「パソコンオタクが趣味でやるものだから、どんな無理難題でもやりがいを感じるし、 <br /> 　安月給であったとしても好きな事を仕事にできているのだから満足するべきなのに、 <br /> 　わがままばかりを言うコミュニケーション障害者」と思われる職業さ。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">56: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 22:23:58.74 ID:UIUgVzkl</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 自分のイメージでは <br /> 要件定義を元に <br /> 基本設計、詳細設計、QA管理をやるぐらいだと思う。プロジェクトリーダー未満、 <br /> グループリーダー以上。 <br /> もちろんコーディングもやる。でもアーキテクチャー屋ではない。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">72: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 22:51:01.70 ID:7uhfHjkI</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 海外では全く相手にされない肩書き <br /> その程度のもんなんだよ <br /> 要はやろうと思えば誰でも出来る手配師ってとこ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">75: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 22:53:48.32 ID:SC+ToYeZ</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ていうか、外注管理やってるやつってメインは人身売買だろ？ <br /> これほどピッタリな言葉があるのに使えないから表現できないんだよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">80: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 22:59:49.70 ID:D0eeO0Az</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> てかね、ＳＥって報連相ができない人が多い印象 <br /> 職場でお友達作ろうと頑張ってるのはいいんだけどね <br /> 友達作りみたいな勘違いコミュニケーションに必死こく前に報連相しろと </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">81: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 23:00:25.24 ID:QI7+ApSG</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> なんでおまえら人に使われることしか考えられねーんだよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">82: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 23:01:51.36 ID:SC+ToYeZ</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;81</span> <br /> 起業はやめておいた方がいい <br /> 政府が金を刷らなければ資本主義は成り立たない </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">83: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/05(月) 23:03:11.74 ID:S3aWyOAJ</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;81</span> <br /> 起業なんてできるのは資本を持った特権階級だけの話。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">92: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/06(火) 00:00:13.27 ID:sUsCzXi8</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 営業の代わりに適当な知識でシステムを説明する奴がSE。 <br /> 大昔はPGから入って基礎知識くらいは身につけてたけど <br /> 今は基礎知識すらない奴がいきなりやらされてる感じ。 <br /> 大抵阿呆しか居ない。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">97: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/06(火) 00:32:56.00 ID:gqTIOcUE</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> PGだと裁量労働が認められないからSEにする <br /> だから新人研修を終えたらSEとして配属される </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">99: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/06(火) 01:11:21.60 ID:u6KotTiw</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;97</span> <br /> PGのほうがまともな職業だね </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">101: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/06(火) 02:44:43.60 ID:QnKPONt1</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> セキュリティ関連の専門家の相場が日給8000円(交通費支給せず)とか <br /> 政府機関にまで判断されてあるあたりお察しな業界だよな。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">102: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/06(火) 02:56:08.16 ID:5PU+krG+</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ジョブディスクリプションと言うけど、事前定義された範囲の仕事しかしない <br /> 部下を使ってビジネスを回せる人間が、日本企業にどれだけいるのかという話 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">106: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/06(火) 08:04:03.00 ID:5dvldGOb</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 業務系はコンピュータ関連の知識が低い人が多い <br /> 業務内容に精通していればいいが、その知識もない人がいる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">111: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/06(火) 08:28:48.33 ID:dIL6qm2B</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> プログラマーはＳＥ的な業務も兼任出来る <br /> 海外ではこれが当たり前だっけ <br />  <br /> 一方で初めからＳＥだとプログラムも出来ないから何も作り出せない <br /> ＳＥだけの人って長時間労働で使われるだけの便利屋にしかならんわ <br /> 企業にとって好都合過ぎて笑えるｗ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">112: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/06(火) 08:31:11.44 ID:MjFxWFRC</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ＳＥ　交通費無し　日給8000円だからなぁ <br />  <br /> コンビニバイトより低いんだもん </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">115: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/06(火) 08:43:26.62 ID:f/xpWE3a</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;112</span> <br /> ＳＥは直接利益を生み出してないもんな <br /> この額なのは致し方ないのかも </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">113: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/06(火) 08:31:50.89 ID:JJ9y+/4X</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> クソなところは本当にクソ。 <br /> 一番やばいのは上司がクソなとこ。 <br /> 仕事ができるからって、管理とかプロジェクトリーダーに向いてるわけじゃないんだよ、あいつは本当にクソだった </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">116: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/06(火) 08:49:35.38 ID:Z0SgvN/r</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;113</span> <br /> プレーヤーがマネージャーになる仕組み自体、いい加減すぎる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">119: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/06(火) 09:04:34.46 ID:1UySK7wj</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;113</span> <br /> 何もできない究極無能がやることがないからって上司の管理の雑用をはじめて <br /> 無能のせいで現場が混乱しながらも成果を出しているというのに、 <br /> その成果を「人を使うのがうまい」という理由でそいつが昇進していく <br /> 無能だけが昇進できる会社のほうが、もっとやばいぞ。 <br /> 仕事ができるやつが昇進しているだけまだマシと知れ。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">124: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/06(火) 09:18:08.56 ID:STgPCaL6</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> プロジェクト毎にコーダーやったり設計やったり、 <br /> 手配やったり派遣の管理やったり、 <br /> 本当に何でも屋だもんなー SE。 <br /> で、当然、仕事は終わらん。裁量労働制の悪夢が凝縮されてる。 <br /> ひどかった。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">125: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/06(火) 09:20:47.55 ID:f/xpWE3a</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 君何が出来るの？ <br /> ＳＥ「用件定義と手配とコミュ力です」 <br /> これが労働価値だと一生会社に使われる事を想定しておかなければな <br /> 高プロ制度強引に当てはめられたら毎日サビ残の嵐だね </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">129: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/06(火) 14:21:22.55 ID:x975lzKw</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> Linux上でhttpdやtomcat、dbインスコして連携させたり <br /> これもSEの仕事に入るのかな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">137: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/07(水) 01:49:29.38 ID:WgPC9VhO</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> SE = システムエンジニアの略 っての前々から嫌いなんだよな。 <br /> 言うほど「システム」理解してないの多いし。 <br /> よく言ってソフトウェアエンジニアだろ。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">138: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/07(水) 02:03:14.25 ID:+YGNabWe</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 何でも屋がこなせるSEは、実は相当な実力者 <br /> 普通は、かなり限定的な事しかできない </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">139: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/07(水) 02:13:42.08 ID:UW67ALY8</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 開発・運用・サポート・(何故か)派遣先の若手社員の教育もやって、月手取り20無い世界。 <br /> 社員より好き勝手やらせてもらってるけど、もう少しハネ率減らしてもらえれば良いんだけどなぁ・・・。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">143: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/07(水) 07:52:45.78 ID:FPkvZo+o</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> SEは <br />  <br /> コードを書けない <br /> コードを書いた時点で裁量労働は認められない </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">144: <span  style="color: rgb(124, 199, 84);">名刺は切らしておりまして</span> <span  style="color: gray;"> 2018/03/07(水) 12:36:58.62 ID:Te8XABeb</span></span></div>
+<div  style="font-weight:bold;font-size:18px;line-height:27px;margin-bottom:30px;margin-top:20px;" class="t_b"> 日本の裁量労働は出鱈目 <br /> 単に仕事押し付けまくって酷使しようって意味しかない </div><br />
+<br />
+<p  style="color:gray;text-align:right;"><span  style="font-size: 81.25%;">引用元： <a  target="_blank" href="http://egg.5ch.net/test/read.cgi/bizplus/1520248229/">http://egg.5ch.net/test/read.cgi/bizplus/1520248229/</a></span></p>
+<br />
+
+</div>
+                        
+<!-- タグのリスト表示セット -->
+                        </div>
+<br>
+
+
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=2Z8HPD+9K4KFM+34FI+NUES2" alt="">
+                    </div>
+                    <!-- 記事本文 ここまで-->
+
+
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HV7V6" alt="">
+
+
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www26.a8.net/svt/bgt?aid=190821728180&wid=001&eno=01&mid=s00000011866017004000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" alt=""></td>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+3257OY+3Y6M+601S1" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www24.a8.net/svt/bgt?aid=190821728185&wid=001&eno=01&mid=s00000018427001008000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=35LYZK+3257OY+3Y6M+601S1" alt=""></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+
+
+                    <!-- 記事フッター、コメント、ソーシャルボタン -->
+                    <footer class="article-footer">
+                        <div class="article-footer-comment">
+                            
+                                <a href="http://pathtimeblog.com/archives/7702701.html#comments">0コメント</a>
+                            
+                        </div>
+                        <div class="article-social-btn">
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HVFKY" alt="">
+
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/7702701.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/7702701.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="【IT】上司の裁量なのに裁量労働の噴飯、SEの現実をよく見よ！ 	 - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=%E3%80%90IT%E3%80%91%E4%B8%8A%E5%8F%B8%E3%81%AE%E8%A3%81%E9%87%8F%E3%81%AA%E3%81%AE%E3%81%AB%E8%A3%81%E9%87%8F%E5%8A%B4%E5%83%8D%E3%81%AE%E5%99%B4%E9%A3%AF%E3%80%81SE%E3%81%AE%E7%8F%BE%E5%AE%9F%E3%82%92%E3%82%88%E3%81%8F%E8%A6%8B%E3%82%88%EF%BC%81%20%09%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/7702701.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/7702701.html" data-text="【IT】上司の裁量なのに裁量労働の噴飯、SEの現実をよく見よ！ 	 - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F7702701.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                        </div>
+                    </footer>
+                    <!-- /記事フッター、コメント、ソーシャルボタン -->
+
+
+                    <!-- カテゴリの最新記事表示 はじまり-->
+                    <div class="article-sub-category">
+                        <div id="ldblog_related_articles_e1f965b1">
+
+<div class="related-articles ldblog_related_articles_e1f965b1" data-category-id="160358" data-article-rows="5">
+<h3>「IT・メディア」カテゴリの最新記事</h3>
+<ul id="ldblog_related_articles_e1f965b1_160358"></ul>
+</div>
+</div>
+<script type="text/html" id="ldblog_related_articles_e1f965b1_tmpl">
+<% for(var i=0,l=articles.length;i<l;i++) {%><% if(i>=rows) break; %>
+<li><a href="<%=articles[i].permalink%>"><%=articles[i].title%></a></li>
+<% } %>
+</script>
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/related_articles.js?t=20180221"></script>
+<script type="text/javascript">
+(function(){
+RelatedArticles.load('ldblog_related_articles_e1f965b1', '7702701');
+})();
+</script>
+<!-- 関連記事の表示 -->
+                    </div>
+                    <!-- /カテゴリの最新記事表示 ここまで-->
+
+
+
+
+                    <div id="ad2"></div><!-- 広告表示 -->
+
+                    <!-- 記事オプション はじまり-->
+                    <div class="article-option" id="article-options">
+
+                        <!-- コメントエリア　はじまり -->
+                        
+                        <section id="comments">
+                        
+                        <h1 class="comment-form-title">コメントする</h1>
+<div class="article-option" id="comment-form">
+    <form
+      action="https://comment.blogcms.jp/livedoor/shukatu2ch/7702701/post"
+      method="post"
+      name="comment_form"
+          id="comment-form-body"
+      onsubmit="setCommentAuthor(this); return submitOnce(this.button);"
+    >
+    <fieldset>
+        <legend>コメントフォーム</legend>
+    <dl class="comment-form-author">
+        <dt><label for="comment-form-author">名前</label></dt>
+        <dd id="comment-author-form"><input type="text" class="text" id="comment-form-author" name="author" required="required" value="" /></dd>
+    </dl>
+  <dl class="comment-form-body">
+    <dt><label for="comment-form-textarea">コメント</label></dt>
+    <dd>
+      <textarea id="comment-form-textarea" name="body" rows="7" required="required"></textarea>
+      <div id="comment-form-tools">
+        <span class="facemark"><a href="javascript:void(0);" id="emojiLink1" onClick="showEmojiPanel(this.id, 'comment-form-textarea')"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/icon_facemark.png" /></a></span>
+        <span class="rating">
+                    <input type="hidden" name="rating" value="">
+                    <input type="hidden" name="rating_icon" value="star">
+                    <div class="rating-value">
+                        <span id="default-rating-value">評価する</span>
+                        <div class="caret"><span></span></div>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/face/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/face/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/face/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/face/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/face/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/star/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/star/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/star/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/star/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/star/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                    </div>
+                    <div class="rating-icon">
+                        <div data-value="face">顔</div>
+                        <div class="selected" data-value="star">星</div>
+                    </div>
+        </span>
+        <span class="submit"><button type="submit">投稿する</button></span>
+        <span class="memorize"><label for="bake"><input type="checkbox" id="bake" name="cookie" /> 情報を記憶</label></span>
+      </div>
+    </dd>
+  </dl>
+  </fieldset>
+  </form>
+  <script type="text/javascript" src="https://parts.blog.livedoor.jp/js/comment.0.2.js?v=20130430"></script>
+  <script type="text/javascript">
+    loadCommentAuthor(document.comment_form);
+    ldblogComment.init();
+  </script>
+<!-- /#comment-form --></div><!-- コメント投稿フォーム -->
+
+
+                        </section>
+                        
+                        <!-- コメントエリア　ここまで -->
+
+
+                        <!-- トラックバック受け付け　はじまり -->
+                        
+                        <!-- トラックバック受け付け　ここまで -->
+
+                    </div>
+                    <!-- 記事オプション ここまで-->
+
+                </article>
+                <!-- 記事　ここまで -->
+
+
+                <!-- ページ送り はじまり-->
+<!-- Article Pager // -->
+  <div class="pager article-pager-type2">
+    <div class="pager-inner">
+    <div class="article-pager-outer">
+    <ul class="article-pager"><li class="prev"><a href="http://pathtimeblog.com/archives/7690734.html" title="友達クソ少ないのに就活楽勝だった奴おる？ 	">&nbsp友達クソ少ないのに就活楽勝だった奴おる？ 	</a></li><li class="next both"><a href="http://pathtimeblog.com/archives/7702802.html" title="TOEIC980なんだけど就活に役立つ？？">TOEIC980なんだけど就活に役立つ？？&nbsp</a></li>    </ul>
+    </div>
+    </div>
+  </div>
+<!-- // Article Pager -->
+
+                <!-- /ページ送り ここまで-->
+
+            </div><!-- /main-column-inner-->
+        </div>
+        <!-- コンテンツの箱の中　真ん中728px ここまで-->
+
+
+        <!-- コンテンツの箱の中　左側200px はじまり-->
+        <aside class="left-container">
+            <div class="left-column-inner">
+            
+
+
+
+<div class="plugin-popular_articles sidewrapper">
+  <div class="sidetitlebody">
+    <div class="sidetitle">人気記事</div>
+  </div>
+  <div class="sidetop"></div>
+  <div class="side">
+
+
+    <div class="popular-articles">
+      <table id="populararticles-472933"></table>
+      <div class="popular-articles-freearea"></div>
+    </div>
+  </div>
+
+  <div class="sidebottom"></div>
+</div>
+
+<script type="text/javascript" language="javascript"><!--
+(function(){
+  var url = 'http://pathtimeblog.com/archives/popular_articles.json'
+         + '?rangetype=custom'
+         + '&from=0'
+         + '&range=13'
+         + '&limit=50'
+         + '&offset=0'
+         ;
+
+  var callback = function(data) {
+    var table = document.getElementById('populararticles-472933');
+    for (i = 0; i < data.articles.length; i++) {
+      var rank = i + 1;
+      var prefix = 'populararticles-472933-'+ rank;
+
+      var row = table.insertRow(-1);
+      var elm1 = row.insertCell(-1);
+      elm1.className = 'populararticles-rank';
+      elm1.innerHTML = '<span><b>' + rank + '</b></span>';
+      var elm2 = row.insertCell(-1);
+      elm2.className = 'populararticles-title';
+      elm2.innerHTML = '<a href="' + data.articles[i].url + '?ref=popular_article&id=7836571-472933">' + data.articles[i].title + '</a>'
+      ;
+
+    }
+  };
+
+  var xhr = (function () {
+      if (window.XMLHttpRequest)
+        return new XMLHttpRequest();
+      else {
+        var msxml = [
+          "Msxml2.ServerXMLHTTP.6.0", "Msxml2.ServerXMLHTTP.5.0", "Msxml2.ServerXMLHTTP.4.0", "Msxml2.ServerXMLHTTP.3.0",
+          "Msxml2.ServerXMLHTTP", "Microsoft.ServerXMLHTTP", "Msxml2.XMLHTTP.6.0", "Msxml2.XMLHTTP.5.0",
+          "Msxml2.XMLHTTP.4.0", "Msxml2.XMLHTTP.3.0", "Msxml2.XMLHTTP", "Microsoft.XMLHTTP"
+        ];
+        for (var i = 0; i<msxml.length; i++ ){
+          try {
+            return new ActiveXObject(msxml[i]);
+          }
+          catch(e) { }
+        }
+        return null;
+      }
+  })();
+    
+  if (!xhr) return;
+  xhr.open('GET', url, true);
+  xhr.onreadystatechange = function () {
+    if (xhr.readyState == 4 && xhr.status == 200) {
+      eval('var ld_popular_articles_json = ' + xhr.responseText);
+      callback(ld_popular_articles_json);
+    }
+  };
+  xhr.send();
+
+})();
+//-->
+</script>
+
+<div class="plugin-recent_articles sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">最新記事</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27108137.html">21卒就活生ワイ、内定辞退でしこたま怒鳴られる</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/10257766.html">ニートって難しい資格取って仕事探そうとするけどさ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839910.html">【学歴フィルター】企業にとっての一流大学とは？【就職偏差値】</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839719.html">ワイニート歴2年、就職して初年度の年収500万円！！！！</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073431.html">あ、面接落ちたなってフラグ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073465.html">【悲報】上級国民大手企業様「下請けに仕事やらせてガッポリ中抜きｗ」→夏ボーナス92万5947円</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27075072.html">ワイ21卒、会社選びを間違ってしまったと後悔する</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027071.html">【悲報】キャリア採用の銀行員ワイ、周囲の人間があまりにも有能すぎてマジでドン引き……………………</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27063977.html">【速報】大学、終わる。　Googleが大卒資格を得られるコースを提供へ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027029.html">教師「Ｆ欄ＯＫです、公務員です、毎日定時で帰れます、年収700万です」←こいつが馬鹿にされる理由ｗ</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-recent_articles -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「A」設定のブログパーツ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　左側200px ここまで-->
+
+
+        <!-- コンテンツの箱の中　右側200px はじまり-->
+        <aside class="right-container">
+            <div class="right-column-inner">
+            
+
+
+
+<div class="plugin-categorize sidewrapper" id="plugin-categorize-457691">
+    <div class="sidetitlebody">
+        <div class="sidetitle">カテゴリー</div>
+    </div>
+    <div class="sidetop"></div>
+    <div class="side">
+
+
+      
+
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160301.html">就活準備 (243)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161699.html">自己分析 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161700.html">企業・業界研究 (66)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155971.html">資格 (39)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155966.html">選考 (254)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155977.html">インターン (23)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155978.html">説明会 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155975.html">ES (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155976.html">SPIなど (7)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155974.html">面接 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155972.html">内定 (222)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160304.html">NNT(無内定) (68)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160302.html">内定後・入社前 (110)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160308.html">アドバイス (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160460.html">入社後 (924)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220065.html">新卒 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220063.html">上司 (95)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_219473.html">社会人生活 (299)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160474.html">ブラック企業 (65)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160303.html">転職 (175)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163214.html">副業 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220667.html">収入 (102)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_299497.html">採用担当 (3)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_318465.html">第二新卒 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161711.html">学生生活 (46)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163247.html">浪人・留年 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155967.html">学歴 (119)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_223545.html">ニート (38)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155969.html">業界別 (314)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156035.html">金融 (34)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156099.html">建築・不動産 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160357.html">物流・運送 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160358.html">IT・メディア (55)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160359.html">エネルギー・資源 (1)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160310.html">自動車・機械 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160360.html">食品・小売 (14)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160311.html">公務員・準公務員 (89)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160356.html">サービス (21)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160473.html">その他 (42)</a>
+          
+        </div>
+        
+    
+        
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160476.html">その他 (472)</a>
+          
+        </div>
+        
+    
+    
+
+    </div>    
+    <div class="sidebottom"></div>
+</div><!-- // plugin-categorize -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+<a href="//blog.with2.net/link/?1955545"><img src="https://blog.with2.net/img/banner/banner_21.gif" title="人気ブログランキング"></a><br><a href="//blog.with2.net/link/?1955545" style="font-size: 0.8em;">人気ブログランキング</a>
+
+<div class="plugin-link sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">リンク集</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://0matome.com/" target="_blank">おまとめ</a></div>
+
+<div class="sidebody"><a href="http://2chnavi.net/allentries/?threshold=0" target="_blank">2chnavi</a></div>
+
+<div class="sidebody"><a href="http://http://iwashi.biz/" target="_blank">いわしアンテナ &gt;°))))彡</a></div>
+
+<div class="sidebody"><a href="http://2ch-2.net/" target="_blank"> つーアンテナ(*ﾟ∀ﾟ)</a></div>
+
+<div class="sidebody"><a href="https://ii-antenna.net/?about" target="_blank">いーあんてな(#ﾟｗﾟ)</a></div>
+
+<div class="sidebody"><a href="https://2ch-mi.net/" target="_blank">みーアンテナ（´∀｀）</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-link -->
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">検索</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="https://cse.google.com/cse.js?cx=014565878756483497884:urusxdcjffe"></script>
+<div class="gcse-search"></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「B」設定のブログパーツ表示 -->
+            
+<!-- LDR・RSSリンクとブログのロゴ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　右側200px ここまで-->
+
+        <!-- このページのトップヘ　はじまり -->
+        <p class="to-pagetop"><a href="#"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/to_pagetop.png" width="70" height="70" alt="このページのトップヘ" /></a></p>
+        <!-- このページのトップヘ ここまで -->
+
+    </div>
+    <!-- コンテンツ全体 ここまで-->
+
+    <!-- ブログのフッター はじまり-->
+    <footer id="blog-footer">
+    <!-- Blog Common Footer // --><div id="footer"><p>Powered by <a href="http://blog.livedoor.com/" title="ライブドアブログ">ライブドアブログ</a></p></div><!-- // Blog Common Footer --><!-- 共通フッター表示 -->
+    </footer>
+    <!-- /ブログのフッター ここまで-->
+
+</div>
+<!-- コンテンツエリア ここまで-->
+
+
+<!-- Add Body Tag // --><script type="text/javascript">
+(function(){
+  var traq = document.createElement('script'); traq.type = 'text/javascript'; traq.async = true;
+  traq.src = 'https://t.blog.livedoor.jp/u.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(traq, s);
+})();
+</script>
+<noscript>
+<img src="https://t.blog.livedoor.jp/u.gif" alt="traq">
+</noscript>
+<!-- // Add Body Tag -->
+
+<script>
+(function($) {
+  var cookieName = 'livedoor-blog-gdpr-agreed';
+  $(document).ready(function() {
+    if (navigator.userAgent.match(/https?:\/\//)) {
+      // UA に http:// or https:// があればスルー
+      return;
+    }
+
+    var agreed = document.cookie.indexOf(cookieName) >= 0;
+    if (agreed) {
+      // 同意済み Cookie があればスルー
+      return;
+    }
+
+    var banner = $('<div>');
+    banner.attr('id', 'gdpr-banner');
+    var label = $('<p>');
+    label.html('\
+      ライブドアブログでは広告のパーソナライズや効果測定のためクッキー(cookie)を使用しています。<br>\
+      このバナーを閉じるか閲覧を継続することでクッキーの使用を承認いただいたものとさせていただきます。<br>\
+      また、お客様は当社パートナー企業における所定の手続きにより、クッキーの使用を管理することもできます。<br>\
+      詳細は<a href="http://www.livedoor.com/rules/" target="_blank" style="color:#023780;text-decoration:underline;">ライブドア利用規約</a>をご確認ください。\
+    ');
+    banner.append(label);
+
+    var closeButton = $('<button>');
+    closeButton.attr('type', 'button');
+    closeButton.html('閉じる');
+    closeButton.on('click', function() {
+      $('#gdpr-banner').hide();
+      document.cookie = cookieName + '="1";expires=Tue, 31-Dec-2037 00:00:00 GMT;path=/;';
+    });
+    banner.append(closeButton);
+
+    banner.css({
+      'position': 'fixed',
+      'left': '0',
+      'right': '0',
+      'bottom': '0',
+      'background': '#dcdcdc',
+      'color': '#000',
+      'padding': '20px',
+      'text-align': 'center',
+      'box-shadow': '0 -2px 2px rgba(102, 102, 102, 0.86)',
+      'z-index': '2147483647',
+    });
+    label.css({
+      'display': 'inline-block',
+      'text-align': 'left',
+      'font-size': '14px',
+      'color': '#000',
+      'vertical-align': 'middle',
+      'line-height': '1.5',
+    });
+    closeButton.css({
+      'display': 'inline-block',
+      'color': '#fff',
+      'border': 'none',
+      'font-size': '14px',
+      'padding': '4px 40px',
+      'margin-left': '40px',
+      'background': '#535353',
+      'vertical-align': 'middle',
+    });
+
+    var script = document.createElement('script');
+    script.type = "text/javascript";
+    script.src = "https://ipcheck.blogsys.jp/check.js?t=" + Date.now();
+    script.onerror = function() {
+      $('body').append(banner);
+    };
+    document.body.appendChild(script);
+  });
+})(jQuery);
+</script>
+</body>
+</html>

@@ -1,0 +1,1383 @@
+<!DOCTYPE html>
+<html lang="ja" itemscope itemtype="http://schema.org/Blog">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=1190">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" /><link rel="shortcut icon" type="image/vnd.microsoft.icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/favicon.ico" /><link rel="icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/3ab45ab0.jpg" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/template.css?v=20190826" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/heart.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/icon.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="http://pathtimeblog.com/site.css?_=20190831163247" type="text/css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://pathtimeblog.com/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://pathtimeblog.com/atom.xml" /><link rel="canonical" href="http://pathtimeblog.com/archives/20753626.html" /><link rel="openid.server" href="http://auth.livedoor.com/openid/server" /><link rel="openid.delegate" href="http://profile.livedoor.com/shukatu2ch/" />
+<link rel="mixi-check-alternate" media="mixi-device-mobile" type="text/html" href="http://blog.m.livedoor.jp/shukatu2ch/article/20753626" />
+<link rel="mixi-check-alternate" media="mixi-device-smartphone" type="text/html" href="http://pathtimeblog.com/archives/20753626.html" />
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/jquery-1.11.1.min.js"></script>
+
+<meta name="description" content="1: 名無しなのに合格  2019/02/01(金) 12:39:06.93 ID:9mivL+NC
+ 毎日黒板に教科書に載ってるの板書して雑談するだけだし楽そうだよな    春休み、夏休み、冬休みもあるしな 
+" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="教員の給料は800万って聞くけどさ 	 : 2ch就活まとめ" />
+<meta property="og:description" content="1: 名無しなのに合格  2019/02/01(金) 12:39:06.93 ID:9mivL+NC 毎日黒板に教科書に載ってるの板書して雑談するだけだし楽そうだよな    春休み、夏休み、冬休みもあるしな " />
+<meta property="og:url" content="http://pathtimeblog.com/archives/20753626.html" />
+<meta property="og:site_name" content="2ch就活まとめ" />
+<meta property="og:locale" content="ja_JP" />
+<meta property="og:image" content="https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png" />
+
+<meta name="twitter:site" content="@2chshukatu" />
+<meta name="twitter:title" content="教員の給料は800万って聞くけどさ 	 : 2ch就活まとめ" />
+<meta name="twitter:description" content="1: 名無しなのに合格  2019/02/01(金) 12:39:06.93 ID:9mivL+NC 毎日黒板に教科書に載ってるの板書して雑談するだけだし楽そうだよな    春休み、夏休み、冬休みもあるしな " />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image:src" content="https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png" />
+<link rel="alternate" media="handheld" type="application/xhtml+xml" href="http://blog.m.livedoor.jp/shukatu2ch/" />
+
+<title>教員の給料は800万って聞くけどさ 	 : 2ch就活まとめ</title>
+<script src="https://parts.blog.livedoor.jp/js/emoji.js"></script>
+<script src="https://parts.blog.livedoor.jp/js/misc.js?v=20190710"></script>
+<!--[if lt IE 9]>
+<script src="https://parts.blog.livedoor.jp/js/html5.js"></script>
+<![endif]-->
+<script src="https://parts.blog.livedoor.jp/js/usr/import.js"></script>
+<script>
+$(function(){
+  if($('.header-inner01').children('#blog-header-image').length) {
+    $(window).bind('load', function() {
+      var title1 = $('#blog-header-image').height();
+      var title2 = $('.header-menu').height();
+      var headerHeight = title1-title2-15;
+      $("hgroup").css("height", headerHeight);
+    });
+  }
+});
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-3064778048578600",
+          enable_page_level_ads: true
+     });
+</script>
+
+<!-- Add Google Analytics Tag // -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-113178806-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- // Add Google Analytics Tag -->
+
+
+<meta name="referrer" content="always">
+<meta name="referrer" content="unsafe-url">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1638469-45"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+var blogId = '';
+if (blogId) {
+  gtag('config', 'UA-1638469-45', {
+    'custom_map': {'dimension1': 'blog_id'},
+    'blog_id': blogId
+  });
+} else {
+  gtag('config', 'UA-1638469-45');
+}
+</script>
+
+</head>
+<body class="default_2012 page-article layout-2col sidebar-right"><script type="text/javascript"><!--
+var ld_blog_vars = {
+  provider_id : '1',
+  provider_name : 'livedoor',
+  id : '7836571',
+  name : 'shukatu2ch',
+  charset : 'utf8',
+  url : 'http://pathtimeblog.com/',
+  title : '2ch就活まとめ',
+  blog_design: {
+      version: 1
+  },
+  blog_category: {
+    id: '243',
+    permalink: 'https://blog.livedoor.com/category/243/',
+    name: 'まとめ(総合) > まとめ',
+    is_adult : 0,
+    is_gambling : 0,
+    hierarchy: [{ id: '431', name: 'まとめ(総合)', permalink: 'https://blog.livedoor.com/category/431/' },{ id: '243', name: 'まとめ', permalink: 'https://blog.livedoor.com/category/243/' }]
+  },
+  current_page : {
+    type : 'article',    page : ''
+  },
+  articles : [ {
+       id : '20753626',
+       permalink : 'http://pathtimeblog.com/archives/20753626.html',
+       title : '教員の給料は800万って聞くけどさ \t',
+       categories : [ { id:'160311', name:'公務員・準公務員', permalink:'http://pathtimeblog.com/archives/cat_160311.html' }, { id:'', name:'', permalink:'' } ],
+       date : '2019-09-10 07:30:16'
+}   ]
+};
+//-->
+</script><div id="analyzer_tags" style="display:none">
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/c2.js?v=20191010"></script>
+<script type="text/javascript">blog_counter('shukatu2ch', 7836571, 'http://pathtimeblog.com/')</script>
+</div><script type="text/javascript" src="https://parts.blog.livedoor.jp/js/smartphone.js?v=20200824"></script>
+<script type="text/javascript" src="http://pathtimeblog.com/settings/header.js?v=20190705"></script><script type="text/javascript" src="http://pathtimeblog.com/settings/ad.js"></script>
+<script type="text/javascript">
+var palette_src = 'https://parts.blog.livedoor.jp/img/emoji/3/palette.png';
+if (typeof IMAGE_CACHE == 'object' && IMAGE_CACHE['emoji_palette']) IMAGE_CACHE['emoji_palette'].src = palette_src;
+</script>
+
+<!-- Blog Common Header // -->
+<!-- // Blog Common Header -->
+<!-- 共通ヘッダー表示 -->
+
+<!-- ブログタイトル はじまり-->
+<header id="blog-header">
+
+    <div id="blog-header01">
+
+        <div class="header-inner01 show-image hide-text">
+
+            <hgroup>
+                <!--ブログタイトル　はじまり-->
+                <h1 id="blog-title"><a href="http://pathtimeblog.com/">2ch就活まとめ</a></h1>
+                <!--ブログタイトル　ここまで-->
+                <!--ブログ説明　はじまり-->
+                <h2 id="blog-description">新卒・転職・社会人生活などを含め、就活・就職に関することをまとめてます。</h2>
+                <!--ブログ説明　ここまで-->
+            </hgroup>
+
+            <a href="http://pathtimeblog.com/"><img src="https://resize.blogsys.jp/727db0f9da9f42eb7d26b703338c30b3eef0157c/trim2/0x243_94p_1200x388/http://livedoor.blogimg.jp/shukatu2ch/imgs/0/5/055bbafe.jpg" id="blog-header-image" /></a>
+
+            <div id="blog-header02">
+                <div class="header-inner02">
+                    <ul class="header-menu">
+                        <li><a href="http://pathtimeblog.com/">HOME</a></li><!--メニューを入れてください-->
+                        <li class="ldb_menu-item-url"><a href="http://blog.livedoor.jp/shukatu2ch/archives/6126504.html">ABOUT</a></li><!--メニューを入れてください-->
+                        <li><a href="mailto:shukatumatome@gmail.com">お問い合わせ</a></li><!--メニューを入れてください-->
+                    </ul>
+                    <ul class="header-sarch">
+                        <li><a href="http://twitter.com"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_twitter.png" alt="Twitter" /></a></li><!--Twitter-->
+                        <li><a href="http://pathtimeblog.com/index.rdf"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_rss.png" alt="RSS" /></a></li><!--RSS-->
+                        <li>
+                        <form action="http://pathtimeblog.com/search" method="GET" style="padding:0;margin:0px;">
+                        <input type="TEXT" name="q" class="sf">
+                        <input type="SUBMIT" value="検索" class="sfbtn">
+                        </form>
+                        </li><!--検索窓-->
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</header>
+<!-- /ブログタイトル ここまで-->
+
+
+<!-- コンテンツエリア はじまり-->
+<div id="wrapper">
+
+    <!-- コンテンツ全体 はじまり-->
+    <div id="container">
+
+        <!-- 相互RSS はじまり-->
+        <div class="rss-blogroll">
+
+            <!-- 相互RSSを設置する場合の注意事項
+                コードに含まれる以下のCSSは外して設置してください
+                http://blogroll.livedoor.net/css/default2.css -->
+
+                 <!-- 相互RSSのコード ひとつ目-->
+            <script type="text/javascript">
+            <!--
+                   var blogroll_channel_id = 255242;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード ふたつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 265945;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード みっつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 255442;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href= />
+        </div>
+        <!-- 相互RSS ここまで-->
+
+        <!-- コンテンツの箱の中　真ん中728px はじまり-->
+        <div class="main-container">
+            <div class="main-column-inner">
+<br>
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+<br>
+                <!-- メッセージボード -->
+                 
+
+
+
+                <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://pathtimeblog.com/archives/20753626.html"
+    trackback:ping="http://trackback.blogsys.jp/livedoor/shukatu2ch/20753626"
+    dc:title="教員の給料は800万って聞くけどさ 	"
+    dc:identifier="http://pathtimeblog.com/archives/20753626.html"
+    dc:subject="公務員・準公務員"
+    dc:description="1: 名無しなのに合格  2019/02/01(金) 12:39:06.93 ID:9mivL+NC 毎日黒板に教科書に載ってるの板書して雑談するだけだし楽そうだよな    春休み、夏休み、冬休みもあるしな "
+    dc:creator="shukatu2ch"
+    dc:date="2019-09-10T07:30:16+09:00" />
+</rdf:RDF>
+-->
+<div id="ad_rs" class="ad_rs_b"></div><!-- 記事のトラックバック・オートディスカバリー -->
+
+
+                <!-- 記事 はじまり-->
+                <article class="article first-article" itemscope itemtype="http://schema.org/BlogPosting">
+
+                    <!-- 記事タイトル　記事下の情報　はじまり-->
+                    <header class="article-header">
+
+                        <h1 class="article-title" itemprop="name"><a href="http://pathtimeblog.com/archives/20753626.html" itemprop="url">教員の給料は800万って聞くけどさ 	</a></h1><!-- 記事のタイトル -->
+
+                            <!-- 記事下の記事情報 はじまり-->
+                            <div class="article-header-inner">
+
+                                <!-- 記事情報の上の行 はじまり-->
+                                <div class="article-header-top">
+                                <p class="article-header-date"><time datetime="2019-09-10T07:30:16+09:00" pubdate="pubdate">2019年09月10日</time></p>
+                                
+                                <ul class="article-header-category">
+                                    <li>
+                                        <dl><dt>カテゴリ:</dt><dd class="article-category1"><a href="http://pathtimeblog.com/archives/cat_160311.html">公務員・準公務員</a></dd></dl>
+                                    </li>
+                                </ul>
+                                
+
+                                <!-- 記事の評価アイコン はじまり-->
+                                
+                                <!-- 記事の評価アイコン ここまで-->
+
+                                </div>
+                                <!-- 記事情報の上の行 ここまで-->
+                                <!-- ソーシャルボタン　はじまり -->
+                                <ul class="article-social-btn">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/20753626.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/20753626.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="教員の給料は800万って聞くけどさ 	 - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=%E6%95%99%E5%93%A1%E3%81%AE%E7%B5%A6%E6%96%99%E3%81%AF800%E4%B8%87%E3%81%A3%E3%81%A6%E8%81%9E%E3%81%8F%E3%81%91%E3%81%A9%E3%81%95%20%09%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/20753626.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/20753626.html" data-text="教員の給料は800万って聞くけどさ 	 - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F20753626.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                                </ul>
+                                 <!-- ソーシャルボタン　ここまで -->
+                            </div>
+                            <!-- 記事下の記事情報 ここまで-->
+
+                    </header>
+                    <!-- 記事タイトル　記事下の情報　ここまで-->
+
+
+
+                    <!-- 記事本文 はじまり-->
+                    <div class="article-body">
+                        <div class="article-body-inner">
+<!-- 参加している共通テーマの表示 -->
+                        <span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">1: <span  style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span  style="color: gray;"> 2019/02/01(金) 12:39:06.93 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:9mivL+NC</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b"> 毎日黒板に教科書に載ってるの板書して雑談するだけだし楽そうだよな <br />  <br /> 春休み、夏休み、冬休みもあるしな </div><br />
+<!-- Generated by 2chまとめくす (http://2mtmex.com/) --><!-- 本文 --><div class="article-body-more" id="more"><font size="2"><div class="t_h" >2: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/01(金) 12:41:08.03 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:9mivL+NC</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> 仕事にやり甲斐があって <br /> 給料も他の公務員よりも数倍高くて <br /> 春休み、夏休み、冬休みもあって <br /> 部活で運動もできるし <br />  <br /> 最高な職業だよな </div><br />
+<font size="2"><div class="t_h" >3: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/01(金) 12:45:06.33 ID:1W3hQpIC</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 生徒にボコボコに殴られて、やり返したらテレビで叩かれて処分されるんやで。 <br /> 部活でやったこともないスポーツの指導者をやらされたり、休日をつぶされるのも困りものだ。 </div><br />
+<font size="2"><div class="t_h t_i" >12: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/01(金) 12:58:45.45 ID:zwBXNOL3</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;3</span> <br /> これ <br /> 5割の運動部顧問(体育教員除く)は競技経験無いらしいからなぁ </div><br />
+<font size="2"><div class="t_h" >4: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/01(金) 12:45:26.75 ID:ZnbMnxfB</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;"> 長期休みなんてないぞ </div><br />
+<font size="2"><div class="t_h" >5: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/01(金) 12:46:42.57 ID:m2lSmTT9</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 教員の早期死亡率知らないのかお前は。あと、教育者気取りながら残業休日無しで自分の家庭崩壊してるからな。 </div><br />
+<font size="2"><div class="t_h t_i" >27: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/01(金) 15:07:09.85 ID:oQeWPFti</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;5</span> <br /> お前、何で嘘ばっかり言ってるの？ <br /> 死亡率平均以下だぞ </div><br />
+<font size="2"><div class="t_h t_i" >28: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/01(金) 15:10:29.18 ID:m2lSmTT9</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;27</span> <br /> 定年後のボケ具合がひどいのは有名だぞ。 </div><br />
+<font size="2"><div class="t_h t_i" >62: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/04(月) 03:09:53.41 ID:g3PO4WNm</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;28</span> <br /> 毎年同じ事の繰り返しだから、ボケやすいと言われているんだよね </div><br />
+<font size="2"><div class="t_h" >6: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/01(金) 12:47:06.18 ID:guTEKM+1</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 小学校なら楽そう </div><br />
+<font size="2"><div class="t_h t_i" >7: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/01(金) 12:48:41.48 ID:BHMpBaC+</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;6</span> <br /> 1番大変だろ <br /> 全部の教科の準備とか行事の企画やらワンサカいるだろうモンペの相手とか </div><br />
+<font size="2"><div class="t_h" >8: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/01(金) 12:51:30.40 ID:m2lSmTT9</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 東京都の小学校教師とか離職率４割らしいからな。4.5年勉強して志持った奴が底辺飲食並み離職率叩き出してるのは闇が深すぎるわ。 <br /> 直接聞いた話だと完全な使い捨てらしい。 </div><br />
+<font size="2"><div class="t_h t_i" >44: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/01(金) 20:47:16.20 ID:rxcdxGwg</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;8</span> <br /> 小学校教諭は女が多いから離職率も高いだけ。 <br /> 同じ理由で薬剤師も女が多いからいつまでも飽和しないで募集あり・高給。 <br /> 逆に言えば女が多いところは男の狙い目。 </div><br />
+<font size="2"><div class="t_h" >9: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/01(金) 12:52:45.61 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:9mivL+NC</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> おいしい給食も食べれるしな <br />  <br /> 採用試験難易度もそんなに高くなさそうだから目指して行けば無理じゃないから最高な職業だと思うのだが <br /> 何がそんなに大変なの？ </div><br />
+<font size="2"><div class="t_h t_i" >11: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/01(金) 12:57:50.55 ID:m2lSmTT9</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;9</span> <br /> 採用試験が簡単なのはまともな発想したやつは絶対に受けないからやで。 </div><br />
+<font size="2"><div class="t_h" >10: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/01(金) 12:54:02.35 ID:hTrNvS1q</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 両親どっちも高校教員だけど <br /> 全く裕福な暮らし送れてない <br /> 給料は学校にもよるかと <br />  <br /> ちな兄弟3人で首都圏住み </div><br />
+<font size="2"><div class="t_h t_i" >52: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/02(土) 05:09:16.40 ID:4++p+QaT</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;10</span> <br /> 公立高校は給料は決まってる <br /> 私立は高校によってばらつきがある </div><br />
+<font size="2"><div class="t_h" >13: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/01(金) 13:07:38.87 ID:W5anlMRS</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 中学校の教師とか地獄だろ <br /> どんなに金積まれてもやりたくない </div><br />
+<font size="2"><div class="t_h" >14: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/01(金) 13:11:58.01 ID:m2lSmTT9</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;"> 教育は結果が見えにくいから子供のためっていうマジックワードでひたすら仕事増えて、その多さに異論唱えると教員としての自覚とか能力の欠如指摘されるらだけだからな。 <br /> 残業休日無しが公に認められてる労基法最後の治外法権なんやで。 </div><br />
+<font size="2"><div class="t_h" >15: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/01(金) 13:12:53.42 ID:UQjcToA1</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 国民の9割はマーチ行けない連中だと理解できない受サロガイジがそんなバカガキ相手にして発狂しないわけがない </div><br />
+<font size="2"><div class="t_h" >16: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/01(金) 13:20:26.34 ID:HAmzBs2K</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 夜22時とか普通に残業してるよ先生 <br /> 生徒に嫌われたら大変だからご機嫌とりして <br /> 丸付けとか授業準備とか <br /> 不登校児の対応とかもあるし大変そう </div><br />
+<font size="2"><div class="t_h" >17: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/01(金) 13:32:28.59 ID:h1vosdcb</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> いつから先生に長期休暇があると思った。部活で土日潰れることも考えると圧倒的に休み少ないやろ </div><br />
+<font size="2"><div class="t_h" >20: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/01(金) 14:01:08.84 ID:UTEGnI4m</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> まじで800万もあるの？ </div><br />
+<font size="2"><div class="t_h" >21: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/01(金) 14:06:47.27 ID:bH/IDxmP</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 嘘だよ <br /> <a href="http://next.rikunabi.com/journal/20160129_s1/" target="_blank">https://next.rikunabi.com/journal/20160129_s1/</a> </div><br />
+<font size="2"><div class="t_h t_i" >23: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/01(金) 14:10:06.64 ID:zrlFAm9Q</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;21</span> <br /> 年収350万もいかないのか… <br /> 教師とかやりたくねえ </div><br />
+<font size="2"><div class="t_h t_i" >50: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/02(土) 05:04:40.32 ID:4++p+QaT</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 公立高校教師の平均年収は約720万。 <br /> <span style="color:mediumblue;" class="anchor">&gt;&gt;23</span>は非正規や臨時（低賃金）が含まれてる。 </div><br />
+<font size="2"><div class="t_h t_i" >25: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/01(金) 14:54:32.30 ID:SjFH/mYC</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;21</span> <br /> 50代では770万って書いてあるしあながち間違ってはいない </div><br />
+<font size="2"><div class="t_h t_i" >26: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/01(金) 14:59:42.00 ID:bH/IDxmP</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;25</span> <br /> その年代で校長が増えるから平均引き上げてるんだろう <br /> 出世しなきゃ大して貰えねえよ </div><br />
+<font size="2"><div class="t_h t_i" >33: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/01(金) 15:42:43.92 ID:2pNcllDh</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;26</span> <br /> まあ結局どこでも出世ってわけだな </div><br />
+<font size="2"><div class="t_h" >22: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/01(金) 14:07:56.21 ID:zrlFAm9Q</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 平均なら手取りで年400万ってとこだろ <br /> 公務員がそんな裕福な訳が無い </div><br />
+<font size="2"><div class="t_h t_i" >56: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/02(土) 05:18:36.54 ID:4++p+QaT</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;22</span> <br /> 公務員の平均年収686万+＠ <br /> 民間企業の平均年収（正規）487万 <br />  <br /> 公務員は仕事に専念させるため副業禁止、そのかわり給料を高く設定してる </div><br />
+<font size="2"><div class="t_h t_i" >58: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/02(土) 05:33:10.35 ID:4++p+QaT</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;56</span>の訂正 <br /> 公立の教師でも副業が認められる場合があるらしい <br />  <br /> &gt;教師に限らず、公務員は営利企業などの従事制限があります。 <br /> しかし逆を言えば、営利目的でなければ <br /> 副業はOKということになります。 <br /> 小説家、農家、お寺の住職などはこれに当たります。 <br /> 任命権者（知事、市町村長）の許可はいりますが。 <br /> 講演会なども許可を得れば大丈夫です。 </div><br />
+<font size="2"><div class="t_h" >24: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/01(金) 14:13:56.16 ID:mo3nv/J0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 高校教師になって運動部の監督しつつ、日常生活ではJKを眺めて生活したい <br /> 教員免許絶対とるぞ </div><br />
+<font size="2"><div class="t_h" >29: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/01(金) 15:25:15.98 ID:tKru2SAQ</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 両親が高校教員だけど、大変そうには見えないわ。19:00には帰ってくるし、夏冬休み堪能してるし。結局は赴任先に左右されるけどな。 </div><br />
+<font size="2"><div class="t_h" >30: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/01(金) 15:28:11.43 ID:NMwDA97V</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 高３だけど自分より年下のしかも親戚でもない子供の世話とか絶対したくないから教師向いてないわ </div><br />
+<font size="2"><div class="t_h" >31: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/01(金) 15:29:30.20 ID:EOaoCVt0</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 高校教師とか非常勤ならいいけどそうじゃないなら地獄だろ </div><br />
+<font size="2"><div class="t_h" >32: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/01(金) 15:30:19.57 ID:tKru2SAQ</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 年収は50歳で800ぐらいらしいから、まあ悪くはないんじゃね？厳密な福利厚生とかボーナスは知らん。 </div><br />
+<font size="2"><div class="t_h" >34: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/01(金) 15:47:56.42 ID:9MT8B9fA</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;"> 教員は歳をとるほど序列が上がる。 <br /> 逆に言うと若いうちが地獄 </div><br />
+<font size="2"><div class="t_h" >35: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/01(金) 16:50:51.27 ID:YN/WHoqq</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 公務員だから懲戒処分されないし年金もたくさん貰える </div><br />
+<font size="2"><div class="t_h t_i" >55: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/02(土) 05:12:52.13 ID:4++p+QaT</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;35</span> <br /> 公務員（公立の学校の正規職員）は身分が保障されてるからね <br /> 少し前までは共済年金ってのがあって、退職時に退職金2500万～を受け取った後、 <br /> なにもしなくても月々20万くらいもらえてた、ただし現在は厚生年金に一元化され少し減ったけど </div><br />
+<font size="2"><div class="t_h" >36: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/01(金) 17:07:23.05 ID:+Do6iEJc</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 運動部とかもたされたら本当に地獄だぞ <br /> 教育学部だからそういう大変な面結構知ってる <br /> やりがい命じゃないとつとまらん </div><br />
+<font size="2"><div class="t_h" >38: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/01(金) 17:51:22.78 ID:whQFKxxs</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 非常勤ならやってみたい <br /> 塾講師＋学校の非常勤とかクソ楽しそうじゃん </div><br />
+<font size="2"><div class="t_h t_i" >42: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/01(金) 20:02:48.01 ID:9MT8B9fA</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;38</span> <br /> 教師って公務員だけど兼業できんの？ <br /> 非常勤ってまだ採用試験に受かってない若手or定年退職した爺さんってイメージなんだけど </div><br />
+<font size="2"><div class="t_h t_i" >49: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/02(土) 04:46:14.98 ID:/fNV3Qj/</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;42</span> <br /> うちの高校に塾講師やりながら非常勤やってる人いた </div><br />
+<font size="2"><div class="t_h t_i" >51: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/02(土) 05:07:35.62 ID:4++p+QaT</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"><span style="color:mediumblue;" class="anchor">&gt;&gt;49</span> <br /> 正規の教員の話じゃない？</div><br />
+<font size="2"><div class="t_h t_i" >54: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/02(土) 05:10:47.88 ID:/fNV3Qj/</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;51</span> <br /> こっちは私立高校 </div><br />
+<font size="2"><div class="t_h" >39: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/01(金) 17:53:36.20 ID:whQFKxxs</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> あと教師が800万も貰えるわけないからな <br /> 通ってる高校の先生に年収聞いてみな </div><br />
+<font size="2"><div class="t_h t_i" >64: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/04(月) 03:18:00.41 ID:g3PO4WNm</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;39</span> <br /> 平の教員でも、50歳くらいなら余裕で貰えてるよ。 <br /> 警察や教員、消防みたいに人気の無い公務員は、一般行政職のの公務員+150万円程度の年収。 </div><br />
+<font size="2"><div class="t_h" >40: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/01(金) 18:09:32.76 ID:0RwxrXxT</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 私立なら1000万は普通にいくよな </div><br />
+<font size="2"><div class="t_h" >43: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/01(金) 20:34:21.14 ID:+r6XxVlK</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 高校教師は普通に年取ったら800は行くよ </div><br />
+<font size="2"><div class="t_h" >45: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/02(土) 02:07:03.87 ID:VVBrfq0C</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 過労死者が出てしまうような職種は <br /> いくら年収が高かろうが避けるに限る <br /> 相当なストレスがあるわけだからな <br /> そういう意味でも薬剤師がベスト <br /> 過労死する奴などいようはずがない <br /> コンビニ店員より楽な上給料は数倍 <br /> 楽して中流維持した奴には天職 <br /> ノルマ無 <br /> 残業なし <br /> パワハラとかモラハラなども一切無し <br /> こんな職業が他にあるというのか？ </div><br />
+<font size="2"><div class="t_h" >46: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/02(土) 03:15:06.73 ID:vyVsqn6O</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> ざっと調べたら <br />  <br /> ８月も普段通り朝から出勤 <br /> 休みは５日位(お盆) <br /> 各種研修あり <br /> さらに部活顧問が加わる <br />  <br /> そもそも出勤しないと給料無しw <br />  <br /> 進学校なら夏休みも補習やったりするよね <br /> あれ誰がやってたっけ？w </div><br />
+<font size="2"><div class="t_h t_i" >63: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/04(月) 03:15:23.86 ID:g3PO4WNm</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;46</span> <br /> 生徒の長期休暇中なんて、まともに学校にくる奴いないぞ？ <br />  <br /> 勝手に遅くきて勝手に早く帰るくらいなら良い方で、無断欠勤で管理職から連絡されることも珍しくない。 <br /> 次に出勤は二週間後なんてのもあるしね。 <br /> 実際は、部活くらいしかやる事が無いと言うのが本当のところ。 </div><br />
+<font size="2"><div class="t_h" >47: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/02(土) 03:18:38.87 ID:Oj9vw08u</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> おれの知り合い東京の某有名高校に就職して、48連勤で1年以内に辞めたって。 </div><br />
+<font size="2"><div class="t_h" >53: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/02(土) 05:09:59.35 ID:/fNV3Qj/</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 採用試験って倍率高いんじゃないの <br /> 私立高校の場合は卒業生を受け入れることがあるみたいだから、コネみたいなものがあれば良いかもな </div><br />
+<font size="2"><div class="t_h" >57: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/02(土) 05:29:42.85 ID:/fNV3Qj/</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 出勤時間かけっこう早かった気がする <br /> 7時20分くらいまでには着かないと～って担任が言ってた <br /> クッソ忙しいと思う <br /> とは言っても民間企業もブラックばっかりだしな </div><br />
+<font size="2"><div class="t_h" >60: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/02(土) 15:25:46.98 ID:u4XZ9rJU</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 地方にとって公務員教諭は最強の部類だよな <br /> しかも国立大学教育学部は比較的簡単ときている <br /> コネ採用に打ち勝つ必要はあるし必ず教員になれるわけじゃないけれど <br /> コスパは相当いいのではないか </div><br />
+<font size="2"><div class="t_h" >61: <span style="color: rgb(124, 199, 84);">名無しなのに合格</span> <span style="color: gray;"> 2019/02/03(日) 00:39:09.54 ID:LM24B/1u</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> まあ公立小中に関してはほとんどの連中は社会出ても800万ももらえるような就職先がある大学出てないわな <br />  <br /> 進学校なら良くも悪くもOBの地元地底卒とかうじゃうじゃいるけど <br />  <br /> 中学なんて教師のくせに、自分の担当教科以外の科目の教科書の中身を8割も理解できてないだろ </div><br />
+<br>
+<p style="color:gray;text-align:right;"><font size="2">引用元： <a href="http://medaka.5ch.net/test/read.cgi/jsaloon/1548992346/" target="_blank">http://medaka.5ch.net/test/read.cgi/jsaloon/1548992346/</font></a></p>
+<br>
+
+
+</div>
+                        
+<!-- タグのリスト表示セット -->
+                        </div>
+<br>
+
+
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=2Z8HPD+9K4KFM+34FI+NUES2" alt="">
+                    </div>
+                    <!-- 記事本文 ここまで-->
+
+
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HV7V6" alt="">
+
+
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www26.a8.net/svt/bgt?aid=190821728180&wid=001&eno=01&mid=s00000011866017004000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" alt=""></td>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+3257OY+3Y6M+601S1" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www24.a8.net/svt/bgt?aid=190821728185&wid=001&eno=01&mid=s00000018427001008000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=35LYZK+3257OY+3Y6M+601S1" alt=""></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+
+
+                    <!-- 記事フッター、コメント、ソーシャルボタン -->
+                    <footer class="article-footer">
+                        <div class="article-footer-comment">
+                            
+                                <a href="http://pathtimeblog.com/archives/20753626.html#comments">0コメント</a>
+                            
+                        </div>
+                        <div class="article-social-btn">
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HVFKY" alt="">
+
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/20753626.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/20753626.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="教員の給料は800万って聞くけどさ 	 - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=%E6%95%99%E5%93%A1%E3%81%AE%E7%B5%A6%E6%96%99%E3%81%AF800%E4%B8%87%E3%81%A3%E3%81%A6%E8%81%9E%E3%81%8F%E3%81%91%E3%81%A9%E3%81%95%20%09%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/20753626.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/20753626.html" data-text="教員の給料は800万って聞くけどさ 	 - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F20753626.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                        </div>
+                    </footer>
+                    <!-- /記事フッター、コメント、ソーシャルボタン -->
+
+
+                    <!-- カテゴリの最新記事表示 はじまり-->
+                    <div class="article-sub-category">
+                        <div id="ldblog_related_articles_5e66ec7e">
+
+<div class="related-articles ldblog_related_articles_5e66ec7e" data-category-id="160311" data-article-rows="5">
+<h3>「公務員・準公務員」カテゴリの最新記事</h3>
+<ul id="ldblog_related_articles_5e66ec7e_160311"></ul>
+</div>
+</div>
+<script type="text/html" id="ldblog_related_articles_5e66ec7e_tmpl">
+<% for(var i=0,l=articles.length;i<l;i++) {%><% if(i>=rows) break; %>
+<li><a href="<%=articles[i].permalink%>"><%=articles[i].title%></a></li>
+<% } %>
+</script>
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/related_articles.js?t=20180221"></script>
+<script type="text/javascript">
+(function(){
+RelatedArticles.load('ldblog_related_articles_5e66ec7e', '20753626');
+})();
+</script>
+<!-- 関連記事の表示 -->
+                    </div>
+                    <!-- /カテゴリの最新記事表示 ここまで-->
+
+
+
+
+                    <div id="ad2"></div><!-- 広告表示 -->
+
+                    <!-- 記事オプション はじまり-->
+                    <div class="article-option" id="article-options">
+
+                        <!-- コメントエリア　はじまり -->
+                        
+                        <section id="comments">
+                        
+                        <h1 class="comment-form-title">コメントする</h1>
+<div class="article-option" id="comment-form">
+    <form
+      action="https://comment.blogcms.jp/livedoor/shukatu2ch/20753626/post"
+      method="post"
+      name="comment_form"
+          id="comment-form-body"
+      onsubmit="setCommentAuthor(this); return submitOnce(this.button);"
+    >
+    <fieldset>
+        <legend>コメントフォーム</legend>
+    <dl class="comment-form-author">
+        <dt><label for="comment-form-author">名前</label></dt>
+        <dd id="comment-author-form"><input type="text" class="text" id="comment-form-author" name="author" required="required" value="" /></dd>
+    </dl>
+  <dl class="comment-form-body">
+    <dt><label for="comment-form-textarea">コメント</label></dt>
+    <dd>
+      <textarea id="comment-form-textarea" name="body" rows="7" required="required"></textarea>
+      <div id="comment-form-tools">
+        <span class="facemark"><a href="javascript:void(0);" id="emojiLink1" onClick="showEmojiPanel(this.id, 'comment-form-textarea')"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/icon_facemark.png" /></a></span>
+        <span class="rating">
+                    <input type="hidden" name="rating" value="">
+                    <input type="hidden" name="rating_icon" value="star">
+                    <div class="rating-value">
+                        <span id="default-rating-value">評価する</span>
+                        <div class="caret"><span></span></div>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/face/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/face/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/face/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/face/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/face/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/star/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/star/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/star/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/star/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/star/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                    </div>
+                    <div class="rating-icon">
+                        <div data-value="face">顔</div>
+                        <div class="selected" data-value="star">星</div>
+                    </div>
+        </span>
+        <span class="submit"><button type="submit">投稿する</button></span>
+        <span class="memorize"><label for="bake"><input type="checkbox" id="bake" name="cookie" /> 情報を記憶</label></span>
+      </div>
+    </dd>
+  </dl>
+  </fieldset>
+  </form>
+  <script type="text/javascript" src="https://parts.blog.livedoor.jp/js/comment.0.2.js?v=20130430"></script>
+  <script type="text/javascript">
+    loadCommentAuthor(document.comment_form);
+    ldblogComment.init();
+  </script>
+<!-- /#comment-form --></div><!-- コメント投稿フォーム -->
+
+
+                        </section>
+                        
+                        <!-- コメントエリア　ここまで -->
+
+
+                        <!-- トラックバック受け付け　はじまり -->
+                        
+                        <!-- トラックバック受け付け　ここまで -->
+
+                    </div>
+                    <!-- 記事オプション ここまで-->
+
+                </article>
+                <!-- 記事　ここまで -->
+
+
+                <!-- ページ送り はじまり-->
+<!-- Article Pager // -->
+  <div class="pager article-pager-type2">
+    <div class="pager-inner">
+    <div class="article-pager-outer">
+    <ul class="article-pager"><li class="prev"><a href="http://pathtimeblog.com/archives/20834085.html" title="学歴って人生においてマジでいうほど意味なくね？ 	">&nbsp学歴って人生においてマジでいうほど意味なくね？ 	</a></li><li class="next both"><a href="http://pathtimeblog.com/archives/20753835.html" title="転職エージェントに紹介された求人に応募したけど50社落ちたんだが 	">転職エージェントに紹介された求人に応募したけど50社落ちたんだが 	&nbsp</a></li>    </ul>
+    </div>
+    </div>
+  </div>
+<!-- // Article Pager -->
+
+                <!-- /ページ送り ここまで-->
+
+            </div><!-- /main-column-inner-->
+        </div>
+        <!-- コンテンツの箱の中　真ん中728px ここまで-->
+
+
+        <!-- コンテンツの箱の中　左側200px はじまり-->
+        <aside class="left-container">
+            <div class="left-column-inner">
+            
+
+
+
+<div class="plugin-popular_articles sidewrapper">
+  <div class="sidetitlebody">
+    <div class="sidetitle">人気記事</div>
+  </div>
+  <div class="sidetop"></div>
+  <div class="side">
+
+
+    <div class="popular-articles">
+      <table id="populararticles-472933"></table>
+      <div class="popular-articles-freearea"></div>
+    </div>
+  </div>
+
+  <div class="sidebottom"></div>
+</div>
+
+<script type="text/javascript" language="javascript"><!--
+(function(){
+  var url = 'http://pathtimeblog.com/archives/popular_articles.json'
+         + '?rangetype=custom'
+         + '&from=0'
+         + '&range=13'
+         + '&limit=50'
+         + '&offset=0'
+         ;
+
+  var callback = function(data) {
+    var table = document.getElementById('populararticles-472933');
+    for (i = 0; i < data.articles.length; i++) {
+      var rank = i + 1;
+      var prefix = 'populararticles-472933-'+ rank;
+
+      var row = table.insertRow(-1);
+      var elm1 = row.insertCell(-1);
+      elm1.className = 'populararticles-rank';
+      elm1.innerHTML = '<span><b>' + rank + '</b></span>';
+      var elm2 = row.insertCell(-1);
+      elm2.className = 'populararticles-title';
+      elm2.innerHTML = '<a href="' + data.articles[i].url + '?ref=popular_article&id=7836571-472933">' + data.articles[i].title + '</a>'
+      ;
+
+    }
+  };
+
+  var xhr = (function () {
+      if (window.XMLHttpRequest)
+        return new XMLHttpRequest();
+      else {
+        var msxml = [
+          "Msxml2.ServerXMLHTTP.6.0", "Msxml2.ServerXMLHTTP.5.0", "Msxml2.ServerXMLHTTP.4.0", "Msxml2.ServerXMLHTTP.3.0",
+          "Msxml2.ServerXMLHTTP", "Microsoft.ServerXMLHTTP", "Msxml2.XMLHTTP.6.0", "Msxml2.XMLHTTP.5.0",
+          "Msxml2.XMLHTTP.4.0", "Msxml2.XMLHTTP.3.0", "Msxml2.XMLHTTP", "Microsoft.XMLHTTP"
+        ];
+        for (var i = 0; i<msxml.length; i++ ){
+          try {
+            return new ActiveXObject(msxml[i]);
+          }
+          catch(e) { }
+        }
+        return null;
+      }
+  })();
+    
+  if (!xhr) return;
+  xhr.open('GET', url, true);
+  xhr.onreadystatechange = function () {
+    if (xhr.readyState == 4 && xhr.status == 200) {
+      eval('var ld_popular_articles_json = ' + xhr.responseText);
+      callback(ld_popular_articles_json);
+    }
+  };
+  xhr.send();
+
+})();
+//-->
+</script>
+
+<div class="plugin-recent_articles sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">最新記事</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27108137.html">21卒就活生ワイ、内定辞退でしこたま怒鳴られる</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/10257766.html">ニートって難しい資格取って仕事探そうとするけどさ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839910.html">【学歴フィルター】企業にとっての一流大学とは？【就職偏差値】</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839719.html">ワイニート歴2年、就職して初年度の年収500万円！！！！</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073431.html">あ、面接落ちたなってフラグ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073465.html">【悲報】上級国民大手企業様「下請けに仕事やらせてガッポリ中抜きｗ」→夏ボーナス92万5947円</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27075072.html">ワイ21卒、会社選びを間違ってしまったと後悔する</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027071.html">【悲報】キャリア採用の銀行員ワイ、周囲の人間があまりにも有能すぎてマジでドン引き……………………</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27063977.html">【速報】大学、終わる。　Googleが大卒資格を得られるコースを提供へ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027029.html">教師「Ｆ欄ＯＫです、公務員です、毎日定時で帰れます、年収700万です」←こいつが馬鹿にされる理由ｗ</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-recent_articles -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「A」設定のブログパーツ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　左側200px ここまで-->
+
+
+        <!-- コンテンツの箱の中　右側200px はじまり-->
+        <aside class="right-container">
+            <div class="right-column-inner">
+            
+
+
+
+<div class="plugin-categorize sidewrapper" id="plugin-categorize-457691">
+    <div class="sidetitlebody">
+        <div class="sidetitle">カテゴリー</div>
+    </div>
+    <div class="sidetop"></div>
+    <div class="side">
+
+
+      
+
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160301.html">就活準備 (243)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161699.html">自己分析 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161700.html">企業・業界研究 (66)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155971.html">資格 (39)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155966.html">選考 (254)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155977.html">インターン (23)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155978.html">説明会 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155975.html">ES (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155976.html">SPIなど (7)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155974.html">面接 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155972.html">内定 (222)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160304.html">NNT(無内定) (68)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160302.html">内定後・入社前 (110)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160308.html">アドバイス (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160460.html">入社後 (924)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220065.html">新卒 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220063.html">上司 (95)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_219473.html">社会人生活 (299)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160474.html">ブラック企業 (65)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160303.html">転職 (175)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163214.html">副業 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220667.html">収入 (102)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_299497.html">採用担当 (3)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_318465.html">第二新卒 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161711.html">学生生活 (46)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163247.html">浪人・留年 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155967.html">学歴 (119)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_223545.html">ニート (38)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155969.html">業界別 (314)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156035.html">金融 (34)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156099.html">建築・不動産 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160357.html">物流・運送 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160358.html">IT・メディア (55)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160359.html">エネルギー・資源 (1)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160310.html">自動車・機械 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160360.html">食品・小売 (14)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160311.html">公務員・準公務員 (89)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160356.html">サービス (21)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160473.html">その他 (42)</a>
+          
+        </div>
+        
+    
+        
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160476.html">その他 (472)</a>
+          
+        </div>
+        
+    
+    
+
+    </div>    
+    <div class="sidebottom"></div>
+</div><!-- // plugin-categorize -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+<a href="//blog.with2.net/link/?1955545"><img src="https://blog.with2.net/img/banner/banner_21.gif" title="人気ブログランキング"></a><br><a href="//blog.with2.net/link/?1955545" style="font-size: 0.8em;">人気ブログランキング</a>
+
+<div class="plugin-link sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">リンク集</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://0matome.com/" target="_blank">おまとめ</a></div>
+
+<div class="sidebody"><a href="http://2chnavi.net/allentries/?threshold=0" target="_blank">2chnavi</a></div>
+
+<div class="sidebody"><a href="http://http://iwashi.biz/" target="_blank">いわしアンテナ &gt;°))))彡</a></div>
+
+<div class="sidebody"><a href="http://2ch-2.net/" target="_blank"> つーアンテナ(*ﾟ∀ﾟ)</a></div>
+
+<div class="sidebody"><a href="https://ii-antenna.net/?about" target="_blank">いーあんてな(#ﾟｗﾟ)</a></div>
+
+<div class="sidebody"><a href="https://2ch-mi.net/" target="_blank">みーアンテナ（´∀｀）</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-link -->
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">検索</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="https://cse.google.com/cse.js?cx=014565878756483497884:urusxdcjffe"></script>
+<div class="gcse-search"></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「B」設定のブログパーツ表示 -->
+            
+<!-- LDR・RSSリンクとブログのロゴ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　右側200px ここまで-->
+
+        <!-- このページのトップヘ　はじまり -->
+        <p class="to-pagetop"><a href="#"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/to_pagetop.png" width="70" height="70" alt="このページのトップヘ" /></a></p>
+        <!-- このページのトップヘ ここまで -->
+
+    </div>
+    <!-- コンテンツ全体 ここまで-->
+
+    <!-- ブログのフッター はじまり-->
+    <footer id="blog-footer">
+    <!-- Blog Common Footer // --><div id="footer"><p>Powered by <a href="http://blog.livedoor.com/" title="ライブドアブログ">ライブドアブログ</a></p></div><!-- // Blog Common Footer --><!-- 共通フッター表示 -->
+    </footer>
+    <!-- /ブログのフッター ここまで-->
+
+</div>
+<!-- コンテンツエリア ここまで-->
+
+
+<!-- Add Body Tag // --><script type="text/javascript">
+(function(){
+  var traq = document.createElement('script'); traq.type = 'text/javascript'; traq.async = true;
+  traq.src = 'https://t.blog.livedoor.jp/u.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(traq, s);
+})();
+</script>
+<noscript>
+<img src="https://t.blog.livedoor.jp/u.gif" alt="traq">
+</noscript>
+<!-- // Add Body Tag -->
+
+<script>
+(function($) {
+  var cookieName = 'livedoor-blog-gdpr-agreed';
+  $(document).ready(function() {
+    if (navigator.userAgent.match(/https?:\/\//)) {
+      // UA に http:// or https:// があればスルー
+      return;
+    }
+
+    var agreed = document.cookie.indexOf(cookieName) >= 0;
+    if (agreed) {
+      // 同意済み Cookie があればスルー
+      return;
+    }
+
+    var banner = $('<div>');
+    banner.attr('id', 'gdpr-banner');
+    var label = $('<p>');
+    label.html('\
+      ライブドアブログでは広告のパーソナライズや効果測定のためクッキー(cookie)を使用しています。<br>\
+      このバナーを閉じるか閲覧を継続することでクッキーの使用を承認いただいたものとさせていただきます。<br>\
+      また、お客様は当社パートナー企業における所定の手続きにより、クッキーの使用を管理することもできます。<br>\
+      詳細は<a href="http://www.livedoor.com/rules/" target="_blank" style="color:#023780;text-decoration:underline;">ライブドア利用規約</a>をご確認ください。\
+    ');
+    banner.append(label);
+
+    var closeButton = $('<button>');
+    closeButton.attr('type', 'button');
+    closeButton.html('閉じる');
+    closeButton.on('click', function() {
+      $('#gdpr-banner').hide();
+      document.cookie = cookieName + '="1";expires=Tue, 31-Dec-2037 00:00:00 GMT;path=/;';
+    });
+    banner.append(closeButton);
+
+    banner.css({
+      'position': 'fixed',
+      'left': '0',
+      'right': '0',
+      'bottom': '0',
+      'background': '#dcdcdc',
+      'color': '#000',
+      'padding': '20px',
+      'text-align': 'center',
+      'box-shadow': '0 -2px 2px rgba(102, 102, 102, 0.86)',
+      'z-index': '2147483647',
+    });
+    label.css({
+      'display': 'inline-block',
+      'text-align': 'left',
+      'font-size': '14px',
+      'color': '#000',
+      'vertical-align': 'middle',
+      'line-height': '1.5',
+    });
+    closeButton.css({
+      'display': 'inline-block',
+      'color': '#fff',
+      'border': 'none',
+      'font-size': '14px',
+      'padding': '4px 40px',
+      'margin-left': '40px',
+      'background': '#535353',
+      'vertical-align': 'middle',
+    });
+
+    var script = document.createElement('script');
+    script.type = "text/javascript";
+    script.src = "https://ipcheck.blogsys.jp/check.js?t=" + Date.now();
+    script.onerror = function() {
+      $('body').append(banner);
+    };
+    document.body.appendChild(script);
+  });
+})(jQuery);
+</script>
+</body>
+</html>

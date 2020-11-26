@@ -1,0 +1,1390 @@
+<!DOCTYPE html>
+<html lang="ja" itemscope itemtype="http://schema.org/Blog">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=1190">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" /><link rel="shortcut icon" type="image/vnd.microsoft.icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/favicon.ico" /><link rel="icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/3ab45ab0.jpg" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/template.css?v=20190826" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/heart.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/icon.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="http://pathtimeblog.com/site.css?_=20190831163247" type="text/css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://pathtimeblog.com/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://pathtimeblog.com/atom.xml" /><link rel="canonical" href="http://pathtimeblog.com/archives/10018322.html" /><link rel="openid.server" href="http://auth.livedoor.com/openid/server" /><link rel="openid.delegate" href="http://profile.livedoor.com/shukatu2ch/" />
+<link rel="mixi-check-alternate" media="mixi-device-mobile" type="text/html" href="http://blog.m.livedoor.jp/shukatu2ch/article/10018322" />
+<link rel="mixi-check-alternate" media="mixi-device-smartphone" type="text/html" href="http://pathtimeblog.com/archives/10018322.html" />
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/jquery-1.11.1.min.js"></script>
+
+<meta name="description" content="1: 名無しさん＠引く手あまた  2018/02/28(水) 23:29:50.41 ID:FN1tkdnt0
+ 人間関係がやばそう・・・鬱だ。 
+" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="準公務員へ転職するのだがめっちゃ鬱だ。 	 : 2ch就活まとめ" />
+<meta property="og:description" content="1: 名無しさん＠引く手あまた  2018/02/28(水) 23:29:50.41 ID:FN1tkdnt0 人間関係がやばそう・・・鬱だ。 " />
+<meta property="og:url" content="http://pathtimeblog.com/archives/10018322.html" />
+<meta property="og:site_name" content="2ch就活まとめ" />
+<meta property="og:locale" content="ja_JP" />
+<meta property="og:image" content="https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png" />
+
+<meta name="twitter:site" content="@2chshukatu" />
+<meta name="twitter:title" content="準公務員へ転職するのだがめっちゃ鬱だ。 	 : 2ch就活まとめ" />
+<meta name="twitter:description" content="1: 名無しさん＠引く手あまた  2018/02/28(水) 23:29:50.41 ID:FN1tkdnt0 人間関係がやばそう・・・鬱だ。 " />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image:src" content="https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png" />
+<link rel="alternate" media="handheld" type="application/xhtml+xml" href="http://blog.m.livedoor.jp/shukatu2ch/" />
+
+<title>準公務員へ転職するのだがめっちゃ鬱だ。 	 : 2ch就活まとめ</title>
+<script src="https://parts.blog.livedoor.jp/js/emoji.js"></script>
+<script src="https://parts.blog.livedoor.jp/js/misc.js?v=20190710"></script>
+<!--[if lt IE 9]>
+<script src="https://parts.blog.livedoor.jp/js/html5.js"></script>
+<![endif]-->
+<script src="https://parts.blog.livedoor.jp/js/usr/import.js"></script>
+<script>
+$(function(){
+  if($('.header-inner01').children('#blog-header-image').length) {
+    $(window).bind('load', function() {
+      var title1 = $('#blog-header-image').height();
+      var title2 = $('.header-menu').height();
+      var headerHeight = title1-title2-15;
+      $("hgroup").css("height", headerHeight);
+    });
+  }
+});
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-3064778048578600",
+          enable_page_level_ads: true
+     });
+</script>
+
+<!-- Add Google Analytics Tag // -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-113178806-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- // Add Google Analytics Tag -->
+
+
+<meta name="referrer" content="always">
+<meta name="referrer" content="unsafe-url">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1638469-45"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+var blogId = '';
+if (blogId) {
+  gtag('config', 'UA-1638469-45', {
+    'custom_map': {'dimension1': 'blog_id'},
+    'blog_id': blogId
+  });
+} else {
+  gtag('config', 'UA-1638469-45');
+}
+</script>
+
+</head>
+<body class="default_2012 page-article layout-2col sidebar-right"><script type="text/javascript"><!--
+var ld_blog_vars = {
+  provider_id : '1',
+  provider_name : 'livedoor',
+  id : '7836571',
+  name : 'shukatu2ch',
+  charset : 'utf8',
+  url : 'http://pathtimeblog.com/',
+  title : '2ch就活まとめ',
+  blog_design: {
+      version: 1
+  },
+  blog_category: {
+    id: '243',
+    permalink: 'https://blog.livedoor.com/category/243/',
+    name: 'まとめ(総合) > まとめ',
+    is_adult : 0,
+    is_gambling : 0,
+    hierarchy: [{ id: '431', name: 'まとめ(総合)', permalink: 'https://blog.livedoor.com/category/431/' },{ id: '243', name: 'まとめ', permalink: 'https://blog.livedoor.com/category/243/' }]
+  },
+  current_page : {
+    type : 'article',    page : ''
+  },
+  articles : [ {
+       id : '10018322',
+       permalink : 'http://pathtimeblog.com/archives/10018322.html',
+       title : '準公務員へ転職するのだがめっちゃ鬱だ。 \t',
+       categories : [ { id:'160311', name:'公務員・準公務員', permalink:'http://pathtimeblog.com/archives/cat_160311.html' }, { id:'', name:'', permalink:'' } ],
+       date : '2018-06-18 11:30:30'
+}   ]
+};
+//-->
+</script><div id="analyzer_tags" style="display:none">
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/c2.js?v=20191010"></script>
+<script type="text/javascript">blog_counter('shukatu2ch', 7836571, 'http://pathtimeblog.com/')</script>
+</div><script type="text/javascript" src="https://parts.blog.livedoor.jp/js/smartphone.js?v=20200824"></script>
+<script type="text/javascript" src="http://pathtimeblog.com/settings/header.js?v=20190705"></script><script type="text/javascript" src="http://pathtimeblog.com/settings/ad.js"></script>
+<script type="text/javascript">
+var palette_src = 'https://parts.blog.livedoor.jp/img/emoji/3/palette.png';
+if (typeof IMAGE_CACHE == 'object' && IMAGE_CACHE['emoji_palette']) IMAGE_CACHE['emoji_palette'].src = palette_src;
+</script>
+
+<!-- Blog Common Header // -->
+<!-- // Blog Common Header -->
+<!-- 共通ヘッダー表示 -->
+
+<!-- ブログタイトル はじまり-->
+<header id="blog-header">
+
+    <div id="blog-header01">
+
+        <div class="header-inner01 show-image hide-text">
+
+            <hgroup>
+                <!--ブログタイトル　はじまり-->
+                <h1 id="blog-title"><a href="http://pathtimeblog.com/">2ch就活まとめ</a></h1>
+                <!--ブログタイトル　ここまで-->
+                <!--ブログ説明　はじまり-->
+                <h2 id="blog-description">新卒・転職・社会人生活などを含め、就活・就職に関することをまとめてます。</h2>
+                <!--ブログ説明　ここまで-->
+            </hgroup>
+
+            <a href="http://pathtimeblog.com/"><img src="https://resize.blogsys.jp/727db0f9da9f42eb7d26b703338c30b3eef0157c/trim2/0x243_94p_1200x388/http://livedoor.blogimg.jp/shukatu2ch/imgs/0/5/055bbafe.jpg" id="blog-header-image" /></a>
+
+            <div id="blog-header02">
+                <div class="header-inner02">
+                    <ul class="header-menu">
+                        <li><a href="http://pathtimeblog.com/">HOME</a></li><!--メニューを入れてください-->
+                        <li class="ldb_menu-item-url"><a href="http://blog.livedoor.jp/shukatu2ch/archives/6126504.html">ABOUT</a></li><!--メニューを入れてください-->
+                        <li><a href="mailto:shukatumatome@gmail.com">お問い合わせ</a></li><!--メニューを入れてください-->
+                    </ul>
+                    <ul class="header-sarch">
+                        <li><a href="http://twitter.com"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_twitter.png" alt="Twitter" /></a></li><!--Twitter-->
+                        <li><a href="http://pathtimeblog.com/index.rdf"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_rss.png" alt="RSS" /></a></li><!--RSS-->
+                        <li>
+                        <form action="http://pathtimeblog.com/search" method="GET" style="padding:0;margin:0px;">
+                        <input type="TEXT" name="q" class="sf">
+                        <input type="SUBMIT" value="検索" class="sfbtn">
+                        </form>
+                        </li><!--検索窓-->
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</header>
+<!-- /ブログタイトル ここまで-->
+
+
+<!-- コンテンツエリア はじまり-->
+<div id="wrapper">
+
+    <!-- コンテンツ全体 はじまり-->
+    <div id="container">
+
+        <!-- 相互RSS はじまり-->
+        <div class="rss-blogroll">
+
+            <!-- 相互RSSを設置する場合の注意事項
+                コードに含まれる以下のCSSは外して設置してください
+                http://blogroll.livedoor.net/css/default2.css -->
+
+                 <!-- 相互RSSのコード ひとつ目-->
+            <script type="text/javascript">
+            <!--
+                   var blogroll_channel_id = 255242;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード ふたつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 265945;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード みっつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 255442;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href= />
+        </div>
+        <!-- 相互RSS ここまで-->
+
+        <!-- コンテンツの箱の中　真ん中728px はじまり-->
+        <div class="main-container">
+            <div class="main-column-inner">
+<br>
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+<br>
+                <!-- メッセージボード -->
+                 
+
+
+
+                <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://pathtimeblog.com/archives/10018322.html"
+    trackback:ping="http://trackback.blogsys.jp/livedoor/shukatu2ch/10018322"
+    dc:title="準公務員へ転職するのだがめっちゃ鬱だ。 	"
+    dc:identifier="http://pathtimeblog.com/archives/10018322.html"
+    dc:subject="公務員・準公務員"
+    dc:description="1: 名無しさん＠引く手あまた  2018/02/28(水) 23:29:50.41 ID:FN1tkdnt0 人間関係がやばそう・・・鬱だ。 "
+    dc:creator="shukatu2ch"
+    dc:date="2018-06-18T11:30:30+09:00" />
+</rdf:RDF>
+-->
+<div id="ad_rs" class="ad_rs_b"></div><!-- 記事のトラックバック・オートディスカバリー -->
+
+
+                <!-- 記事 はじまり-->
+                <article class="article first-article" itemscope itemtype="http://schema.org/BlogPosting">
+
+                    <!-- 記事タイトル　記事下の情報　はじまり-->
+                    <header class="article-header">
+
+                        <h1 class="article-title" itemprop="name"><a href="http://pathtimeblog.com/archives/10018322.html" itemprop="url">準公務員へ転職するのだがめっちゃ鬱だ。 	</a></h1><!-- 記事のタイトル -->
+
+                            <!-- 記事下の記事情報 はじまり-->
+                            <div class="article-header-inner">
+
+                                <!-- 記事情報の上の行 はじまり-->
+                                <div class="article-header-top">
+                                <p class="article-header-date"><time datetime="2018-06-18T11:30:30+09:00" pubdate="pubdate">2018年06月18日</time></p>
+                                
+                                <ul class="article-header-category">
+                                    <li>
+                                        <dl><dt>カテゴリ:</dt><dd class="article-category1"><a href="http://pathtimeblog.com/archives/cat_160311.html">公務員・準公務員</a></dd></dl>
+                                    </li>
+                                </ul>
+                                
+
+                                <!-- 記事の評価アイコン はじまり-->
+                                
+                                <!-- 記事の評価アイコン ここまで-->
+
+                                </div>
+                                <!-- 記事情報の上の行 ここまで-->
+                                <!-- ソーシャルボタン　はじまり -->
+                                <ul class="article-social-btn">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/10018322.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/10018322.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="準公務員へ転職するのだがめっちゃ鬱だ。 	 - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=%E6%BA%96%E5%85%AC%E5%8B%99%E5%93%A1%E3%81%B8%E8%BB%A2%E8%81%B7%E3%81%99%E3%82%8B%E3%81%AE%E3%81%A0%E3%81%8C%E3%82%81%E3%81%A3%E3%81%A1%E3%82%83%E9%AC%B1%E3%81%A0%E3%80%82%20%09%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/10018322.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/10018322.html" data-text="準公務員へ転職するのだがめっちゃ鬱だ。 	 - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F10018322.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                                </ul>
+                                 <!-- ソーシャルボタン　ここまで -->
+                            </div>
+                            <!-- 記事下の記事情報 ここまで-->
+
+                    </header>
+                    <!-- 記事タイトル　記事下の情報　ここまで-->
+
+
+
+                    <!-- 記事本文 はじまり-->
+                    <div class="article-body">
+                        <div class="article-body-inner">
+<!-- 参加している共通テーマの表示 -->
+                        <span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">1: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/02/28(水) 23:29:50.41 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:FN1tkdnt0</i></span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> 人間関係がやばそう・・・鬱だ。 </div><br />
+<!-- Generated by 2chまとめくす (http://2mtmex.com/) --><!-- 本文 --><div class="article-body-more" id="more"><span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">2: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/02/28(水) 23:37:49.71 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:FN1tkdnt0</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b"> 団体職員とも言うべきなのだろうか。定義がいまいちわからん。 <br /> ４月から転職。元某メーカー技術職。アラフォーのおっさん。 <br />  <br /> 前職は実質的には失職に近い。長くなるのでおいおい。 <br /> なんとか準公務員になったけど、職場挨拶いったら、爺婆が多い。 <br /> 誰も仕事してる気配がない。二時間位居たが、電話一本鳴らない。 <br /> 若い人もいるけれど、狭い社会で事務所に監禁かな？ <br />  <br /> 人間関係が無茶苦茶大変そう・・・・むっちゃ鬱だ！ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">3: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/02/28(水) 23:40:09.91 ID:xJbtlQu70</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 独法かな？ <br /> 地方なのかな？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">4: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/02/28(水) 23:47:37.07 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:FN1tkdnt0</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;3</span> <br /> 割と都会です。独法とかどことかちょっと言えないです。すみません。 <br />  <br /> 先月、新年の挨拶へ行ったのですが、配属先（はすでに知らされている）の上司と２時間位世間話。 <br /> 上司の感触は悪くなかったのですが、ビックリしたのは誰も仕事していない所！ <br /> 手が完全に止まっていました。いままで割と自由奔放にやっていたのですが、 <br /> なんだか陰気臭いというか、暗いというか、複雑怪奇な人間関係の闇を感じました。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">5: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/02/28(水) 23:49:18.90 ID:a9sCmYQ+0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 良かったじゃん <br /> 遊んで暮らせるんでしょ？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">6: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/01(木) 00:02:08.63 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:vnZge4gw0</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b"> とんでもない！楽な仕事ほど人間関係大変ですよ。 <br /> 仕事量が大変より人間関係大変なほうが苦痛です。 <br /> これまでは貧乏くじ部署引いても、2,3年我慢してれば <br /> 良かったのですが、次は恐らく定年まで同じ部署。 <br /> 地獄のような気が・・・。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">26: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/01(木) 10:05:29.09 ID:UAwZKihF0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;6</span> <br /> あれだな、暇を楽しめないタイプには向かない職場だろ。 <br /> 学校行くぐらいのラフな気持ちでいろよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">29: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/01(木) 15:39:08.14 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:vnZge4gw0</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;26</span> <br /> 仰る通りなんです。これまで猛烈に忙しい職場に居たもので、 <br /> どう振る舞ったら良いのか皆目分からないんです。 <br /> 忙しいほうが全然いいです。なるほど「学校」ですか。例えるなら一番適切な場所ですね。 <br /> おっかない不良爺婆が幅利かせているヤンキー校みたいな学校ですね。ありがとうございます。 <br /> 通学しているんだとラフな気持ちで心得たいと思います。</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">7: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/01(木) 00:03:41.28 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:vnZge4gw0</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b"> そもそも、同じような職場の方って朝から何されているんですか？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">8: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/01(木) 00:13:21.67 ID:2DCXgKtF0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 羨ましい </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">9: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/01(木) 00:17:42.57 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:vnZge4gw0</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;8</span> <br /> いえいえ。羨ましがられるような所じゃないんです。元の忙しい職場に戻りたいです。 <br /> 人間関係が超複雑なのですよ？おっかない職場です。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">10: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/01(木) 00:19:12.39 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:vnZge4gw0</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b"> パワハラ・嫌がらせ・いじめとかは普通にあると覚悟しています。 <br /> 嗚呼、やっぱ鬱だ・・・。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">11: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/01(木) 00:20:25.83 ID:6AYqJVk70</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 戻りたいってなぁ、、 <br /> 安直に転職活動しちゃったんじゃないか？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">16: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/01(木) 00:29:01.31 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:vnZge4gw0</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;11</span> <br /> リストラではないんですが、元の会社は中国企業の台頭があり、 <br /> 元の事業部ごと消滅しまして、居づらくなり早期退職希望者募っていたので退職しました。 <br /> 会社の体力のあるうちに退職金もらいたかったですし。 <br /> まあ、確かに、転職は早く決めたかったのでちょっと焦ってた所は否めないのですが・・・。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">12: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/01(木) 00:20:47.40 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:vnZge4gw0</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b"> だから、不安から最近眠れない夜もあったりでして。ネット依存ですね完全に。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">13: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/01(木) 00:22:59.29 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:vnZge4gw0</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b"> 確かに安直だったことは否定できません。 <br /> けれど、あんな職場が世の中に存在するとは全く知りませんでした。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">15: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/01(木) 00:27:58.19 ID:Tb1Fff7+0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> そんな楽な仕事があるんですね… </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">17: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/01(木) 00:30:57.67 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:vnZge4gw0</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;15</span> <br /> だから、楽ではないんです。暇な仕事ほど人間関係大変なんです。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">18: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/01(木) 00:34:57.01 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:vnZge4gw0</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b"> 技術系って意外と組織単位ですと潰しが利かないんです。 <br /> 専門外の事やらされても無理というものなんです。 <br /> 元の会社もいつまでもつか・・・。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">19: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/01(木) 00:37:03.80 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:vnZge4gw0</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b"> もう、退職してから半年以上経っているので、自堕落な生活してますが・・・・。 <br /> 社会復帰できるのか？というのも問題ですね。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">20: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/01(木) 01:02:00.71 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:vnZge4gw0</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b"> 会社傾いて年収下がるし、転職先かなりやばそうだし、最近、全然ハッピーじゃないな。 <br /> ツイテないと言うべきか・・・。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">21: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/01(木) 01:12:58.39 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:vnZge4gw0</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b"> 一人語り状態ですねｗ <br />  <br /> 友人の公務員によると、そういう所は民間と逆のことすりゃ正解だとか。 <br /> 決して仕事はないかと探したり、仕事を作るのはご法度。 <br /> パワハライジメも仕事のうちだと思えと。 <br /> あの陰険な感じの爺婆とどう立回ればいいのやら・・・。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">22: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/01(木) 01:44:09.50 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:vnZge4gw0</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b"> あ、書き忘れましたが、年収は大幅ダウンです。 <br /> まあ、嫁と二人だけなので何とかなるのですが・・・。 <br /> けれど、この歳で転職先があるのはラッキーと考えるべきなのか、 <br /> アンラッキーと考えるべきなのかどうなのか？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">23: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/01(木) 01:48:36.51 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:vnZge4gw0</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b"> 基本的に技術者の墓場って感じでして、昔の技術系は偏屈な人多いので <br /> 人間関係大変そうなのです。 <br /> まあ、定時に帰れるって事だけがメリット。それ以外は前職のほうが良かったんだけどな・・・。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">24: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/01(木) 07:48:42.37 ID:3HX5EwjJ0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 仕事がほとんどないのは精神がやられてくるから気をつけて。 <br /> ある日、自分は何をやってるんだ？と思うともうキツイことなる。 <br /> 公務員系の年寄りは面倒くさいし、疲れるからそれが1番大変かも。 <br /> コミュニケーション力があればいいかもしれないけど、介護みたいな仕事と思うしかない。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">29: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/01(木) 15:39:08.14 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:vnZge4gw0</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;24</span> <br /> レスありがとうございます。やっぱり仕事ないと精神病みますよね。 <br /> 「自分は一体何をやっているんだ？」 <br /> ああ、恐らくそんな感じになると思われます。やっぱり公務員系の年寄りは厄介ですか。本当にそう思います。 <br /> これまでああいうタイプの人種を扱う経験があまり無いのでどう対応すべきなのか？悩んでおります。 <br /> コミュ力は、まあ、それなりにあるとは思っているのですが・・・。 <br /> なるほど「介護」と思えばいいんですねｗなんだか救われました。介護職だと思って職場へ臨みます。 <br /> 若い人も多少はいますので、彼等の対応もよく観察してみたいかと。 <br /> とにかくアドバイス感謝します。</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">25: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/01(木) 08:47:32.87 ID:x1lrEwOi0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 財団ですか？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">29: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/01(木) 15:39:08.14 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:vnZge4gw0</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;25</span> <br /> 社団とか財団とか何処とか個人特定怖いので申し上げられません。 <br /> 申し訳ありません。</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">27: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/01(木) 11:45:19.29 ID:Yu7xFUKS0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> わざわざスレたてるほど？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">29: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/01(木) 15:39:08.14 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:vnZge4gw0</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;27</span> <br /> すいません。けど、私には滅茶苦茶深刻な問題なのでレス立てました。 <br /> けれど、適切なご回答の数々を皆さまから頂き、レス立てて良かったと思っています。</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">28: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/01(木) 12:13:32.35 ID:H1z+dGSj0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> どうせ自虐風自慢だろ <br /> こっちは内定貰えなくて、イライラしてるっつうのに </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">29: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/01(木) 15:39:08.14 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:vnZge4gw0</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;28</span> <br /> 全く自慢なんかじゃないんです。かなり悪質な高齢者達の集合体でして劣悪な職場なのです。 <br /> 完全にブラック企業なのです。 <br /> 猛烈に悩んで不安に襲われおりまして、入社前に心が折れてまいそうなのです。就活されている方なのですね。 <br /> ご健闘をお祈り致します。</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">30: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/01(木) 16:10:19.39 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:vnZge4gw0</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b"> 以下は書くべきか否か迷ったですが、 <br /> 問題なのは新人なのに下手に役職名がある事なんです。 <br /> これも自慢でもなんでもありません。これは非常にマイナスpointなのです。 <br /> これまで部下のマネジメントはしてきたのですが、生え抜きの高齢者などマネジメントしようものなら、 <br /> 絶対に潰しに来るに決まっています。 <br />  <br /> まあ、高齢者達に全面的に奴隷となるスタイルを貫くつもりなのですが。 <br />  <br /> 先月、お会いした上司からは職場のマネジメントを願いたいとの事でしたが、出来るはずねーだろ！！と思っています。 <br />  <br /> 恐らく生え抜きの事務の方等々からはいきなり名目上は上司になるワケで <br /> かなりの反発、イジメ、いやがらせは不可避だと思うのですが。 <br />  <br /> 役職などあっても、何のメリットもなく平社員のほうが全然良いのですが・・・。 <br />  <br /> 役職付きの転職された方はどうされていますか？新入社員だと思えばいいんですよね？ <br /> ご指南下されば幸いです。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">31: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/01(木) 21:24:34.70 ID:RO9lx8zr0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 国立大学法人に兄が務めてるけど、激務らしいよ <br /> 毎日20～21時に帰ってくる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">33: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/01(木) 22:48:02.73 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:T21clyAU0</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;31</span> <br /> お兄様大変ですね。前職は激務だったんですが、その分人間関係は楽でしたね。 <br /> まだ、過労死ラインまではいかないまでも忙しい位がちょうどいいかと思います。 <br /> とにかく職場は仕事が暇だと権力闘争やり始めるもので疲れるんですよね。 <br /> 病まなきゃいいけど。。。。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">32: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/01(木) 22:22:10.40 ID:av7q6aex0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> どうしたいの？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">34: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/01(木) 22:51:05.04 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:T21clyAU0</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;32</span> <br /> えーそうですね。平穏に穏便に粛々と業務をこなしたいものですね。 <br /> 目下の目標は人間関係に上手く対応したいです。 <br /> なるべくなら平穏に定年退職を迎えたいですが、大丈夫なのだろうか？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">35: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/01(木) 23:13:45.51 ID:RO9lx8zr0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 第三セクターか独法や特殊法人か知らないけど、暇なところなんてないよ <br /> 根本的に勘違いしてるな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">36: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/01(木) 23:47:49.75 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:T21clyAU0</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;35</span> <br /> 勘違いなら良いのですが、勘違いではないのです。 <br /> 普通あり得ない職場だと思います。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">38: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/02(金) 11:07:47.84 ID:RxIPX0VD0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 給与体系は国家一般職に準拠？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">39: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/02(金) 20:02:24.72 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:R1K4IdTj0</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;38</span> <br /> そうです。国家公務員に準拠です。年収大幅ダウンです。公務員ってこんなに安いとは涙</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">41: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/02(金) 20:49:40.05 ID:xCqqGo7T0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> こいつ、何が言いたいの？ <br /> 自慢したいだけかな？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">43: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/02(金) 20:55:32.82 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:R1K4IdTj0</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;41</span> <br /> ああ、なんだか誤解されている。確かにスレタイ見ると準公務員で良いように見えますが、 <br /> とんでも職場なのです。自慢なんかじゃない事は公務員で同じような立場の方ならお分かり頂けるはず。 <br /> 公務員の世界もパワハラが凄くて、重度の精神疾患になった方を知っています。 <br /> 私もどうなるかとマジ不安なんです。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">51: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/03(土) 13:52:02.31 ID:Kf1eL7/S0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;43</span> <br /> 同じ立場ではありませんが、自身が20代の頃 <br /> 公務員の非常勤職を従事経験したことがありますが、 <br /> 公務という職は、会社組織とは別物とお考えになったほうがよろしいかと思われます <br /> 長いものには巻かれろ。このことわざが理解できない場合は <br /> 公務職に従事するに辺り、中途採用なら、きっと尚更の事苦しむと思いますよ</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">54: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/03(土) 15:36:24.77 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:v3Z3dCuZ0</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;51</span> <br /> 長いものには巻かれろですね。ありがとうございます。 <br /> 確かに私には不向きな職場ではないかと考えています。</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">44: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/02(金) 21:32:06.70 ID:Yeruj8HN0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 確かに公務員はパワハラ結構あるよ <br /> 鬱休職してた人、何人かいたしな <br /> 民間の感覚とはいろいろ違うところがある <br /> あんまりバリバリ仕事しても嫌われるからな <br /> コミュニケーション力が全てよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">46: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/03(土) 09:55:20.66 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:79Acz4DB0</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;44</span> <br /> 前職でもパワハラは遇ったんですが、どうも公務員やってた病人の知人から聞くと <br /> 公務員のパワハラは民間とはやり口が違うようでして、 <br /> あれを毎日毎日受けてたら精神疾患になるわなー。と思ったり。 <br /> もしパワハラ凄かったら病んで再起不能になったら人生終了って感じなので、 <br /> 辞めたほうが賢明かもしれませんね。 <br /> あの、事務所の雰囲気はお役所そのものだったので、なにかしらのパワハラはあるかと鬱だ。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">47: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/03(土) 10:03:01.13 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:79Acz4DB0</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b"> 準公務員と団体職員の定義がイマイチわからんのですが、ネットだと同義だと書いてありましたが、 <br /> イマイチ分かりません。 <br /> 「民度が低い。」確かにそんな感じでした。特に、生え抜きの事務方の高齢者達はヤバイ感じでした。 <br /> 一応、入社試験はあり、SPIと作文、面接がありましたが。 <br /> 若い職員達もいましたが、正規なのか非正規なのかちょっと分かりませんでしたね。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">48: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/03(土) 12:20:15.89 ID:MSwrri9M0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 独法なのか、外郭団体なのか、事業内容ぐらいは言えるだろう </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">49: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/03(土) 12:41:58.70 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:Jf0VLWYk0</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> だから準公務員なんて身分はない。 <br /> 団体職員だろ単なる。 <br />  <br /> 福利厚生が公務員に準じてるたけで、 <br /> 身分が公務員のように保証されてるわけでは一切ない <br />  <br /> たからコネだらけだし、試験なんてザルだし、 <br />  だからパワハラが横行し、離職者が絶えないよ <br />  <br /> 想像している以上に離職者おおい。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">50: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/03(土) 13:28:34.18 ID:i77bW9RD0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 団体受けて落ちた自分からするとならなんで辞退しなかったといいたい <br /> 不採用だった人からみたら自慢にみえて仕方ないよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">52: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/03(土) 14:14:37.71 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:Jf0VLWYk0</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;50</span> <br /> 自慢にきかえるのは、あんたが勝手な劣等感に才悩まされてるからだろ <br /> どこに自慢に聞こえる文脈あるのか <br />  <br /> 民間組織とかわらないし <br /> コネだらけ <br /> 民度は異常に低く、 <br /> だから離職者絶えない    <br /> かといって意識高い系も存在し、 <br /> それが異常にくそめんどくさいやつ率高い <br />  <br /> まーなにいっても幻想抱いてる奴には眩しく見えるのかしらないが、 <br /> 俺の職場三月一杯で三人精神科から鬱病診断され辞めてくし、 <br /> 残業代すら上から出すなと達しがある糞ブラックだし、サザンだらけ。 <br /> 全て労基署行けば余裕で指導なんか入るのに、上からどころか同僚からそんなことさせない的パワハラをさらにされる始末 <br />  <br /> 始末に終えないとはこれだわ <br /> 俺もとにかく五月までに辞めたい </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">54: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/03(土) 15:36:24.77 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:v3Z3dCuZ0</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;52</span> <br /> 代弁してくださってありがとうございます。始末に負えないって本当にそんな感じです。 <br /> お互い病まないほうがおかしい職場のようですね。うーんどうなる事やら・・・・。 <br /> 不屈の精神といいますが、これって民間では通用する言葉で次の職場では全く異なると思います。 <br /> あなた様もお身体お大事にされて下さいね。</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">53: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/03(土) 14:41:51.00 ID:yqqKdinQ0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> まだ入職もしてないのにブラックとか人間関係最悪とか何を根拠に言ってるの？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">54: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/03(土) 15:36:24.77 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:v3Z3dCuZ0</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;53</span> <br /> 詳細は避けますが、もちろん十分な根拠があってブラックな職場だと知ったのです。 <br /> 入社前はどの企業であっても誰だって不安しょう。 <br /> けれど私の場合想像や妄想で不安がっているのとは全く違うんです。</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">55: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/03(土) 15:43:39.36 ID:kPKUhAiw0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 今から辞退すりゃいいんじゃないすかね </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">56: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/03(土) 17:21:20.55 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:79Acz4DB0</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;55</span> <br /> その可能性も考えていますよ。もちろん就活もしていますよ。 <br /> けれど、この歳になるともう中々求人などありません。 <br /> 知り合いのつても探していますが、そんなに甘くはないです。 <br />  <br /> まあ、この職場のブラックさはどう表現しても伝わらないのでしょうね。 <br /> 公務員＝楽　準公務員・団体職員＝超楽ってかくいう私も昔はイメージしていましたからね。 <br /> 実は、精神的に完全に病ませて辞めさせる鬼畜で巧みな高齢エキスパート達がウヨウヨいる職場なんだけどな・・・。 <br /> クソ真面目？は？俺は真逆な人間なんだけどなｗ陰気臭い奴って大っ嫌いだ。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">68: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/04(日) 12:08:24.71 ID:VETQqZ3w0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;56</span> <br /> あ～あ我を出しやがったな <br /> なら、準公務員ではなくかつて公務員の現業を経験した俺から <br /> マジレス返してやるよ <br />  <br /> 会社の規律が嫌い、不真面目大好き、真面目君じゃないならすんなりなじめるよ <br /> 中途採用入職は土木作業系あがり、職人上がりの人が多いから <br /> お前も同じアナの狢だ <br /> その腐ったクソ爺どもと同じ資質を持ってるよ <br /> いい年して怒鳴り散らして威圧する言動。分かるだろ心当たりあるだろ？ <br /> お前も恐らく同じ資質がある。その職場でがんばって認められ <br /> 周囲へ怒鳴り散らすのがお似合いだよお前さんには <br /> 会社員に向かないよ間違いなく </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">58: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/03(土) 22:14:25.93 ID:dH4d4kOc0</span></span></div>
+<div  style="font-weight:bold;font-size:18px;line-height:27px;margin-bottom:30px;margin-top:20px;" class="t_b"> さすがに入職する前に悪口を書くのは失礼 <br /> 実際に勤めて、不満があるなら仕方ないけど </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">62: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/04(日) 06:00:23.07 ID:CFGf0wkc0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;" class="t_b"> 偽物の公務員じゃなくて本物の公務員になるんだけど <br /> スレ主みたいなアホがいっぱいいると思うと鬱々します </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">64: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/04(日) 07:04:00.88 ID:BJN3N8ta0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 俺も春から独立行政法人に終始するよ <br /> そこまで閉鎖的な感じや人間関係が劣悪には見えなかったけどね </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">81: <span  style="color: rgb(124, 199, 84);">名無しさん＠引く手あまた</span> <span  style="color: gray;"> 2018/03/27(火) 10:47:18.32 ID:iZMxsBpu0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> いや、外郭団体職員の一部はほんと暇だよ。 <br />  <br /> 外郭団体には3種の人間がいて、 <br />  <br /> ①本体で使い物にならなかったり、問題ばっかり起こしてるとんでもないクソ天下り。 <br /> 　 こいつらはホントに仕事しないし、むしろ邪魔ばっかりしてくる。もちろん嫌がらせも。 <br />  <br /> ②外郭団体が採用した正規職員。 <br /> 　　ここが問題。天下りが本来やるべき仕事や嫌がらせの全てを受ける。 <br /> 　　激務だし、精神病んで離職率高し。 <br />  <br /> ③非正規。 <br /> 　　上2つとは関わらず、淡々とやるだけ。 <br /> 　　まあ、楽な仕事だわな。 </div><br />
+<br />
+<p  style="color:gray;text-align:right;"><span  style="font-size: 81.25%;">引用元： <a  target="_blank" href="http://medaka.5ch.net/test/read.cgi/job/1519828190/">http://medaka.5ch.net/test/read.cgi/job/1519828190/</a></span></p>
+<br />
+
+</div>
+                        
+<!-- タグのリスト表示セット -->
+                        </div>
+<br>
+
+
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=2Z8HPD+9K4KFM+34FI+NUES2" alt="">
+                    </div>
+                    <!-- 記事本文 ここまで-->
+
+
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HV7V6" alt="">
+
+
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www26.a8.net/svt/bgt?aid=190821728180&wid=001&eno=01&mid=s00000011866017004000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" alt=""></td>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+3257OY+3Y6M+601S1" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www24.a8.net/svt/bgt?aid=190821728185&wid=001&eno=01&mid=s00000018427001008000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=35LYZK+3257OY+3Y6M+601S1" alt=""></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+
+
+                    <!-- 記事フッター、コメント、ソーシャルボタン -->
+                    <footer class="article-footer">
+                        <div class="article-footer-comment">
+                            
+                                <a href="http://pathtimeblog.com/archives/10018322.html#comments">0コメント</a>
+                            
+                        </div>
+                        <div class="article-social-btn">
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HVFKY" alt="">
+
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/10018322.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/10018322.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="準公務員へ転職するのだがめっちゃ鬱だ。 	 - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=%E6%BA%96%E5%85%AC%E5%8B%99%E5%93%A1%E3%81%B8%E8%BB%A2%E8%81%B7%E3%81%99%E3%82%8B%E3%81%AE%E3%81%A0%E3%81%8C%E3%82%81%E3%81%A3%E3%81%A1%E3%82%83%E9%AC%B1%E3%81%A0%E3%80%82%20%09%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/10018322.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/10018322.html" data-text="準公務員へ転職するのだがめっちゃ鬱だ。 	 - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F10018322.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                        </div>
+                    </footer>
+                    <!-- /記事フッター、コメント、ソーシャルボタン -->
+
+
+                    <!-- カテゴリの最新記事表示 はじまり-->
+                    <div class="article-sub-category">
+                        <div id="ldblog_related_articles_d9c1954c">
+
+<div class="related-articles ldblog_related_articles_d9c1954c" data-category-id="160311" data-article-rows="5">
+<h3>「公務員・準公務員」カテゴリの最新記事</h3>
+<ul id="ldblog_related_articles_d9c1954c_160311"></ul>
+</div>
+</div>
+<script type="text/html" id="ldblog_related_articles_d9c1954c_tmpl">
+<% for(var i=0,l=articles.length;i<l;i++) {%><% if(i>=rows) break; %>
+<li><a href="<%=articles[i].permalink%>"><%=articles[i].title%></a></li>
+<% } %>
+</script>
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/related_articles.js?t=20180221"></script>
+<script type="text/javascript">
+(function(){
+RelatedArticles.load('ldblog_related_articles_d9c1954c', '10018322');
+})();
+</script>
+<!-- 関連記事の表示 -->
+                    </div>
+                    <!-- /カテゴリの最新記事表示 ここまで-->
+
+
+
+
+                    <div id="ad2"></div><!-- 広告表示 -->
+
+                    <!-- 記事オプション はじまり-->
+                    <div class="article-option" id="article-options">
+
+                        <!-- コメントエリア　はじまり -->
+                        
+                        <section id="comments">
+                        
+                        <h1 class="comment-form-title">コメントする</h1>
+<div class="article-option" id="comment-form">
+    <form
+      action="https://comment.blogcms.jp/livedoor/shukatu2ch/10018322/post"
+      method="post"
+      name="comment_form"
+          id="comment-form-body"
+      onsubmit="setCommentAuthor(this); return submitOnce(this.button);"
+    >
+    <fieldset>
+        <legend>コメントフォーム</legend>
+    <dl class="comment-form-author">
+        <dt><label for="comment-form-author">名前</label></dt>
+        <dd id="comment-author-form"><input type="text" class="text" id="comment-form-author" name="author" required="required" value="" /></dd>
+    </dl>
+  <dl class="comment-form-body">
+    <dt><label for="comment-form-textarea">コメント</label></dt>
+    <dd>
+      <textarea id="comment-form-textarea" name="body" rows="7" required="required"></textarea>
+      <div id="comment-form-tools">
+        <span class="facemark"><a href="javascript:void(0);" id="emojiLink1" onClick="showEmojiPanel(this.id, 'comment-form-textarea')"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/icon_facemark.png" /></a></span>
+        <span class="rating">
+                    <input type="hidden" name="rating" value="">
+                    <input type="hidden" name="rating_icon" value="star">
+                    <div class="rating-value">
+                        <span id="default-rating-value">評価する</span>
+                        <div class="caret"><span></span></div>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/face/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/face/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/face/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/face/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/face/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/star/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/star/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/star/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/star/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/star/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                    </div>
+                    <div class="rating-icon">
+                        <div data-value="face">顔</div>
+                        <div class="selected" data-value="star">星</div>
+                    </div>
+        </span>
+        <span class="submit"><button type="submit">投稿する</button></span>
+        <span class="memorize"><label for="bake"><input type="checkbox" id="bake" name="cookie" /> 情報を記憶</label></span>
+      </div>
+    </dd>
+  </dl>
+  </fieldset>
+  </form>
+  <script type="text/javascript" src="https://parts.blog.livedoor.jp/js/comment.0.2.js?v=20130430"></script>
+  <script type="text/javascript">
+    loadCommentAuthor(document.comment_form);
+    ldblogComment.init();
+  </script>
+<!-- /#comment-form --></div><!-- コメント投稿フォーム -->
+
+
+                        </section>
+                        
+                        <!-- コメントエリア　ここまで -->
+
+
+                        <!-- トラックバック受け付け　はじまり -->
+                        
+                        <!-- トラックバック受け付け　ここまで -->
+
+                    </div>
+                    <!-- 記事オプション ここまで-->
+
+                </article>
+                <!-- 記事　ここまで -->
+
+
+                <!-- ページ送り はじまり-->
+<!-- Article Pager // -->
+  <div class="pager article-pager-type2">
+    <div class="pager-inner">
+    <div class="article-pager-outer">
+    <ul class="article-pager"><li class="prev"><a href="http://pathtimeblog.com/archives/9993035.html" title="新人だから当たり前でしょ？　上司から言われた衝撃の「社会人マナー」に賛否 	">&nbsp新人だから当たり前でしょ？　上司から言われた衝撃の「社会人マナー」に賛否 	</a></li><li class="next both"><a href="http://pathtimeblog.com/archives/10078933.html" title="慶應大学のメリットって就職だよね？ 	">慶應大学のメリットって就職だよね？ 	&nbsp</a></li>    </ul>
+    </div>
+    </div>
+  </div>
+<!-- // Article Pager -->
+
+                <!-- /ページ送り ここまで-->
+
+            </div><!-- /main-column-inner-->
+        </div>
+        <!-- コンテンツの箱の中　真ん中728px ここまで-->
+
+
+        <!-- コンテンツの箱の中　左側200px はじまり-->
+        <aside class="left-container">
+            <div class="left-column-inner">
+            
+
+
+
+<div class="plugin-popular_articles sidewrapper">
+  <div class="sidetitlebody">
+    <div class="sidetitle">人気記事</div>
+  </div>
+  <div class="sidetop"></div>
+  <div class="side">
+
+
+    <div class="popular-articles">
+      <table id="populararticles-472933"></table>
+      <div class="popular-articles-freearea"></div>
+    </div>
+  </div>
+
+  <div class="sidebottom"></div>
+</div>
+
+<script type="text/javascript" language="javascript"><!--
+(function(){
+  var url = 'http://pathtimeblog.com/archives/popular_articles.json'
+         + '?rangetype=custom'
+         + '&from=0'
+         + '&range=13'
+         + '&limit=50'
+         + '&offset=0'
+         ;
+
+  var callback = function(data) {
+    var table = document.getElementById('populararticles-472933');
+    for (i = 0; i < data.articles.length; i++) {
+      var rank = i + 1;
+      var prefix = 'populararticles-472933-'+ rank;
+
+      var row = table.insertRow(-1);
+      var elm1 = row.insertCell(-1);
+      elm1.className = 'populararticles-rank';
+      elm1.innerHTML = '<span><b>' + rank + '</b></span>';
+      var elm2 = row.insertCell(-1);
+      elm2.className = 'populararticles-title';
+      elm2.innerHTML = '<a href="' + data.articles[i].url + '?ref=popular_article&id=7836571-472933">' + data.articles[i].title + '</a>'
+      ;
+
+    }
+  };
+
+  var xhr = (function () {
+      if (window.XMLHttpRequest)
+        return new XMLHttpRequest();
+      else {
+        var msxml = [
+          "Msxml2.ServerXMLHTTP.6.0", "Msxml2.ServerXMLHTTP.5.0", "Msxml2.ServerXMLHTTP.4.0", "Msxml2.ServerXMLHTTP.3.0",
+          "Msxml2.ServerXMLHTTP", "Microsoft.ServerXMLHTTP", "Msxml2.XMLHTTP.6.0", "Msxml2.XMLHTTP.5.0",
+          "Msxml2.XMLHTTP.4.0", "Msxml2.XMLHTTP.3.0", "Msxml2.XMLHTTP", "Microsoft.XMLHTTP"
+        ];
+        for (var i = 0; i<msxml.length; i++ ){
+          try {
+            return new ActiveXObject(msxml[i]);
+          }
+          catch(e) { }
+        }
+        return null;
+      }
+  })();
+    
+  if (!xhr) return;
+  xhr.open('GET', url, true);
+  xhr.onreadystatechange = function () {
+    if (xhr.readyState == 4 && xhr.status == 200) {
+      eval('var ld_popular_articles_json = ' + xhr.responseText);
+      callback(ld_popular_articles_json);
+    }
+  };
+  xhr.send();
+
+})();
+//-->
+</script>
+
+<div class="plugin-recent_articles sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">最新記事</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27108137.html">21卒就活生ワイ、内定辞退でしこたま怒鳴られる</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/10257766.html">ニートって難しい資格取って仕事探そうとするけどさ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839910.html">【学歴フィルター】企業にとっての一流大学とは？【就職偏差値】</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839719.html">ワイニート歴2年、就職して初年度の年収500万円！！！！</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073431.html">あ、面接落ちたなってフラグ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073465.html">【悲報】上級国民大手企業様「下請けに仕事やらせてガッポリ中抜きｗ」→夏ボーナス92万5947円</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27075072.html">ワイ21卒、会社選びを間違ってしまったと後悔する</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027071.html">【悲報】キャリア採用の銀行員ワイ、周囲の人間があまりにも有能すぎてマジでドン引き……………………</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27063977.html">【速報】大学、終わる。　Googleが大卒資格を得られるコースを提供へ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027029.html">教師「Ｆ欄ＯＫです、公務員です、毎日定時で帰れます、年収700万です」←こいつが馬鹿にされる理由ｗ</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-recent_articles -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「A」設定のブログパーツ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　左側200px ここまで-->
+
+
+        <!-- コンテンツの箱の中　右側200px はじまり-->
+        <aside class="right-container">
+            <div class="right-column-inner">
+            
+
+
+
+<div class="plugin-categorize sidewrapper" id="plugin-categorize-457691">
+    <div class="sidetitlebody">
+        <div class="sidetitle">カテゴリー</div>
+    </div>
+    <div class="sidetop"></div>
+    <div class="side">
+
+
+      
+
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160301.html">就活準備 (243)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161699.html">自己分析 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161700.html">企業・業界研究 (66)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155971.html">資格 (39)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155966.html">選考 (254)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155977.html">インターン (23)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155978.html">説明会 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155975.html">ES (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155976.html">SPIなど (7)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155974.html">面接 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155972.html">内定 (222)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160304.html">NNT(無内定) (68)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160302.html">内定後・入社前 (110)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160308.html">アドバイス (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160460.html">入社後 (924)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220065.html">新卒 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220063.html">上司 (95)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_219473.html">社会人生活 (299)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160474.html">ブラック企業 (65)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160303.html">転職 (175)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163214.html">副業 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220667.html">収入 (102)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_299497.html">採用担当 (3)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_318465.html">第二新卒 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161711.html">学生生活 (46)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163247.html">浪人・留年 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155967.html">学歴 (119)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_223545.html">ニート (38)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155969.html">業界別 (314)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156035.html">金融 (34)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156099.html">建築・不動産 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160357.html">物流・運送 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160358.html">IT・メディア (55)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160359.html">エネルギー・資源 (1)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160310.html">自動車・機械 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160360.html">食品・小売 (14)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160311.html">公務員・準公務員 (89)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160356.html">サービス (21)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160473.html">その他 (42)</a>
+          
+        </div>
+        
+    
+        
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160476.html">その他 (472)</a>
+          
+        </div>
+        
+    
+    
+
+    </div>    
+    <div class="sidebottom"></div>
+</div><!-- // plugin-categorize -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+<a href="//blog.with2.net/link/?1955545"><img src="https://blog.with2.net/img/banner/banner_21.gif" title="人気ブログランキング"></a><br><a href="//blog.with2.net/link/?1955545" style="font-size: 0.8em;">人気ブログランキング</a>
+
+<div class="plugin-link sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">リンク集</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://0matome.com/" target="_blank">おまとめ</a></div>
+
+<div class="sidebody"><a href="http://2chnavi.net/allentries/?threshold=0" target="_blank">2chnavi</a></div>
+
+<div class="sidebody"><a href="http://http://iwashi.biz/" target="_blank">いわしアンテナ &gt;°))))彡</a></div>
+
+<div class="sidebody"><a href="http://2ch-2.net/" target="_blank"> つーアンテナ(*ﾟ∀ﾟ)</a></div>
+
+<div class="sidebody"><a href="https://ii-antenna.net/?about" target="_blank">いーあんてな(#ﾟｗﾟ)</a></div>
+
+<div class="sidebody"><a href="https://2ch-mi.net/" target="_blank">みーアンテナ（´∀｀）</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-link -->
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">検索</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="https://cse.google.com/cse.js?cx=014565878756483497884:urusxdcjffe"></script>
+<div class="gcse-search"></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「B」設定のブログパーツ表示 -->
+            
+<!-- LDR・RSSリンクとブログのロゴ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　右側200px ここまで-->
+
+        <!-- このページのトップヘ　はじまり -->
+        <p class="to-pagetop"><a href="#"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/to_pagetop.png" width="70" height="70" alt="このページのトップヘ" /></a></p>
+        <!-- このページのトップヘ ここまで -->
+
+    </div>
+    <!-- コンテンツ全体 ここまで-->
+
+    <!-- ブログのフッター はじまり-->
+    <footer id="blog-footer">
+    <!-- Blog Common Footer // --><div id="footer"><p>Powered by <a href="http://blog.livedoor.com/" title="ライブドアブログ">ライブドアブログ</a></p></div><!-- // Blog Common Footer --><!-- 共通フッター表示 -->
+    </footer>
+    <!-- /ブログのフッター ここまで-->
+
+</div>
+<!-- コンテンツエリア ここまで-->
+
+
+<!-- Add Body Tag // --><script type="text/javascript">
+(function(){
+  var traq = document.createElement('script'); traq.type = 'text/javascript'; traq.async = true;
+  traq.src = 'https://t.blog.livedoor.jp/u.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(traq, s);
+})();
+</script>
+<noscript>
+<img src="https://t.blog.livedoor.jp/u.gif" alt="traq">
+</noscript>
+<!-- // Add Body Tag -->
+
+<script>
+(function($) {
+  var cookieName = 'livedoor-blog-gdpr-agreed';
+  $(document).ready(function() {
+    if (navigator.userAgent.match(/https?:\/\//)) {
+      // UA に http:// or https:// があればスルー
+      return;
+    }
+
+    var agreed = document.cookie.indexOf(cookieName) >= 0;
+    if (agreed) {
+      // 同意済み Cookie があればスルー
+      return;
+    }
+
+    var banner = $('<div>');
+    banner.attr('id', 'gdpr-banner');
+    var label = $('<p>');
+    label.html('\
+      ライブドアブログでは広告のパーソナライズや効果測定のためクッキー(cookie)を使用しています。<br>\
+      このバナーを閉じるか閲覧を継続することでクッキーの使用を承認いただいたものとさせていただきます。<br>\
+      また、お客様は当社パートナー企業における所定の手続きにより、クッキーの使用を管理することもできます。<br>\
+      詳細は<a href="http://www.livedoor.com/rules/" target="_blank" style="color:#023780;text-decoration:underline;">ライブドア利用規約</a>をご確認ください。\
+    ');
+    banner.append(label);
+
+    var closeButton = $('<button>');
+    closeButton.attr('type', 'button');
+    closeButton.html('閉じる');
+    closeButton.on('click', function() {
+      $('#gdpr-banner').hide();
+      document.cookie = cookieName + '="1";expires=Tue, 31-Dec-2037 00:00:00 GMT;path=/;';
+    });
+    banner.append(closeButton);
+
+    banner.css({
+      'position': 'fixed',
+      'left': '0',
+      'right': '0',
+      'bottom': '0',
+      'background': '#dcdcdc',
+      'color': '#000',
+      'padding': '20px',
+      'text-align': 'center',
+      'box-shadow': '0 -2px 2px rgba(102, 102, 102, 0.86)',
+      'z-index': '2147483647',
+    });
+    label.css({
+      'display': 'inline-block',
+      'text-align': 'left',
+      'font-size': '14px',
+      'color': '#000',
+      'vertical-align': 'middle',
+      'line-height': '1.5',
+    });
+    closeButton.css({
+      'display': 'inline-block',
+      'color': '#fff',
+      'border': 'none',
+      'font-size': '14px',
+      'padding': '4px 40px',
+      'margin-left': '40px',
+      'background': '#535353',
+      'vertical-align': 'middle',
+    });
+
+    var script = document.createElement('script');
+    script.type = "text/javascript";
+    script.src = "https://ipcheck.blogsys.jp/check.js?t=" + Date.now();
+    script.onerror = function() {
+      $('body').append(banner);
+    };
+    document.body.appendChild(script);
+  });
+})(jQuery);
+</script>
+</body>
+</html>

@@ -1,0 +1,1550 @@
+<!DOCTYPE html>
+<html lang="ja" itemscope itemtype="http://schema.org/Blog">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=1190">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" /><link rel="shortcut icon" type="image/vnd.microsoft.icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/favicon.ico" /><link rel="icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/3ab45ab0.jpg" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/template.css?v=20190826" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/heart.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/icon.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="http://pathtimeblog.com/site.css?_=20190831163247" type="text/css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://pathtimeblog.com/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://pathtimeblog.com/atom.xml" /><link rel="canonical" href="http://pathtimeblog.com/archives/9891791.html" /><link rel="openid.server" href="http://auth.livedoor.com/openid/server" /><link rel="openid.delegate" href="http://profile.livedoor.com/shukatu2ch/" />
+<link rel="mixi-check-alternate" media="mixi-device-mobile" type="text/html" href="http://blog.m.livedoor.jp/shukatu2ch/article/9891791" />
+<link rel="mixi-check-alternate" media="mixi-device-smartphone" type="text/html" href="http://pathtimeblog.com/archives/9891791.html" />
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/jquery-1.11.1.min.js"></script>
+
+<meta name="description" content="1: 目のつけ所が名無しさん  2013/09/05(木) 14:51:02.27 
+ なんでも聞いてほしい。わかる限り答える 
+" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="家電量販店の店員だけど質問ある？ : 2ch就活まとめ" />
+<meta property="og:description" content="1: 目のつけ所が名無しさん  2013/09/05(木) 14:51:02.27  なんでも聞いてほしい。わかる限り答える " />
+<meta property="og:url" content="http://pathtimeblog.com/archives/9891791.html" />
+<meta property="og:site_name" content="2ch就活まとめ" />
+<meta property="og:locale" content="ja_JP" />
+<meta property="og:image" content="https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png" />
+
+<meta name="twitter:site" content="@2chshukatu" />
+<meta name="twitter:title" content="家電量販店の店員だけど質問ある？ : 2ch就活まとめ" />
+<meta name="twitter:description" content="1: 目のつけ所が名無しさん  2013/09/05(木) 14:51:02.27  なんでも聞いてほしい。わかる限り答える " />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image:src" content="https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png" />
+<link rel="alternate" media="handheld" type="application/xhtml+xml" href="http://blog.m.livedoor.jp/shukatu2ch/" />
+
+<title>家電量販店の店員だけど質問ある？ : 2ch就活まとめ</title>
+<script src="https://parts.blog.livedoor.jp/js/emoji.js"></script>
+<script src="https://parts.blog.livedoor.jp/js/misc.js?v=20190710"></script>
+<!--[if lt IE 9]>
+<script src="https://parts.blog.livedoor.jp/js/html5.js"></script>
+<![endif]-->
+<script src="https://parts.blog.livedoor.jp/js/usr/import.js"></script>
+<script>
+$(function(){
+  if($('.header-inner01').children('#blog-header-image').length) {
+    $(window).bind('load', function() {
+      var title1 = $('#blog-header-image').height();
+      var title2 = $('.header-menu').height();
+      var headerHeight = title1-title2-15;
+      $("hgroup").css("height", headerHeight);
+    });
+  }
+});
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-3064778048578600",
+          enable_page_level_ads: true
+     });
+</script>
+
+<!-- Add Google Analytics Tag // -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-113178806-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- // Add Google Analytics Tag -->
+
+
+<meta name="referrer" content="always">
+<meta name="referrer" content="unsafe-url">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1638469-45"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+var blogId = '';
+if (blogId) {
+  gtag('config', 'UA-1638469-45', {
+    'custom_map': {'dimension1': 'blog_id'},
+    'blog_id': blogId
+  });
+} else {
+  gtag('config', 'UA-1638469-45');
+}
+</script>
+
+</head>
+<body class="default_2012 page-article layout-2col sidebar-right"><script type="text/javascript"><!--
+var ld_blog_vars = {
+  provider_id : '1',
+  provider_name : 'livedoor',
+  id : '7836571',
+  name : 'shukatu2ch',
+  charset : 'utf8',
+  url : 'http://pathtimeblog.com/',
+  title : '2ch就活まとめ',
+  blog_design: {
+      version: 1
+  },
+  blog_category: {
+    id: '243',
+    permalink: 'https://blog.livedoor.com/category/243/',
+    name: 'まとめ(総合) > まとめ',
+    is_adult : 0,
+    is_gambling : 0,
+    hierarchy: [{ id: '431', name: 'まとめ(総合)', permalink: 'https://blog.livedoor.com/category/431/' },{ id: '243', name: 'まとめ', permalink: 'https://blog.livedoor.com/category/243/' }]
+  },
+  current_page : {
+    type : 'article',    page : ''
+  },
+  articles : [ {
+       id : '9891791',
+       permalink : 'http://pathtimeblog.com/archives/9891791.html',
+       title : '家電量販店の店員だけど質問ある？',
+       categories : [ { id:'160360', name:'食品・小売', permalink:'http://pathtimeblog.com/archives/cat_160360.html' }, { id:'', name:'', permalink:'' } ],
+       date : '2018-06-13 20:00:12'
+}   ]
+};
+//-->
+</script><div id="analyzer_tags" style="display:none">
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/c2.js?v=20191010"></script>
+<script type="text/javascript">blog_counter('shukatu2ch', 7836571, 'http://pathtimeblog.com/')</script>
+</div><script type="text/javascript" src="https://parts.blog.livedoor.jp/js/smartphone.js?v=20200824"></script>
+<script type="text/javascript" src="http://pathtimeblog.com/settings/header.js?v=20190705"></script><script type="text/javascript" src="http://pathtimeblog.com/settings/ad.js"></script>
+<script type="text/javascript">
+var palette_src = 'https://parts.blog.livedoor.jp/img/emoji/3/palette.png';
+if (typeof IMAGE_CACHE == 'object' && IMAGE_CACHE['emoji_palette']) IMAGE_CACHE['emoji_palette'].src = palette_src;
+</script>
+
+<!-- Blog Common Header // -->
+<!-- // Blog Common Header -->
+<!-- 共通ヘッダー表示 -->
+
+<!-- ブログタイトル はじまり-->
+<header id="blog-header">
+
+    <div id="blog-header01">
+
+        <div class="header-inner01 show-image hide-text">
+
+            <hgroup>
+                <!--ブログタイトル　はじまり-->
+                <h1 id="blog-title"><a href="http://pathtimeblog.com/">2ch就活まとめ</a></h1>
+                <!--ブログタイトル　ここまで-->
+                <!--ブログ説明　はじまり-->
+                <h2 id="blog-description">新卒・転職・社会人生活などを含め、就活・就職に関することをまとめてます。</h2>
+                <!--ブログ説明　ここまで-->
+            </hgroup>
+
+            <a href="http://pathtimeblog.com/"><img src="https://resize.blogsys.jp/727db0f9da9f42eb7d26b703338c30b3eef0157c/trim2/0x243_94p_1200x388/http://livedoor.blogimg.jp/shukatu2ch/imgs/0/5/055bbafe.jpg" id="blog-header-image" /></a>
+
+            <div id="blog-header02">
+                <div class="header-inner02">
+                    <ul class="header-menu">
+                        <li><a href="http://pathtimeblog.com/">HOME</a></li><!--メニューを入れてください-->
+                        <li class="ldb_menu-item-url"><a href="http://blog.livedoor.jp/shukatu2ch/archives/6126504.html">ABOUT</a></li><!--メニューを入れてください-->
+                        <li><a href="mailto:shukatumatome@gmail.com">お問い合わせ</a></li><!--メニューを入れてください-->
+                    </ul>
+                    <ul class="header-sarch">
+                        <li><a href="http://twitter.com"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_twitter.png" alt="Twitter" /></a></li><!--Twitter-->
+                        <li><a href="http://pathtimeblog.com/index.rdf"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_rss.png" alt="RSS" /></a></li><!--RSS-->
+                        <li>
+                        <form action="http://pathtimeblog.com/search" method="GET" style="padding:0;margin:0px;">
+                        <input type="TEXT" name="q" class="sf">
+                        <input type="SUBMIT" value="検索" class="sfbtn">
+                        </form>
+                        </li><!--検索窓-->
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</header>
+<!-- /ブログタイトル ここまで-->
+
+
+<!-- コンテンツエリア はじまり-->
+<div id="wrapper">
+
+    <!-- コンテンツ全体 はじまり-->
+    <div id="container">
+
+        <!-- 相互RSS はじまり-->
+        <div class="rss-blogroll">
+
+            <!-- 相互RSSを設置する場合の注意事項
+                コードに含まれる以下のCSSは外して設置してください
+                http://blogroll.livedoor.net/css/default2.css -->
+
+                 <!-- 相互RSSのコード ひとつ目-->
+            <script type="text/javascript">
+            <!--
+                   var blogroll_channel_id = 255242;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード ふたつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 265945;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード みっつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 255442;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href= />
+        </div>
+        <!-- 相互RSS ここまで-->
+
+        <!-- コンテンツの箱の中　真ん中728px はじまり-->
+        <div class="main-container">
+            <div class="main-column-inner">
+<br>
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+<br>
+                <!-- メッセージボード -->
+                 
+
+
+
+                <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://pathtimeblog.com/archives/9891791.html"
+    trackback:ping="http://trackback.blogsys.jp/livedoor/shukatu2ch/9891791"
+    dc:title="家電量販店の店員だけど質問ある？"
+    dc:identifier="http://pathtimeblog.com/archives/9891791.html"
+    dc:subject="食品・小売"
+    dc:description="1: 目のつけ所が名無しさん  2013/09/05(木) 14:51:02.27  なんでも聞いてほしい。わかる限り答える "
+    dc:creator="shukatu2ch"
+    dc:date="2018-06-13T20:00:12+09:00" />
+</rdf:RDF>
+-->
+<div id="ad_rs" class="ad_rs_b"></div><!-- 記事のトラックバック・オートディスカバリー -->
+
+
+                <!-- 記事 はじまり-->
+                <article class="article first-article" itemscope itemtype="http://schema.org/BlogPosting">
+
+                    <!-- 記事タイトル　記事下の情報　はじまり-->
+                    <header class="article-header">
+
+                        <h1 class="article-title" itemprop="name"><a href="http://pathtimeblog.com/archives/9891791.html" itemprop="url">家電量販店の店員だけど質問ある？</a></h1><!-- 記事のタイトル -->
+
+                            <!-- 記事下の記事情報 はじまり-->
+                            <div class="article-header-inner">
+
+                                <!-- 記事情報の上の行 はじまり-->
+                                <div class="article-header-top">
+                                <p class="article-header-date"><time datetime="2018-06-13T20:00:12+09:00" pubdate="pubdate">2018年06月13日</time></p>
+                                
+                                <ul class="article-header-category">
+                                    <li>
+                                        <dl><dt>カテゴリ:</dt><dd class="article-category1"><a href="http://pathtimeblog.com/archives/cat_160360.html">食品・小売</a></dd></dl>
+                                    </li>
+                                </ul>
+                                
+
+                                <!-- 記事の評価アイコン はじまり-->
+                                
+                                <!-- 記事の評価アイコン ここまで-->
+
+                                </div>
+                                <!-- 記事情報の上の行 ここまで-->
+                                <!-- ソーシャルボタン　はじまり -->
+                                <ul class="article-social-btn">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/9891791.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/9891791.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="家電量販店の店員だけど質問ある？ - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=%E5%AE%B6%E9%9B%BB%E9%87%8F%E8%B2%A9%E5%BA%97%E3%81%AE%E5%BA%97%E5%93%A1%E3%81%A0%E3%81%91%E3%81%A9%E8%B3%AA%E5%95%8F%E3%81%82%E3%82%8B%EF%BC%9F%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/9891791.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/9891791.html" data-text="家電量販店の店員だけど質問ある？ - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F9891791.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                                </ul>
+                                 <!-- ソーシャルボタン　ここまで -->
+                            </div>
+                            <!-- 記事下の記事情報 ここまで-->
+
+                    </header>
+                    <!-- 記事タイトル　記事下の情報　ここまで-->
+
+
+
+                    <!-- 記事本文 はじまり-->
+                    <div class="article-body">
+                        <div class="article-body-inner">
+<!-- 参加している共通テーマの表示 -->
+                        <span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">1: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/05(木) 14:51:02.27 </span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b"> なんでも聞いてほしい。わかる限り答える </div><br />
+<!-- Generated by 2chまとめくす (http://2mtmex.com/) --><!-- 本文 --><div class="article-body-more" id="more"><span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">2: <span  style="color: rgb(124, 199, 84);">姦災すーぱー</span> <span  style="color: gray;"> 2013/09/05(木) 16:37:28.00 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 生きてて恥ずかしくないですか？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">3: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/05(木) 17:05:37.90 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> はずかしくないよ。むしろ、接客は好きだから、お客さんと元気に話すことで生き生きするわ。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">4: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/05(木) 17:13:42.31 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 親友はいますか？最近どんなことしましたか？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">5: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/05(木) 17:16:19.36 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> 親友はいるけど、地方にいるからほとんど会うことはない。こっちではほとんど仕事しかしてないな。ちな関東な </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">6: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/05(木) 18:41:42.95 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 正社員？ <br /> 知り合い来たら恥ずかしくない？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">7: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/05(木) 19:54:08.67 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> 元正社員。いまは雇用形態はちがうが。 <br /> 知り合いきた時は、ちゃんと接客するし、安くしたりいろいろサービスしてやんよｗ <br /> べつにはずかしくはない </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">9: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/05(木) 20:09:48.49 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 取付費用や回収費用とか結局取るのに、後ろめたくないですか？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">11: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/05(木) 20:14:29.35 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;9</span> <br /> 商品自体の安さを見せるための技なんで、取り付けとかのサービス料も重要な収入源なんだよ家電店は。 <br /> とくにフレッツとかの通信サービスの契約獲得は、１件でＴＶ数十台分の利益になる場合すらあるからな。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">16: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/06(金) 08:36:48.87 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;11</span> <br /> そんな売り方して、情弱やお年寄りを騙しているような自分の姿は嫌になりませんか？ <br />  <br /> そういうお客様は、結局はジャパネットのほうが安心できると思ってますよ。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">18: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/06(金) 14:24:07.69 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"><span  style="color: mediumblue;" class="anchor">&gt;&gt;16</span> <br /> 詐欺まがいな販売をしてるわけじゃないですし、騙すなんてひどいことしません。 <br /> しかし、利益が高いなどの理由で集中的にある特定の商品の販売を指示させられることはよくあることです。 <br /> 接客時、ニーズを聞き出したら、その売りたい商品の特徴にうまく結びつけてオススメするよ。 <br /> でも、売りたかった商品とは別の商品のほうが、お客様のニーズに合っていて、胸が痛くなることはある。 <br /> そうゆうときは自分の姿が嫌になるかな・・ <br />   <br />  </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">190: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/10/11(金) 16:26:06.46 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;18</span> <br /> それでも売れないよりは売れた方がいいでしょ？ <br />  <br /> 在庫余るのも店側には負担だろうし <br />  <br /> 実物触れれて価格も通販に勝れば怖いものなしだと思うんだけど？ <br />  <br /> チャンスを逃してるんだよ？ <br /> 特に若者のお客さん <br /> 馬鹿じゃないからね </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">8: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/05(木) 20:01:56.05 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> REGZAに繋いでた外付けHDDのデータが消えちゃったんだけどデータ復元とかできる？ <br /> 200時間くらい録画してて凄い困ってるんだよね </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">10: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/05(木) 20:10:21.87 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> おれは販売員だから、そんな技術は持ってないな。 <br /> ＴＶにつないだ後にＰＣにつなぐと初期化されるから注意だね。 <br /> ＰＣとＴＶと両方で１つのＨＤＤ使えますか？って聞かれることは多かったな。 <br /> とくにＴＶがめちゃくちゃ売れたエコポイントの時期とか。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">12: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/05(木) 23:03:03.87 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> オススメのシェーバーと電動歯ブラシ教えて！ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">89: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/09(月) 02:11:06.27 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"><span  style="color: mediumblue;" class="anchor">&gt;&gt;12</span>がおすすめのシェーバーと電動ハブラシをおしえてくれと。 <br /> 当方残念ながら詳しくない。援護を要請する。</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">92: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/09(月) 02:33:31.16 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;12</span> <br /> だそうだわかったか。 <br />  <br /> ラムダッシュはPanaだったか？ <br /> やはりその２ブランドが売れてるのか、てかシィエーバーやハブラシにもそんな大きな特徴があるのか、 <br /> お客に合った商品を提案、売るっておもしろいな。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">94: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/09(月) 02:45:26.07 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"><span  style="color: mediumblue;" class="anchor">&gt;&gt;92</span> <br /> パナソニック　=　ラムダッシュでござる</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">98: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/09(月) 09:24:11.70 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"><span  style="color: mediumblue;" class="anchor">&gt;&gt;92</span> <br /> さんきゅー！ <br />   <br /> パナのシェーバーの4枚刃と5枚刃って結構違う？</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">13: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/05(木) 23:11:11.87 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> 白物家電は担当したことないからわからないな、すまん </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">14: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/05(木) 23:32:24.74 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> えー <br /> じゃぁ得意なのは何？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">15: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/05(木) 23:43:42.04 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> パソコン系か、黒物系かな。黒物はＴＶとかのことね。 <br /> でもむしろ電気店の裏事情っぽい質問とかを受けないけどな。 <br /> 商品に関することなら家電マニアがたくさんいるだろ？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">17: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/06(金) 12:11:41.75 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 俺はモノによるけど通販はやだなぁ。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">18: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/06(金) 14:24:07.69 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"><span  style="color: mediumblue;" class="anchor">&gt;&gt;17</span> <br /> あなたのような方がいてくれてるから、量販店は生きていられるですよ！ <br /> amazonやカカクcomのいわゆるネット価格に、店頭販売の量販店はなかなか勝てないですから。 <br /> そのかわりネット通販には出来ないサービスがたくさんありますので <br /> スペックの比較 <br /> 量販・・・・教えてくれる！提案してくれる！ <br /> ネット・・・自分で調べて考えろカス <br />   <br /> 配送サービス <br /> 量販・・・・設置も説明もします！箱とかのごみは持ち帰ります <br /> ネット・・・宅急便で玄関にボン！ <br />   <br /> アフターアービス <br /> 量販・・・・故障したら店頭で交換するよ！故障かどうか微妙でも、よくわかんないからとりあえず交換しちゃえ！ <br /> ネット・・・宅急便でよこせ。本当に故障だったら、そのうち交換品送ってやる</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">192: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/10/15(火) 18:50:30.01 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;18</span> <br /> &gt;ネット・・・自分で調べて考えろカス  <br /> &gt;ネット・・・宅急便で玄関にボン！ <br /> &gt;ネット・・・宅急便でよこせ。本当に故障だったら、そのうち交換品送ってやる <br />  <br /> 家電量販店の店員て、良い顔して心の中では言葉遣いも酷いんですね。 <br /> ライバルのネットショップのデメリットを言いたいのはわかりますけど、 <br /> 悪口にしか聞こえないですよ。 <br /> 家電量販店の店員のイメージが･･･ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">19: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/06(金) 18:16:00.84 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 結婚しないの？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">21: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/07(土) 00:56:54.18 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;19</span> <br /> 結婚したいよ。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">20: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/06(金) 19:16:43.90 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 俺、ヨドバシ好きなんだけど、どんぐらい値切って落ちるもの？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">22: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/07(土) 01:02:14.97 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;20</span> <br /> おれも、数ある家電量販店の中ではヨドバシは大好きだ。賑やかで、豊富な品揃えが、最高に興味を引き立てるね。 <br /> 値切るなら、値切る理由をつけないとやってくれないよ。 <br /> 店員からしたら、ただ安くしても値引く理由もないからやらないね。 <br /> でもこれが、ほかで安い店があった（その店の名刺提示された価格が記載されたものとか）とかがないと。 <br /> あとは最初から偉そうな口調で値引き交渉してくる客には「こんなやつに値引きしたくない」って思うから、態度は気をつけたほうがいいよ。 <br /> 店員だって人間だから感情はあるよ、仲良くなったお客や、店のシステムやルールを理解してくれたお客には、出来る限りのサービスをしてあげたい！って思うからね。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">23: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/07(土) 02:27:25.72 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 近所付き合いしてますか？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">25: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/07(土) 02:50:04.56 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;23</span> <br /> してないね。 <br /> しかし、いま住んでるアパートに引越ししてきたときには、隣の部屋の住人にギフトのタオルを買って挨拶に行ったな。 <br /> びっくりされて、なかなか部屋から出てきてくれなかったけどな <br /> しないもんなのか </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">26: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/07(土) 03:13:40.65 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;25</span> <br /> いい心掛けじゃん <br /> せん方がおかしい </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">27: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/07(土) 03:21:59.60 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;26</span> <br /> 若い女性だったから、警戒したのかもしれんがな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">28: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/07(土) 07:17:42.25 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 得意料理はなんですか？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">29: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/07(土) 10:54:40.02 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;28</span> <br /> ヘルシオで作る鶏のスパイシーデジタルソテーかな？ <br /> つかおまえら家電量販店にまつわる質問をしてこいよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">30: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/07(土) 13:41:26.00 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> じゃぁ、衛星放送のアンテナがあるのと別の部屋にもテレビ置きたいんだけど、どうしたらいいの？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">31: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/07(土) 15:48:53.67 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;30</span> <br /> 外で分配して別の部屋に線を引き込んでTVに接続する <br /> 又は、 <br /> 屋根裏の分配器に直接接続して、全部屋で分波器を使えば視聴可能にする <br /> 又は、 <br /> フレッツテレビにする </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">32: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/07(土) 16:10:53.81 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 親孝行してる？親に仕送りは？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">33: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/07(土) 16:18:55.14 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;32</span> <br /> してるよ。仕送りは月1万しかしてないが、よく電話して近況報告をしあってる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">34: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/07(土) 16:20:26.86 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 先月の電気使用量と電気代はいくら？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">36: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/07(土) 20:23:42.17 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;34</span> <br /> 先月は4600円くらいだった。1DKの一人暮らしな。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">35: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/07(土) 18:16:20.14 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> ピックとかヨドとか、早番は何時出勤？遅番は何時退勤なの？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">37: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/07(土) 20:26:22.60 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;35</span> <br /> だいたい早番9:30～、中番11:00、遅番13:00とかかな。 <br /> 閉店後も、品出しとか売り場の改装やら、 <br /> 翌日の売り出し商材の準備とかある。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">38: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/07(土) 21:01:59.85 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 部屋を掃除する頻度は？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">40: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/07(土) 21:51:38.62 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;38</span> <br /> 休みのたびに少しずつやってるよ。 <br /> トイレだけとか、洗面台だけとか </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">39: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/07(土) 21:15:35.02 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 今度引っ越す部屋アンテナジャックからテレビまでの距離が長いんだけど <br /> アンテナケーブルは高いヤツの方がいい？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">41: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/07(土) 21:53:58.20 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;39</span> <br /> 高いのを買う必要はないよ。10m以上にはならないでしょう？ <br /> 衛星放送も見るのなら、太いケーブルにした方がよいよ！ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">42: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/07(土) 22:33:33.50 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> アルミシールドされてる４Ｃでしょ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">43: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/07(土) 22:41:00.04 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;42</span> <br /> そうそう。中にアルミ巻いてるやつは、外からの電波の影響をうけないからデータの損失がないそうだ。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">44: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/07(土) 22:50:46.33 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> いままで異性に告白した回数は？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">45: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/07(土) 23:10:03.97 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;44</span> <br /> 3人 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">46: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/08(日) 10:22:57.40 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> お客様に誘われちゃつたことはある？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">47: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/08(日) 10:38:26.47 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;46</span> <br /> 保険の勧誘受けたことならあった。 <br />  <br /> 話ずれるけど、若い女性女性のお客を接客してたとき、お客がかがんだ時に胸元からブラどころか乳首まで見えてしまった時には衝撃を受けた。 <br /> その後ずっと心の中でごめんなさい言いまくったわ。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">48: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/08(日) 10:45:32.43 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> ヤマダ電機の社員なら死ね </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">49: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/08(日) 11:24:21.56 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;48</span> <br /> ヤマダの社員になにかされたのか？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">50: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/08(日) 13:50:58.22 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> オススメの商品って早く在庫処分したいかメーカーが金積んだかどっちかなんだろ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">51: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/08(日) 15:19:50.49 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;50</span> <br /> そうだよ。 <br /> めっちゃ性能悪いのに売らなきゃいけない商品もあるよ。 <br /> お客に勧めて売るのマジ心痛いわ。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">52: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/08(日) 15:58:03.15 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 量販店の電機製品の原価は、ほとんどが半値８掛け二割引きなんですか？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">54: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/08(日) 21:48:45.74 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;52</span> <br /> そうでもないよ、商品や発売からの経過時期によってもさまざま。 <br /> ただ新製品は値下がり前の価格だから粗利いっぱいのってるよ。 <br /> 逆に発売からある程度経過したら、実質原価割れでの販売になってくるよ。 <br /> 税込原価50800円が、52800円Pt10%とかでバンバン売るよ。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">53: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/08(日) 16:12:30.04 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 特ア系のメーカー、例えばLGやハイアールって品質とかアフターサービス悪いの? </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">55: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/08(日) 21:56:56.31 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;53</span> <br /> 品質わるいよ、おれなら買わない。 <br /> 日本メーカなら毎日のように営業が商品のメンテナンスやレイアウトの変更やPOPを貼りに来るほど、販売意識高いけど、 <br /> 特ア系は1年に一回とかしか来なかったりしたな。まぁ店の規模にもよるけど。 <br /> お客がお客様窓口に電話しても、満足する対応が受けられなかったりする。 <br /> 販売店が問い合わせする窓口すらないところもある。 <br /> だからカタログに表記されてない仕様とかお客に聞かれても、調べる術がなかったり。 <br /> 商品は卸業者を通して勝手に入ってきて、勝手に売れていき、担当営業が誰なのか不明、問い合わせる術もない、 <br /> まさに"無言で運営しつづけるメーカー"というイメージだ。ようわからん </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">65: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/08(日) 23:43:31.78 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;55</span> <br /> なるほど。そこら辺も大陸仕様か。 <br /> もひとつ、オリオンみたいな日系の新興勢力はどうよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">68: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/08(日) 23:59:17.42 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;65</span> <br /> オリオンかｗ <br /> 販売店の店員からすると、名前聞いただけで地味すぎてワロリンだよｗ <br /> 同じく故障多いよ。オリオンの１４インチくらいのテレビあったけど、デザインわるいし安っぽいし <br /> 緩衝材の発泡スチロールさえなんだか他と違って安っぽい。 <br /> 説明書はワードで適当に作っただけのようなやつで、誤字もある。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">69: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/09(月) 00:06:30.78 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;68</span> <br /> 最近買ったORION22型のLED液晶は他メーカの最廉価機種と比べてもそんなに見劣りしなかったぞ。取説もまともだったわ <br /> ダメなのは音質とEPGの見辛さぐらい。あと立ち上がりとch切替速度 <br /> 画質はフツーに良かった。 <br /> ブラウン管出してた頃の話だろそれ。いつの時代の話してるんだか...ｗ <br />  <br /> それよりDYNEXやハイセンスがお前の言うORION機にそっくりだわ。笑止 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">72: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/09(月) 00:16:14.97 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;69</span> <br /> すまんブラウン管が無くなったぐらいの時期のモデルの話だわ。印象が強かった </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">58: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/08(日) 22:08:00.58 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 新製品の情報ってメーカーからどう伝えられるの? <br /> 正式発表よりも前に分かるの?守秘義務とかありますか? </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">59: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/08(日) 22:16:58.79 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;58</span> <br /> 新製品の情報は、メーカの営業さんが「ぜひ販売お願いします！」って <br /> 言って資料を持ってきてくれて、販売店向けに勉強会を開いてくれるよ。 <br /> 公式発表前に教えてくれるところもある。もちろん公式発表までは守秘義務があるよ。 <br /> 炊飯ジャーやオーブンの勉強会なら実際にご飯炊いたりお菓子焼いたりして食べさせてくれるし、 <br /> TVやカメラなら旧モデルと並べて画質の差をわかりやすく比較してくれたり。 <br /> メーカーも、販売店の社員に自社の商品をオススメしてもらえるように必死だよ。 <br /> 全量販店向けに、ホテルの会場貸し切って発表会や勉強会やるとこもあって、 <br /> カメラの発表コーナーではモデルさんがスタンバイしてて新製品で実際に <br /> 試し撮りをさせてくれたり楽しいよ！ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">62: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/08(日) 23:14:30.78 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 田舎だからなのかうちの近所の量販店は行くといつもガラガラで店員さんも暇そうだけど<span  style="color: mediumblue;" class="anchor">&gt;&gt;1</span>のお店はどうなの？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">63: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/08(日) 23:20:18.80 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;62</span> <br /> おれのいる店は街中だからお客が多いから、あまりヒマではないよ。 <br /> 昔は郊外の店に配属されてたけど、その時はヒマな時もあれば、めっちゃ忙しいときもあった。 <br /> それより、売り上げを伸ばすために積極的に接客をしていたが。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">64: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/08(日) 23:43:05.79 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> あなたが目を付けてる後輩店員はどの娘？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">66: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/08(日) 23:53:20.02 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;64</span> <br /> いないよ。しかし同じ店舗内で恋愛しだす社員もいるわ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">67: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/08(日) 23:54:16.80 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> ツインバードは安くて使える製品多い <br /> オリオンも近年は大分品質も底上げされてる（TVなんかはドウシシャに丸投げでアフター糞だが） <br />  <br /> 船井か・・・ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">70: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/09(月) 00:12:40.55 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;67</span> <br /> ツインバードはわりと故障はそんなに聞かないかな。 <br /> オリオンはドウシ舎に委託してるんだ、それは知らなかった <br /> 船井電気も地味でワロリンだわｗ <br /> 19歳の時、地デジ移行の為にラブホのオーナーが船井の液晶ＴＶを２０台購入していったことあったなぁ。 <br /> ウチの配送センターからは大口配送はできなかったから、上司とおれの２人でラブホの全部屋に設置作業をしにいった思い出がある。 <br /> なお、おれはこの時生まれて初めてラブホに入った。 <br />  <br /> しかもラブホで終始流れてるアダルトビデオって、ＵＨＦ変換されててだな、ＣＨ設定すると地上波の空きＣＨにＡＶが放送されてるんだよな。 <br />  <br /> おれ「上司、設定完了しました！」 <br /> 上司「まて、一旦みせてみろ」 <br /> リモコンを操作してＡＶを映す <br /> 上司「・・・」 <br /> おれ「受信レベル問題ないですか？」 <br /> 上司「うむ、じゃあ次の部屋いくぞ」 <br />  <br /> な感じだった。おれには不思議な空間に感じた </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">71: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/09(月) 00:16:14.50 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> ちょっと脱線だが、オレもラブホテルにパッケージエアコン修理にいったことがある。 <br /> ドサイ中の天井裏はシュールだったよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">73: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/09(月) 00:19:05.23 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;71</span> <br /> それはなかなか気まずい雰囲気だね、天井裏作業の音は部屋に漏れなかったのかな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">74: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/09(月) 00:22:17.82 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;73</span> <br /> いや、隣の部屋なんだが、天井裏はつながってるからね <br /> 本人たちも専念してるしw <br />  <br /> サービスでまわると変な体験も多いよ <br /> なぜか全裸の客(女)とか </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">75: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/09(月) 00:32:48.97 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;74</span> <br /> 部屋では全裸で過ごす人は多いと聞くが、来客しても全裸なのかｗ <br /> ムラムラしないのかい？ <br />  <br /> おれはクレームの謝罪でお客様宅へ行ったときは数時間監禁状態にさせて怖い思いしたなぁ、 <br /> 逆に、謝罪に行ったのにおばあちゃんに「おそば食べていきなさいな」って言われて <br /> 突如として本格的な天そばが登場して食わされた挙句、 <br /> お菓子の手土産までもらってしまい、店に戻るまでになんとか処理（おいしくいただきました）した思い出もある。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">76: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/09(月) 00:36:15.18 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;75</span> <br /> メシ代浮いたんだから感謝しとけよ <br /> 婆ちゃん粋じゃねえかよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">77: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/09(月) 00:42:01.54 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;76</span> <br /> めっちゃ感謝だよ。 <br /> ウチで商品買ってくれたのに、不具合起こしてしまったのにもかかわらず、 <br /> 謝罪に来た社員におそばご馳走するなんて、 <br /> なんて心のきれいなおばあちゃんなんだろうって思ったよ。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">78: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/09(月) 00:42:33.51 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;75</span> <br /> 手違いがあればクビだからな <br /> 給料で金払ったほうが安全w <br />  <br /> マジで全裸は困るぞ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">79: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/09(月) 00:44:00.49 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;78</span> <br /> で、その全裸のお客の対応はどうだったのよ気になるからおしえて </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">80: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/09(月) 00:51:55.91 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> お客様はソファでテレビ見てた <br /> オレはエアコンを直す <br /> (ちょうど逆サイド) <br /> 直ったから呼ぶ＆試運転 <br /> お客様来る＆手をかざす <br /> 「クーラー直ったから、服きても生活できるわ、ありがとう」 <br /> 当方、印鑑もらって去る </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">82: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/09(月) 00:54:30.84 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;80</span> <br /> エアコン壊れて全裸強いられてたのかよワロタｗ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">81: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/09(月) 00:53:16.92 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> この間、全裸 <br /> 何故か、飯食ってくか聞かれる <br /> 次のアポがあるからと去る <br /> ってなかんじ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">83: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/09(月) 00:56:52.67 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 理解不能なのも多いからな <br /> 全裸は理解不能ではあるが、理不尽な要求ではないので平和だ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">84: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/09(月) 01:02:26.71 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;83</span> <br /> これで裸を見られたとか噴かれたら大変だよな。 <br /> 何事もなく全裸拝めてよかたなｗ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">85: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/09(月) 01:13:57.50 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;84</span> <br /> とりあえず通報されずよかった </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">87: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/09(月) 02:08:24.33 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;85</span> <br /> 相手が勝手に全裸になってるんだから、通報されてもこっちは悪くないよなｗ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">88: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/09(月) 02:09:36.44 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;1</span> <br /> HD画質以上のビデオカメラで <br /> 本体の分解が容易なメーカー or 機種知ってたら教えて下さい。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">90: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/09(月) 02:16:14.22 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;88</span> <br /> ぶ、分解かよｗ <br /> すまん、さすがに改造まではしたことないからな、ちょっとわからないな。 <br /> タブレットのKindleFireは改造しやすいと一部のマニアックなお客から聞いたことがあるが、どう改造できるかはわからん。 <br /> もうしわけないね。 <br /> あぁでも、ビデオカメラならＣＡＮＯＮのＨＦＧ２０？あたりのモデルが感度高くてきれいだったなぁ。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">97: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/09(月) 07:19:38.75 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;90</span> <br /> kindleは改造できるけどやりやすいのはnexusシリーズかな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">96: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/09(月) 03:51:51.61 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 電気屋に日用品売ってて肝心の電気製品の品揃えが悪いから、 <br /> 日用品始めてから山田には一切行ってない <br /> 最近はリフォームコーナーもあるらしいなｗ <br /> それぞれ考えた奴、頭おかしいだろｗ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">100: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/09(月) 09:48:37.18 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;96</span> <br /> ヤマダは日用品を取り扱ってから、 <br /> ソーラーパネルとかも扱い出して、今では家を売ってるね笑 <br /> ソーラーや家を売った場合はその販売員に報奨金が支給されるよ、割合まではわからない </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">99: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/09(月) 09:48:33.80 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 色んな商品を比較して決めたいのに、 <br /> 自社製品ばかりすすめる人がいてうんざりする時があるんだけど、 <br /> メーカーの人がきてるの？ <br /> もしそういう人がいたら、販売店の人に代わってもらったら失礼だよね？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">102: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/09(月) 10:04:06.19 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;99</span> <br /> 彼らはメーカーの販売スタッフだね。もちろん自社製品の販売を目的に入店していて、 <br /> 1日何台っていうふうに予算が組まれてるから、給料もらうために必死にオススメするよ。 <br /> メーカーの販売員同士で、お客を取っただとか、ウチの商品を悪く説明したとかでトラブルになることもしばしば。 <br /> 社員からすると、どの商品が売れても成績になるから、わりと中立な立場で提案や比較ができるよ。それを知っていて、 <br /> 「あなたメーカーの方？社員の方と代わってもらえませんか？」と言ってくるお客はけっこういるよ。 <br /> だから言っても大丈夫だよ。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">104: <span  style="color: rgb(124, 199, 84);">９９</span> <span  style="color: gray;"> 2013/09/09(月) 10:56:27.05 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> ありがとう。 <br /> 今度から社員らしき人に代わってもらうことにする。 <br />  <br /> ちなみにテレビを買う予定なんだけど、 <br /> ３２型でおすすめってある？ <br /> もちろん安いにこしたことはないが、 <br /> 比較的故障が少ないものがいいんだ。 <br /> 店員さんはっきり教えてくれないんだよね。 <br />  <br /> 今までのは6年で壊れて（パソコンと一体型）修理を頼んら、 <br /> もうサポート終了、部品なしって言われてサイクルの速さに驚いたよ。 <br /> 販売店の5年保証も過ぎてるし… <br /> 長く大切に使いたいんだよな。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">106: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/09(月) 15:00:34.38 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;104</span> <br /> 壊れないものはどれかと聞かれると、はっきり答えるのは難しいねぇ、 <br /> 販売員によるし、今までの経験上での憶測になるからなぁ。 <br /> レコーダー担当してた時は明らかに不良が起きる回数がハンパない銘機と言われたモデルはあったが。 <br />  <br /> 安さ求めるならTHL32C6かLC32H9とかかな。外付けHDDで録画もできるし。あまり不良も聞かない。 <br /> おれには画質の大きな差は無いように思える。 <br /> マニアックなユーザーにはわかるのかな。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">112: <span  style="color: rgb(124, 199, 84);">９９</span> <span  style="color: gray;"> 2013/09/09(月) 16:54:24.50 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;106</span> <br /> 確かに壊れないものなんて聞かれても分からんよな。 <br />  <br /> あと、おすすめの機種見に行ってみる！ <br /> 安く買うなら、よく言われてる決算期とかなんだろうけど、 <br /> 通販での価格と同じ位であれば無理なく買えそうだ。 <br /> 競合店が近所になくて、値引き交渉には自信がないんだけど、 <br /> できるだけお願いしてみよう。 <br /> 店員さんとの話次第では、録画機能付きを奮発してしまうかも。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">116: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/09(月) 17:38:33.70 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;112</span> <br /> 値引き交渉は、まず店員と仲良くなってからが良いよ。 <br /> 自分と合わない社員なら焦らずに「ちょっと検討します」って言って離れて、 <br /> 別の社員に声かけてもOKだよ。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">124: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/09(月) 21:44:28.16 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;116</span> <br /> えっ！後日に改めずに、他の店員さんのところへ行ったら <br /> 不愉快にならないかな？ <br /> 売ればその店員さんの給料とかに反映されるんじゃないのかい？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">126: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/09(月) 21:50:10.82 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;124</span> <br /> その日に買いたいだろ笑  <br /> お客の心をつかめなかった販売員が悪いから、別の人のとこ行ったってOKだよ。 <br /> 社員は売り上げは成績なだけで <br /> 給料には大きく影響しない雇用形態のとこがほとんど。 <br /> しかも値引き交渉系の接客は誰もやりたがらないからな。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">110: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/09(月) 15:19:04.58 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 家電で「番号の商品をお取りください」になっていて下の棚に商品がある場合 <br /> スーパーの食料品みたいに奥にあるやつのほうが新しいの？ <br /> もし同じだとしたら何番目くらいにあるやつを取ったほうが安全なのかな？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">114: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/09(月) 17:27:17.73 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;110</span> <br /> ラジカセとか炊飯ジャーくらいの大きさの箱なら、 <br /> 大抵使われてる什器なら奥まで詰め込むスペースはないから、さほど変わらないと思うよ。 <br /> ただしプリンタインクとかは一つのフックに10コとかかかってると思うから、古いやつが混じってるはずだね。 <br /> よほどヒマな店舗出ない限り古いのをいったんはずして新しいのから掛け直していく作業はしないとおもうから、手前が新しいかな。 <br /> まあインクはパッケージ底部の使用期限を見るのが確実だよ、たまに切れてる見つけることある。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">117: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/09(月) 18:05:49.86 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;114</span> <br /> おお、ありがとう。参考になりましたm(_ _)m <br /> PS:今まで食料品と同じ感覚で家電も奥から取ってたよorz </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">122: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/09(月) 20:41:03.01 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 値段にうるさい客きたらどう対処してる？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">125: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/09(月) 21:44:58.08 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;122</span> <br /> カカクコムの最安値より安くしろ系の交渉はもう飽きたね笑 <br /> 販売員なら誰でも嫌な接客だよ。 <br /> 最近では量販の価格が価格コムに勝てないのを知ってて交渉に来る客がいるが、 <br /> 価格コムに近い価格を提示すればすんなり店で買ってくケースがある。 <br /> おれはそれを知ってるから、価格コムの話をして来たお客には精一杯の価格を提示するよ。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">129: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/09(月) 22:17:55.41 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> ケーズデンキのネットのショップで6000円で売ってて <br /> 近所のケーズの実店舗だと定価で8000円で売ってた。 <br /> こういうのは値引き交渉出来るんですかね？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">130: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/09(月) 22:23:30.10 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;129</span> <br /> できない場合がほとんどだよ。 <br /> そのパターンはよくあるけど、 <br /> ネットの価格と店頭価格が違うのはどこの量販も同じだね。 <br /> なぜと聞かれると、マーケットに詳しい人じゃなきゃ説明できない。 <br /> 販売員レベルの人で正確に答えることはできないのではないかな。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">179: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/16(月) 18:42:07.62 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;129</span> <br /> 近くのケーズはネットでの価格を提示しても、ほとんどスルーだけど、 <br /> そこから車で15分くらいの所にあるケーズは、同じとまではいかなくても <br /> 限りなく近づけてくれる。店舗によっても違うんだなぁと思った。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">131: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/09(月) 22:37:25.63 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> そうですか・・・ <br /> 今日たまたま欲しいものがあって店いったら定価販売で買うの止めてネットで <br /> 探してたら安かったんで明日行こうと思ったけど、止めておきます。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">132: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/09(月) 22:49:28.34 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#800080;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;131</span> <br /> そこで<span  style="color: mediumblue;" class="anchor">&gt;&gt;131</span>に聞きたい。 <br /> 一度店行って買うのをやめ、 <br /> ネットで安いところを見つけたところまではよいが、 <br /> そこで再びまた店に足を運ぶ理由は一体なんだ？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">135: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/10(火) 03:20:29.32 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;132</span> <br /> すぐに使いたかったものでネットだと週末まで手に入らないのが・・・ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">139: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/10(火) 08:12:38.26 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#800080;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;135</span> <br /> 完全に店の作戦にのせられてるじゃないか。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">143: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/10(火) 12:45:46.13 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;135</span> <br /> すぐ手に入るのは大きなメリットだね。 <br /> 販売員からすると、在庫切れの場合はもうどうがんばっても売れないよ。 <br /> だって取り寄せ注文するくらいならネットで買うわってなるでしょう。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">133: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/10(火) 02:40:41.51 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 好きな家電メーカはどこですか？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">141: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/10(火) 12:40:39.63 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;133</span> <br /> 大手ならソニーが好きだね。 <br /> ＴＶとかウォークマンとかレコーダーとかカメラとか、新製品が出るたびに、わくわくするね。 <br /> ソニーってすごくデザイン重視だと思わない？？あの美しいフォルムにはいつも惹かれるよ。 <br /> しかも新製品発表会に出席するとおいしいカツサンドと非売品のＳＯＮＹロゴの入ったアクセサリーとかがもらえたり、 <br /> 販売店の社員に対しての心遣いもあるんだ。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">145: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/10(火) 13:04:26.87 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;141</span> <br /> なんでソニータイマーって都市伝説ができたんだろうね <br /> その話がある割に70過ぎた俺の親父はソニーを信頼してて、シャープはあくまで三流扱いしてる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">147: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/10(火) 13:13:00.82 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;145</span> <br /> ソニータイマーって話あったねｗ <br /> お客が要望の予算で、求める機能やスペックがちょうどいいＳＯＮＹのレコーダーがあったからすすめたら、 <br /> 「え、ソニー壊れない？？ソニタイマーって言われてたでしょｗ」 <br /> って言われることあるよ。でもお客は自分でそんなこと言っておいて普通に買っていくけどねｗ <br /> ソニー側の見解としては「意図的に故障するように設計した覚えは無い」とのことだけど、 <br /> 修理のサービス料ってものすごい利益がのってるから、メーカ側としては修理したい気持ちもわかる。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">134: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/10(火) 02:41:16.37 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 三洋は好きでしたか？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">142: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/10(火) 12:41:40.33 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;134</span> <br /> 三洋は特に好きではないかな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">136: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/10(火) 03:54:27.11 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;1</span>はヨドの人かな。ヨドは大手の中では一番値切り渋るね。 <br /> お上にお伺いたてる時間も長い。設置はまあ丁寧。 <br /> ヤマダは早いけど「他行くなよ!?」みたいな圧力かけてくる。仕事は少し雑で自社サービスの勧誘がカルト臭い。 <br /> ビックはそれぞれの中間。 <br /> と勝手に思ってる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">144: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/10(火) 12:53:56.21 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;136</span> <br /> どの法人の社員だったかは言えないが、 <br /> ヤマダの社員は上に相談して値引きしてでもその場で売らないと、 <br /> フロアの責任者に監視されてるから <br /> 「なんでいまのお客は買って行かなかったんだ？値段で納得してないならなんでおれのとこに相談にこない？在庫無いのが理由なら、いまある商品に誘導したのか？」 <br /> って感じで罵倒されてるからなかなかかわいそうだよ。上からのものすごい激詰めに彼ら耐えてるわ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">146: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/10(火) 13:05:32.14 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;136</span> <br /> ヨドは感じがいいな、商品に詳しい販売員が多いと思う。 <br /> ヤマダは仕事は雑で、教育制度もあまりしっかりしてないし、素人の販売員も多い気がする。 <br /> でも在庫を聞いたらだいたい走って調べに行ってくれたから少し印象良い。 <br /> ビックは余裕で歩いて確認しにいく余裕さで、暗い社員が多いなぁ。 <br /> 実は内部はすごくて、上下関係がはげしく、軍隊のようなイメージだなおれは。 <br /> 一番働きやすくストレスを感じなかった量販はケーズだな。 <br /> 店長でさえ常に売り場に出て接客に励み、販売員はみんないい笑顔をするしやさしい。 <br /> おれが始めてケーズで仕事をすることになったとき、本当にびっくりしたね、こんな家電量販店があったのかと。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">140: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/10(火) 08:59:19.72 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> ケーズは感じのいい女性の店員さんがいたので、 <br /> 以後1万円を超える電化製品を店頭で買うときはその人で指名買いしているんだが <br /> ほぼ納得できるぐらいの価格に一発で値引きしてくれる <br /> 後で知ったがその人フロアの部長さんだった <br />  <br /> 店頭買いは、大きな裁量権を持っている感じのいい人を見つけることが大事だと思う </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">148: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/10(火) 14:16:16.50 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 今ついてるBSのアンテナがかなり古いやつなんだけど、そのせいか降雨でよく映らなくなる。新しいアンテナに変えたら改善するのかな？ <br /> ちなみにアンテナはTDKの98年製 <br /> ケーブルは引っ越した時に変えてあって古くない。 <br /> ググってもサイズに関する情報しかなかったもので、よろしくお願いします。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">149: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/10(火) 15:27:45.79 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;148</span> <br /> アンテナレベルを調べるといいよ。 <br /> まずケーブルの差しなおしをして、レベルの変化を見る。 <br /> ＴＶの設定メニューから衛星からの受信レベルが見れるから、８０より下なら、 <br /> 降雨でレベル落ちたときに最低の許容レベルを下回ってしまい映らなくなっていると思う。 <br /> よってアンテナ方向調整をするといい。 <br /> ２人での作業するなら、一人がアンテナの方向調整をして、もう一人がテレビの前でレベルを見ながら携帯でレベルの変なｋを教えながら調整する。 <br /> ＴＶとアンテナが近くなら、自分で画面見ながらやる。 <br /> 一人でやるなら、携帯を２個用意して通話状態にする。ＴＶの受信レベルの画面でビープ音をＯＮにして、携帯ひとつをＴＶのスピーカの近くに置いて、 <br /> もうひとつの携帯を持ってアンテナ方向を調整しながらビープ音の変化を頼りに調整する。 <br /> 改善しなかったら、アンテナ交換だね。 <br /> 衛星放送の受信問題では、多くのお客のトラブルを解決してきたが、 <br /> いままで接客した経験を頼りにすると、ＢＳアンテナの耐用年数はおおよそ１３～１５年と認識してる。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">150: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/10(火) 17:57:05.52 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 食品はどこの店で買ってる？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">157: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/10(火) 23:57:57.30 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;150</span> <br /> イオンで買ってる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">153: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/10(火) 19:44:17.48 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 白物家電はどのメーカが一番売れていますか？ <br /> 白物家電で品質がいいメーカーはどこですか？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">156: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/10(火) 23:13:44.27 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;153</span> <br /> 物によります </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">154: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/10(火) 19:48:24.39 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> ４ｋテレビは売れてる？ <br /> やっぱりプラズマはほとんど売れない？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">158: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/10(火) 23:59:51.35 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;154</span> <br /> ４Ｋテレビは滅多に売れないなぁー、どっかの社長さんとかが別荘とかに設置するって言って <br /> 買おうとしてるとこは見たことあるけど。 <br /> 売れた日には、店長から絶賛されると思う。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">155: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/10(火) 20:12:16.76 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 家電製品はどこの電気屋で買っていますか？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">159: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/11(水) 00:00:36.01 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;155</span> <br /> おれはヨドバシが好きだからヨドバシで買う </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">163: <span  style="color: rgb(124, 199, 84);">91</span> <span  style="color: gray;"> 2013/09/11(水) 01:29:23.50 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 忘れちゃいけない <br />  <br /> エネループ <br />  <br /> 電池の革命児だよね </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">164: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/11(水) 02:02:28.56 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;163</span> <br /> そうだ、それをすっかり忘れていたエネループ。 <br /> あの商品にはよくお世話になったなぁ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">167: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/11(水) 16:44:25.85 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 愛用しているお気に入りの家電を教えてください </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">169: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/09/11(水) 17:50:32.64 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;167</span> <br /> キヤノンのEOS60Dです。18-135のレンズを使ってます。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">182: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/10/07(月) 16:58:56.15 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 年収いくらくらい貰ってますか？  <br /> 家電販売店ってよく派遣スタッフを募集してるけど、派遣スタッフと付き合ったりとかあるんでしょうか…。  <br />  <br /> 全く関係ない話ですか、婚活相手が家電販売店に勤めてるので気になります。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">183: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/10/07(月) 22:09:17.83 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;182</span> <br /> 一部上場なら、会社情報でわかるよ <br /> ま、期待するな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">184: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/10/07(月) 23:45:52.72 </span></span></div>
+<div  class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;183</span>  <br /> ありがとうございます。 <br /> 300万～400万くらいですね…。 <br /> 歩合制のようなのでちょっと不安だな。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">185: <span  style="color: rgb(124, 199, 84);">目のつけ所が名無しさん</span> <span  style="color: gray;"> 2013/10/09(水) 16:22:17.30 </span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> カカクコムの社員だが楽天・amazon・価格.などの安い順位は価格破壊起こらない程度 <br /> にある一定の設定が存在する。それを下回るお店存在する！ただ教えられない以上！！ </div><br />
+<br />
+<p  style="color:gray;text-align:right;"><span  style="font-size: 81.25%;">引用元： <a  href="http://lavender.5ch.net/test/read.cgi/kaden/1378360262/" target="_blank">http://lavender.5ch.net/test/read.cgi/kaden/1378360262/</a></span></p>
+<br />
+
+</div>
+                        
+<!-- タグのリスト表示セット -->
+                        </div>
+<br>
+
+
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=2Z8HPD+9K4KFM+34FI+NUES2" alt="">
+                    </div>
+                    <!-- 記事本文 ここまで-->
+
+
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HV7V6" alt="">
+
+
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www26.a8.net/svt/bgt?aid=190821728180&wid=001&eno=01&mid=s00000011866017004000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" alt=""></td>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+3257OY+3Y6M+601S1" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www24.a8.net/svt/bgt?aid=190821728185&wid=001&eno=01&mid=s00000018427001008000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=35LYZK+3257OY+3Y6M+601S1" alt=""></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+
+
+                    <!-- 記事フッター、コメント、ソーシャルボタン -->
+                    <footer class="article-footer">
+                        <div class="article-footer-comment">
+                            
+                                <a href="http://pathtimeblog.com/archives/9891791.html#comments">0コメント</a>
+                            
+                        </div>
+                        <div class="article-social-btn">
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HVFKY" alt="">
+
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/9891791.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/9891791.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="家電量販店の店員だけど質問ある？ - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=%E5%AE%B6%E9%9B%BB%E9%87%8F%E8%B2%A9%E5%BA%97%E3%81%AE%E5%BA%97%E5%93%A1%E3%81%A0%E3%81%91%E3%81%A9%E8%B3%AA%E5%95%8F%E3%81%82%E3%82%8B%EF%BC%9F%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/9891791.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/9891791.html" data-text="家電量販店の店員だけど質問ある？ - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F9891791.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                        </div>
+                    </footer>
+                    <!-- /記事フッター、コメント、ソーシャルボタン -->
+
+
+                    <!-- カテゴリの最新記事表示 はじまり-->
+                    <div class="article-sub-category">
+                        <div id="ldblog_related_articles_3b0e6faf">
+
+<div class="related-articles ldblog_related_articles_3b0e6faf" data-category-id="160360" data-article-rows="5">
+<h3>「食品・小売」カテゴリの最新記事</h3>
+<ul id="ldblog_related_articles_3b0e6faf_160360"></ul>
+</div>
+</div>
+<script type="text/html" id="ldblog_related_articles_3b0e6faf_tmpl">
+<% for(var i=0,l=articles.length;i<l;i++) {%><% if(i>=rows) break; %>
+<li><a href="<%=articles[i].permalink%>"><%=articles[i].title%></a></li>
+<% } %>
+</script>
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/related_articles.js?t=20180221"></script>
+<script type="text/javascript">
+(function(){
+RelatedArticles.load('ldblog_related_articles_3b0e6faf', '9891791');
+})();
+</script>
+<!-- 関連記事の表示 -->
+                    </div>
+                    <!-- /カテゴリの最新記事表示 ここまで-->
+
+
+
+
+                    <div id="ad2"></div><!-- 広告表示 -->
+
+                    <!-- 記事オプション はじまり-->
+                    <div class="article-option" id="article-options">
+
+                        <!-- コメントエリア　はじまり -->
+                        
+                        <section id="comments">
+                        
+                        <h1 class="comment-form-title">コメントする</h1>
+<div class="article-option" id="comment-form">
+    <form
+      action="https://comment.blogcms.jp/livedoor/shukatu2ch/9891791/post"
+      method="post"
+      name="comment_form"
+          id="comment-form-body"
+      onsubmit="setCommentAuthor(this); return submitOnce(this.button);"
+    >
+    <fieldset>
+        <legend>コメントフォーム</legend>
+    <dl class="comment-form-author">
+        <dt><label for="comment-form-author">名前</label></dt>
+        <dd id="comment-author-form"><input type="text" class="text" id="comment-form-author" name="author" required="required" value="" /></dd>
+    </dl>
+  <dl class="comment-form-body">
+    <dt><label for="comment-form-textarea">コメント</label></dt>
+    <dd>
+      <textarea id="comment-form-textarea" name="body" rows="7" required="required"></textarea>
+      <div id="comment-form-tools">
+        <span class="facemark"><a href="javascript:void(0);" id="emojiLink1" onClick="showEmojiPanel(this.id, 'comment-form-textarea')"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/icon_facemark.png" /></a></span>
+        <span class="rating">
+                    <input type="hidden" name="rating" value="">
+                    <input type="hidden" name="rating_icon" value="star">
+                    <div class="rating-value">
+                        <span id="default-rating-value">評価する</span>
+                        <div class="caret"><span></span></div>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/face/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/face/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/face/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/face/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/face/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/star/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/star/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/star/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/star/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/star/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                    </div>
+                    <div class="rating-icon">
+                        <div data-value="face">顔</div>
+                        <div class="selected" data-value="star">星</div>
+                    </div>
+        </span>
+        <span class="submit"><button type="submit">投稿する</button></span>
+        <span class="memorize"><label for="bake"><input type="checkbox" id="bake" name="cookie" /> 情報を記憶</label></span>
+      </div>
+    </dd>
+  </dl>
+  </fieldset>
+  </form>
+  <script type="text/javascript" src="https://parts.blog.livedoor.jp/js/comment.0.2.js?v=20130430"></script>
+  <script type="text/javascript">
+    loadCommentAuthor(document.comment_form);
+    ldblogComment.init();
+  </script>
+<!-- /#comment-form --></div><!-- コメント投稿フォーム -->
+
+
+                        </section>
+                        
+                        <!-- コメントエリア　ここまで -->
+
+
+                        <!-- トラックバック受け付け　はじまり -->
+                        
+                        <!-- トラックバック受け付け　ここまで -->
+
+                    </div>
+                    <!-- 記事オプション ここまで-->
+
+                </article>
+                <!-- 記事　ここまで -->
+
+
+                <!-- ページ送り はじまり-->
+<!-- Article Pager // -->
+  <div class="pager article-pager-type2">
+    <div class="pager-inner">
+    <div class="article-pager-outer">
+    <ul class="article-pager"><li class="prev"><a href="http://pathtimeblog.com/archives/9902496.html" title="【朗報】ワイ4留大学生、ついに卒業【NNT】">&nbsp【朗報】ワイ4留大学生、ついに卒業【NNT】</a></li><li class="next both"><a href="http://pathtimeblog.com/archives/9893851.html" title="転職活動ワイ、内定辞退すると言ったらなぜかパッパに怒られる">転職活動ワイ、内定辞退すると言ったらなぜかパッパに怒られる&nbsp</a></li>    </ul>
+    </div>
+    </div>
+  </div>
+<!-- // Article Pager -->
+
+                <!-- /ページ送り ここまで-->
+
+            </div><!-- /main-column-inner-->
+        </div>
+        <!-- コンテンツの箱の中　真ん中728px ここまで-->
+
+
+        <!-- コンテンツの箱の中　左側200px はじまり-->
+        <aside class="left-container">
+            <div class="left-column-inner">
+            
+
+
+
+<div class="plugin-popular_articles sidewrapper">
+  <div class="sidetitlebody">
+    <div class="sidetitle">人気記事</div>
+  </div>
+  <div class="sidetop"></div>
+  <div class="side">
+
+
+    <div class="popular-articles">
+      <table id="populararticles-472933"></table>
+      <div class="popular-articles-freearea"></div>
+    </div>
+  </div>
+
+  <div class="sidebottom"></div>
+</div>
+
+<script type="text/javascript" language="javascript"><!--
+(function(){
+  var url = 'http://pathtimeblog.com/archives/popular_articles.json'
+         + '?rangetype=custom'
+         + '&from=0'
+         + '&range=13'
+         + '&limit=50'
+         + '&offset=0'
+         ;
+
+  var callback = function(data) {
+    var table = document.getElementById('populararticles-472933');
+    for (i = 0; i < data.articles.length; i++) {
+      var rank = i + 1;
+      var prefix = 'populararticles-472933-'+ rank;
+
+      var row = table.insertRow(-1);
+      var elm1 = row.insertCell(-1);
+      elm1.className = 'populararticles-rank';
+      elm1.innerHTML = '<span><b>' + rank + '</b></span>';
+      var elm2 = row.insertCell(-1);
+      elm2.className = 'populararticles-title';
+      elm2.innerHTML = '<a href="' + data.articles[i].url + '?ref=popular_article&id=7836571-472933">' + data.articles[i].title + '</a>'
+      ;
+
+    }
+  };
+
+  var xhr = (function () {
+      if (window.XMLHttpRequest)
+        return new XMLHttpRequest();
+      else {
+        var msxml = [
+          "Msxml2.ServerXMLHTTP.6.0", "Msxml2.ServerXMLHTTP.5.0", "Msxml2.ServerXMLHTTP.4.0", "Msxml2.ServerXMLHTTP.3.0",
+          "Msxml2.ServerXMLHTTP", "Microsoft.ServerXMLHTTP", "Msxml2.XMLHTTP.6.0", "Msxml2.XMLHTTP.5.0",
+          "Msxml2.XMLHTTP.4.0", "Msxml2.XMLHTTP.3.0", "Msxml2.XMLHTTP", "Microsoft.XMLHTTP"
+        ];
+        for (var i = 0; i<msxml.length; i++ ){
+          try {
+            return new ActiveXObject(msxml[i]);
+          }
+          catch(e) { }
+        }
+        return null;
+      }
+  })();
+    
+  if (!xhr) return;
+  xhr.open('GET', url, true);
+  xhr.onreadystatechange = function () {
+    if (xhr.readyState == 4 && xhr.status == 200) {
+      eval('var ld_popular_articles_json = ' + xhr.responseText);
+      callback(ld_popular_articles_json);
+    }
+  };
+  xhr.send();
+
+})();
+//-->
+</script>
+
+<div class="plugin-recent_articles sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">最新記事</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27108137.html">21卒就活生ワイ、内定辞退でしこたま怒鳴られる</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/10257766.html">ニートって難しい資格取って仕事探そうとするけどさ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839910.html">【学歴フィルター】企業にとっての一流大学とは？【就職偏差値】</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839719.html">ワイニート歴2年、就職して初年度の年収500万円！！！！</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073431.html">あ、面接落ちたなってフラグ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073465.html">【悲報】上級国民大手企業様「下請けに仕事やらせてガッポリ中抜きｗ」→夏ボーナス92万5947円</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27075072.html">ワイ21卒、会社選びを間違ってしまったと後悔する</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027071.html">【悲報】キャリア採用の銀行員ワイ、周囲の人間があまりにも有能すぎてマジでドン引き……………………</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27063977.html">【速報】大学、終わる。　Googleが大卒資格を得られるコースを提供へ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027029.html">教師「Ｆ欄ＯＫです、公務員です、毎日定時で帰れます、年収700万です」←こいつが馬鹿にされる理由ｗ</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-recent_articles -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「A」設定のブログパーツ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　左側200px ここまで-->
+
+
+        <!-- コンテンツの箱の中　右側200px はじまり-->
+        <aside class="right-container">
+            <div class="right-column-inner">
+            
+
+
+
+<div class="plugin-categorize sidewrapper" id="plugin-categorize-457691">
+    <div class="sidetitlebody">
+        <div class="sidetitle">カテゴリー</div>
+    </div>
+    <div class="sidetop"></div>
+    <div class="side">
+
+
+      
+
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160301.html">就活準備 (243)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161699.html">自己分析 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161700.html">企業・業界研究 (66)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155971.html">資格 (39)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155966.html">選考 (254)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155977.html">インターン (23)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155978.html">説明会 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155975.html">ES (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155976.html">SPIなど (7)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155974.html">面接 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155972.html">内定 (222)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160304.html">NNT(無内定) (68)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160302.html">内定後・入社前 (110)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160308.html">アドバイス (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160460.html">入社後 (924)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220065.html">新卒 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220063.html">上司 (95)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_219473.html">社会人生活 (299)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160474.html">ブラック企業 (65)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160303.html">転職 (175)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163214.html">副業 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220667.html">収入 (102)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_299497.html">採用担当 (3)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_318465.html">第二新卒 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161711.html">学生生活 (46)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163247.html">浪人・留年 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155967.html">学歴 (119)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_223545.html">ニート (38)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155969.html">業界別 (314)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156035.html">金融 (34)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156099.html">建築・不動産 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160357.html">物流・運送 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160358.html">IT・メディア (55)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160359.html">エネルギー・資源 (1)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160310.html">自動車・機械 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160360.html">食品・小売 (14)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160311.html">公務員・準公務員 (89)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160356.html">サービス (21)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160473.html">その他 (42)</a>
+          
+        </div>
+        
+    
+        
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160476.html">その他 (472)</a>
+          
+        </div>
+        
+    
+    
+
+    </div>    
+    <div class="sidebottom"></div>
+</div><!-- // plugin-categorize -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+<a href="//blog.with2.net/link/?1955545"><img src="https://blog.with2.net/img/banner/banner_21.gif" title="人気ブログランキング"></a><br><a href="//blog.with2.net/link/?1955545" style="font-size: 0.8em;">人気ブログランキング</a>
+
+<div class="plugin-link sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">リンク集</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://0matome.com/" target="_blank">おまとめ</a></div>
+
+<div class="sidebody"><a href="http://2chnavi.net/allentries/?threshold=0" target="_blank">2chnavi</a></div>
+
+<div class="sidebody"><a href="http://http://iwashi.biz/" target="_blank">いわしアンテナ &gt;°))))彡</a></div>
+
+<div class="sidebody"><a href="http://2ch-2.net/" target="_blank"> つーアンテナ(*ﾟ∀ﾟ)</a></div>
+
+<div class="sidebody"><a href="https://ii-antenna.net/?about" target="_blank">いーあんてな(#ﾟｗﾟ)</a></div>
+
+<div class="sidebody"><a href="https://2ch-mi.net/" target="_blank">みーアンテナ（´∀｀）</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-link -->
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">検索</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="https://cse.google.com/cse.js?cx=014565878756483497884:urusxdcjffe"></script>
+<div class="gcse-search"></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「B」設定のブログパーツ表示 -->
+            
+<!-- LDR・RSSリンクとブログのロゴ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　右側200px ここまで-->
+
+        <!-- このページのトップヘ　はじまり -->
+        <p class="to-pagetop"><a href="#"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/to_pagetop.png" width="70" height="70" alt="このページのトップヘ" /></a></p>
+        <!-- このページのトップヘ ここまで -->
+
+    </div>
+    <!-- コンテンツ全体 ここまで-->
+
+    <!-- ブログのフッター はじまり-->
+    <footer id="blog-footer">
+    <!-- Blog Common Footer // --><div id="footer"><p>Powered by <a href="http://blog.livedoor.com/" title="ライブドアブログ">ライブドアブログ</a></p></div><!-- // Blog Common Footer --><!-- 共通フッター表示 -->
+    </footer>
+    <!-- /ブログのフッター ここまで-->
+
+</div>
+<!-- コンテンツエリア ここまで-->
+
+
+<!-- Add Body Tag // --><script type="text/javascript">
+(function(){
+  var traq = document.createElement('script'); traq.type = 'text/javascript'; traq.async = true;
+  traq.src = 'https://t.blog.livedoor.jp/u.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(traq, s);
+})();
+</script>
+<noscript>
+<img src="https://t.blog.livedoor.jp/u.gif" alt="traq">
+</noscript>
+<!-- // Add Body Tag -->
+
+<script>
+(function($) {
+  var cookieName = 'livedoor-blog-gdpr-agreed';
+  $(document).ready(function() {
+    if (navigator.userAgent.match(/https?:\/\//)) {
+      // UA に http:// or https:// があればスルー
+      return;
+    }
+
+    var agreed = document.cookie.indexOf(cookieName) >= 0;
+    if (agreed) {
+      // 同意済み Cookie があればスルー
+      return;
+    }
+
+    var banner = $('<div>');
+    banner.attr('id', 'gdpr-banner');
+    var label = $('<p>');
+    label.html('\
+      ライブドアブログでは広告のパーソナライズや効果測定のためクッキー(cookie)を使用しています。<br>\
+      このバナーを閉じるか閲覧を継続することでクッキーの使用を承認いただいたものとさせていただきます。<br>\
+      また、お客様は当社パートナー企業における所定の手続きにより、クッキーの使用を管理することもできます。<br>\
+      詳細は<a href="http://www.livedoor.com/rules/" target="_blank" style="color:#023780;text-decoration:underline;">ライブドア利用規約</a>をご確認ください。\
+    ');
+    banner.append(label);
+
+    var closeButton = $('<button>');
+    closeButton.attr('type', 'button');
+    closeButton.html('閉じる');
+    closeButton.on('click', function() {
+      $('#gdpr-banner').hide();
+      document.cookie = cookieName + '="1";expires=Tue, 31-Dec-2037 00:00:00 GMT;path=/;';
+    });
+    banner.append(closeButton);
+
+    banner.css({
+      'position': 'fixed',
+      'left': '0',
+      'right': '0',
+      'bottom': '0',
+      'background': '#dcdcdc',
+      'color': '#000',
+      'padding': '20px',
+      'text-align': 'center',
+      'box-shadow': '0 -2px 2px rgba(102, 102, 102, 0.86)',
+      'z-index': '2147483647',
+    });
+    label.css({
+      'display': 'inline-block',
+      'text-align': 'left',
+      'font-size': '14px',
+      'color': '#000',
+      'vertical-align': 'middle',
+      'line-height': '1.5',
+    });
+    closeButton.css({
+      'display': 'inline-block',
+      'color': '#fff',
+      'border': 'none',
+      'font-size': '14px',
+      'padding': '4px 40px',
+      'margin-left': '40px',
+      'background': '#535353',
+      'vertical-align': 'middle',
+    });
+
+    var script = document.createElement('script');
+    script.type = "text/javascript";
+    script.src = "https://ipcheck.blogsys.jp/check.js?t=" + Date.now();
+    script.onerror = function() {
+      $('body').append(banner);
+    };
+    document.body.appendChild(script);
+  });
+})(jQuery);
+</script>
+</body>
+</html>

@@ -1,0 +1,1923 @@
+<!DOCTYPE html>
+<html lang="ja" itemscope itemtype="http://schema.org/Blog">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=1190">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" /><link rel="shortcut icon" type="image/vnd.microsoft.icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/favicon.ico" /><link rel="icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/3ab45ab0.jpg" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/template.css?v=20190826" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/heart.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/icon.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="http://pathtimeblog.com/site.css?_=20190831163247" type="text/css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://pathtimeblog.com/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://pathtimeblog.com/atom.xml" /><link rel="canonical" href="http://pathtimeblog.com/archives/9548207.html" /><link rel="openid.server" href="http://auth.livedoor.com/openid/server" /><link rel="openid.delegate" href="http://profile.livedoor.com/shukatu2ch/" />
+<link rel="mixi-check-alternate" media="mixi-device-mobile" type="text/html" href="http://blog.m.livedoor.jp/shukatu2ch/article/9548207" />
+<link rel="mixi-check-alternate" media="mixi-device-smartphone" type="text/html" href="http://pathtimeblog.com/archives/9548207.html" />
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/jquery-1.11.1.min.js"></script>
+
+<meta name="description" content="1: 就職戦線異状名無しさん  2018/05/12(土) 22:56:52.62 ID:i6DG4yT4
+ 出来ればメーカーで 
+" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="お前らが知ってる隠れ優良企業紹介して去れ 	 : 2ch就活まとめ" />
+<meta property="og:description" content="1: 就職戦線異状名無しさん  2018/05/12(土) 22:56:52.62 ID:i6DG4yT4 出来ればメーカーで " />
+<meta property="og:url" content="http://pathtimeblog.com/archives/9548207.html" />
+<meta property="og:site_name" content="2ch就活まとめ" />
+<meta property="og:locale" content="ja_JP" />
+<meta property="og:image" content="https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png" />
+
+<meta name="twitter:site" content="@2chshukatu" />
+<meta name="twitter:title" content="お前らが知ってる隠れ優良企業紹介して去れ 	 : 2ch就活まとめ" />
+<meta name="twitter:description" content="1: 就職戦線異状名無しさん  2018/05/12(土) 22:56:52.62 ID:i6DG4yT4 出来ればメーカーで " />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image:src" content="https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png" />
+<link rel="alternate" media="handheld" type="application/xhtml+xml" href="http://blog.m.livedoor.jp/shukatu2ch/" />
+
+<title>お前らが知ってる隠れ優良企業紹介して去れ 	 : 2ch就活まとめ</title>
+<script src="https://parts.blog.livedoor.jp/js/emoji.js"></script>
+<script src="https://parts.blog.livedoor.jp/js/misc.js?v=20190710"></script>
+<!--[if lt IE 9]>
+<script src="https://parts.blog.livedoor.jp/js/html5.js"></script>
+<![endif]-->
+<script src="https://parts.blog.livedoor.jp/js/usr/import.js"></script>
+<script>
+$(function(){
+  if($('.header-inner01').children('#blog-header-image').length) {
+    $(window).bind('load', function() {
+      var title1 = $('#blog-header-image').height();
+      var title2 = $('.header-menu').height();
+      var headerHeight = title1-title2-15;
+      $("hgroup").css("height", headerHeight);
+    });
+  }
+});
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-3064778048578600",
+          enable_page_level_ads: true
+     });
+</script>
+
+<!-- Add Google Analytics Tag // -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-113178806-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- // Add Google Analytics Tag -->
+
+
+<meta name="referrer" content="always">
+<meta name="referrer" content="unsafe-url">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1638469-45"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+var blogId = '';
+if (blogId) {
+  gtag('config', 'UA-1638469-45', {
+    'custom_map': {'dimension1': 'blog_id'},
+    'blog_id': blogId
+  });
+} else {
+  gtag('config', 'UA-1638469-45');
+}
+</script>
+
+</head>
+<body class="default_2012 page-article layout-2col sidebar-right"><script type="text/javascript"><!--
+var ld_blog_vars = {
+  provider_id : '1',
+  provider_name : 'livedoor',
+  id : '7836571',
+  name : 'shukatu2ch',
+  charset : 'utf8',
+  url : 'http://pathtimeblog.com/',
+  title : '2ch就活まとめ',
+  blog_design: {
+      version: 1
+  },
+  blog_category: {
+    id: '243',
+    permalink: 'https://blog.livedoor.com/category/243/',
+    name: 'まとめ(総合) > まとめ',
+    is_adult : 0,
+    is_gambling : 0,
+    hierarchy: [{ id: '431', name: 'まとめ(総合)', permalink: 'https://blog.livedoor.com/category/431/' },{ id: '243', name: 'まとめ', permalink: 'https://blog.livedoor.com/category/243/' }]
+  },
+  current_page : {
+    type : 'article',    page : ''
+  },
+  articles : [ {
+       id : '9548207',
+       permalink : 'http://pathtimeblog.com/archives/9548207.html',
+       title : 'お前らが知ってる隠れ優良企業紹介して去れ \t',
+       categories : [ { id:'161700', name:'企業・業界研究', permalink:'http://pathtimeblog.com/archives/cat_161700.html' }, { id:'', name:'', permalink:'' } ],
+       date : '2018-05-26 15:00:59'
+}   ]
+};
+//-->
+</script><div id="analyzer_tags" style="display:none">
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/c2.js?v=20191010"></script>
+<script type="text/javascript">blog_counter('shukatu2ch', 7836571, 'http://pathtimeblog.com/')</script>
+</div><script type="text/javascript" src="https://parts.blog.livedoor.jp/js/smartphone.js?v=20200824"></script>
+<script type="text/javascript" src="http://pathtimeblog.com/settings/header.js?v=20190705"></script><script type="text/javascript" src="http://pathtimeblog.com/settings/ad.js"></script>
+<script type="text/javascript">
+var palette_src = 'https://parts.blog.livedoor.jp/img/emoji/3/palette.png';
+if (typeof IMAGE_CACHE == 'object' && IMAGE_CACHE['emoji_palette']) IMAGE_CACHE['emoji_palette'].src = palette_src;
+</script>
+
+<!-- Blog Common Header // -->
+<!-- // Blog Common Header -->
+<!-- 共通ヘッダー表示 -->
+
+<!-- ブログタイトル はじまり-->
+<header id="blog-header">
+
+    <div id="blog-header01">
+
+        <div class="header-inner01 show-image hide-text">
+
+            <hgroup>
+                <!--ブログタイトル　はじまり-->
+                <h1 id="blog-title"><a href="http://pathtimeblog.com/">2ch就活まとめ</a></h1>
+                <!--ブログタイトル　ここまで-->
+                <!--ブログ説明　はじまり-->
+                <h2 id="blog-description">新卒・転職・社会人生活などを含め、就活・就職に関することをまとめてます。</h2>
+                <!--ブログ説明　ここまで-->
+            </hgroup>
+
+            <a href="http://pathtimeblog.com/"><img src="https://resize.blogsys.jp/727db0f9da9f42eb7d26b703338c30b3eef0157c/trim2/0x243_94p_1200x388/http://livedoor.blogimg.jp/shukatu2ch/imgs/0/5/055bbafe.jpg" id="blog-header-image" /></a>
+
+            <div id="blog-header02">
+                <div class="header-inner02">
+                    <ul class="header-menu">
+                        <li><a href="http://pathtimeblog.com/">HOME</a></li><!--メニューを入れてください-->
+                        <li class="ldb_menu-item-url"><a href="http://blog.livedoor.jp/shukatu2ch/archives/6126504.html">ABOUT</a></li><!--メニューを入れてください-->
+                        <li><a href="mailto:shukatumatome@gmail.com">お問い合わせ</a></li><!--メニューを入れてください-->
+                    </ul>
+                    <ul class="header-sarch">
+                        <li><a href="http://twitter.com"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_twitter.png" alt="Twitter" /></a></li><!--Twitter-->
+                        <li><a href="http://pathtimeblog.com/index.rdf"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_rss.png" alt="RSS" /></a></li><!--RSS-->
+                        <li>
+                        <form action="http://pathtimeblog.com/search" method="GET" style="padding:0;margin:0px;">
+                        <input type="TEXT" name="q" class="sf">
+                        <input type="SUBMIT" value="検索" class="sfbtn">
+                        </form>
+                        </li><!--検索窓-->
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</header>
+<!-- /ブログタイトル ここまで-->
+
+
+<!-- コンテンツエリア はじまり-->
+<div id="wrapper">
+
+    <!-- コンテンツ全体 はじまり-->
+    <div id="container">
+
+        <!-- 相互RSS はじまり-->
+        <div class="rss-blogroll">
+
+            <!-- 相互RSSを設置する場合の注意事項
+                コードに含まれる以下のCSSは外して設置してください
+                http://blogroll.livedoor.net/css/default2.css -->
+
+                 <!-- 相互RSSのコード ひとつ目-->
+            <script type="text/javascript">
+            <!--
+                   var blogroll_channel_id = 255242;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード ふたつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 265945;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード みっつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 255442;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href= />
+        </div>
+        <!-- 相互RSS ここまで-->
+
+        <!-- コンテンツの箱の中　真ん中728px はじまり-->
+        <div class="main-container">
+            <div class="main-column-inner">
+<br>
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+<br>
+                <!-- メッセージボード -->
+                 
+
+
+
+                <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://pathtimeblog.com/archives/9548207.html"
+    trackback:ping="http://trackback.blogsys.jp/livedoor/shukatu2ch/9548207"
+    dc:title="お前らが知ってる隠れ優良企業紹介して去れ 	"
+    dc:identifier="http://pathtimeblog.com/archives/9548207.html"
+    dc:subject="企業・業界研究"
+    dc:description="1: 就職戦線異状名無しさん  2018/05/12(土) 22:56:52.62 ID:i6DG4yT4 出来ればメーカーで "
+    dc:creator="shukatu2ch"
+    dc:date="2018-05-26T15:00:59+09:00" />
+</rdf:RDF>
+-->
+<div id="ad_rs" class="ad_rs_b"></div><!-- 記事のトラックバック・オートディスカバリー -->
+
+
+                <!-- 記事 はじまり-->
+                <article class="article first-article" itemscope itemtype="http://schema.org/BlogPosting">
+
+                    <!-- 記事タイトル　記事下の情報　はじまり-->
+                    <header class="article-header">
+
+                        <h1 class="article-title" itemprop="name"><a href="http://pathtimeblog.com/archives/9548207.html" itemprop="url">お前らが知ってる隠れ優良企業紹介して去れ 	</a></h1><!-- 記事のタイトル -->
+
+                            <!-- 記事下の記事情報 はじまり-->
+                            <div class="article-header-inner">
+
+                                <!-- 記事情報の上の行 はじまり-->
+                                <div class="article-header-top">
+                                <p class="article-header-date"><time datetime="2018-05-26T15:00:59+09:00" pubdate="pubdate">2018年05月26日</time></p>
+                                
+                                <ul class="article-header-category">
+                                    <li>
+                                        <dl><dt>カテゴリ:</dt><dd class="article-category1"><a href="http://pathtimeblog.com/archives/cat_161700.html">企業・業界研究</a></dd></dl>
+                                    </li>
+                                </ul>
+                                
+
+                                <!-- 記事の評価アイコン はじまり-->
+                                
+                                <!-- 記事の評価アイコン ここまで-->
+
+                                </div>
+                                <!-- 記事情報の上の行 ここまで-->
+                                <!-- ソーシャルボタン　はじまり -->
+                                <ul class="article-social-btn">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/9548207.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/9548207.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="お前らが知ってる隠れ優良企業紹介して去れ 	 - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=%E3%81%8A%E5%89%8D%E3%82%89%E3%81%8C%E7%9F%A5%E3%81%A3%E3%81%A6%E3%82%8B%E9%9A%A0%E3%82%8C%E5%84%AA%E8%89%AF%E4%BC%81%E6%A5%AD%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%A6%E5%8E%BB%E3%82%8C%20%09%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/9548207.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/9548207.html" data-text="お前らが知ってる隠れ優良企業紹介して去れ 	 - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F9548207.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                                </ul>
+                                 <!-- ソーシャルボタン　ここまで -->
+                            </div>
+                            <!-- 記事下の記事情報 ここまで-->
+
+                    </header>
+                    <!-- 記事タイトル　記事下の情報　ここまで-->
+
+
+
+                    <!-- 記事本文 はじまり-->
+                    <div class="article-body">
+                        <div class="article-body-inner">
+<!-- 参加している共通テーマの表示 -->
+                        <span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">1: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/12(土) 22:56:52.62 <i  style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:i6DG4yT4</i></span></span></div>
+<div  class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> 出来ればメーカーで </div><br />
+<!-- Generated by 2chまとめくす (http://2mtmex.com/) --><!-- 本文 --><div class="article-body-more" id="more"><span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">2: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/12(土) 23:04:29.21 ID:f7X0+xgZ</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 素直に教えろって言えやハゲ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">4: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/12(土) 23:11:10.21 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:i6DG4yT4</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;2</span> <br /> 教えて下さい </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">3: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/12(土) 23:05:45.75 ID:v1Gy+kU1</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ファナック </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">6: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/12(土) 23:11:47.80 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:i6DG4yT4</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;3</span> <br /> 隠れてないんじゃ！ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">5: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/12(土) 23:11:29.07 ID:LLJUqMXJ</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ヤマシンフィルタ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">7: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/12(土) 23:12:38.24 ID:RMETYAg0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ヤマト運輸 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">8: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/12(土) 23:12:41.44 ID:2MVRyIZm</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 日本ゼオン </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">9: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/12(土) 23:17:07.11 ID:LeLLuZtR</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ピラー工業 <br /> 四季報（普通の）には載ってないけど確か上場してて穴場 <br /> 半導体でバブってて&amp;#127814;10ヶ月 <br /> 勤務地がとても田舎 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">10: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/12(土) 23:19:54.27 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:i6DG4yT4</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;9</span> <br /> 半導体って未来あるか？ <br /> 軒並み海外メーカーにやられてる印象なんだが <br /> 技術も飽和状態だし </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">13: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/12(土) 23:51:22.21 ID:LeLLuZtR</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;10</span> <br /> 正確には <br /> 半導体製造装置の部品作ってる1000人くらいの会社やで <br /> 半導体製造装置業界も10年後にどうなってるか分からんし不安やけど </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">14: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/12(土) 23:55:38.66 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:i6DG4yT4</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;13</span> <br /> なるほど <br /> サンクス </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">11: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/12(土) 23:41:31.72 ID:FFa8wAgc</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ナブテスコ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">12: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/12(土) 23:47:38.37 ID:G+o3xBIC</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> マックス </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">15: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/12(土) 23:56:40.48 ID:MVHffW99</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ドコモ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">16: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/13(日) 00:05:17.64 ID:pPOc5nB6</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ネット銀行は転勤ないし雰囲気も良さそうね <br /> ソニー銀行 <br /> 住信SBI </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">17: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/13(日) 00:19:17.31 ID:amZ6a4LZ</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 俺も半導体だけどレーザーテック株式会社 <br />  <br /> 半導体検査装置作ってるトコで俺が投資してる株としては財務良し業績良し将来性良しで超優良銘柄 <br /> 流石に就職先としていいかどうかは知らん </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">18: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/13(日) 01:31:52.04 ID:wdP3jWAj</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#ffa500;margin-bottom:30px;margin-top:20px;" class="t_b"> アルプス電気とアルプス技研 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">19: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/13(日) 01:46:02.84 ID:ni1X1Gno</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 今の若い世代、年金はあまり期待できないのかねぇ <br /> 優良中小の銘柄買って老後とかにお金に困らないように出来たら万々歳 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">20: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/13(日) 06:54:36.59 ID:vGUaYkwm</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ここに載ってる中でワークライフバランスが優れているところがいいよ <br /> <a  target="_blank" href="http://nensyuu-research.com/hiddenbluechip-manufacturing-summary">https://nensyuu-research.com/hiddenbluechip-manufacturing-summary</a> <br />  <br /> トリニティ工業　　　　　　　【平均年齢】39.1歳　【平均年収】6,730千円  <br /> ＴＣＭ　　　　　　　　　　　【平均年齢】40.2歳　【平均年収】6,240千円  <br /> アイダエンジニアリング　 【平均年齢】41.8歳　【平均年収】6,810千円  <br />  <br /> ◆電気機器◆  <br /> エスペック　　　　　　　　　【平均年齢】39.2歳　【平均年収】6,770千円  <br /> ＨＩＯＫＩ　　　　　　　　　【平均年齢】39.9歳　【平均年収】7,040千円  <br /> 電気興業　　　　　　　　　　【平均年齢】40.4歳　【平均年収】6,490千円  <br /> 岩崎通信機　　　　　 　　　【平均年齢】40.6歳　【平均年収】6,840千円  <br /> ＩＤＥＣ　　　　　　　　　　【平均年齢】41.4歳　【平均年収】6,680千円  <br /> リオン　　　　　　　　　　　【平均年齢】43.9歳　【平均年収】7,390千円  <br />  <br /> ◆精密機器◆  <br /> エー・アンド・デイ 　　　　【平均年齢】40.8歳 【平均年収】7,220千円  <br />  <br /> ◆化学◆  <br /> エヌ・イーケムキャット 　【平均年齢】39.2歳　【平均年収】7,450千円  <br /> 東セロ　　　　　　　　　　　【平均年齢】38.7歳　【平均年収】6,550千円  <br /> 昭和高分子　　　　　　　 【平均年齢】40.0歳　【平均年収】7,240千円  <br /> 日本バルカー工業　　　 【平均年齢】40.4歳　【平均年収】6,740千円  <br /> 東京インキ　　　　　　 　【平均年齢】40.8歳　【平均年収】6,970千円  <br /> ＪＳＰ　　　　　　　　　　　【平均年齢】41.9歳　【平均年収】6,230千円  <br /> ニチバン　　　　　　　　　 【平均年齢】43.8歳　【平均年収】7,150千円 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">21: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/13(日) 08:13:39.62 ID:FwLweJez</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> アマダ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">22: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/13(日) 08:59:40.85 ID:LglvIC7b</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#ffa500;margin-bottom:30px;margin-top:20px;" class="t_b"> デンソーテクノ <br /> パーソル <br /> メイテック <br /> パソナ <br /> リクルートスタッフィング <br /> アルプス技研 <br /> テクノプロ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">53: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/13(日) 23:50:30.77 ID:djZ64bq6</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;22</span> <br /> 全部技術派遣なんだが </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">23: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/13(日) 09:17:21.00 ID:42JoSVQT</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 富士通 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">24: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/13(日) 10:23:10.04 ID:2Z9xb/ua</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ドコモ <br /> NHK </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">26: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/13(日) 11:49:05.08 ID:Elm0+N9A</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> スター精密  <br /> 工作機械の会社、年間休日130日超え、30歳で年収600万 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">27: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/13(日) 12:30:24.32 ID:ErBihNTV</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> デンソーテンはガチホワイト <br /> なお、将来性 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">28: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/13(日) 12:46:34.25 ID:cEY+Ob8q</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 日本取引所 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">30: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/13(日) 14:54:53.06 ID:Z8D6O+Pm</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 小野測器、エリオニクス </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">31: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/13(日) 16:03:57.62 ID:8hoLzpNt</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 織機 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">32: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/13(日) 16:07:10.68 ID:Qd49dpB7</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 日本光電 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">33: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/13(日) 16:14:48.07 ID:mYMWV3d/</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 蛇の目ミシン </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">34: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/13(日) 16:15:40.37 ID:mYMWV3d/</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 東京エレクトロン <br /> 浜松ホトニクス </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">35: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/13(日) 16:17:31.31 ID:mYMWV3d/</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> シーメンス <br /> スタンレー電気 <br /> シマノ <br /> 小糸製作所 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">36: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/13(日) 17:28:30.74 ID:64XmweyB</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ディスコやレーザーテックみたいな半導体製造装置メーカーって今は年収めっちゃ高いけど将来性はどうなんだ？ <br /> 半導体メーカーはもう終わりだろうけど製造装置なら安泰なのかね </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">37: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/13(日) 17:35:46.12 ID:ni1X1Gno</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;36</span> <br /> 技術力はあるし、海外展開 <br /> 進めてるんだったら大丈夫じゃないかな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">38: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/13(日) 17:40:25.43 ID:64XmweyB</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;37</span> <br /> そうか <br /> いつか転職することになったら狙いたいなと思ってたけどその頃には(今でもか？)俺じゃ入れない超難関企業になってそうだな <br /> それとも事業規模拡大でバンバン中途採用するようになるかな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">39: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/13(日) 17:43:29.33 ID:ni1X1Gno</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;38</span> <br /> 転職するなら早い時期が良いかもね <br /> 今はかなりの売り手だけどそれもいつまで続くか分からないし <br />  <br /> ディスコの人と話したことあるけど <br /> 凄い雰囲気よさげな企業だったよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">40: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/13(日) 17:44:16.23 ID:yxr1wp/i</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 売り手っても人が足りんのは底辺職だけやぞ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">42: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/13(日) 21:53:01.34 ID:2qmIO68O</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ここで知られるような優良中小なんて人殺到するしfのわいはどうやって探せばいいんだろ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">43: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/13(日) 22:12:15.61 ID:42JoSVQT</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;42</span> <br /> ハロワ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">50: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/13(日) 23:05:35.77 ID:Z8D6O+Pm</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;42</span> <br /> お前は飲食・土方・介護がお似合いやで </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">44: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/13(日) 22:19:17.34 ID:RJbxJDak</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 隠れてないけど <br /> ドコモCSはええよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">45: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/13(日) 22:19:46.45 ID:gtjR5T2x</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> トヨタ系中堅部品メーカー </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">46: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/13(日) 22:26:45.54 ID:/2wyKW9F</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> JRA <br /> 実は公務員より給料高い </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">47: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/13(日) 22:28:50.07 ID:was7bMNZ</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> いすゞかなー <br /> 知ってるかもだけど案外見てない人多そう。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">49: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/13(日) 23:02:05.72 ID:2Z7zWkTs</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;47</span> <br /> いすゞ結構いいって聞いてプレエントリーしたけどES出してないわ <br /> まだ期限あるし出してみる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">88: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/14(月) 22:06:59.69 ID:RiHa8Q+N</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;49</span> <br /> そこ出すなら推薦の方がいいよ <br /> 文系なら頑張れ <br /> 理系の一般はオススメしない。ほぼうからんよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">97: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/15(火) 00:12:37.15 ID:12tzIEse</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;88</span> <br /> 推薦か <br /> 絶対余ってるし今のところ落ちたら検討するわサンクス </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">51: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/13(日) 23:10:31.46 ID:gqaRarPa</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> オプテックス </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">52: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/13(日) 23:10:51.32 ID:OQiGlICN</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 日本トムソンとか </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">54: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/14(月) 00:04:37.40 ID:mOX9nd+R</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> NHKとグループ会社 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">55: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/14(月) 00:24:16.36 ID:XSoQcGTX</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 住理工情報システム <br /> エィ・ダブリュ・ソフトウェア <br /> Ｆ欄でもワンチャンあるＩＴ系（not客先常駐）ならいくつか知ってる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">56: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/14(月) 00:29:28.84 ID:ENz05Qjw</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> HIOKI <br /> クソホワイトで平均年収700超え <br /> 東大東工大信大が多いけどF欄も入れてるからチャンスはありそう </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">59: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/14(月) 01:49:29.94 ID:UJICU7Kd</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 帝国データバンク </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">60: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/14(月) 03:23:28.24 ID:eHKGFISI</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ロームは？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">84: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/14(月) 19:47:26.15 ID:fE2nzGBg</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;60</span> <br /> 良い会社だと思う <br /> けど半導体の未来を見据えると <br /> どうかなと思ったりもする </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">62: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/14(月) 07:41:16.10 ID:EC1T+5v2</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ロームはブラックって有名やろ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">63: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/14(月) 07:58:16.95 ID:Xhrvghm1</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 東京都競馬 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">66: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/14(月) 08:22:24.92 ID:FF44Rk8I</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 隠れ優良スレって書いてるやつの <br /> 知識の程度が透けるから時々悲しくなるよな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">67: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/14(月) 08:23:28.69 ID:ObGCgURH</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;66</span> <br /> ほんとの隠れ優良は教えたがらないから実質3番手くらいを書き込んでるわ <br /> そういう人多いと思うぞ <br /> アホ正直に信じてるお前が悲しいわな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">69: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/14(月) 08:57:48.71 ID:j2s+K1rJ</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;67</span> <br /> そんなことないだろ <br /> もう就活終わってるのが大半だから自分の損得に関係ないし </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">68: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/14(月) 08:33:43.47 ID:brtWmvdx</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> とめ研究所、シナプスイノベーション </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">70: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/14(月) 09:07:33.61 ID:TND01NVM</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 日銀 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">71: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/14(月) 09:15:13.21 ID:j2s+K1rJ</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 日銀は隠れてないという以前に全然優良じゃないぞ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">72: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/14(月) 09:22:20.44 ID:ObGCgURH</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 勤務地首都圏のみで給料福利厚生整ってるBtoBって存在するんか？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">89: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/14(月) 22:08:04.40 ID:RiHa8Q+N</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;72</span> <br /> もう言ったで、toCよりだけど <br /> ほほ首都圏のみだよ。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">73: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/14(月) 09:45:09.82 ID:xNut8kHp</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ヒロセ電機 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">76: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/14(月) 10:10:43.86 ID:hp5DEAgd</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;73</span> <br /> 勤務地横浜だけってええよな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">74: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/14(月) 09:49:43.30 ID:TND01NVM</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> DBJ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">75: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/14(月) 10:05:38.57 ID:8H4L38kc</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 3rd arc </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">77: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/14(月) 10:43:48.89 ID:F+HkzGlo</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 関東化学 <br /> TCI <br /> 味の素ファインテクノ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">78: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/14(月) 10:48:39.14 ID:brtWmvdx</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 古河機械金属 <br /> 体育会系の男ばかりでも良ければ天国やで </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">79: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/14(月) 11:16:15.94 ID:safO8nr6</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 日立化成 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">80: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/14(月) 11:18:05.63 ID:flKYq3+I</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;79</span> <br /> ワイ今受けてるわ <br /> インターン行った感じクソホワイトだった </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">81: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/14(月) 15:26:18.56 ID:9icsEmZD</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;" class="t_b"> カルテットコミュニケーションズ <br /> 名古屋民ならオススメのガチ隠れ優良企業や </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">82: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/14(月) 15:44:26.26 ID:Si2POBSk</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 日立物流 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">83: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/14(月) 19:25:40.34 ID:gdyeA0i5</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 古野電気 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">91: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/14(月) 22:21:38.02 ID:Vo+6izWO</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;83</span> <br /> ここうちの大学で大人気のホワイト企業わや </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">92: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/14(月) 22:29:22.69 ID:EC1T+5v2</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;91</span> <br /> 兵庫県立やな笑 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">85: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/14(月) 20:07:27.87 ID:sPjQj/x4</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 奥野製薬工業 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">86: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/14(月) 21:25:21.24 ID:ffkBdOP4</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 旭ダイヤモンド工業 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">87: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/14(月) 21:59:42.39 ID:AFZa+Qud</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> HOYA、エアウォーター、オルガノ、グローリー、電源開発、京三製作所、マキタ、安川電機、栗本鐵工所、明電舎、巴工業、ホーチキ、東洋エンジニアリング、 <br /> 千代田化工建設、日本デジタル研究所、乃村工藝社、丹青社、NTN、太陽誘電、日東電工、曙ブレーキ、東ソー、宇部興産、東洋製罐 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">90: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/14(月) 22:12:09.60 ID:dmU/i2pz</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;87</span> <br /> 栗本鐵工所受けたわ。 <br /> 人事の人がめちゃいい人やった。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">115: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/16(水) 15:24:28.29 ID:j4EDFvrC</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;87</span> <br /> 電源開発受けとるでー <br /> 震災で給料下がってないから結構もらえるらしい </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">269: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/22(火) 14:32:08.51 ID:3Y7n+/sm</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> 明電舎も一切話題にあがることないな <br /> …と思ったら<span  style="color: mediumblue;" class="anchor">&gt;&gt;87</span>で名前だけ出てた </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">271: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/22(火) 14:36:54.69 ID:MebIMfle</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;87</span> <br /> この中の正社員だけど質問ある？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">274: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/22(火) 18:23:58.41 ID:QxDHejEv</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;271</span> <br /> 隠れ具合が売りだけど知名度の低さを気にしたことはある？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">280: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/22(火) 21:33:52.49 ID:7Qgi2qkP</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;274</span> <br /> 部署ガチャで激務引かなきゃまあまあいい企業だと思うよ <br /> GW夏期休暇とか10連休とか取れるし <br />  </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">282: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/22(火) 22:34:59.33 ID:XRYNpYgU</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;280</span> <br /> 平均でそれか？ <br /> やりがいあって裏山 <br /> お仕事頑張るんやで </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">284: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/22(火) 23:12:51.73 ID:+zjGtB4w</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;282</span> <br /> 平均ではないよ <br /> 流石に <br /> 一人で任される物件がデカいからプレッシャーで死にそう </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">285: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/22(火) 23:14:48.41 ID:XRYNpYgU</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;284</span> <br /> 平均はどれくらいや？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">286: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/22(火) 23:17:21.55 ID:+zjGtB4w</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;285</span> <br /> ワイは100くらいかな <br /> 100で人は死なないよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">287: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/22(火) 23:19:15.99 ID:XRYNpYgU</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;286</span> <br /> ほーん <br /> サンガツ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">288: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/22(火) 23:28:17.24 ID:+zjGtB4w</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;287</span> <br /> ちな休憩中 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">275: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/22(火) 20:07:22.83 ID:XRYNpYgU</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;271</span> <br /> 実際ホワイトなんか？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">280: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/22(火) 21:33:52.49 ID:7Qgi2qkP</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;275</span> <br /> 俺は残業180h <br /> やりがいあるわー</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">93: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/14(月) 23:05:29.88 ID:fE2nzGBg</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> いすゞって売上兆越えてるよ <br /> 全く隠れてないｗｗｗ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">94: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/14(月) 23:26:31.22 ID:ed+GMZec</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 隠れ優良というか隠れ中小が知りたかったよな <br /> いすゞとかの大手を知らないのは業界研究が足りない </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">95: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/14(月) 23:35:56.55 ID:1Fh12xcW</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> スターゼン </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">96: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/14(月) 23:50:13.62 ID:9YPwZBmO</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 東京計器 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">98: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/15(火) 01:18:37.66 ID:kvAuEFuI</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 寺岡製作所 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">99: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/15(火) 07:33:15.64 ID:DsGm5mx1</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 日本特殊陶業はどうですか </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">102: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/15(火) 09:00:08.56 ID:jwCqMEef</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;99</span> <br /> 将来性あんまりなくね？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">100: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/15(火) 08:38:17.96 ID:KvB8BodS</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 挙がってるところ結構大手や大企業多いしな <br /> 隠れどころけ普通に人気あって倍率高いと思うわ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">101: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/15(火) 08:46:23.97 ID:UGdv9/mZ</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 結局受けなかったけど就活しててUACJはすげぇ良さげだと思った </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">103: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/15(火) 09:18:56.22 ID:egfItpyW</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;101</span> <br /> 初年度の勤務地が名古屋の六番町ってところだけど空気すごく汚いから喘息持ちならやめたほうがええで </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">104: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/15(火) 10:20:11.79 ID:jwCqMEef</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;103</span> <br /> いや地元民だけど別に普通だろ <br /> なんか恨みでもあるんか </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">106: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/15(火) 12:12:26.36 ID:3dpo5bsL</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 一個だけ <br /> オリジン電気 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">107: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/15(火) 12:38:12.15 ID:wEpYjlmi</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 隠れ、か <br /> 転職新潟スレでよく出るナミックスだな <br /> 営業利益率が5割程度という舐めた商売してるメーカー </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">108: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/15(火) 16:06:36.63 ID:1WcMFdqg</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ナミックスって給与はどうなの？ <br /> あんま良くなさそう </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">111: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/15(火) 17:03:49.13 ID:3dHizz0y</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 営業利益率がどんなに高くても給与に反映されなきゃ意味ないわな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">112: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/15(火) 17:24:13.87 ID:jorJ7oBi</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ナミックスはそのうちM&amp;Aされるだろ <br /> 候補リスト上位に必ずいるから <br /> 今入れたら儲けものかもな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">113: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/15(火) 21:15:13.89 ID:LQVzaKOw</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 利益率50％越とか化物じゃね？ <br /> ほんとに？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">114: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/15(火) 21:47:44.67 ID:s62b3MZ8</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> そういやカストディバンク3社は全く触れられんね <br /> 倍率言うほどでもないんだが </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">116: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/16(水) 17:37:46.87 ID:D1RMfNod</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 能美防災 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">117: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/16(水) 23:52:45.85 ID:IpVHZtbS</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 東京精密 <br /> ディスコ には劣るが過去最高益で今年の年収も上がってそうだしメーカーにしては八王子というそこそこ便利なとこで働ける </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">119: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/17(木) 00:40:46.62 ID:nALSspAR</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;117</span> <br /> 給料も悪くないしオススメっちゃオススメだけど、J民向けではなかったな <br /> 良くも悪くも日本企業ってかんじで、上下関係と飲み会がしっかりあったわ <br /> そういうの気にしないやつには最高だと思う </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">144: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 06:32:25.28 ID:T7ZWkEk3</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;119</span> <br /> 元社員さん？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">122: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/17(木) 07:47:39.90 ID:0klaj+Q+</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;117</span> <br /> 上がってそうだしじゃなくて実際に上がってからオススメしろよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">143: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 06:29:45.12 ID:T7ZWkEk3</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;122</span> <br /> 必ず上がってるから6月の有価証券報告書見ろ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">125: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/17(木) 21:48:52.38 ID:Ff0gYSFl</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;117</span> <br /> 半導体製造装置なら東京エレクトロンとかも優良かなあ <br /> 社員さんの雰囲気がとても良かった </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">123: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/17(木) 20:30:50.83 ID:XB+Wcb0o</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> このスレにあがってる企業調べて <br /> 株でも買ってみようかしら </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">124: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/17(木) 21:05:38.46 ID:Xl9q2pHA</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 大崎電気 <br /> 双葉電子工業 <br /> マブチモーター <br /> 平田機工 <br />  <br /> ニッチ分野それぞれトップ、全て一部上場だった気がする </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">126: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/17(木) 22:24:02.94 ID:ol0hyICO</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 売上げ高1兆円の東京エレクトロンが隠れてると思うアホは流石にいないよ・・・ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">128: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/17(木) 23:33:52.65 ID:Ff0gYSFl</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;126</span> <br /> ごめんなさい <br /> 確かにTOPIX100構成銘柄に入ってる大手ですね </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">127: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/17(木) 22:42:49.63 ID:TspB/EmS</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> リコー電子。どっかの会社に買収されたらしいけど、やさしい人が多かった </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">129: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/17(木) 23:38:20.55 ID:832WPNdT</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 平田機工上がってて草 <br /> 隠れんのやな。ワンマン社長とか書き込みあるけどどうなんやろか </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">130: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/17(木) 23:48:00.77 ID:+bvx8yj2</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> リコー電子は2次で落ちた <br /> 将来性はどうなんやろ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">131: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 00:11:30.25 ID:ebZzKxWi</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 全く隠れてないし <br /> 給料高い企業出してるだけじゃないか </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">132: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 00:12:55.07 ID:qStWrUmW</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> SMCとかどうや？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">133: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 00:13:00.75 ID:nnIV1XxC</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 日本化学工業 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">134: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 00:23:16.31 ID:gmczSyfH</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 大手企業ばっかじゃねえか <br /> まぁでも就活生になるまで普通は知らないって意味では隠れ企業だと思う </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">135: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 00:45:35.24 ID:3Y9yr8ym</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;134</span> <br /> じゃあ教えてくれないか？ <br /> ここに載っていない真の隠れ優良企業を！ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">136: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 00:46:07.83 ID:oJC1hpOc</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 日本化学工業 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">137: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 00:49:16.69 ID:gvuyqatD</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 隠れ=四季報に載ってない <br /> とするならオムロンソフトウェアくらいしか思いつかん </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">139: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 01:53:04.24 ID:UvdcnXlh</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> オムロンソフトウェアって優良なん？ <br /> オムロン子会社とはいえ情報が少なすぎてわからん </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">138: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 01:36:12.62 ID:zmyQmBZv</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 理化学工業 <br /> ガイジのお前らにはお似合いだぞ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">140: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 02:01:38.85 ID:Ta73hIq9</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#008000;margin-bottom:30px;margin-top:20px;" class="t_b"> 経産省が出してるホワイト500見たらいいじゃん </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">141: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 02:06:18.14 ID:Dd/YXyZk</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 隠れ優良って本当に誰も応募しないくらい隠れに隠れてないと採用人数少ないから全く意味ないよね <br /> 下手すりゃ低学歴が学歴フィルター突破してくる分余計に厳しくなる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">142: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 02:13:01.76 ID:zCtTn718</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> だから奥野製薬工業、社内平均50で一本届くぞ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">145: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 06:34:02.74 ID:T7ZWkEk3</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 半導体製造装置メーカーは今後もまだまだ伸びるぞ。シリコンサイクルからスーパーサイクルに突入するとも言われてるし事実EVやＩＯＴなどで今後も使われることは容易に分かるしな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">146: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 06:40:28.56 ID:p/WWuixT</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> EVやiotで伸びるモータ事業もおすすめ <br /> まあ国内最大手はブラックなんだが </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">156: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 11:09:01.00 ID:3Y9yr8ym</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;146</span> <br /> 日本〇産のことか？ <br /> 最近はそうでもないと聞いていたんだが </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">160: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 11:27:44.65 ID:rwJfa/rF</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;156</span> <br /> 最近は改善されてるとは聞くね <br /> 実際どうかは入らんとわからんけど <br /> まあ今最終の結果待ちなんだが </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">161: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 11:29:21.76 ID:3Y9yr8ym</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;160</span> <br /> 知り合い一人いるんだわ <br /> そこまで悪い噂聞かないよ <br /> 受かってたら良いね </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">147: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 07:18:33.95 ID:/xxjRx3J</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ヒロセ電機挙がってるが普通に難易度高いわ… <br /> つか山手に広告ぶらさがっとるし隠れてない説 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">149: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 08:51:09.84 ID:R0RyXju4</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;147</span> <br /> そこなんで人気なの? <br /> コネクタなんて無線化で無くなりそうじゃない? </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">148: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 07:37:57.86 ID:rlcuP5sP</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 沖 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">181: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 22:55:23.67 ID:AFxgz0WD</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;148</span> <br /> ここどうなの？ホワイトとかにも上がらないけどマッタリしてるし </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">185: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 23:43:11.70 ID:ofMTsbSw</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;181</span> <br /> 一応大手だから安定はしてるよ <br /> 本体は今年の募集終わったけど、BtoBじゃ結構な穴場なんじゃない？ <br /> 子会社も給与体系と福利厚生がマンマのとこあるし </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">150: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 09:14:49.85 ID:7+4t4G6I</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 東日本銀行協会 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">151: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 09:26:12.30 ID:udgIPXlf</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> デンソーテンはガチ。 <br /> 面接2回だけ。 <br /> まったり。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">152: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 10:04:46.74 ID:l2tJGLEy</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 財団法人とかどうよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">153: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 10:31:13.69 ID:hGopV8mZ</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> コネクタがなくなることはないと思うぞ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">154: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 10:49:21.92 ID:gmczSyfH</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> コネクタならヒロセ電機と日本航空電子工業が理系なのに勤務地首都圏で転勤なしなのでオススメ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">155: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 11:07:34.81 ID:3Y9yr8ym</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 就活生が知らないレベルの隠れならそれでOKなんだよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">157: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 11:17:55.24 ID:FGFBXyb5</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 全部優良と名高い企業ばっかじゃん、就活生の間では常識クラス </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">158: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 11:19:33.47 ID:HGMbFMTE</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;157</span> <br /> 全スレちゃんと見たか？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">162: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 11:53:33.10 ID:RmsCU+4o</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;157</span> <br /> ヒロセ電機とか奥野製薬なんて知ってる就活生少なくね? </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">159: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 11:25:40.81 ID:ScpnSdNL</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 自動車業界で優良ありませんか？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">202: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/19(土) 13:05:37.55 ID:Nx4dL39v</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;159</span> <br /> 日立AMS。トヨタ系よりも人気ない上に、グループ全体で総合職を大切にしてて、金払いも良い、今後の自動車業界で必要とされる技術もある。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">163: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 12:00:19.81 ID:1aMi6T65</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ヒロセ電機、転職サイトではあんまり評判良くないけどね <br /> 特に休暇について <br /> 会社カレンダーに従うことが前提。ゴールデンウィーク、夏休み、冬休みにそれぞれ二日間、合計六日間が一斉有給取得ということで消化していことになる。それ以外に有給を取得することはできるが、ボーナスが減額となり、出勤率が低くなるということで昇進昇格に影響する。 <br /> 慶弔休暇の取得は昇進昇格に影響はしないが、ボーナスが減額となる。 <br /> 休まずに会社に来ることが重要としている。 <br />  <br /> という書き込みもある </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">168: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 16:42:58.58 ID:RnjMEEqm</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;163</span> <br /> 製造業がブラックなのは当たり前なんだよな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">172: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 17:51:51.44 ID:7vyeR8a4</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;168</span> <br /> 逆に何がホワイトなんだ？ <br /> 割合でいえば製造業こそ一番ホワイトが多い気がするんだが </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">164: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 15:17:18.26 ID:zS5s6xTv</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 日本電産は文化が怖そうなのと儲かってるはずなのに年収が低く出てるのが木になる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">165: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 15:25:21.37 ID:ZxPpP84u</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 日本電産、年中会社説明会やってるからな <br /> どんだけ人足りてないんや </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">211: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/19(土) 22:52:55.13 ID:FT26EAr1</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;165</span> <br /> そうなん？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">166: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 16:34:44.68 ID:0yUdE5Vl</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 受けるつもりないから教えるわ <br /> 理化工業 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">182: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 22:57:26.62 ID:dNUw/SHB</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;166</span> <br /> 求人票の年収はガチなの？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">167: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 16:40:54.46 ID:o9G5yCrR</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 日本電産は社長がイキりすぎて悪いイメージついちゃったのがな <br /> 知り合いいるけど全然世間のイメージとは違うみたい </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">169: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 16:47:08.16 ID:zS5s6xTv</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> むしろ製造業こそ最後のホワイトというイメージだが </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">170: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 17:03:38.01 ID:o9bfqQXz</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 知り合いに日本電産の課長(技術系)いるけど <br /> 管理職はスーツ着用で社章を襟に付ける、社章は常に右斜め45度の角度を保持してないと怒られる、 <br /> 何故なら右肩上がりだから！とか言うしょうもない社訓聞かされたわ <br />  <br /> あと毎朝持ち回りで始業時に英語のスピーチやるって </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">171: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 17:11:24.30 ID:DwVypR8p</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> KYBってどうなの？ <br /> 給料は微妙っぽいけど </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">173: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 17:52:44.64 ID:3Y9yr8ym</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 日本電産皆大好きだなｗｗｗ <br />  <br /> ダイキンやYKKなんかも <br /> 昔は忙しかったらしいし <br />  <br /> ずっとホワイトのまま <br /> 大きくなった企業ってあるのかな？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">175: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 19:01:40.83 ID:ekksO/DF</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> DMG森精機 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">176: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 19:06:05.21 ID:i47rVLvo</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ここで隠れてないだろって言われる会社でも親にそこの話したらポカンとされるから悲しいわ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">249: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/21(月) 07:51:22.63 ID:IwlKc4IQ</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;176</span> <br /> めっちゃわかるで。 <br /> でも、ワイも就活しなかったら <br /> ここで言われてる企業知らなかったと思う </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">177: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 19:40:16.24 ID:Jjkjro98</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ダイキンJM成立したぜ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">178: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 20:20:07.69 ID:3Y9yr8ym</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;177</span> <br /> ええとこ決まったやん <br /> おめでとう </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">179: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 21:41:26.18 ID:D7T967DL</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;177</span> <br /> おめでとう！ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">183: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 23:11:34.57 ID:hfEWwc70</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 日本無線は休み多いで </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">188: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/19(土) 01:14:25.81 ID:o+kgmp8S</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;183</span> <br /> ここのスレ覗いたことあるけどやべーぞ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">189: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/19(土) 01:27:05.42 ID:kP73cqPO</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;188</span> <br /> ま？？どうやばいの？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">192: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/19(土) 02:53:43.25 ID:o+kgmp8S</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;189</span> <br /> 気になるなら自分で見てきた方がいいと思うけど <br /> 事あるごとに <br /> このスレが就活生の目に止まって志望先を変えてくれればいい <br /> って書いてあったで <br /> 色々暴露されてたけど確かに俺も日本無線には行きたくないわ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">196: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/19(土) 09:03:32.43 ID:zmFrGyUe</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;183</span> <br /> 突然東京の三鷹から社員になんの断りもなく長野に移転してこの前とうとう上場廃止したブラック企業じゃん <br />  <br /> しかも年間休日130日って計画年休含んでるし、それだったら年間休日126日で計画年休5日の弊社のが休み多いわ <br /> 平均有給消化日数も15日超えてるし <br /> あと勤務地東京で東証一部上場だし </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">184: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/18(金) 23:24:26.12 ID:3Y9yr8ym</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 求人票に年収なんて書いてあるのか <br /> 学歴事の初任給だけのしか見たこと無い </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">186: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/19(土) 00:14:17.58 ID:h3teTlkC</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;" class="t_b"> どこの会社行っても部署によるからなぁ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">187: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/19(土) 00:22:39.62 ID:AjEObuWX</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> マルハン、ダイナム、ガイア </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">190: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/19(土) 01:49:15.48 ID:zfV3npF7</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ハーモニックドライブ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">191: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/19(土) 02:05:49.88 ID:dCoPDtLk</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 岐阜の未来工業 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">194: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/19(土) 08:52:29.49 ID:JK2qeZs0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> アルプス電気とアルパインってどう？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">195: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/19(土) 08:59:13.70 ID:xzFzwn4z</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ファナック </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">198: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/19(土) 09:22:15.44 ID:MfxosQ8Y</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ジャパンネット銀行 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">199: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/19(土) 10:41:39.50 ID:EB59f/2X</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ジャパネットたかた </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">200: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/19(土) 11:52:08.85 ID:fPslooaq</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 矢　崎　総　業 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">201: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/19(土) 12:56:17.11 ID:jGaIIWdu</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> トプコンは休み多いで </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">203: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/19(土) 14:47:32.73 ID:XosHdLBU</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 首都圏で優良なとこってないの？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">204: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/19(土) 14:53:12.87 ID:i9xWnLZ5</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;203</span> <br /> 中堅だったらいっぱいあるで </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">205: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/19(土) 16:44:43.41 ID:NUWcw/io</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> NOKの評価教えて </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">206: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/19(土) 17:45:37.33 ID:+1UE3aBO</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;205</span> <br /> 内燃機に使うシールなどのニーズは減るが、 <br /> 水冷や電子機器の防水にはシールは欠かせないので、シール材自体は一定の需要がある。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">207: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/19(土) 22:01:51.66 ID:R3k1lbYa</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 内燃機のニーズ減るのは <br /> EV化を見越してか？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">208: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/19(土) 22:24:28.68 ID:wjm1/nYx</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 住友重機械 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">210: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/19(土) 22:31:08.67 ID:6DNlL3+g</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 椿本チエイン <br /> 日新電機 <br /> GSユアサ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">212: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/19(土) 23:08:00.70 ID:R3k1lbYa</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 椿本チェインええよな <br />  <br /> 【アズビル】 <br /> 制御・計測機器メーカー <br /> ビルとかプラントとかでかい <br /> 建物中心にやってる <br /> 空調制御システム国内首位 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">213: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/20(日) 11:38:53.19 ID:NPR2X8fD</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 昔関西のメーカー受けてたから <br /> ダイヘン <br /> 日本精線 <br /> 日本山村硝子 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">241: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/21(月) 01:13:37.23 ID:RfhHF4nW</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;213</span> <br /> 日本精線はまじで隠れ優良のイメージあるわ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">214: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/20(日) 18:05:46.02 ID:4ohmJMQz</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> アズビルとか世界的有名企業だろ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">216: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/20(日) 20:44:45.51 ID:iv7i4wec</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> アズビル推薦でいった先輩いるけど勤務地以外はいい感じとか </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">217: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/20(日) 21:13:39.11 ID:NQ0tc6TE</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 知らん企業の方が多いからな普通に </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">218: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/20(日) 21:22:27.52 ID:5iZYs8R7</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> なぜ信越化学がでていない？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">220: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/20(日) 21:33:46.22 ID:uX+Lt6c9</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;218</span> <br /> ホワイトじゃないし隠れてもないから </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">219: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/20(日) 21:30:41.33 ID:Vdp4WrZV</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 電子部品でオススメの会社教えてくれ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">221: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/20(日) 21:41:39.46 ID:mnw0oi0w</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;219</span> <br /> ミネベアミツミ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">226: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/20(日) 22:57:23.72 ID:uHijO7S6</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;221</span> <br /> 薄給じゃね？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">227: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/20(日) 23:00:35.62 ID:mnw0oi0w</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;226</span> <br /> 給料と勤務地はお察しだがグローバルニッチやで </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">228: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/20(日) 23:07:54.78 ID:Vdp4WrZV</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;227</span> <br /> 給料と勤務地ダメとかどうしようもないじゃん </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">230: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/20(日) 23:14:05.90 ID:uHijO7S6</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;227</span> <br /> ほー <br /> 因みにKYB良さげだと思ってるんだけどどうなん？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">231: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/20(日) 23:19:31.94 ID:Vdp4WrZV</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;230</span> <br /> 勤務地三重とかじゃなかった? </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">232: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/20(日) 23:21:06.93 ID:uHijO7S6</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;231</span> <br /> 理系は岐阜か神奈川が主だったはず </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">258: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/22(火) 07:32:37.63 ID:+b+/NumC</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;227</span> <br /> 勤務地はともかく、年収も低いのか・・・。 <br /> よく日経新聞で景気のいいこと書いているし業績も右肩上がりみたいなんだが、 <br /> 将来考えてもあまりオススメできない企業なの？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">222: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/20(日) 21:51:27.88 ID:i6GRcK3p</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> イビデン <br /> 日本特殊陶業 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">223: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/20(日) 21:52:57.94 ID:GWk+UW1z</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 情報系でも頼むわ… </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">224: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/20(日) 21:57:43.26 ID:mnw0oi0w</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;223</span> <br /> 日本コントロールシステム <br /> 一度調べてみ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">225: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/20(日) 21:59:38.61 ID:3A5/uVWa</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> イシダ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">229: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/20(日) 23:09:18.72 ID:hOymo20i</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ニューフレアテクノロジー </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">233: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/21(月) 00:05:31.68 ID:HAQE8oAL</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 住友ゴム </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">234: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/21(月) 00:12:16.38 ID:Gqcjwr6U</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 関東圏勤務のいいとこください！！ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">237: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/21(月) 00:25:36.54 ID:Z1h/eEHP</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;234</span> <br /> 三陽商会 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">242: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/21(月) 01:19:01.12 ID:e9JRlDsW</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;234</span> <br /> ガチの隠れ優良だと上にもでてるがマブチモーターヒロセ電機日本工営日本航空電子あたり</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">235: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/21(月) 00:12:47.66 ID:6rPf1u/n</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ソフトバンクテクノロジー </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">236: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/21(月) 00:15:48.06 ID:am31VjVb</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 日本メクトロン </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">238: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/21(月) 00:26:05.71 ID:Z1h/eEHP</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 大塚商会もかなりオススメ。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">239: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/21(月) 00:28:16.62 ID:AwLAZ9b+</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> メーカーで </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">242: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/21(月) 01:19:01.12 ID:e9JRlDsW</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;239</span> <br /> ガチの隠れ優良だと上にもでてるがマブチモーターヒロセ電機日本工営日本航空電子あたり</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">240: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/21(月) 00:45:32.31 ID:e4LKwoyt</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 隠れてないけど穴場って意味で部署によっては神戸製鋼ありだと思う </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">243: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/21(月) 01:37:21.75 ID:7kkV+a+j</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ダイヘンかなりええで。 <br /> 年収勤務地素晴らしい。 <br /> 電柱の変圧器のシェア1位やし、FAロボットも伸びてる。 <br /> 転職とか考えてダイキンとかなり迷って、選ばなかったけど、知名度以外は素晴らしい。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">244: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/21(月) 02:35:27.04 ID:V4MC6Lim</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ちょい方向性変わるが <br /> 三和シャッターやホーチキらへんもなかなか </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">245: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/21(月) 03:19:32.17 ID:6kHp/iN1</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> SUMCOは？ <br /> 今アホみたいに伸びてるやろ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">246: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/21(月) 03:47:19.77 ID:ltl1/vcl</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;245</span> <br /> 勤務地がね... </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">252: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/21(月) 15:14:45.98 ID:pxZxJA75</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;245</span> <br /> 会社説明会と称してその場でグループ面接始まって困惑した思い出 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">248: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/21(月) 07:49:31.46 ID:93izjkO0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ディスコ、日本航空電子、東京精密、トプコン <br /> ここらへんの都心寄りの企業はホワイトというか法令遵守なとこ多い気がする <br /> 田舎に行くほど法が機能してないからブラック化が進む </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">250: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/21(月) 08:16:15.94 ID:Kg/1Qzz4</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 天辻鋼球製作所 <br /> ツバキ・ナカシマ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">251: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/21(月) 09:19:52.82 ID:8hpyfBYN</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 東洋新薬 <br /> 勤務地がSUMCOと同じくらいアレだけど </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">253: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/21(月) 16:54:26.55 ID:R1qCj9em</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> NEET株式会社 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">254: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/21(月) 23:24:48.30 ID:qD86NB7R</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 巴工業 <br /> 東洋佐々木ガラス <br /> 石塚硝子 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">255: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/21(月) 23:53:12.96 ID:msnHvvdl</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> トーヨーカネツってどうなの？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">256: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/22(火) 05:55:11.57 ID:vfbHCPCn</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 既出だけど、ハーモニックドライブシステムズ。 <br /> 社員300平均年収800利益率20 <br /> ジャスダック時価総額1位だったことも。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">257: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/22(火) 06:02:52.95 ID:vfbHCPCn</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ハーモニックドライブシステムズの減速機無しじゃロボット作れない。 <br /> ファナック、安川電機、不二越、ABB、エプソン等大手ロボットメーカーのロボットにもバンバンここの製品使われてる。 <br /> ロボット化社会に向けて会社の業績もめちゃくちゃ伸びてる。 <br /> 内定難易度も高くない。March以下の学部卒が内定貰ってた。 <br /> 20卒の機電系の方は有名企業になる前に受けておけ。 <br /> 田舎勤務だけどね。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">259: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/22(火) 08:22:04.83 ID:shI2VWep</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> うんちめーかーがいいよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">260: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/22(火) 08:56:27.05 ID:5aJqxvDu</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 東京エレクトロンは世界4位企業なんだよなぁ…。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">262: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/22(火) 09:13:10.35 ID:wdgyRKOB</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 日本製鋼所（JSW）って5chで一切話題にあがることないな <br /> 勤務地は主に室蘭、広島、横浜、東京の4つ <br /> 雰囲気はまったりしてるので競争するより馴れ合ってるのが好きな人にはおすすめ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">263: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/22(火) 09:13:45.71 ID:iiTDdWyy</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ハーモニックは夢があるよな <br /> これから大企業になってく感じが </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">265: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/22(火) 10:48:03.88 ID:XRYNpYgU</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;263</span> <br /> 大きくなる可能性もあるし <br /> 大手に買収される可能性もある <br />  <br /> どちらにせよ夢がある <br /> ええやん </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">264: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/22(火) 10:42:29.48 ID:XRYNpYgU</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> この辺の企業まだ先行受け付けてるとこあるんか？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">266: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/22(火) 12:47:43.55 ID:zlI4s3Jc</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 選考受け付けてる隠れ優良おしえーて！ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">268: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/22(火) 14:25:45.32 ID:VEiCOly4</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;266</span> <br /> 東芝メモリを信じろ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">272: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/22(火) 17:29:54.01 ID:OtvfkRad</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;266</span> <br /> ヒロセ電機はまだ説明会やってたはず </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">267: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/22(火) 14:14:41.83 ID:k+J6XQ9F</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 三社電機製作所 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">270: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/22(火) 14:33:03.18 ID:VEiCOly4</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 明電舎って準大手じゃん </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">273: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/22(火) 17:44:43.30 ID:WQocoiOX</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 東プレ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">276: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/22(火) 21:16:13.33 ID:r49cJDW5</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 京三製作所、日本信号ってどう？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">277: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/22(火) 21:28:08.39 ID:XRYNpYgU</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;276</span> <br /> 日本信号は年収もそこそこ良いし <br /> 勤続年数も20年近いし、離職率も低いし <br /> ええんちゃうか？ <br />  <br /> あんまり隠れてないと思うけど </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">278: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/22(火) 21:31:25.52 ID:r49cJDW5</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> あんま隠れてないのか <br /> 20卒だから抑えで良いとこないかなと思ってたけど厳しそうかな <br /> ありがたす </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">279: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/22(火) 21:33:21.55 ID:XRYNpYgU</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;278</span> <br /> 信号作ってる会社のトップやと </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">292: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/23(水) 00:06:01.48 ID:uoVQgNMu</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;278</span> <br /> 倍率120倍くらいあったで </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">281: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/22(火) 22:31:00.94 ID:+8aOBatI</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 三和テッキは？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">283: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/22(火) 22:57:18.72 ID:YLwfEQB6</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 三和テッキって情報少なすぎて怖い </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">289: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/22(火) 23:29:00.66 ID:zZUqqQrB</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 月の残業が180ってこと？ <br /> 死ぬやろ普通に </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">293: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/23(水) 01:24:02.32 ID:I08c0tNB</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;289</span> <br /> 死なないよ <br /> ちな今からホテル </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">294: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/23(水) 01:50:39.54 ID:pf4zVAYQ</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> 千代田とかTECとか隠れてないやろ <br /> 普通に有名や <br /> <span  style="color: mediumblue;" class="anchor">&gt;&gt;293</span>もその辺の会社のセコカンちゃう？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">290: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/22(火) 23:38:37.82 ID:tk3UXbX5</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 100残業でもおかしいから </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">295: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/23(水) 01:55:34.33 ID:8SeMV32V</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 知り合いがスーゼネの施工管理にいくんだけどなんて声かければいい? </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">296: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/23(水) 01:57:29.92 ID:MUa1C2AK</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;295</span> <br /> それガチで死ねる奴じゃね？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">297: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/23(水) 02:03:41.85 ID:I08c0tNB</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;295</span> <br /> スーゼネの施工管理とかは楽な部類やで </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">298: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/23(水) 02:06:36.44 ID:/2d+ldBe</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 日本甜菜製糖 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">299: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/23(水) 02:15:03.31 ID:f4F47VLU</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> スーゼネは金もらえるから頑張れるやろ <br /> サブコンとかのがつらそう </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">300: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/23(水) 02:28:13.51 ID:I08c0tNB</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 建築はバカでも出来る <br /> 大抵建築が工期伸ばして尻拭いするのは設備だから </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">301: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/23(水) 04:49:11.76 ID:Uc6//ehD</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 日本信号を抑えとか流石にアホやろ <br /> 青の就職四季報に載ってるやつは隠れてねぇし倍率も書いてるだろ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">302: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/23(水) 10:26:45.07 ID:yzCF30aV</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 小松精錬 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">303: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/23(水) 10:28:29.40 ID:yzCF30aV</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ワイのマッマ（早稲田卒）が社長してる会社も隠れ優良企業や。なお今年は採用していない模様。早稲田生だと内定出るから適当に打ってみるんやで。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">304: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/24(木) 11:03:57.57 ID:c3+LdWo2</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 数年前まで東一だったアロン化成 <br /> まだチャンスあるぞ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">305: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/24(木) 17:49:28.25 ID:GMNdYvu5</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ウシオ電機 <br /> TDK <br /> なお勤務地 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">306: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/24(木) 17:52:39.99 ID:bhbwgKUZ</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> いや、新卒採用してないところってアカンだろ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">307: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/24(木) 18:12:54.26 ID:VBMXLUP2</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> nntだが誰か助けて <br /> お礼はする </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">311: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/24(木) 19:41:06.10 ID:AbnnYGxy</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;307</span> <br /> この時期の優良メーカーは <br /> 中小でももう締め切ってる <br />  <br /> 今ある持ち弾に全力をつくせ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">308: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/24(木) 18:23:40.73 ID:TEh8LD2J</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 三井海洋開発 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">309: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/24(木) 19:09:26.02 ID:BGF/Thkw</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 小野測器とかヒロセ電機は横浜で働けて財務も安定してた </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">310: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/24(木) 19:20:18.75 ID:V4IkvHkC</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ニューフレアテクノロジーってどうよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">312: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/24(木) 21:12:34.14 ID:Hl8Qlnjj</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> そうなんだよな、もう人気の中小、中堅は大概募集してない </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">313: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/24(木) 21:16:23.13 ID:AbnnYGxy</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> まぁ、だからこそここで <br /> 救いを求めてるんだろうが <br /> ワイの知ってる所は説明会全滅やったわ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">314: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/24(木) 21:49:18.30 ID:Kjv2OonQ</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 日立工機ってどうなの？ <br /> まだ募集してるみたいだけど </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">315: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/24(木) 23:27:27.58 ID:FR33LRfN</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> そのうち日立じゃなくなるね </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">316: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/25(金) 09:03:14.12 ID:hszRwJkm</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 日立の子会社はまだ説明会あるし募集もしてるみたいよ <br /> 勤務地は諦メロン </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">317: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/25(金) 11:58:34.75 ID:ev+U0tmB</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> いや学校推薦n次募集とか普通にあるやろ <br /> 業界2位から5位くらいの大手でも </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">318: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/25(金) 19:47:40.07 ID:ao7YAG8L</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 日立工機って去年も秋まで募集してたな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">319: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/25(金) 19:53:34.81 ID:8NE2XBSy</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> オムロンの子会社ならまだ行けるのでは？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">320: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/25(金) 20:09:42.52 ID:fqjReJiQ</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> NOK </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">321: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/25(金) 20:18:50.77 ID:9xyrORTP</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> NOKは勤務地がね... </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">322: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/25(金) 20:52:15.49 ID:jbd6e1wO</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 三菱スペースソフトウェア <br /> アンリツ <br /> いい生活 <br /> オプト <br />  <br /> 今日東大で合説やってたで </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">323: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/25(金) 21:39:42.93 ID:W4vx/99U</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 熊本とか鳥取はきつい </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">324: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/25(金) 23:10:17.84 ID:ZRijmtfa</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 熊本ええやん </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">325: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/26(土) 00:16:08.60 ID:5Lv6kvg4</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> まぁもう選り好みできる時期じゃ無いからなぁ・・・ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">326: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/26(土) 00:47:42.16 ID:vgu1HnQI</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 三菱電機プラントエンジニアリングも地味にええと思うで </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">327: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/26(土) 08:40:43.71 ID:u3WV1KWT</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;326</span> <br /> プラントエンジの中でもトップクラスに薄給激務言われるとこやん </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">328: <span  style="color: rgb(124, 199, 84);">就職戦線異状名無しさん</span> <span  style="color: gray;"> 2018/05/26(土) 09:04:45.30 ID:U/aHN++B</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> なにが違うかも知らないけど三菱電機エンジニアリングじゃダメなの？ </div><br />
+<br />
+<p  style="color:gray;text-align:right;"><span  style="font-size: 81.25%;">引用元： <a  target="_blank" href="http://rio2016.5ch.net/test/read.cgi/recruit/1526133412/">http://rio2016.5ch.net/test/read.cgi/recruit/1526133412/</a></span></p>
+
+</div>
+                        
+<!-- タグのリスト表示セット -->
+                        </div>
+<br>
+
+
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=2Z8HPD+9K4KFM+34FI+NUES2" alt="">
+                    </div>
+                    <!-- 記事本文 ここまで-->
+
+
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HV7V6" alt="">
+
+
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www26.a8.net/svt/bgt?aid=190821728180&wid=001&eno=01&mid=s00000011866017004000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" alt=""></td>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+3257OY+3Y6M+601S1" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www24.a8.net/svt/bgt?aid=190821728185&wid=001&eno=01&mid=s00000018427001008000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=35LYZK+3257OY+3Y6M+601S1" alt=""></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+
+
+                    <!-- 記事フッター、コメント、ソーシャルボタン -->
+                    <footer class="article-footer">
+                        <div class="article-footer-comment">
+                            
+                                <a href="http://pathtimeblog.com/archives/9548207.html#comments">1コメント</a>
+                            
+                        </div>
+                        <div class="article-social-btn">
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HVFKY" alt="">
+
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/9548207.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/9548207.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="お前らが知ってる隠れ優良企業紹介して去れ 	 - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=%E3%81%8A%E5%89%8D%E3%82%89%E3%81%8C%E7%9F%A5%E3%81%A3%E3%81%A6%E3%82%8B%E9%9A%A0%E3%82%8C%E5%84%AA%E8%89%AF%E4%BC%81%E6%A5%AD%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%A6%E5%8E%BB%E3%82%8C%20%09%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/9548207.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/9548207.html" data-text="お前らが知ってる隠れ優良企業紹介して去れ 	 - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F9548207.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                        </div>
+                    </footer>
+                    <!-- /記事フッター、コメント、ソーシャルボタン -->
+
+
+                    <!-- カテゴリの最新記事表示 はじまり-->
+                    <div class="article-sub-category">
+                        <div id="ldblog_related_articles_835c38c7">
+
+<div class="related-articles ldblog_related_articles_835c38c7" data-category-id="161700" data-article-rows="5">
+<h3>「企業・業界研究」カテゴリの最新記事</h3>
+<ul id="ldblog_related_articles_835c38c7_161700"></ul>
+</div>
+</div>
+<script type="text/html" id="ldblog_related_articles_835c38c7_tmpl">
+<% for(var i=0,l=articles.length;i<l;i++) {%><% if(i>=rows) break; %>
+<li><a href="<%=articles[i].permalink%>"><%=articles[i].title%></a></li>
+<% } %>
+</script>
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/related_articles.js?t=20180221"></script>
+<script type="text/javascript">
+(function(){
+RelatedArticles.load('ldblog_related_articles_835c38c7', '9548207');
+})();
+</script>
+<!-- 関連記事の表示 -->
+                    </div>
+                    <!-- /カテゴリの最新記事表示 ここまで-->
+
+
+
+
+                    <div id="ad2"></div><!-- 広告表示 -->
+
+                    <!-- 記事オプション はじまり-->
+                    <div class="article-option" id="article-options">
+
+                        <!-- コメントエリア　はじまり -->
+                        
+                        <section id="comments">
+                        
+                            <h1 class="article-option-title">コメント</h1>
+
+                            <!-- コメント繰り返し はじまり-->
+                            			<a name="comments"></a>			<!-- CommentsList -->
+			<div class="article-option" id="comments-list">
+				<h3><span class="icon-comment-v2-comment"></span>&nbsp;コメント一覧&nbsp;(1)</h3>
+                
+                
+				<!-- CommentsLoop Start -->                                <ol id="ld_blog_article_comment_entries">                    <li class="comment-set odd">
+                        <ul class="comment-info">
+                            <li class="comment-author">1.
+                                コンプライアンス？
+                            </li>
+                            <li class="comment-date">2018年09月18日 19:56</li>
+                            <li class="comment-body">							ヤマシンフィルタ株式会社はこれからヤバイな。<br>
+法で定められた職務発明（特許）の対価を、従業員に払ってないらしいから、その内訴えられるんじゃね？<br>
+だいたい、そんな会社はモラハラパワハラ、セカハラ当たり前だろ。<br>
+コンプライアンスの遵守は出来てないんじゃないか？                            </li>
+                        </ul>
+                    </li>                    <!-- CommentsLoop End -->
+                </ol>                <script type="text/javascript" src="https://parts.blog.livedoor.jp/js/comment_loop.js?t=20190710"></script>
+                <script type="text/html" id="ld_blog_article_comment_entries_tmpl" class="template" style="display:none">
+                  <li class="comment-set <%==entry.odd_even%>">
+                    <ul class="comment-info">
+                      <li class="comment-author"><%==entry.num%>.
+                        <% if (entry.member_id) { %><span class="comment-author-blogger"><% } %>
+                        <%if(entry.url){%><a href="<%=entry.url%>" class="comment-url" rel="nofollow"><%==entry.author%></a><%}else{%><%==entry.author%><%}%></li>
+                        <% if (entry.member_id) { %></span><% } %>
+                      <li class="comment-date"><%=entry.datetime%></li>
+                      <li class="comment-body"><%if(entry.rating){%>
+                        <img src="https://parts.blog.livedoor.jp/img/<%=entry.rating_icon%>/<%=entry.rating%>.gif" width="<%=entry.icon_size.width%>" height="<%=entry.icon_size.height%>" alt="<%=entry.rating%>" />
+                        <%}%>
+                        <%==entry.body%>
+                        <%if(entry.attachment){%><br/>
+                        <a href="<%= entry.attachment.url %>" target="_blank"><%= entry.attachment.url %></a>
+                        <%}%>
+                        </li>
+                    </ul>
+                  </li>
+                </script>
+                <script type="text/javascript">
+                    var comment_loader = new LDBlogCommentLoop(1, 100, 0, 0, 847744, 0);
+                </script>			</div><!-- CommentsList End -->
+                            <!-- コメント繰り返し　ここまで -->
+
+                        
+                        <h1 class="comment-form-title">コメントする</h1>
+<div class="article-option" id="comment-form">
+    <form
+      action="https://comment.blogcms.jp/livedoor/shukatu2ch/9548207/post"
+      method="post"
+      name="comment_form"
+          id="comment-form-body"
+      onsubmit="setCommentAuthor(this); return submitOnce(this.button);"
+    >
+    <fieldset>
+        <legend>コメントフォーム</legend>
+    <dl class="comment-form-author">
+        <dt><label for="comment-form-author">名前</label></dt>
+        <dd id="comment-author-form"><input type="text" class="text" id="comment-form-author" name="author" required="required" value="" /></dd>
+    </dl>
+  <dl class="comment-form-body">
+    <dt><label for="comment-form-textarea">コメント</label></dt>
+    <dd>
+      <textarea id="comment-form-textarea" name="body" rows="7" required="required"></textarea>
+      <div id="comment-form-tools">
+        <span class="facemark"><a href="javascript:void(0);" id="emojiLink1" onClick="showEmojiPanel(this.id, 'comment-form-textarea')"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/icon_facemark.png" /></a></span>
+        <span class="rating">
+                    <input type="hidden" name="rating" value="">
+                    <input type="hidden" name="rating_icon" value="star">
+                    <div class="rating-value">
+                        <span id="default-rating-value">評価する</span>
+                        <div class="caret"><span></span></div>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/face/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/face/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/face/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/face/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/face/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/star/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/star/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/star/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/star/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/star/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                    </div>
+                    <div class="rating-icon">
+                        <div data-value="face">顔</div>
+                        <div class="selected" data-value="star">星</div>
+                    </div>
+        </span>
+        <span class="submit"><button type="submit">投稿する</button></span>
+        <span class="memorize"><label for="bake"><input type="checkbox" id="bake" name="cookie" /> 情報を記憶</label></span>
+      </div>
+    </dd>
+  </dl>
+  </fieldset>
+  </form>
+  <script type="text/javascript" src="https://parts.blog.livedoor.jp/js/comment.0.2.js?v=20130430"></script>
+  <script type="text/javascript">
+    loadCommentAuthor(document.comment_form);
+    ldblogComment.init();
+  </script>
+<!-- /#comment-form --></div><!-- コメント投稿フォーム -->
+
+
+                        </section>
+                        
+                        <!-- コメントエリア　ここまで -->
+
+
+                        <!-- トラックバック受け付け　はじまり -->
+                        
+                        <!-- トラックバック受け付け　ここまで -->
+
+                    </div>
+                    <!-- 記事オプション ここまで-->
+
+                </article>
+                <!-- 記事　ここまで -->
+
+
+                <!-- ページ送り はじまり-->
+<!-- Article Pager // -->
+  <div class="pager article-pager-type2">
+    <div class="pager-inner">
+    <div class="article-pager-outer">
+    <ul class="article-pager"><li class="prev"><a href="http://pathtimeblog.com/archives/9528568.html" title="公務員のいいところ上げてけ">&nbsp公務員のいいところ上げてけ</a></li><li class="next both"><a href="http://pathtimeblog.com/archives/9538022.html" title="地方で働いてる理系">地方で働いてる理系&nbsp</a></li>    </ul>
+    </div>
+    </div>
+  </div>
+<!-- // Article Pager -->
+
+                <!-- /ページ送り ここまで-->
+
+            </div><!-- /main-column-inner-->
+        </div>
+        <!-- コンテンツの箱の中　真ん中728px ここまで-->
+
+
+        <!-- コンテンツの箱の中　左側200px はじまり-->
+        <aside class="left-container">
+            <div class="left-column-inner">
+            
+
+
+
+<div class="plugin-popular_articles sidewrapper">
+  <div class="sidetitlebody">
+    <div class="sidetitle">人気記事</div>
+  </div>
+  <div class="sidetop"></div>
+  <div class="side">
+
+
+    <div class="popular-articles">
+      <table id="populararticles-472933"></table>
+      <div class="popular-articles-freearea"></div>
+    </div>
+  </div>
+
+  <div class="sidebottom"></div>
+</div>
+
+<script type="text/javascript" language="javascript"><!--
+(function(){
+  var url = 'http://pathtimeblog.com/archives/popular_articles.json'
+         + '?rangetype=custom'
+         + '&from=0'
+         + '&range=13'
+         + '&limit=50'
+         + '&offset=0'
+         ;
+
+  var callback = function(data) {
+    var table = document.getElementById('populararticles-472933');
+    for (i = 0; i < data.articles.length; i++) {
+      var rank = i + 1;
+      var prefix = 'populararticles-472933-'+ rank;
+
+      var row = table.insertRow(-1);
+      var elm1 = row.insertCell(-1);
+      elm1.className = 'populararticles-rank';
+      elm1.innerHTML = '<span><b>' + rank + '</b></span>';
+      var elm2 = row.insertCell(-1);
+      elm2.className = 'populararticles-title';
+      elm2.innerHTML = '<a href="' + data.articles[i].url + '?ref=popular_article&id=7836571-472933">' + data.articles[i].title + '</a>'
+      ;
+
+    }
+  };
+
+  var xhr = (function () {
+      if (window.XMLHttpRequest)
+        return new XMLHttpRequest();
+      else {
+        var msxml = [
+          "Msxml2.ServerXMLHTTP.6.0", "Msxml2.ServerXMLHTTP.5.0", "Msxml2.ServerXMLHTTP.4.0", "Msxml2.ServerXMLHTTP.3.0",
+          "Msxml2.ServerXMLHTTP", "Microsoft.ServerXMLHTTP", "Msxml2.XMLHTTP.6.0", "Msxml2.XMLHTTP.5.0",
+          "Msxml2.XMLHTTP.4.0", "Msxml2.XMLHTTP.3.0", "Msxml2.XMLHTTP", "Microsoft.XMLHTTP"
+        ];
+        for (var i = 0; i<msxml.length; i++ ){
+          try {
+            return new ActiveXObject(msxml[i]);
+          }
+          catch(e) { }
+        }
+        return null;
+      }
+  })();
+    
+  if (!xhr) return;
+  xhr.open('GET', url, true);
+  xhr.onreadystatechange = function () {
+    if (xhr.readyState == 4 && xhr.status == 200) {
+      eval('var ld_popular_articles_json = ' + xhr.responseText);
+      callback(ld_popular_articles_json);
+    }
+  };
+  xhr.send();
+
+})();
+//-->
+</script>
+
+<div class="plugin-recent_articles sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">最新記事</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27108137.html">21卒就活生ワイ、内定辞退でしこたま怒鳴られる</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/10257766.html">ニートって難しい資格取って仕事探そうとするけどさ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839910.html">【学歴フィルター】企業にとっての一流大学とは？【就職偏差値】</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839719.html">ワイニート歴2年、就職して初年度の年収500万円！！！！</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073431.html">あ、面接落ちたなってフラグ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073465.html">【悲報】上級国民大手企業様「下請けに仕事やらせてガッポリ中抜きｗ」→夏ボーナス92万5947円</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27075072.html">ワイ21卒、会社選びを間違ってしまったと後悔する</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027071.html">【悲報】キャリア採用の銀行員ワイ、周囲の人間があまりにも有能すぎてマジでドン引き……………………</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27063977.html">【速報】大学、終わる。　Googleが大卒資格を得られるコースを提供へ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027029.html">教師「Ｆ欄ＯＫです、公務員です、毎日定時で帰れます、年収700万です」←こいつが馬鹿にされる理由ｗ</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-recent_articles -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「A」設定のブログパーツ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　左側200px ここまで-->
+
+
+        <!-- コンテンツの箱の中　右側200px はじまり-->
+        <aside class="right-container">
+            <div class="right-column-inner">
+            
+
+
+
+<div class="plugin-categorize sidewrapper" id="plugin-categorize-457691">
+    <div class="sidetitlebody">
+        <div class="sidetitle">カテゴリー</div>
+    </div>
+    <div class="sidetop"></div>
+    <div class="side">
+
+
+      
+
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160301.html">就活準備 (243)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161699.html">自己分析 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161700.html">企業・業界研究 (66)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155971.html">資格 (39)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155966.html">選考 (254)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155977.html">インターン (23)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155978.html">説明会 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155975.html">ES (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155976.html">SPIなど (7)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155974.html">面接 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155972.html">内定 (222)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160304.html">NNT(無内定) (68)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160302.html">内定後・入社前 (110)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160308.html">アドバイス (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160460.html">入社後 (924)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220065.html">新卒 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220063.html">上司 (95)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_219473.html">社会人生活 (299)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160474.html">ブラック企業 (65)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160303.html">転職 (175)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163214.html">副業 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220667.html">収入 (102)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_299497.html">採用担当 (3)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_318465.html">第二新卒 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161711.html">学生生活 (46)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163247.html">浪人・留年 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155967.html">学歴 (119)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_223545.html">ニート (38)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155969.html">業界別 (314)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156035.html">金融 (34)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156099.html">建築・不動産 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160357.html">物流・運送 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160358.html">IT・メディア (55)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160359.html">エネルギー・資源 (1)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160310.html">自動車・機械 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160360.html">食品・小売 (14)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160311.html">公務員・準公務員 (89)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160356.html">サービス (21)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160473.html">その他 (42)</a>
+          
+        </div>
+        
+    
+        
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160476.html">その他 (472)</a>
+          
+        </div>
+        
+    
+    
+
+    </div>    
+    <div class="sidebottom"></div>
+</div><!-- // plugin-categorize -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+<a href="//blog.with2.net/link/?1955545"><img src="https://blog.with2.net/img/banner/banner_21.gif" title="人気ブログランキング"></a><br><a href="//blog.with2.net/link/?1955545" style="font-size: 0.8em;">人気ブログランキング</a>
+
+<div class="plugin-link sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">リンク集</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://0matome.com/" target="_blank">おまとめ</a></div>
+
+<div class="sidebody"><a href="http://2chnavi.net/allentries/?threshold=0" target="_blank">2chnavi</a></div>
+
+<div class="sidebody"><a href="http://http://iwashi.biz/" target="_blank">いわしアンテナ &gt;°))))彡</a></div>
+
+<div class="sidebody"><a href="http://2ch-2.net/" target="_blank"> つーアンテナ(*ﾟ∀ﾟ)</a></div>
+
+<div class="sidebody"><a href="https://ii-antenna.net/?about" target="_blank">いーあんてな(#ﾟｗﾟ)</a></div>
+
+<div class="sidebody"><a href="https://2ch-mi.net/" target="_blank">みーアンテナ（´∀｀）</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-link -->
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">検索</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="https://cse.google.com/cse.js?cx=014565878756483497884:urusxdcjffe"></script>
+<div class="gcse-search"></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「B」設定のブログパーツ表示 -->
+            
+<!-- LDR・RSSリンクとブログのロゴ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　右側200px ここまで-->
+
+        <!-- このページのトップヘ　はじまり -->
+        <p class="to-pagetop"><a href="#"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/to_pagetop.png" width="70" height="70" alt="このページのトップヘ" /></a></p>
+        <!-- このページのトップヘ ここまで -->
+
+    </div>
+    <!-- コンテンツ全体 ここまで-->
+
+    <!-- ブログのフッター はじまり-->
+    <footer id="blog-footer">
+    <!-- Blog Common Footer // --><div id="footer"><p>Powered by <a href="http://blog.livedoor.com/" title="ライブドアブログ">ライブドアブログ</a></p></div><!-- // Blog Common Footer --><!-- 共通フッター表示 -->
+    </footer>
+    <!-- /ブログのフッター ここまで-->
+
+</div>
+<!-- コンテンツエリア ここまで-->
+
+
+<!-- Add Body Tag // --><script type="text/javascript">
+(function(){
+  var traq = document.createElement('script'); traq.type = 'text/javascript'; traq.async = true;
+  traq.src = 'https://t.blog.livedoor.jp/u.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(traq, s);
+})();
+</script>
+<noscript>
+<img src="https://t.blog.livedoor.jp/u.gif" alt="traq">
+</noscript>
+<!-- // Add Body Tag -->
+
+<script>
+(function($) {
+  var cookieName = 'livedoor-blog-gdpr-agreed';
+  $(document).ready(function() {
+    if (navigator.userAgent.match(/https?:\/\//)) {
+      // UA に http:// or https:// があればスルー
+      return;
+    }
+
+    var agreed = document.cookie.indexOf(cookieName) >= 0;
+    if (agreed) {
+      // 同意済み Cookie があればスルー
+      return;
+    }
+
+    var banner = $('<div>');
+    banner.attr('id', 'gdpr-banner');
+    var label = $('<p>');
+    label.html('\
+      ライブドアブログでは広告のパーソナライズや効果測定のためクッキー(cookie)を使用しています。<br>\
+      このバナーを閉じるか閲覧を継続することでクッキーの使用を承認いただいたものとさせていただきます。<br>\
+      また、お客様は当社パートナー企業における所定の手続きにより、クッキーの使用を管理することもできます。<br>\
+      詳細は<a href="http://www.livedoor.com/rules/" target="_blank" style="color:#023780;text-decoration:underline;">ライブドア利用規約</a>をご確認ください。\
+    ');
+    banner.append(label);
+
+    var closeButton = $('<button>');
+    closeButton.attr('type', 'button');
+    closeButton.html('閉じる');
+    closeButton.on('click', function() {
+      $('#gdpr-banner').hide();
+      document.cookie = cookieName + '="1";expires=Tue, 31-Dec-2037 00:00:00 GMT;path=/;';
+    });
+    banner.append(closeButton);
+
+    banner.css({
+      'position': 'fixed',
+      'left': '0',
+      'right': '0',
+      'bottom': '0',
+      'background': '#dcdcdc',
+      'color': '#000',
+      'padding': '20px',
+      'text-align': 'center',
+      'box-shadow': '0 -2px 2px rgba(102, 102, 102, 0.86)',
+      'z-index': '2147483647',
+    });
+    label.css({
+      'display': 'inline-block',
+      'text-align': 'left',
+      'font-size': '14px',
+      'color': '#000',
+      'vertical-align': 'middle',
+      'line-height': '1.5',
+    });
+    closeButton.css({
+      'display': 'inline-block',
+      'color': '#fff',
+      'border': 'none',
+      'font-size': '14px',
+      'padding': '4px 40px',
+      'margin-left': '40px',
+      'background': '#535353',
+      'vertical-align': 'middle',
+    });
+
+    var script = document.createElement('script');
+    script.type = "text/javascript";
+    script.src = "https://ipcheck.blogsys.jp/check.js?t=" + Date.now();
+    script.onerror = function() {
+      $('body').append(banner);
+    };
+    document.body.appendChild(script);
+  });
+})(jQuery);
+</script>
+</body>
+</html>

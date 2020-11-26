@@ -1,0 +1,1547 @@
+<!DOCTYPE html>
+<html lang="ja" itemscope itemtype="http://schema.org/Blog">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=1190">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" /><link rel="shortcut icon" type="image/vnd.microsoft.icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/favicon.ico" /><link rel="icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/3ab45ab0.jpg" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/template.css?v=20190826" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/heart.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/icon.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="http://pathtimeblog.com/site.css?_=20190831163247" type="text/css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://pathtimeblog.com/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://pathtimeblog.com/atom.xml" /><link rel="canonical" href="http://pathtimeblog.com/archives/6637119.html" /><link rel="openid.server" href="http://auth.livedoor.com/openid/server" /><link rel="openid.delegate" href="http://profile.livedoor.com/shukatu2ch/" />
+<link rel="mixi-check-alternate" media="mixi-device-mobile" type="text/html" href="http://blog.m.livedoor.jp/shukatu2ch/article/6637119" />
+<link rel="mixi-check-alternate" media="mixi-device-smartphone" type="text/html" href="http://pathtimeblog.com/archives/6637119.html" />
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/jquery-1.11.1.min.js"></script>
+
+<meta name="description" content="1: 吾輩は名無しである  2010/10/16(土) 03:54:49 
+ 社会不適合者だと見なされる 
+" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="文学なんか読んでる大学生は就活で落とされる : 2ch就活まとめ" />
+<meta property="og:description" content="1: 吾輩は名無しである  2010/10/16(土) 03:54:49  社会不適合者だと見なされる " />
+<meta property="og:url" content="http://pathtimeblog.com/archives/6637119.html" />
+<meta property="og:site_name" content="2ch就活まとめ" />
+<meta property="og:locale" content="ja_JP" />
+<meta property="og:image" content="https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png" />
+
+<meta name="twitter:site" content="@2chshukatu" />
+<meta name="twitter:title" content="文学なんか読んでる大学生は就活で落とされる : 2ch就活まとめ" />
+<meta name="twitter:description" content="1: 吾輩は名無しである  2010/10/16(土) 03:54:49  社会不適合者だと見なされる " />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image:src" content="https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png" />
+<link rel="alternate" media="handheld" type="application/xhtml+xml" href="http://blog.m.livedoor.jp/shukatu2ch/" />
+
+<title>文学なんか読んでる大学生は就活で落とされる : 2ch就活まとめ</title>
+<script src="https://parts.blog.livedoor.jp/js/emoji.js"></script>
+<script src="https://parts.blog.livedoor.jp/js/misc.js?v=20190710"></script>
+<!--[if lt IE 9]>
+<script src="https://parts.blog.livedoor.jp/js/html5.js"></script>
+<![endif]-->
+<script src="https://parts.blog.livedoor.jp/js/usr/import.js"></script>
+<script>
+$(function(){
+  if($('.header-inner01').children('#blog-header-image').length) {
+    $(window).bind('load', function() {
+      var title1 = $('#blog-header-image').height();
+      var title2 = $('.header-menu').height();
+      var headerHeight = title1-title2-15;
+      $("hgroup").css("height", headerHeight);
+    });
+  }
+});
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-3064778048578600",
+          enable_page_level_ads: true
+     });
+</script>
+
+<!-- Add Google Analytics Tag // -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-113178806-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- // Add Google Analytics Tag -->
+
+
+<meta name="referrer" content="always">
+<meta name="referrer" content="unsafe-url">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1638469-45"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+var blogId = '';
+if (blogId) {
+  gtag('config', 'UA-1638469-45', {
+    'custom_map': {'dimension1': 'blog_id'},
+    'blog_id': blogId
+  });
+} else {
+  gtag('config', 'UA-1638469-45');
+}
+</script>
+
+</head>
+<body class="default_2012 page-article layout-2col sidebar-right"><script type="text/javascript"><!--
+var ld_blog_vars = {
+  provider_id : '1',
+  provider_name : 'livedoor',
+  id : '7836571',
+  name : 'shukatu2ch',
+  charset : 'utf8',
+  url : 'http://pathtimeblog.com/',
+  title : '2ch就活まとめ',
+  blog_design: {
+      version: 1
+  },
+  blog_category: {
+    id: '243',
+    permalink: 'https://blog.livedoor.com/category/243/',
+    name: 'まとめ(総合) > まとめ',
+    is_adult : 0,
+    is_gambling : 0,
+    hierarchy: [{ id: '431', name: 'まとめ(総合)', permalink: 'https://blog.livedoor.com/category/431/' },{ id: '243', name: 'まとめ', permalink: 'https://blog.livedoor.com/category/243/' }]
+  },
+  current_page : {
+    type : 'article',    page : ''
+  },
+  articles : [ {
+       id : '6637119',
+       permalink : 'http://pathtimeblog.com/archives/6637119.html',
+       title : '文学なんか読んでる大学生は就活で落とされる',
+       categories : [ { id:'160301', name:'就活準備', permalink:'http://pathtimeblog.com/archives/cat_160301.html' }, { id:'155967', name:'学歴', permalink:'http://pathtimeblog.com/archives/cat_155967.html' } ],
+       date : '2018-01-27 11:00:06'
+}   ]
+};
+//-->
+</script><div id="analyzer_tags" style="display:none">
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/c2.js?v=20191010"></script>
+<script type="text/javascript">blog_counter('shukatu2ch', 7836571, 'http://pathtimeblog.com/')</script>
+</div><script type="text/javascript" src="https://parts.blog.livedoor.jp/js/smartphone.js?v=20200824"></script>
+<script type="text/javascript" src="http://pathtimeblog.com/settings/header.js?v=20190705"></script><script type="text/javascript" src="http://pathtimeblog.com/settings/ad.js"></script>
+<script type="text/javascript">
+var palette_src = 'https://parts.blog.livedoor.jp/img/emoji/3/palette.png';
+if (typeof IMAGE_CACHE == 'object' && IMAGE_CACHE['emoji_palette']) IMAGE_CACHE['emoji_palette'].src = palette_src;
+</script>
+
+<!-- Blog Common Header // -->
+<!-- // Blog Common Header -->
+<!-- 共通ヘッダー表示 -->
+
+<!-- ブログタイトル はじまり-->
+<header id="blog-header">
+
+    <div id="blog-header01">
+
+        <div class="header-inner01 show-image hide-text">
+
+            <hgroup>
+                <!--ブログタイトル　はじまり-->
+                <h1 id="blog-title"><a href="http://pathtimeblog.com/">2ch就活まとめ</a></h1>
+                <!--ブログタイトル　ここまで-->
+                <!--ブログ説明　はじまり-->
+                <h2 id="blog-description">新卒・転職・社会人生活などを含め、就活・就職に関することをまとめてます。</h2>
+                <!--ブログ説明　ここまで-->
+            </hgroup>
+
+            <a href="http://pathtimeblog.com/"><img src="https://resize.blogsys.jp/727db0f9da9f42eb7d26b703338c30b3eef0157c/trim2/0x243_94p_1200x388/http://livedoor.blogimg.jp/shukatu2ch/imgs/0/5/055bbafe.jpg" id="blog-header-image" /></a>
+
+            <div id="blog-header02">
+                <div class="header-inner02">
+                    <ul class="header-menu">
+                        <li><a href="http://pathtimeblog.com/">HOME</a></li><!--メニューを入れてください-->
+                        <li class="ldb_menu-item-url"><a href="http://blog.livedoor.jp/shukatu2ch/archives/6126504.html">ABOUT</a></li><!--メニューを入れてください-->
+                        <li><a href="mailto:shukatumatome@gmail.com">お問い合わせ</a></li><!--メニューを入れてください-->
+                    </ul>
+                    <ul class="header-sarch">
+                        <li><a href="http://twitter.com"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_twitter.png" alt="Twitter" /></a></li><!--Twitter-->
+                        <li><a href="http://pathtimeblog.com/index.rdf"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_rss.png" alt="RSS" /></a></li><!--RSS-->
+                        <li>
+                        <form action="http://pathtimeblog.com/search" method="GET" style="padding:0;margin:0px;">
+                        <input type="TEXT" name="q" class="sf">
+                        <input type="SUBMIT" value="検索" class="sfbtn">
+                        </form>
+                        </li><!--検索窓-->
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</header>
+<!-- /ブログタイトル ここまで-->
+
+
+<!-- コンテンツエリア はじまり-->
+<div id="wrapper">
+
+    <!-- コンテンツ全体 はじまり-->
+    <div id="container">
+
+        <!-- 相互RSS はじまり-->
+        <div class="rss-blogroll">
+
+            <!-- 相互RSSを設置する場合の注意事項
+                コードに含まれる以下のCSSは外して設置してください
+                http://blogroll.livedoor.net/css/default2.css -->
+
+                 <!-- 相互RSSのコード ひとつ目-->
+            <script type="text/javascript">
+            <!--
+                   var blogroll_channel_id = 255242;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード ふたつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 265945;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード みっつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 255442;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href= />
+        </div>
+        <!-- 相互RSS ここまで-->
+
+        <!-- コンテンツの箱の中　真ん中728px はじまり-->
+        <div class="main-container">
+            <div class="main-column-inner">
+<br>
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+<br>
+                <!-- メッセージボード -->
+                 
+
+
+
+                <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://pathtimeblog.com/archives/6637119.html"
+    trackback:ping="http://trackback.blogsys.jp/livedoor/shukatu2ch/6637119"
+    dc:title="文学なんか読んでる大学生は就活で落とされる"
+    dc:identifier="http://pathtimeblog.com/archives/6637119.html"
+    dc:subject="就活準備,学歴"
+    dc:description="1: 吾輩は名無しである  2010/10/16(土) 03:54:49  社会不適合者だと見なされる "
+    dc:creator="shukatu2ch"
+    dc:date="2018-01-27T11:00:06+09:00" />
+</rdf:RDF>
+-->
+<div id="ad_rs" class="ad_rs_b"></div><!-- 記事のトラックバック・オートディスカバリー -->
+
+
+                <!-- 記事 はじまり-->
+                <article class="article first-article" itemscope itemtype="http://schema.org/BlogPosting">
+
+                    <!-- 記事タイトル　記事下の情報　はじまり-->
+                    <header class="article-header">
+
+                        <h1 class="article-title" itemprop="name"><a href="http://pathtimeblog.com/archives/6637119.html" itemprop="url">文学なんか読んでる大学生は就活で落とされる</a></h1><!-- 記事のタイトル -->
+
+                            <!-- 記事下の記事情報 はじまり-->
+                            <div class="article-header-inner">
+
+                                <!-- 記事情報の上の行 はじまり-->
+                                <div class="article-header-top">
+                                <p class="article-header-date"><time datetime="2018-01-27T11:00:06+09:00" pubdate="pubdate">2018年01月27日</time></p>
+                                
+                                <ul class="article-header-category">
+                                    <li>
+                                        <dl><dt>カテゴリ:</dt><dd class="article-category1"><a href="http://pathtimeblog.com/archives/cat_160301.html">就活準備</a></dd><dd class="article-category2"><a href="http://pathtimeblog.com/archives/cat_155967.html">学歴</a></dd></dl>
+                                    </li>
+                                </ul>
+                                
+
+                                <!-- 記事の評価アイコン はじまり-->
+                                
+                                <!-- 記事の評価アイコン ここまで-->
+
+                                </div>
+                                <!-- 記事情報の上の行 ここまで-->
+                                <!-- ソーシャルボタン　はじまり -->
+                                <ul class="article-social-btn">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/6637119.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/6637119.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="文学なんか読んでる大学生は就活で落とされる - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=%E6%96%87%E5%AD%A6%E3%81%AA%E3%82%93%E3%81%8B%E8%AA%AD%E3%82%93%E3%81%A7%E3%82%8B%E5%A4%A7%E5%AD%A6%E7%94%9F%E3%81%AF%E5%B0%B1%E6%B4%BB%E3%81%A7%E8%90%BD%E3%81%A8%E3%81%95%E3%82%8C%E3%82%8B%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/6637119.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/6637119.html" data-text="文学なんか読んでる大学生は就活で落とされる - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F6637119.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                                </ul>
+                                 <!-- ソーシャルボタン　ここまで -->
+                            </div>
+                            <!-- 記事下の記事情報 ここまで-->
+
+                    </header>
+                    <!-- 記事タイトル　記事下の情報　ここまで-->
+
+
+
+                    <!-- 記事本文 はじまり-->
+                    <div class="article-body">
+                        <div class="article-body-inner">
+<!-- 参加している共通テーマの表示 -->
+                        <span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">1: <span  style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span  style="color: gray;"> 2010/10/16(土) 03:54:49 </span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b"> 社会不適合者だと見なされる </div><br />
+<!-- Generated by 2chまとめくす (http://2mtmex.com/) --><!-- 本文 --><div class="article-body-more" id="more"><font size="2"><div class="t_h t_i" >17: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/10/24(日) 15:40:36 </span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;1</span> <br /> 真理だな <br />  </div><br />
+<font size="2"><div class="t_h t_i" >271: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2016/04/22(金) 11:50:36.35 </span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;1</span> <br />  <br /> あたりまえだよ。このスレ見れば一目瞭然。 </div><br />
+<font size="2"><div class="t_h" >3: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/10/16(土) 07:09:04 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> たぶん、面接で文学が好きであるということを伝えて、マイナス評価する <br /> 企業はブラック。 <br /> ブラックは、疑問を持たず飼い馴らしやすい者を甲と評価する。 <br />  <br /> シュウカツはさておいて、質のよい文学を知ると乾いた心が潤うよ。 <br /> 男だと、奇麗な女性がもっと奇麗に見えてくる。 <br /> 文学は読むものじゃなく、感じるものです。 </div><br />
+<font size="2"><div class="t_h" >5: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/10/16(土) 11:51:34 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> むしろ、一流企業の役員クラスになると、若い時に文学に親しんでいた人が多いからね。 <br /> “将来作家になりたい"的なオーラを出してない限り、面接で文学好きをアピールするのはアリ。 <br />  <br /> 外資系企業でも、外国人との商談中に自国の文化に無知だとバレると、軽蔑されるよ。 </div><br />
+<font size="2"><div class="t_h" >8: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/10/23(土) 15:08:52 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 車谷長吉も書いてたな、 <br /> サラリーマンなら文学なんか読むな、週刊誌読めって上司に叱られたって </div><br />
+<font size="2"><div class="t_h" >10: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/10/23(土) 17:12:16 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 体育会系出身ばかりの社員が多い会社とは、水が合わないだろうな。 <br />  </div><br />
+<font size="2"><div class="t_h" >11: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/10/23(土) 19:58:18 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;margin-bottom:30px;margin-top:20px;"> 一般教養として読んでいるのはいいけど、文学オンリーだと落とされる。 <br /> 日本の純文学って隠遁者の教養でしかないから、 <br /> 一般社会に必要な恊働とか意欲とかとほど遠いんだよな。 <br /> 社会と地続きの教養になっていない。 <br /> 文学部出身者なんて要らないって企業が多いのもそのせい。 </div><br />
+<font size="2"><div class="t_h" >12: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/10/23(土) 20:12:37 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 日本だと、文学青年イコール太宰治的人間としてみられ非生産的な反体制的 <br /> 人間として、マイナスパワーが強烈であり、根拠のないプライドを持っていると <br /> 勘違いされるだろう。 <br />  </div><br />
+<font size="2"><div class="t_h" >13: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/10/23(土) 21:50:13 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;"> ダメ人間なのは文学しか知らない人間。 <br /> 運動バカと同じで、ひとつの分野しか長けたものがない人間は <br /> えてしてロクなもんじゃない。 </div><br />
+<font size="2"><div class="t_h" >14: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/10/24(日) 04:07:10 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> でも文学とか読めるのは大学生までだから読める時間があるなら読んでおいた方がいいんじゃないかな <br /> 社会人になったら女とかじゃないと文学作品とか読まなくなるし </div><br />
+<font size="2"><div class="t_h" >16: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/10/24(日) 10:02:36 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 生活の余暇として、読書するのではなく <br /> 読書するために、生活があるくらいに <br /> 考えたほうが生きていて楽しいし <br /> 仕事中心の生活なんて、ウンザリ。 <br /> 古今東西の文学に触れられることには <br /> ロマンを感じるね。 </div><br />
+<font size="2"><div class="t_h" >18: <span style="color: rgb(124, 199, 84);">名無しの語り手 ◆2XSMEvSIr6 </span> <span style="color: gray;"> 2010/10/24(日) 20:32:46 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 春樹好きをアピールしたら速攻で落とされました。 </div><br />
+<font size="2"><div class="t_h" >19: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/10/25(月) 11:00:56 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 文学とサラリーマンはあわないものさ。 <br /> 通勤時間にミステリーでも読んでたほうが健全。 <br /> 文学とつきあってたら飲み付き合いもわるくなるし昼休みも一人読書。 <br /> おまけに上司や企業のやりかたに悪意をみつけてしまう。 <br /> 会社にとってはバカで何も考えない方が優秀なの。 </div><br />
+<font size="2"><div class="t_h" >21: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/10/30(土) 15:19:32 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#ffa500;margin-bottom:30px;margin-top:20px;"> 文学なんてものは世間様からは隠れて読みなさい <br /> 芸術というのは常に個人的なものです </div><br />
+<font size="2"><div class="t_h" >22: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/10/30(土) 15:49:37 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 趣味が美術館巡りといっても引かれるでしょうな </div><br />
+<font size="2"><div class="t_h" >23: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/10/30(土) 22:15:37 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 休憩中に本読んでる奴いるけど友達一人もいないってよ </div><br />
+<font size="2"><div class="t_h" >24: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/10/31(日) 06:09:39 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 本が友達 <br /> 　例えば、読書が好きで、友達がいないとしても <br /> 　くだらない話と世迷い言を言い、友達が多いと演技して、ウザイ奴より <br /> 　よっぽど、素晴らしい人生だと思う。 <br />  <br />  </div><br />
+<font size="2"><div class="t_h" >25: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/10/31(日) 13:02:06 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 文学部なんか一銭の価値にもならない。 <br /> 代アニで津原先生の授業うけたほうが何百倍も得。 </div><br />
+<font size="2"><div class="t_h" >27: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/11/01(月) 02:43:22 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 今の後輩の苦戦ぶり見てると <br /> 一応は社会の中にもぐりこめた自分はつくづくラッキーだったと感じる <br />  <br /> 既にそのラッキーも枷ですけどね(^q^) <br /> もっと細かいとこに潜っていたい、自己の襞とか行間とかに <br /> そんなとこ入ったら死ぬに決まってんだけど <br /> むしろ死ぬべきところを死んでないで白々しく嘘くさくまだ居るような感じがしているくらいで <br /> 要は度胸がないだけだ <br /> ならばもっとはやくそうするべきなのにいつかそうなってしまうんだからなあ <br /> みつを </div><br />
+<font size="2"><div class="t_h" >28: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/11/01(月) 05:38:31 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 一応、会社で仕事したり、周囲の人たちに協調したりはして生きてますが <br /> やはり何のため生きてるのか不思議に思います。 <br /> この虚しさを埋めてくれるのが、文学作品であり、自分にとってはなくてはならないものです。 <br /> 社会的立場とかより、一個の生命存在として先人の精神の遺産を相続したいと思います。 </div><br />
+<font size="2"><div class="t_h" >29: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/11/01(月) 08:02:08 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;"> 偏差値が高いかどうかが全て <br /> 低学歴が何学部であろうと東大文学部に負けるのは必然 </div><br />
+<font size="2"><div class="t_h" >31: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/11/01(月) 14:58:41 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> そういやイギリスのほうじゃ文学部への国の予算はゼロにするってね｡ <br /> 日本でも､他の国や地域でもそろそろそうなる予感･･･｡ </div><br />
+<font size="2"><div class="t_h" >32: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/11/01(月) 15:04:04 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> ヨーロッパじゃ国が文学者養ってあげてるんじゃなかったっけ？ </div><br />
+<font size="2"><div class="t_h" >33: <span style="color: rgb(124, 199, 84);">ヘ(^q^)ヘ鈴木雄介 ◆m0yPyqc5MQ </span> <span style="color: gray;"> 2010/11/01(月) 15:08:26 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> ドイツとかそうなんじゃないの？ </div><br />
+<font size="2"><div class="t_h" >35: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/11/05(金) 07:11:31 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> ドイツは国のリーダーが日本みたいに、バカじゃないし洗練されてる。 <br /> 日本はいくら先進国になっても、アジア人気質で、計画性がない。 </div><br />
+<font size="2"><div class="t_h" >36: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/11/05(金) 12:33:29 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> メルケルのどこがそんなに優れていて、どこが洗練されているのか <br /> 聞かせてもらいましょうか？ <br />  <br /> また、例えばカンバン方式は日本発で欧米がいっせいに見習ったシステムですが、 <br /> 計画性がなくてできるもんなんでしょうか？アジア人が一般に計画性がないってのは <br /> どういう根拠があるんでしょうか？ <br />  <br /> 日本の知的レベルの低い層は、日本人自身を悪く言うのがクセのようになってる、 <br /> というのは、これ本当だねｗ </div><br />
+<font size="2"><div class="t_h" >38: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/11/05(金) 14:07:23 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> ＞日本の知的レベルの低い層は、日本人自身を悪く言うのがクセのようになってる <br />  <br />  <br /> これは同意だな <br /> 自分たち日本人を卑下することが利口だと思ってる <br /> 多くの発明をし経済的大国にのし上がった国なのにね </div><br />
+<font size="2"><div class="t_h" >37: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/11/05(金) 14:04:19 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> アメリカでも作家を養うためのお金を国が出してるよ <br /> 後で返していかないといけないらしいけど </div><br />
+<font size="2"><div class="t_h" >41: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/11/05(金) 17:23:07 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> いい奴から早く死ぬのはどこでも一緒 </div><br />
+<font size="2"><div class="t_h" >42: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/11/05(金) 19:32:40 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> イタリア人とか見てると幸せを謳歌してるなーとおもう </div><br />
+<font size="2"><div class="t_h" >44: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/11/05(金) 20:24:46 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 日本は細かいところでは頭いいけど全体としてみると馬鹿っぽいよな </div><br />
+<font size="2"><div class="t_h" >45: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/11/05(金) 20:49:38 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 一時期のサッカー代表とかすげえグダグダだったしな。 <br /> 個人が優秀でも集団になるとダメになっちゃうみたいな </div><br />
+<font size="2"><div class="t_h" >50: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/11/05(金) 22:28:03 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;color:#ff0000;margin-bottom:30px;margin-top:20px;"> 哲学の方が悲惨だろ </div><br />
+<font size="2"><div class="t_h" >51: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/11/07(日) 11:51:15 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 文学＞＞＞＞＞就活 <br /> だと、いずれ知ることになるさ </div><br />
+<font size="2"><div class="t_h" >53: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/11/07(日) 14:10:33 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 文学は裏切らないからな！ </div><br />
+<font size="2"><div class="t_h" >54: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/11/07(日) 18:22:18 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 文学？文学？偉そうに、小説だろ？小説なんか読んでいたら使いものに <br /> ならないよ。女、子どものものだろ？文学青年なんて、今頃言ったら <br /> 変質者扱いだぜ。サルトル、カミユ、モーパッサン、大江健三郎。 </div><br />
+<font size="2"><div class="t_h t_i" >56: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/11/07(日) 18:25:32 </span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;54</span> <br /> 文学に否定的なのに何故に文学板に住んでるの？ </div><br />
+<font size="2"><div class="t_h t_i" >57: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/11/07(日) 18:51:25 </span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;54</span> <br /> 文学に否定的なのに何故に文学板に住んでるの？ </div><br />
+<font size="2"><div class="t_h t_i" >59: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/11/07(日) 20:31:26 </span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;54</span> <br /> 文学？文学？じゃねえよ <br /> 子供か </div><br />
+<font size="2"><div class="t_h" >55: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/11/07(日) 18:23:44 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 読書家は、休日は起きてる間、ずっと読んでるんですよね？ <br /> そうじゃなきゃドストエフスキー全集なんか、一生かかっても読めないよね？ </div><br />
+<font size="2"><div class="t_h t_i" >61: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/11/07(日) 23:05:25 </span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;55</span> <br /> 一年くらいあれば読めるんじゃないでしょうか </div><br />
+<font size="2"><div class="t_h" >62: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/11/08(月) 18:43:09 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> チャンドラーとかハードボイルド系なら、シブイじゃね？ </div><br />
+<font size="2"><div class="t_h" >63: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/11/08(月) 20:33:12 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> いまどきハードボイルドなんか読んでるのはただの痛い人だよ <br /> だからこっそり読むんだけどね </div><br />
+<font size="2"><div class="t_h" >64: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/11/09(火) 08:03:45 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 文学好きな人はエンタメを馬鹿にして読まない人が多いよね。 <br /> 俺もそうなんだけど、そのかわりハリウッドとかのエンタメ映画は見るようにしてる。 <br /> そうしたら女の子とも話が合うし、そこで文学とか芸術性のある映画の話もおりまぜたら結構尊敬してもらえる。俺は自分で言うのもあれだけど顔もいいし学歴もあるからモテる。 <br /> あまり頭でっかちにならなければ周りも見えるし、就職も上手くいくと思うよ。 </div><br />
+<font size="2"><div class="t_h" >69: <span style="color: rgb(124, 199, 84);">蝙蝠ちゃん出没中 ◆cWvjrxBVRg </span> <span style="color: gray;"> 2010/11/09(火) 20:19:49 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 就活して、就職して１０年も経てば、先の見えた <br /> サラリーマン人生のもの悲しさを嫌でも感じるようになる <br />  <br /> その時も、文学は今と変わらずあり続ける </div><br />
+<font size="2"><div class="t_h" >72: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/11/09(火) 20:37:42 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 隠れブラック一流企業で働くのと、人類の文化遺産を受け継ぐのと <br /> どっちが価値があるかわかりますよね？ <br />  </div><br />
+<font size="2"><div class="t_h" >73: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/11/09(火) 20:47:05 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;"> 出版社とかに就職すればいいんじゃね？ </div><br />
+<font size="2"><div class="t_h" >76: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/11/10(水) 11:43:02 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 文学板の住人にニートが多いってのは事実なのだろうか </div><br />
+<font size="2"><div class="t_h" >77: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/11/10(水) 11:48:39 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 早稲田出のニートです </div><br />
+<font size="2"><div class="t_h" >79: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/11/10(水) 20:35:34 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 慶応卒のフリーターです </div><br />
+<font size="2"><div class="t_h" >81: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/11/10(水) 23:52:46 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 名も無き三流大学出のニートです </div><br />
+<font size="2"><div class="t_h" >83: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/11/11(木) 03:00:18 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 國學院大学文学部日本文学科伝承文学専攻です </div><br />
+<font size="2"><div class="t_h" >86: <span style="color: rgb(124, 199, 84);">蝙蝠ちゃん出没中 ◆cWvjrxBVRg </span> <span style="color: gray;"> 2010/11/11(木) 12:50:53 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 日本においては何故か医者はエリートとされるが、 <br /> 欧州においては二流市民とされる </div><br />
+<font size="2"><div class="t_h" >88: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/11/11(木) 14:37:10 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 文学ばっかり読んでると自殺したくなるんじゃないかね？ <br /> 積極的にそうしなくても早死にしたくなるような </div><br />
+<font size="2"><div class="t_h t_i" >90: <span style="color: rgb(124, 199, 84);">蝙蝠ちゃん出没中 ◆cWvjrxBVRg </span> <span style="color: gray;"> 2010/11/12(金) 00:38:49 </span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;88</span> <br /> しょっ中自殺したくなるし死のことはよく考えますけど、 <br /> 今もしぶとく生きてるから大丈夫なんじゃないですかね <br /> 耐性でもついたのかも知れません </div><br />
+<font size="2"><div class="t_h" >91: <span style="color: rgb(124, 199, 84);">フロイド・メイウェザーJr</span> <span style="color: gray;"> 2010/11/12(金) 23:14:38 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> まあ生きてりゃ自殺するかボクサーになるか <br /> 決めなきゃいけない時がくるよな </div><br />
+<font size="2"><div class="t_h" >92: <span style="color: rgb(124, 199, 84);">ヘ(^q^)ヘ鈴木雄介 ◆m0yPyqc5MQ </span> <span style="color: gray;"> 2010/11/12(金) 23:15:41 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> ボクサーになるしかないよな。 </div><br />
+<font size="2"><div class="t_h" >95: <span style="color: rgb(124, 199, 84);">ヘ(^q^)ヘ鈴木雄介 ◆m0yPyqc5MQ </span> <span style="color: gray;"> 2010/11/13(土) 11:24:09 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 俺はボクシングの練習通うけど津原文学は読まないぜｗ </div><br />
+<font size="2"><div class="t_h" >98: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/11/14(日) 21:50:26 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;margin-bottom:30px;margin-top:20px;"> 英文学を原書で読む事が趣味なら、かなり評価高いと思うしカッコいい。 </div><br />
+<font size="2"><div class="t_h" >101: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/11/15(月) 23:23:17 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 会社が求めているのは <br /> 1、魅力的な個性、能力 <br /> 2、1を発現できる実行力 <br /> 3、2を会社という場で活かす応用力 <br /> だから <br /> 1だけを磨く文学や芸術鑑賞は評価されない。 <br /> 123の構造を純粋に抽出したスポーツの方が評価が高くなる <br /> 複雑な思考や気難しい美学の持ち主よりも、多少練度が低くても2、3で使いやすい形で一家言ある学生の方が使い安い <br />  </div><br />
+<font size="2"><div class="t_h" >103: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/11/17(水) 10:13:37 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;"> 個性なんて求めてないね <br /> 人と同じことができて普通に社会性があればいいだけ </div><br />
+<font size="2"><div class="t_h" >104: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/11/17(水) 14:37:26 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;margin-bottom:30px;margin-top:20px;"> 文学は暗い <br /> 最近文学は暗いと言うことが解ってきた <br /> アキバのヲタクの方が全然明るいのが事実 </div><br />
+<font size="2"><div class="t_h" >105: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/11/17(水) 14:45:55 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> マイケルサンデルあたりがイラネ  <br /> クサメリカの腐った、企業に都合のいい感受性を  <br /> いかにもフェアーさにも配慮してますよというポーズも添えつつ  <br /> 世界から集まった真理よりも地位を求める偽エリートと共有する  <br /> いかにもアメリカン・プロパガンダな授業  <br /> ｲﾗﾈ  </div><br />
+<font size="2"><div class="t_h t_i" >111: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/11/26(金) 11:26:06 </span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;105</span> <br /> ワシもサンデルは好かんの。まあテレビで見ただけだが。 <br /> サンデル自身が他人の意見を寄せ集めて紹介しているに過ぎん気がする。 <br /> サンデル自身が自分の問題として苦悩している様子がない様に見えるのう。 </div><br />
+<font size="2"><div class="t_h" >112: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/11/28(日) 10:21:29 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 愛読書はドラッカー。 <br />  <br /> それと司馬遼太郎の歴史小説も好き。 <br />  <br /> そしてどちらも深くは知らないというのが理想的な企業戦士。 </div><br />
+<font size="2"><div class="t_h" >114: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/11/29(月) 00:30:37 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 意外と高校時代医学部志望の奴は厳密な意味での文学に詳しい奴が多かったな…… <br /> 鴎外とかだった　では! </div><br />
+<font size="2"><div class="t_h" >119: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/11/29(月) 18:10:38 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 文学の内容にもよるだろ <br /> 就職に失敗した作家のじめじめした小説じゃなくて成功者の文学を読んでいればいい </div><br />
+<font size="2"><div class="t_h" >121: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/12/01(水) 21:04:21 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> そういう問題じゃなくて受け身な趣味だからだろ </div><br />
+<font size="2"><div class="t_h" >122: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/12/14(火) 12:00:57 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 城山三郎、高杉良みたいな経済小説なら話は別じゃないか？ </div><br />
+<font size="2"><div class="t_h" >124: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2010/12/19(日) 05:29:16 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#ffa500;margin-bottom:30px;margin-top:20px;"> 基本的な文学にも目を通していないやつはそもそも人間にすらなれていない <br /> サルだ </div><br />
+<font size="2"><div class="t_h" >125: <span style="color: rgb(124, 199, 84);">ヘ(^q^)ヘ鈴木雄介 ◆m0yPyqc5MQ </span> <span style="color: gray;"> 2010/12/19(日) 17:18:26 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> そういう事ばかり言ってるから文学とか読んでる奴は性格が悪いとか言われるんだぜ。 </div><br />
+<font size="2"><div class="t_h" >126: <span style="color: rgb(124, 199, 84);">フロイド・メイウェザーJr</span> <span style="color: gray;"> 2011/01/01(土) 21:37:29 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> どうでもいいけどサルやゴリラはフック系のパンチしか出せないらしいぜ。 <br /> ストレート系のパンチを打てるのは人間だけらしい </div><br />
+<font size="2"><div class="t_h" >127: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2011/01/01(土) 21:47:31 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> ↑基本的な文学に目を通さないと <br /> ストレートパンチを打てなくなるってことか <br />  <br />  </div><br />
+<font size="2"><div class="t_h" >128: <span style="color: rgb(124, 199, 84);">フロイド・メイウェザーJr</span> <span style="color: gray;"> 2011/01/02(日) 10:44:15 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> そうです。逆に言うと基本的な人間になるには <br /> ストレートパンチでゴリラをＫＯするしかないのです </div><br />
+<font size="2"><div class="t_h" >129: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2011/01/02(日) 10:55:38 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> ゴリラの左フックをかわして <br /> 右ストレートでゴリラの鼻先を強打だなｗ </div><br />
+<font size="2"><div class="t_h" >130: <span style="color: rgb(124, 199, 84);">フロイド・メイウェザーJr</span> <span style="color: gray;"> 2011/01/02(日) 20:03:28 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> でもまあ正直ゴリラと戦う勇気ねーけどな </div><br />
+<font size="2"><div class="t_h" >133: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2011/01/23(日) 09:58:43 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> まあ、今時の人事が文学を理解できるとも思えんしな </div><br />
+<font size="2"><div class="t_h" >134: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2011/01/23(日) 10:26:31 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> もし趣味が読書ですと言ったら <br /> きみあれは読んだね、水嶋ヒロの」と話題にころがりそうだ </div><br />
+<font size="2"><div class="t_h" >135: <span style="color: rgb(124, 199, 84);">ヘ(^q^)ヘ鈴木雄介 ◆m0yPyqc5MQ </span> <span style="color: gray;"> 2011/01/23(日) 20:21:04 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 別に面接で言わなくてもいいんじゃね。 </div><br />
+<font size="2"><div class="t_h" >136: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2011/01/23(日) 21:15:42 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 文学ばっか読んでたら活字をじっくりみて理解するという癖がついた <br /> 面接官が前でぺらぺら話してもすらすら理解できない </div><br />
+<font size="2"><div class="t_h" >137: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2011/01/29(土) 00:13:57 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 確かに読書好きには聞き上手 <br /> （会話的に受け身）が多い <br /> …気がする </div><br />
+<font size="2"><div class="t_h t_i" >142: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2011/02/10(木) 16:30:31 </span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;137</span> <br /> 聞き上手だけど、的確な返答ができなさそう。 <br /> 妄想がプラスされるからｗ </div><br />
+<font size="2"><div class="t_h" >139: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2011/02/09(水) 18:50:07 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 文学のようなじめじめしたものを読むよりはネタとしてラノベを読んで <br /> 友達がたくさんいる方がよほど社会性があるし現代的 </div><br />
+<font size="2"><div class="t_h" >140: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2011/02/09(水) 19:05:13 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> ラノベと友達が全く繋がらん… </div><br />
+<font size="2"><div class="t_h" >141: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2011/02/09(水) 20:09:36 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 時代の先を行く社会人ならラノベとケータイ小説を読むべき </div><br />
+<font size="2"><div class="t_h" >144: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2011/02/28(月) 21:07:56.86 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> まあ、そりゃそうだ。事実、俺も落とされた・・ </div><br />
+<font size="2"><div class="t_h" >145: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2011/02/28(月) 21:28:59.37 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 何社落とされても自分を気に入ってくれる会社がみつかるさ～ <br /> しんどかったら休めばいい。 </div><br />
+<font size="2"><div class="t_h" >146: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2011/02/28(月) 21:38:14.68 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;"> 文学に限らずブキッシュな奴は話がクドくなりやすいので <br /> 短期決戦型のプレゼンテーション能力は落ちる。 <br /> というか、面接は知識ではなく物腰や対応力を観る場なので <br /> 何かを語ろうとしたら駄目だよ。 </div><br />
+<font size="2"><div class="t_h" >151: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2011/05/13(金) 17:55:48.98 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 社会不適合者だということは自覚してる。だから俺は物書きになったよ。バイトもしてるけど。 <br /> 将来が不安でたまらないｗまあメルトダウンしたっぽいしもうどうでもいいや </div><br />
+<font size="2"><div class="t_h" >153: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2011/05/22(日) 14:12:50.50 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 文学部ってのは学者のためでしかないと思う実際 </div><br />
+<font size="2"><div class="t_h" >158: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2011/06/11(土) 13:19:45.94 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> ていうかどうせ文系なんて経済学も法学も役にたたねえじゃん <br /> 普通の就職するなら <br />  <br /> それなら大学にいるときくらいは好きなことやっとけばいいんじゃね。 <br /> どうせいっしょ。 <br /> 補足しとくなら、文学部だから落とされてるのではないだろ。 </div><br />
+<font size="2"><div class="t_h" >159: <span style="color: rgb(124, 199, 84);">三浦 ◆aKZjWmIOl2 </span> <span style="color: gray;"> 2011/06/11(土) 14:31:18.96 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> きっと、人々は大学の存在意義も活用方法もわかっていないんですね。だから大学を馬鹿にする。 <br /> 何のために大学に入るのか考えていない。 <br /> 大学は専門的な学問を学ぶ所で、 <br /> 文学部は言葉に関する学問を学ぶ所だということを知らないんですね。 <br />  <br /> 僕は大学の実態をちゃんと知ってるとは言えませんが、 <br /> 文学部は、その専門的知識が人格形成や、言語能力、リテラシーなどに最も影響を与える、 <br /> 人間生活についての最も実践的な学びの場だと思います。 <br />  <br /> 文学部で学べば、金儲けできるとか、結婚できるとか、 <br /> そこまでカバーするとは断言できませんが。 </div><br />
+<font size="2"><div class="t_h" >162: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2011/06/21(火) 04:34:44.41 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> みんな誰かと文学の話なんかする？回りにそんなんよんでるやついる？ </div><br />
+<font size="2"><div class="t_h" >163: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2011/07/19(火) 04:27:46.44 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 逆にいないのか？どんだけ文化水準の低い奴らとつるんでるんだよ。。。 </div><br />
+<font size="2"><div class="t_h" >164: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2011/08/02(火) 09:26:29.02 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 文学って文化水準高いのか？ <br /> 媒体は違えど、内容は漫画やドラマと変わらないじゃん。 </div><br />
+<font size="2"><div class="t_h" >166: <span style="color: rgb(124, 199, 84);">三浦 ◆aKZjWmIOl2 </span> <span style="color: gray;"> 2011/08/02(火) 16:40:16.77 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 夜中に友達の家に集まって、一緒にサッカー観戦しようと提案する仲間はいる。 <br /> 休みの日に朝から晩まで、箱○で一緒にFPSをやろうぜと声をかけてくれる友達はいる。 <br /> 夏のバーゲンが始まったから服見に行こうって誘ってくれる人はいる。 <br /> 「最近なんか面白い本読んだ？」と、声をかけてくれる人はいない…… </div><br />
+<font size="2"><div class="t_h t_i" >167: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2011/08/02(火) 18:56:30.42 </span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;166</span> <br /> 最近なんか面白い本読んだ？ </div><br />
+<font size="2"><div class="t_h t_i" >172: <span style="color: rgb(124, 199, 84);">三浦 ◆aKZjWmIOl2 </span> <span style="color: gray;"> 2011/08/04(木) 16:07:30.61 </span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;167</span>そうやって声をかけてもらうのって凄い嬉しいことなんですよ！ <br /> 少なくとも、共通の趣味を持つ友達がいない僕なんかにとっては。 <br />  <br /> 最近は、ホフスタッターの『ゲーデル、エッシャー、バッハ』 <br /> アップダイクの『結婚しよう』 <br /> トニ・モリスンの『ビラヴド』 <br /> イーガンの『宇宙消失』とかですね。 <br />  <br />  <br /> 『ゲーデル、エッシャー、バッハ』は小説じゃないですけど、そこらへんの小説よりずっと面白かった。 <br />  <br /> 難解で丁寧に読まなければいけない内容で、しかも700ページもあるけど、 <br /> 値段相応の、いや、それ以上の読書価値があると思います。 </div><br />
+<font size="2"><div class="t_h t_i" >173: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2011/08/04(木) 16:23:06.01 </span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;172</span> <br /> 不思議な組み合わせの3人だなｗｗｗｗｗ <br /> 狐につままれたまま終わりそうな・・・ただ、バッハがどう絡んでくるのかわかんね </div><br />
+<font size="2"><div class="t_h t_i" >178: <span style="color: rgb(124, 199, 84);">三浦 ◆aKZjWmIOl2 </span> <span style="color: gray;"> 2011/08/09(火) 22:06:11.54 </span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;173</span>バッハがどう絡んでくるかってのは <br /> バッハっぽさがわからないと、きついのかもしれません。 <br /> 僕はバッハなんて聞かないので「バッハのフーガが…」 <br /> とか本文中に出てきても全然ピンとこなかった…… <br />  <br /> <span style="color:mediumblue;" class="anchor">&gt;&gt;175</span>あぁこれは失礼しました。 <br />  <br /> その、「聞き役に回るだけで、あまり関心がないふりを装ってしまう」 <br /> っていうのはアセンションが気配りできる人って証拠ですね。 <br />  <br /> 自分はどうしても、厚顔無恥な態度で最近読んだ本について語ってしまうので <br /> 本に興味ない人に、いままで何回ドン引きされたことか。 <br /> でも知識って使わないと意味ないじゃないですか。 <br /> って自己弁護してみたり。 <br />  <br />  <br /> <span style="color:mediumblue;" class="anchor">&gt;&gt;176</span>それはまだ読んだことないですね。 <br /> というか、そんな本があったことすら知りませんでした。 <br /> 教えてくれてありがとうございます。 <br />  <br /> なんせ、『ゲーデル、エッシャー、バッハ』もきっかけは本当に偶然の出来事で、 <br /> そこにあったから読んだという感じだったんで。 <br />  <br />  <br /> <span style="color:mediumblue;" class="anchor">&gt;&gt;177</span>絵が好きで画集を持つってのは、僕には理解出来ない世界だなぁ。 <br /> 絵画の魅力が分からない僕が幼稚なだけなのかしらん。 </div><br />
+<font size="2"><div class="t_h t_i" >179: <span style="color: rgb(124, 199, 84);">アセンション ◆ZCAcNhb9dZs7 </span> <span style="color: gray;"> 2011/08/10(水) 01:36:35.16 </span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;178</span> <br /> ドン引きを恐れずに語れる勇気は、それはそれでなかなか真似できない。 <br />  <br /> 『ゲーデル、エッシャー、バッハ』みたいな分厚い本を読むのには最初に気合がいるよね。 <br /> エッシャーの絵はすごくロジカルで錯視的でもあるけど、何度見ても飽きないんだなあ。 </div><br />
+<font size="2"><div class="t_h t_i" >184: <span style="color: rgb(124, 199, 84);">アセンション ◆ZCAcNhb9dZs7 </span> <span style="color: gray;"> 2011/08/26(金) 21:58:46.53 </span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;178</span>  <br /> 今度また余裕があるときは読書会のほうに参加してくれるとうれしいな。 <br /> 一度お題を選んでもらいたいとも思ってるので。 </div><br />
+<font size="2"><div class="t_h" >182: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2011/08/14(日) 06:36:17.14 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;"> 文学を追求しようとする者が会社に適合する必要はない <br /> 文学者は会社ではなく社会を作り変える者だ <br />  </div><br />
+<font size="2"><div class="t_h" >187: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2011/09/23(金) 15:40:43.20 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> やっぱり文学って役に立たないのかな。わかんない </div><br />
+<font size="2"><div class="t_h t_i" >188: <span style="color: rgb(124, 199, 84);">もっけ</span> <span style="color: gray;"> 2011/09/24(土) 15:01:00.51 </span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;187</span> <br /> 私も、高２なんだが文学の意義があんまりわからん。 <br /> 確かに、文学から得られるものは少ないと思う。 <br /> ウンチクのネタぐらいかな？？(笑) <br />  <br /> でももう今年の１月から１００冊以上読んでるんだが、 <br /> 文学って趣味の一種だよね。 <br />  <br /> そしてその趣味を極めて学問に昇華させるのが文学者なんだと思う。 </div><br />
+<font size="2"><div class="t_h" >189: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2011/09/24(土) 15:36:39.75 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 想像力欠如してるわ、過去から学ばないわ、駄目な奴が多いよ。 <br /> そういう奴はだいたい本読んでない。 <br />  <br /> 本読まない奴は仕事できない奴多いよ。マジで。 <br />  <br /> また、業務で資料作成やメール作成など <br /> 簡潔丁寧でわかりやすい日本語を素早く書く能力は必須。 <br /> これも、本読んで無い奴はできない。 <br />  <br /> 役職高い人程、しっかり本読んでるよ。 <br /> ビジネス本だけじゃなくて文学小説もね。 </div><br />
+<font size="2"><div class="t_h t_i" >192: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2011/10/26(水) 18:29:30.45 </span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;189</span> <br /> 確かにそのとおりだが <br /> こと採用面接に至っては読書量というのは評価されないのだよ </div><br />
+<font size="2"><div class="t_h" >191: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2011/10/24(月) 20:26:41.28 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 小説読んでも偉くならんのは認める </div><br />
+<font size="2"><div class="t_h" >193: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2011/11/07(月) 02:06:35.49 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> まあただ単に小説を読むだけじゃさほど意味はないだろうが、 <br /> 読んだあとに改めて「なにが書かれていたのか」と内容について、歴史的背景をあわせて考えるとか、同じテーマで書かれている他作品との比較や、文法的な工夫を見つけたり、作中に出てきた花とか場所とかの意味について調べるとかでちまちま分析して、 <br /> 最終的に自分のことばでまとめるという作業をすると少しは役立つかもしれない。 </div><br />
+<font size="2"><div class="t_h t_i" >195: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2011/12/22(木) 22:44:43.63 </span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;193</span> <br /> しかし体育会系の威勢のいい返事に全て持って行かれるという </div><br />
+<font size="2"><div class="t_h" >213: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2012/05/31(木) 21:46:11.61 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;"> 面接の時に大学で文学やってますっていうと、深くつっこまれるけど最後は「高尚な分野ですねー」で流される  <br /> おじさん受けは悪い </div><br />
+<font size="2"><div class="t_h" >217: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2012/06/18(月) 06:44:21.07 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> こうなったのも義務教育の内容が悪い <br /> 日本語もまともに読み書きできないのに英語を学ばせて <br /> さらには漢字とか語彙は大学入試には不必要だから学ばない人が多い <br /> 英語を義務教育から外して、その分国語の時間を増やして漢字と語彙を身に付けさせるべき <br />  </div><br />
+<font size="2"><div class="t_h t_i" >226: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2012/07/16(月) 13:09:30.22 </span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;217</span> <br /> おれの高校の教師にアンタの言ってることと同じこという奴がいたし、オレ自身 <br /> 正論だと思うが、もう多勢に無勢だろうな </div><br />
+<font size="2"><div class="t_h" >223: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2012/07/12(木) 20:57:44.91 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 会社とは、利益がテーマ <br /> 文学とは喪失感がテーマ <br /> 水と油である、相容れるわけがない <br /> 殆どの人間は挫折して喪失感を感じるから、文学は必要だと思う <br />  <br />  </div><br />
+<font size="2"><div class="t_h" >224: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2012/07/16(月) 11:29:54.44 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> いや、文学は言葉による芸術すべてだろう。 <br /> この定義だと、広い意味で哲学なども文学に入るよ。 <br /> 別に喪失感だけがテーマじゃない。 <br />  <br /> もちろん、古典も文学だが、俳句や短歌自然の美しさを謳ったものもあるでしょ。 <br /> 日本人の文学に喪失感とかそれにまつわる思考や美の意識がテーマになりやすいだけであって、 <br /> 文学のテーマは言葉・文章による表現の芸術だよ。 <br />  <br /> そういうのに親しんでおくと、人間として幅がでる可能性が高いから <br /> けっして、就職の不利にはならないよ。 <br /> 読解力が高いとか、文章力があると、あ表現力にすぐれるとか、 <br /> 心の機微をわかるとか美意識があるとかあるかもしれないから。 <br />  <br /> 本当に文学を理解して、愛して、そして文学の中だけでなく、 <br /> 社会に適合する気があるのなら、文学読んでるからという理由で <br /> 就職で落とされるはずが無い。 <br />  <br /> 本気でそんな言い分があるところって、 <br /> 小理屈を嫌う程度の低い会社役員が経営しているところとか、役員に教養が無いとこでしょ。 <br />  </div><br />
+<font size="2"><div class="t_h" >227: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2012/07/18(水) 18:33:05.24 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 「石炭をばはや積み果てつ」と書いてあって、 <br /> わからないのが現代文ばかりやってきた人 <br /> わかるのが歴史的文章を読まされてきた人 </div><br />
+<font size="2"><div class="t_h" >229: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2012/07/20(金) 07:43:30.75 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> &gt;石炭をばはや積み果てつ <br /> このころの船は石炭燃やして走ってたんかなあ？補助に帆走もしたかなあ？ <br /> 船室の照明はランプとかかなあ？蝋燭かなあ？火事が怖いから照明は無しかなあ？ <br /> 食事は米食かなあ？おかずなんかどうするのかなあ？乾物・塩漬けばっかかなあ？ <br /> などと色々とわからなくなる人もいる。＾＾； </div><br />
+<font size="2"><div class="t_h" >230: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2012/07/20(金) 16:58:00.03 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;"> それがわかるレベルで、人に教えられるレベルだったら、 <br /> 国語教師になるための就職に有利だね。 <br /> もちろん、採用試験に受かるが前提だけど。 </div><br />
+<font size="2"><div class="t_h" >231: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2012/07/20(金) 22:14:06.24 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 好きな作家は阿川弘之です、と答えると左巻きの人に嫌われる。 </div><br />
+<font size="2"><div class="t_h" >232: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2012/07/26(木) 17:50:02.40 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 文学なんか読んでる大学生は就活で落とされる <br /> っつーかそんな当たり前のことをいわれてもねぇ、 <br /> みんなよくレスしてるね。 <br /> でもね文学がわかるほどの頭脳なら <br /> その気になれば就活でも国家試験でも <br /> 楽々なんだけどね。 <br /> ただ自分の高級な頭脳をそんなくだらないことに <br /> 使いたくないという人が多いだけで。 <br />  </div><br />
+<font size="2"><div class="t_h" >234: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2012/08/11(土) 07:13:05.82 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> スポーツもやって、文学も嗜むとかなら凄い受けがいいかも <br />  </div><br />
+<font size="2"><div class="t_h" >235: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2012/08/14(火) 17:22:41.29 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> スポーツ脳は現場の歩兵要員に回される </div><br />
+<font size="2"><div class="t_h" >236: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2012/08/28(火) 22:59:23.14 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> スポーツ+文学はスポーツ脳じゃない <br /> ぜったいイケメン </div><br />
+<font size="2"><div class="t_h" >237: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2012/11/10(土) 00:41:12.09 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 文学どころか出版自体が反体制的なものなんだ </div><br />
+<font size="2"><div class="t_h t_i" >238: <span style="color: rgb(124, 199, 84);">sage</span> <span style="color: gray;"> 2012/11/13(火) 21:37:10.61 </span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;237</span> <br /> それはないわ <br /> 反体制掲げてる雑誌なんて数える程しかない </div><br />
+<font size="2"><div class="t_h" >239: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2012/11/16(金) 20:30:28.22 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 本屋に就職しようとして履歴書の趣味の欄に『読書』って書いたら落とされたわ。 </div><br />
+<font size="2"><div class="t_h" >240: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2012/11/19(月) 04:40:47.35 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 教養が無く狭い世界で生きている人達にとってはその世界の外に居る人間は全て反体制だと映ってしまうのかな <br /> でも、就活で落とされるってのはそういう理由ではないだろうな <br /> 頭の中が良い意味で空っぽでこれから企業の好きなように詰め込んでいく事が出来る人間を選んだ方が企業の利益になるからだろうな <br /> でもそれは古い考えだと思う <br /> ある時代では優秀と見られるような人材でも、時代が変われば戦えない人材になってしまうような事が起りうる多様な社会に変わった <br /> ただ、思考停止人間が完全に間違いではない <br /> 思考停止人間の方が強者となりうる事も大いにありうる <br /> けれども、安定して強いわけではなくて「ギャンブル」だということ </div><br />
+<font size="2"><div class="t_h" >242: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2012/11/27(火) 13:26:50.21 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 文学はなぜ尊いのか <br /> それは自発的で個人的な営みだからだ <br /> 利益を生むかどうか分からない行為だからだ <br /> 企業はそういう行為に関与している人間を当然嫌う <br /> 企業は、そして資本家は人間が嫌いで嫌いで仕方ない </div><br />
+<font size="2"><div class="t_h" >243: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2012/11/27(火) 20:35:36.73 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> &gt;個人的な営みだからだ <br /> &gt;利益を生むかどうか分からない行為だからだ <br />  <br />  <br /> これって勘違いだと思うけど <br /> 文学も売れるために書いてるもんだろ </div><br />
+<font size="2"><div class="t_h" >244: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2012/11/27(火) 23:01:57.39 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> そもそも健康な人は本なんか読みません </div><br />
+<font size="2"><div class="t_h" >245: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2012/11/28(水) 02:25:09.16 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 別に文学と経済的活動が相反するわけじゃない <br /> オレは東野圭吾読んでたけど就職できたし </div><br />
+<font size="2"><div class="t_h" >246: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2012/11/28(水) 12:43:02.44 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 東野圭吾読んだくらいで文学読んでる気になられても </div><br />
+<font size="2"><div class="t_h" >247: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2013/01/13(日) 02:13:34.20 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 教養だのと現実のメリットを当込んでいる内は、まだ文学の深みに全然嵌っておらず、よって、その毒とは縁無き表層に <br /> 居るレベルなので問題無い。いたって尋常。 </div><br />
+<font size="2"><div class="t_h" >248: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2013/01/13(日) 03:30:22.75 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> お、まだ出てないな。まぁ文学板だからか？ <br /> 就職活動する前に、文学じゃねぇけど、V・Eフランクルの「夜と霧」は読んどけ。 <br /> まぁ就職する気がなくなるかもしれんけどなｗ </div><br />
+<font size="2"><div class="t_h t_i" >249: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2013/01/19(土) 10:53:31.30 </span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;248</span> <br /> 生き残ったやつは５％だけ <br /> 会社でも出世できるのはそれぐらいってことか </div><br />
+<font size="2"><div class="t_h" >250: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2013/02/04(月) 21:49:41.03 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 就職する気はなくなるかも知れないが、自殺する気もなくなるかも知れないから、 <br /> フランクルやデボラの世界は読んでおいたほうが良いね。 <br /> 才能よりそういう所で決まったりするからな </div><br />
+<font size="2"><div class="t_h" >252: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2013/09/18(水) 04:36:24.19 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 本を読んでなかった、つまり批評ができなかった俺の <br /> 自己PRはポエムだった。おもしろがられて、いきなり最終面接。 <br /> でも落ちた。笑われてただけだったんだ、おもしろいのがいるって。 <br /> 今は本読みまくってるし、本は読んだほうがいいYO(^O^) </div><br />
+<font size="2"><div class="t_h" >254: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2013/09/18(水) 11:56:57.43 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;"> 文学好きだから、落とされたなんていうのは自己弁護 <br /> 使えない奴は5分も面談すればわかる </div><br />
+<font size="2"><div class="t_h" >263: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2014/05/05(月) 18:35:17.54 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> ２２歳までに本は読んどいた方がいいよ。 <br /> その後の有りようがちがってくる。 </div><br />
+<font size="2"><div class="t_h" >266: <span style="color: rgb(124, 199, 84);">吾輩は名無しである</span> <span style="color: gray;"> 2015/03/03(火) 04:50:20.39 </span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 面接のとき、読書が趣味とは書かなかったんだけれど、 <br /> 面接官の一人から今何読んでるの、と言われて、谷崎の話になって盛り上がった。 <br /> かなりお世話になった部長さんで、食堂などでお会いすると文学談義したり、 <br /> 仕事の話をしたり。 <br /> 先年退職され、ほどなく他界された。 <br /> 大切な友人を失った心持ち。 </div><br />
+<br>
+<p style="color:gray;text-align:right;"><font size="2">引用元： <a href="http://mevius.5ch.net/test/read.cgi/book/1287168889/" target="_blank">http://mevius.5ch.net/test/read.cgi/book/1287168889/</font></a></p>
+
+</div>
+                        
+<!-- タグのリスト表示セット -->
+                        </div>
+<br>
+
+
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=2Z8HPD+9K4KFM+34FI+NUES2" alt="">
+                    </div>
+                    <!-- 記事本文 ここまで-->
+
+
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HV7V6" alt="">
+
+
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www26.a8.net/svt/bgt?aid=190821728180&wid=001&eno=01&mid=s00000011866017004000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" alt=""></td>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+3257OY+3Y6M+601S1" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www24.a8.net/svt/bgt?aid=190821728185&wid=001&eno=01&mid=s00000018427001008000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=35LYZK+3257OY+3Y6M+601S1" alt=""></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+
+
+                    <!-- 記事フッター、コメント、ソーシャルボタン -->
+                    <footer class="article-footer">
+                        <div class="article-footer-comment">
+                            
+                                <a href="http://pathtimeblog.com/archives/6637119.html#comments">0コメント</a>
+                            
+                        </div>
+                        <div class="article-social-btn">
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HVFKY" alt="">
+
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/6637119.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/6637119.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="文学なんか読んでる大学生は就活で落とされる - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=%E6%96%87%E5%AD%A6%E3%81%AA%E3%82%93%E3%81%8B%E8%AA%AD%E3%82%93%E3%81%A7%E3%82%8B%E5%A4%A7%E5%AD%A6%E7%94%9F%E3%81%AF%E5%B0%B1%E6%B4%BB%E3%81%A7%E8%90%BD%E3%81%A8%E3%81%95%E3%82%8C%E3%82%8B%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/6637119.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/6637119.html" data-text="文学なんか読んでる大学生は就活で落とされる - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F6637119.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                        </div>
+                    </footer>
+                    <!-- /記事フッター、コメント、ソーシャルボタン -->
+
+
+                    <!-- カテゴリの最新記事表示 はじまり-->
+                    <div class="article-sub-category">
+                        <div id="ldblog_related_articles_4cb237db">
+
+<div class="related-articles ldblog_related_articles_4cb237db" data-category-id="160301" data-article-rows="5">
+<h3>「就活準備」カテゴリの最新記事</h3>
+<ul id="ldblog_related_articles_4cb237db_160301"></ul>
+</div>
+</div>
+<script type="text/html" id="ldblog_related_articles_4cb237db_tmpl">
+<% for(var i=0,l=articles.length;i<l;i++) {%><% if(i>=rows) break; %>
+<li><a href="<%=articles[i].permalink%>"><%=articles[i].title%></a></li>
+<% } %>
+</script>
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/related_articles.js?t=20180221"></script>
+<script type="text/javascript">
+(function(){
+RelatedArticles.load('ldblog_related_articles_4cb237db', '6637119');
+})();
+</script>
+<!-- 関連記事の表示 -->
+                    </div>
+                    <!-- /カテゴリの最新記事表示 ここまで-->
+
+
+
+
+                    <div id="ad2"></div><!-- 広告表示 -->
+
+                    <!-- 記事オプション はじまり-->
+                    <div class="article-option" id="article-options">
+
+                        <!-- コメントエリア　はじまり -->
+                        
+                        <section id="comments">
+                        
+                        <h1 class="comment-form-title">コメントする</h1>
+<div class="article-option" id="comment-form">
+    <form
+      action="https://comment.blogcms.jp/livedoor/shukatu2ch/6637119/post"
+      method="post"
+      name="comment_form"
+          id="comment-form-body"
+      onsubmit="setCommentAuthor(this); return submitOnce(this.button);"
+    >
+    <fieldset>
+        <legend>コメントフォーム</legend>
+    <dl class="comment-form-author">
+        <dt><label for="comment-form-author">名前</label></dt>
+        <dd id="comment-author-form"><input type="text" class="text" id="comment-form-author" name="author" required="required" value="" /></dd>
+    </dl>
+  <dl class="comment-form-body">
+    <dt><label for="comment-form-textarea">コメント</label></dt>
+    <dd>
+      <textarea id="comment-form-textarea" name="body" rows="7" required="required"></textarea>
+      <div id="comment-form-tools">
+        <span class="facemark"><a href="javascript:void(0);" id="emojiLink1" onClick="showEmojiPanel(this.id, 'comment-form-textarea')"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/icon_facemark.png" /></a></span>
+        <span class="rating">
+                    <input type="hidden" name="rating" value="">
+                    <input type="hidden" name="rating_icon" value="star">
+                    <div class="rating-value">
+                        <span id="default-rating-value">評価する</span>
+                        <div class="caret"><span></span></div>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/face/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/face/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/face/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/face/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/face/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/star/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/star/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/star/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/star/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/star/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                    </div>
+                    <div class="rating-icon">
+                        <div data-value="face">顔</div>
+                        <div class="selected" data-value="star">星</div>
+                    </div>
+        </span>
+        <span class="submit"><button type="submit">投稿する</button></span>
+        <span class="memorize"><label for="bake"><input type="checkbox" id="bake" name="cookie" /> 情報を記憶</label></span>
+      </div>
+    </dd>
+  </dl>
+  </fieldset>
+  </form>
+  <script type="text/javascript" src="https://parts.blog.livedoor.jp/js/comment.0.2.js?v=20130430"></script>
+  <script type="text/javascript">
+    loadCommentAuthor(document.comment_form);
+    ldblogComment.init();
+  </script>
+<!-- /#comment-form --></div><!-- コメント投稿フォーム -->
+
+
+                        </section>
+                        
+                        <!-- コメントエリア　ここまで -->
+
+
+                        <!-- トラックバック受け付け　はじまり -->
+                        
+                        <!-- トラックバック受け付け　ここまで -->
+
+                    </div>
+                    <!-- 記事オプション ここまで-->
+
+                </article>
+                <!-- 記事　ここまで -->
+
+
+                <!-- ページ送り はじまり-->
+<!-- Article Pager // -->
+  <div class="pager article-pager-type2">
+    <div class="pager-inner">
+    <div class="article-pager-outer">
+    <ul class="article-pager"><li class="prev"><a href="http://pathtimeblog.com/archives/6636853.html" title="【19卒】なんj就活戦線 	">&nbsp【19卒】なんj就活戦線 	</a></li><li class="next both"><a href="http://pathtimeblog.com/archives/6637404.html" title="ゆとり「上司に怒られてムカつくなぁ……せや！」 	">ゆとり「上司に怒られてムカつくなぁ……せや！」 	&nbsp</a></li>    </ul>
+    </div>
+    </div>
+  </div>
+<!-- // Article Pager -->
+
+                <!-- /ページ送り ここまで-->
+
+            </div><!-- /main-column-inner-->
+        </div>
+        <!-- コンテンツの箱の中　真ん中728px ここまで-->
+
+
+        <!-- コンテンツの箱の中　左側200px はじまり-->
+        <aside class="left-container">
+            <div class="left-column-inner">
+            
+
+
+
+<div class="plugin-popular_articles sidewrapper">
+  <div class="sidetitlebody">
+    <div class="sidetitle">人気記事</div>
+  </div>
+  <div class="sidetop"></div>
+  <div class="side">
+
+
+    <div class="popular-articles">
+      <table id="populararticles-472933"></table>
+      <div class="popular-articles-freearea"></div>
+    </div>
+  </div>
+
+  <div class="sidebottom"></div>
+</div>
+
+<script type="text/javascript" language="javascript"><!--
+(function(){
+  var url = 'http://pathtimeblog.com/archives/popular_articles.json'
+         + '?rangetype=custom'
+         + '&from=0'
+         + '&range=13'
+         + '&limit=50'
+         + '&offset=0'
+         ;
+
+  var callback = function(data) {
+    var table = document.getElementById('populararticles-472933');
+    for (i = 0; i < data.articles.length; i++) {
+      var rank = i + 1;
+      var prefix = 'populararticles-472933-'+ rank;
+
+      var row = table.insertRow(-1);
+      var elm1 = row.insertCell(-1);
+      elm1.className = 'populararticles-rank';
+      elm1.innerHTML = '<span><b>' + rank + '</b></span>';
+      var elm2 = row.insertCell(-1);
+      elm2.className = 'populararticles-title';
+      elm2.innerHTML = '<a href="' + data.articles[i].url + '?ref=popular_article&id=7836571-472933">' + data.articles[i].title + '</a>'
+      ;
+
+    }
+  };
+
+  var xhr = (function () {
+      if (window.XMLHttpRequest)
+        return new XMLHttpRequest();
+      else {
+        var msxml = [
+          "Msxml2.ServerXMLHTTP.6.0", "Msxml2.ServerXMLHTTP.5.0", "Msxml2.ServerXMLHTTP.4.0", "Msxml2.ServerXMLHTTP.3.0",
+          "Msxml2.ServerXMLHTTP", "Microsoft.ServerXMLHTTP", "Msxml2.XMLHTTP.6.0", "Msxml2.XMLHTTP.5.0",
+          "Msxml2.XMLHTTP.4.0", "Msxml2.XMLHTTP.3.0", "Msxml2.XMLHTTP", "Microsoft.XMLHTTP"
+        ];
+        for (var i = 0; i<msxml.length; i++ ){
+          try {
+            return new ActiveXObject(msxml[i]);
+          }
+          catch(e) { }
+        }
+        return null;
+      }
+  })();
+    
+  if (!xhr) return;
+  xhr.open('GET', url, true);
+  xhr.onreadystatechange = function () {
+    if (xhr.readyState == 4 && xhr.status == 200) {
+      eval('var ld_popular_articles_json = ' + xhr.responseText);
+      callback(ld_popular_articles_json);
+    }
+  };
+  xhr.send();
+
+})();
+//-->
+</script>
+
+<div class="plugin-recent_articles sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">最新記事</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27108137.html">21卒就活生ワイ、内定辞退でしこたま怒鳴られる</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/10257766.html">ニートって難しい資格取って仕事探そうとするけどさ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839910.html">【学歴フィルター】企業にとっての一流大学とは？【就職偏差値】</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839719.html">ワイニート歴2年、就職して初年度の年収500万円！！！！</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073431.html">あ、面接落ちたなってフラグ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073465.html">【悲報】上級国民大手企業様「下請けに仕事やらせてガッポリ中抜きｗ」→夏ボーナス92万5947円</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27075072.html">ワイ21卒、会社選びを間違ってしまったと後悔する</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027071.html">【悲報】キャリア採用の銀行員ワイ、周囲の人間があまりにも有能すぎてマジでドン引き……………………</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27063977.html">【速報】大学、終わる。　Googleが大卒資格を得られるコースを提供へ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027029.html">教師「Ｆ欄ＯＫです、公務員です、毎日定時で帰れます、年収700万です」←こいつが馬鹿にされる理由ｗ</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-recent_articles -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「A」設定のブログパーツ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　左側200px ここまで-->
+
+
+        <!-- コンテンツの箱の中　右側200px はじまり-->
+        <aside class="right-container">
+            <div class="right-column-inner">
+            
+
+
+
+<div class="plugin-categorize sidewrapper" id="plugin-categorize-457691">
+    <div class="sidetitlebody">
+        <div class="sidetitle">カテゴリー</div>
+    </div>
+    <div class="sidetop"></div>
+    <div class="side">
+
+
+      
+
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160301.html">就活準備 (243)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161699.html">自己分析 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161700.html">企業・業界研究 (66)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155971.html">資格 (39)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155966.html">選考 (254)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155977.html">インターン (23)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155978.html">説明会 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155975.html">ES (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155976.html">SPIなど (7)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155974.html">面接 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155972.html">内定 (222)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160304.html">NNT(無内定) (68)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160302.html">内定後・入社前 (110)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160308.html">アドバイス (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160460.html">入社後 (924)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220065.html">新卒 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220063.html">上司 (95)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_219473.html">社会人生活 (299)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160474.html">ブラック企業 (65)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160303.html">転職 (175)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163214.html">副業 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220667.html">収入 (102)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_299497.html">採用担当 (3)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_318465.html">第二新卒 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161711.html">学生生活 (46)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163247.html">浪人・留年 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155967.html">学歴 (119)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_223545.html">ニート (38)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155969.html">業界別 (314)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156035.html">金融 (34)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156099.html">建築・不動産 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160357.html">物流・運送 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160358.html">IT・メディア (55)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160359.html">エネルギー・資源 (1)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160310.html">自動車・機械 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160360.html">食品・小売 (14)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160311.html">公務員・準公務員 (89)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160356.html">サービス (21)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160473.html">その他 (42)</a>
+          
+        </div>
+        
+    
+        
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160476.html">その他 (472)</a>
+          
+        </div>
+        
+    
+    
+
+    </div>    
+    <div class="sidebottom"></div>
+</div><!-- // plugin-categorize -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+<a href="//blog.with2.net/link/?1955545"><img src="https://blog.with2.net/img/banner/banner_21.gif" title="人気ブログランキング"></a><br><a href="//blog.with2.net/link/?1955545" style="font-size: 0.8em;">人気ブログランキング</a>
+
+<div class="plugin-link sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">リンク集</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://0matome.com/" target="_blank">おまとめ</a></div>
+
+<div class="sidebody"><a href="http://2chnavi.net/allentries/?threshold=0" target="_blank">2chnavi</a></div>
+
+<div class="sidebody"><a href="http://http://iwashi.biz/" target="_blank">いわしアンテナ &gt;°))))彡</a></div>
+
+<div class="sidebody"><a href="http://2ch-2.net/" target="_blank"> つーアンテナ(*ﾟ∀ﾟ)</a></div>
+
+<div class="sidebody"><a href="https://ii-antenna.net/?about" target="_blank">いーあんてな(#ﾟｗﾟ)</a></div>
+
+<div class="sidebody"><a href="https://2ch-mi.net/" target="_blank">みーアンテナ（´∀｀）</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-link -->
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">検索</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="https://cse.google.com/cse.js?cx=014565878756483497884:urusxdcjffe"></script>
+<div class="gcse-search"></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「B」設定のブログパーツ表示 -->
+            
+<!-- LDR・RSSリンクとブログのロゴ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　右側200px ここまで-->
+
+        <!-- このページのトップヘ　はじまり -->
+        <p class="to-pagetop"><a href="#"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/to_pagetop.png" width="70" height="70" alt="このページのトップヘ" /></a></p>
+        <!-- このページのトップヘ ここまで -->
+
+    </div>
+    <!-- コンテンツ全体 ここまで-->
+
+    <!-- ブログのフッター はじまり-->
+    <footer id="blog-footer">
+    <!-- Blog Common Footer // --><div id="footer"><p>Powered by <a href="http://blog.livedoor.com/" title="ライブドアブログ">ライブドアブログ</a></p></div><!-- // Blog Common Footer --><!-- 共通フッター表示 -->
+    </footer>
+    <!-- /ブログのフッター ここまで-->
+
+</div>
+<!-- コンテンツエリア ここまで-->
+
+
+<!-- Add Body Tag // --><script type="text/javascript">
+(function(){
+  var traq = document.createElement('script'); traq.type = 'text/javascript'; traq.async = true;
+  traq.src = 'https://t.blog.livedoor.jp/u.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(traq, s);
+})();
+</script>
+<noscript>
+<img src="https://t.blog.livedoor.jp/u.gif" alt="traq">
+</noscript>
+<!-- // Add Body Tag -->
+
+<script>
+(function($) {
+  var cookieName = 'livedoor-blog-gdpr-agreed';
+  $(document).ready(function() {
+    if (navigator.userAgent.match(/https?:\/\//)) {
+      // UA に http:// or https:// があればスルー
+      return;
+    }
+
+    var agreed = document.cookie.indexOf(cookieName) >= 0;
+    if (agreed) {
+      // 同意済み Cookie があればスルー
+      return;
+    }
+
+    var banner = $('<div>');
+    banner.attr('id', 'gdpr-banner');
+    var label = $('<p>');
+    label.html('\
+      ライブドアブログでは広告のパーソナライズや効果測定のためクッキー(cookie)を使用しています。<br>\
+      このバナーを閉じるか閲覧を継続することでクッキーの使用を承認いただいたものとさせていただきます。<br>\
+      また、お客様は当社パートナー企業における所定の手続きにより、クッキーの使用を管理することもできます。<br>\
+      詳細は<a href="http://www.livedoor.com/rules/" target="_blank" style="color:#023780;text-decoration:underline;">ライブドア利用規約</a>をご確認ください。\
+    ');
+    banner.append(label);
+
+    var closeButton = $('<button>');
+    closeButton.attr('type', 'button');
+    closeButton.html('閉じる');
+    closeButton.on('click', function() {
+      $('#gdpr-banner').hide();
+      document.cookie = cookieName + '="1";expires=Tue, 31-Dec-2037 00:00:00 GMT;path=/;';
+    });
+    banner.append(closeButton);
+
+    banner.css({
+      'position': 'fixed',
+      'left': '0',
+      'right': '0',
+      'bottom': '0',
+      'background': '#dcdcdc',
+      'color': '#000',
+      'padding': '20px',
+      'text-align': 'center',
+      'box-shadow': '0 -2px 2px rgba(102, 102, 102, 0.86)',
+      'z-index': '2147483647',
+    });
+    label.css({
+      'display': 'inline-block',
+      'text-align': 'left',
+      'font-size': '14px',
+      'color': '#000',
+      'vertical-align': 'middle',
+      'line-height': '1.5',
+    });
+    closeButton.css({
+      'display': 'inline-block',
+      'color': '#fff',
+      'border': 'none',
+      'font-size': '14px',
+      'padding': '4px 40px',
+      'margin-left': '40px',
+      'background': '#535353',
+      'vertical-align': 'middle',
+    });
+
+    var script = document.createElement('script');
+    script.type = "text/javascript";
+    script.src = "https://ipcheck.blogsys.jp/check.js?t=" + Date.now();
+    script.onerror = function() {
+      $('body').append(banner);
+    };
+    document.body.appendChild(script);
+  });
+})(jQuery);
+</script>
+</body>
+</html>

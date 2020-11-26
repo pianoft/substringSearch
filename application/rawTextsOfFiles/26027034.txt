@@ -1,0 +1,1589 @@
+<!DOCTYPE html>
+<html lang="ja" itemscope itemtype="http://schema.org/Blog">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=1190">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" /><link rel="shortcut icon" type="image/vnd.microsoft.icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/favicon.ico" /><link rel="icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/3ab45ab0.jpg" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/template.css?v=20190826" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/heart.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/icon.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="http://pathtimeblog.com/site.css?_=20190831163247" type="text/css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://pathtimeblog.com/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://pathtimeblog.com/atom.xml" /><link rel="canonical" href="http://pathtimeblog.com/archives/26027034.html" /><link rel="openid.server" href="http://auth.livedoor.com/openid/server" /><link rel="openid.delegate" href="http://profile.livedoor.com/shukatu2ch/" />
+<link rel="mixi-check-alternate" media="mixi-device-mobile" type="text/html" href="http://blog.m.livedoor.jp/shukatu2ch/article/26027034" />
+<link rel="mixi-check-alternate" media="mixi-device-smartphone" type="text/html" href="http://pathtimeblog.com/archives/26027034.html" />
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/jquery-1.11.1.min.js"></script>
+
+<meta name="description" content="1: 名無しさん＠おーぷん  20/08/23(日)18:55:07 ID:KPa
+  辛すぎて草毎日ミーティングで今日の反省・成長点話し合うとかやってられっかよぽんぽん成長がーって発言しとる同僚だらけで俺空気  
+" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="意識クッソ高い職場に転職した結果www : 2ch就活まとめ" />
+<meta property="og:description" content="1: 名無しさん＠おーぷん  20/08/23(日)18:55:07 ID:KPa  辛すぎて草毎日ミーティングで今日の反省・成長点話し合うとかやってられっかよぽんぽん成長がーって発言しとる同僚だらけで俺空気  " />
+<meta property="og:url" content="http://pathtimeblog.com/archives/26027034.html" />
+<meta property="og:site_name" content="2ch就活まとめ" />
+<meta property="og:locale" content="ja_JP" />
+<meta property="og:image" content="https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png" />
+
+<meta name="twitter:site" content="@2chshukatu" />
+<meta name="twitter:title" content="意識クッソ高い職場に転職した結果www : 2ch就活まとめ" />
+<meta name="twitter:description" content="1: 名無しさん＠おーぷん  20/08/23(日)18:55:07 ID:KPa  辛すぎて草毎日ミーティングで今日の反省・成長点話し合うとかやってられっかよぽんぽん成長がーって発言しとる同僚だらけで俺空気  " />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image:src" content="https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png" />
+<link rel="alternate" media="handheld" type="application/xhtml+xml" href="http://blog.m.livedoor.jp/shukatu2ch/" />
+
+<title>意識クッソ高い職場に転職した結果www : 2ch就活まとめ</title>
+<script src="https://parts.blog.livedoor.jp/js/emoji.js"></script>
+<script src="https://parts.blog.livedoor.jp/js/misc.js?v=20190710"></script>
+<!--[if lt IE 9]>
+<script src="https://parts.blog.livedoor.jp/js/html5.js"></script>
+<![endif]-->
+<script src="https://parts.blog.livedoor.jp/js/usr/import.js"></script>
+<script>
+$(function(){
+  if($('.header-inner01').children('#blog-header-image').length) {
+    $(window).bind('load', function() {
+      var title1 = $('#blog-header-image').height();
+      var title2 = $('.header-menu').height();
+      var headerHeight = title1-title2-15;
+      $("hgroup").css("height", headerHeight);
+    });
+  }
+});
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-3064778048578600",
+          enable_page_level_ads: true
+     });
+</script>
+
+<!-- Add Google Analytics Tag // -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-113178806-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- // Add Google Analytics Tag -->
+
+
+<meta name="referrer" content="always">
+<meta name="referrer" content="unsafe-url">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1638469-45"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+var blogId = '';
+if (blogId) {
+  gtag('config', 'UA-1638469-45', {
+    'custom_map': {'dimension1': 'blog_id'},
+    'blog_id': blogId
+  });
+} else {
+  gtag('config', 'UA-1638469-45');
+}
+</script>
+
+</head>
+<body class="default_2012 page-article layout-2col sidebar-right"><script type="text/javascript"><!--
+var ld_blog_vars = {
+  provider_id : '1',
+  provider_name : 'livedoor',
+  id : '7836571',
+  name : 'shukatu2ch',
+  charset : 'utf8',
+  url : 'http://pathtimeblog.com/',
+  title : '2ch就活まとめ',
+  blog_design: {
+      version: 1
+  },
+  blog_category: {
+    id: '243',
+    permalink: 'https://blog.livedoor.com/category/243/',
+    name: 'まとめ(総合) > まとめ',
+    is_adult : 0,
+    is_gambling : 0,
+    hierarchy: [{ id: '431', name: 'まとめ(総合)', permalink: 'https://blog.livedoor.com/category/431/' },{ id: '243', name: 'まとめ', permalink: 'https://blog.livedoor.com/category/243/' }]
+  },
+  current_page : {
+    type : 'article',    page : ''
+  },
+  articles : [ {
+       id : '26027034',
+       permalink : 'http://pathtimeblog.com/archives/26027034.html',
+       title : '意識クッソ高い職場に転職した結果www',
+       categories : [ { id:'219473', name:'社会人生活', permalink:'http://pathtimeblog.com/archives/cat_219473.html' }, { id:'', name:'', permalink:'' } ],
+       date : '2020-09-03 11:30:00'
+}   ]
+};
+//-->
+</script><div id="analyzer_tags" style="display:none">
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/c2.js?v=20191010"></script>
+<script type="text/javascript">blog_counter('shukatu2ch', 7836571, 'http://pathtimeblog.com/')</script>
+</div><script type="text/javascript" src="https://parts.blog.livedoor.jp/js/smartphone.js?v=20200824"></script>
+<script type="text/javascript" src="http://pathtimeblog.com/settings/header.js?v=20190705"></script><script type="text/javascript" src="http://pathtimeblog.com/settings/ad.js"></script>
+<script type="text/javascript">
+var palette_src = 'https://parts.blog.livedoor.jp/img/emoji/3/palette.png';
+if (typeof IMAGE_CACHE == 'object' && IMAGE_CACHE['emoji_palette']) IMAGE_CACHE['emoji_palette'].src = palette_src;
+</script>
+
+<!-- Blog Common Header // -->
+<!-- // Blog Common Header -->
+<!-- 共通ヘッダー表示 -->
+
+<!-- ブログタイトル はじまり-->
+<header id="blog-header">
+
+    <div id="blog-header01">
+
+        <div class="header-inner01 show-image hide-text">
+
+            <hgroup>
+                <!--ブログタイトル　はじまり-->
+                <h1 id="blog-title"><a href="http://pathtimeblog.com/">2ch就活まとめ</a></h1>
+                <!--ブログタイトル　ここまで-->
+                <!--ブログ説明　はじまり-->
+                <h2 id="blog-description">新卒・転職・社会人生活などを含め、就活・就職に関することをまとめてます。</h2>
+                <!--ブログ説明　ここまで-->
+            </hgroup>
+
+            <a href="http://pathtimeblog.com/"><img src="https://resize.blogsys.jp/727db0f9da9f42eb7d26b703338c30b3eef0157c/trim2/0x243_94p_1200x388/http://livedoor.blogimg.jp/shukatu2ch/imgs/0/5/055bbafe.jpg" id="blog-header-image" /></a>
+
+            <div id="blog-header02">
+                <div class="header-inner02">
+                    <ul class="header-menu">
+                        <li><a href="http://pathtimeblog.com/">HOME</a></li><!--メニューを入れてください-->
+                        <li class="ldb_menu-item-url"><a href="http://blog.livedoor.jp/shukatu2ch/archives/6126504.html">ABOUT</a></li><!--メニューを入れてください-->
+                        <li><a href="mailto:shukatumatome@gmail.com">お問い合わせ</a></li><!--メニューを入れてください-->
+                    </ul>
+                    <ul class="header-sarch">
+                        <li><a href="http://twitter.com"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_twitter.png" alt="Twitter" /></a></li><!--Twitter-->
+                        <li><a href="http://pathtimeblog.com/index.rdf"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_rss.png" alt="RSS" /></a></li><!--RSS-->
+                        <li>
+                        <form action="http://pathtimeblog.com/search" method="GET" style="padding:0;margin:0px;">
+                        <input type="TEXT" name="q" class="sf">
+                        <input type="SUBMIT" value="検索" class="sfbtn">
+                        </form>
+                        </li><!--検索窓-->
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</header>
+<!-- /ブログタイトル ここまで-->
+
+
+<!-- コンテンツエリア はじまり-->
+<div id="wrapper">
+
+    <!-- コンテンツ全体 はじまり-->
+    <div id="container">
+
+        <!-- 相互RSS はじまり-->
+        <div class="rss-blogroll">
+
+            <!-- 相互RSSを設置する場合の注意事項
+                コードに含まれる以下のCSSは外して設置してください
+                http://blogroll.livedoor.net/css/default2.css -->
+
+                 <!-- 相互RSSのコード ひとつ目-->
+            <script type="text/javascript">
+            <!--
+                   var blogroll_channel_id = 255242;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード ふたつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 265945;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード みっつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 255442;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href= />
+        </div>
+        <!-- 相互RSS ここまで-->
+
+        <!-- コンテンツの箱の中　真ん中728px はじまり-->
+        <div class="main-container">
+            <div class="main-column-inner">
+<br>
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+<br>
+                <!-- メッセージボード -->
+                 
+
+
+
+                <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://pathtimeblog.com/archives/26027034.html"
+    trackback:ping="http://trackback.blogsys.jp/livedoor/shukatu2ch/26027034"
+    dc:title="意識クッソ高い職場に転職した結果www"
+    dc:identifier="http://pathtimeblog.com/archives/26027034.html"
+    dc:subject="社会人生活"
+    dc:description="1: 名無しさん＠おーぷん  20/08/23(日)18:55:07 ID:KPa  辛すぎて草毎日ミーティングで今日の反省・成長点話し合うとかやってられっかよぽんぽん成長がーって発言しとる同僚だらけで俺空気  "
+    dc:creator="shukatu2ch"
+    dc:date="2020-09-03T11:30:00+09:00" />
+</rdf:RDF>
+-->
+<div id="ad_rs" class="ad_rs_b"></div><!-- 記事のトラックバック・オートディスカバリー -->
+
+
+                <!-- 記事 はじまり-->
+                <article class="article first-article" itemscope itemtype="http://schema.org/BlogPosting">
+
+                    <!-- 記事タイトル　記事下の情報　はじまり-->
+                    <header class="article-header">
+
+                        <h1 class="article-title" itemprop="name"><a href="http://pathtimeblog.com/archives/26027034.html" itemprop="url">意識クッソ高い職場に転職した結果www</a></h1><!-- 記事のタイトル -->
+
+                            <!-- 記事下の記事情報 はじまり-->
+                            <div class="article-header-inner">
+
+                                <!-- 記事情報の上の行 はじまり-->
+                                <div class="article-header-top">
+                                <p class="article-header-date"><time datetime="2020-09-03T11:30:00+09:00" pubdate="pubdate">2020年09月03日</time></p>
+                                
+                                <ul class="article-header-category">
+                                    <li>
+                                        <dl><dt>カテゴリ:</dt><dd class="article-category1"><a href="http://pathtimeblog.com/archives/cat_219473.html">社会人生活</a></dd></dl>
+                                    </li>
+                                </ul>
+                                
+
+                                <!-- 記事の評価アイコン はじまり-->
+                                
+                                <!-- 記事の評価アイコン ここまで-->
+
+                                </div>
+                                <!-- 記事情報の上の行 ここまで-->
+                                <!-- ソーシャルボタン　はじまり -->
+                                <ul class="article-social-btn">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/26027034.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/26027034.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="意識クッソ高い職場に転職した結果www - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=%E6%84%8F%E8%AD%98%E3%82%AF%E3%83%83%E3%82%BD%E9%AB%98%E3%81%84%E8%81%B7%E5%A0%B4%E3%81%AB%E8%BB%A2%E8%81%B7%E3%81%97%E3%81%9F%E7%B5%90%E6%9E%9Cwww%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/26027034.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/26027034.html" data-text="意識クッソ高い職場に転職した結果www - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F26027034.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                                </ul>
+                                 <!-- ソーシャルボタン　ここまで -->
+                            </div>
+                            <!-- 記事下の記事情報 ここまで-->
+
+                    </header>
+                    <!-- 記事タイトル　記事下の情報　ここまで-->
+
+
+
+                    <!-- 記事本文 はじまり-->
+                    <div class="article-body">
+                        <div class="article-body-inner">
+<!-- 参加している共通テーマの表示 -->
+                        <font size="2"></font><div class="t_h"><font size="2">1: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)18:55:07 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  辛すぎて草<br>毎日ミーティングで今日の反省・成長点話し合うとかやってられっかよ<br><br>ぽんぽん成長がーって発言しとる同僚だらけで俺空気  </div><br>
+<!-- Generated by まとめくす (http://2mtmex.com/) --><!-- 本文 --><div class="article-body-more" id="more"><font size="2"><div class="t_h" >2: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)18:55:38 ID:2Qs</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  宗教みたいなもんや<br />しゃーない  </div><br />
+<font size="2"><div class="t_h t_i" >6: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)18:57:46 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;2</span><br />完全に宗教だわ<br /><br />でも意識高い系じゃなくて本当に意識高く結果出してるから<br />すげーとは思うけど<br /><br />俺にはついていける自信ねぇ  </div><br />
+<font size="2"><div class="t_h" >3: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)18:55:59 ID:pfZ</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  辞めるしかないな  </div><br />
+<font size="2"><div class="t_h" >4: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)18:56:30 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  上司「お前仕事しに来てるって感じやな」<br /><br />僕「はぁ。」<br /><br />上司「そんなんじゃこの先成長はないぞ」<br /><br />転職したい  </div><br />
+<font size="2"><div class="t_h t_i" >117: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)20:07:15 ID:cl5</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;4</span><br />この会話にすべてが詰まってる<br /><br />意識は高いけどいうほど高尚な仕事でもなさそう  </div><br />
+<font size="2"><div class="t_h t_i" >120: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)20:10:57 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;117</span><br />まぁこの業界自体に嫌気がさしてるしなー  </div><br />
+<font size="2"><div class="t_h" >5: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)18:57:25 ID:pfZ</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  だから辞めろって<br />そこにいる限り環境は絶対に変わらないぞ<br />自分が出ていく以外に方法はない  </div><br />
+<font size="2"><div class="t_h t_i" >7: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)18:58:21 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;5</span><br />だって転職してまだ5ヶ月くらいだもん<br />しかもコロナで転職不安だわ  </div><br />
+<font size="2"><div class="t_h" >8: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)18:58:22 ID:evy</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  逆に意識低いところも死にたくなるから<br />まあまあなところ転職しようねせやね  </div><br />
+<font size="2"><div class="t_h t_i" >10: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)18:59:34 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;8</span><br />前職が意識低すぎてつまらんかった<br /><br />んで意識高い系になってしまってこのザマだわwww<br />もう俺は二度と意識を高く持たない  </div><br />
+<font size="2"><div class="t_h" >9: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)18:59:12 ID:sFb</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  安月給なくせに意識だけ高い  </div><br />
+<font size="2"><div class="t_h t_i" >11: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)18:59:52 ID:3s4</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;9</span><br />これ本当に地獄  </div><br />
+<font size="2"><div class="t_h t_i" >22: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:01:39 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;9</span><br />間違えた<br />これで安月給なんよな  </div><br />
+<font size="2"><div class="t_h" >12: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:00:04 ID:Q8W</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  毎朝意味不明な自己啓発本読まされるところに転職しろ  </div><br />
+<font size="2"><div class="t_h" >13: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:00:26 ID:evy</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;">  IT系とかスマホ販売店はそういうところ多い  </div><br />
+<font size="2"><div class="t_h" >14: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:00:26 ID:U5q</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  上半期・下半期での成長と反省なら分かるけど<br />一日ごとにそうそう成長や反省はないやろ  </div><br />
+<font size="2"><div class="t_h" >15: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:00:34 ID:j2Y</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;">  ぽんぽん成長（肥満化）  </div><br />
+<font size="2"><div class="t_h" >16: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:00:39 ID:DOB</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  社会人として成果出してんならすげーやん<br />オレはそんなん耐えられんけどな  </div><br />
+<font size="2"><div class="t_h" >17: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:00:48 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  同僚「上司から出された課題、すごい難しいけど負けなくないよな！明日休みやけど集まろうぜ！」<br /><br />アホちゃう?www  </div><br />
+<font size="2"><div class="t_h t_i" >20: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:01:13 ID:sFb</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;17</span><br />キモくて草  </div><br />
+<font size="2"><div class="t_h t_i" >21: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:01:33 ID:evy</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;17</span><br />ひええええええｗ  </div><br />
+<font size="2"><div class="t_h t_i" >23: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:01:45 ID:TyE</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;17</span><br />はえー<br />年齢は？新入社員ならまだ分からんでもないが10年以上経ってるとしたら凄い  </div><br />
+<font size="2"><div class="t_h t_i" >25: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:02:22 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;23</span><br />そいつは新入社員  </div><br />
+<font size="2"><div class="t_h t_i" >24: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:02:06 ID:3s4</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;17</span><br />ヒエ～ｗｗｗｗｗｗ  </div><br />
+<font size="2"><div class="t_h t_i" >26: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:02:38 ID:U5q</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;17</span><br />休日に仕事してる時点で無能の証やんけ  </div><br />
+<font size="2"><div class="t_h t_i" >27: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:03:30 ID:sFb</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;26</span><br />これ<br />でも負けたくないんや  </div><br />
+<font size="2"><div class="t_h" >18: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:00:50 ID:IfN</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  ガイシか？<br />今古いメーカーいて周囲のあまりの意識の低さに辟易してて取引先の意識の高さにあこがれとるわ  </div><br />
+<font size="2"><div class="t_h" >28: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:03:32 ID:3s4</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  ほんま意識高い系怖い<br />言ってることは前向きやけどどんどんブラックの道に引きずり込んできて息苦しくて窒息しそうになる  </div><br />
+<font size="2"><div class="t_h" >29: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:03:43 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  俺はただ真面目に仕事頑張って<br />家帰ってからは仕事のこと考えずビール飲みたいだけなんだわ<br /><br />仕事テキトーにしたいって思ってないけどこれはキツい…  </div><br />
+<font size="2"><div class="t_h" >30: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:04:31 ID:WdC</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  全部ネガッてみたらいいんじゃない？<br />反論しまくってみよ  </div><br />
+<font size="2"><div class="t_h" >31: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:05:15 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  今転職ってやばいよな<br />運送業やったらそこまでアホな意識の高さ求められんよな<br /><br />肉体的にキツくていいから精神的にしんどいのはもういやや  </div><br />
+<font size="2"><div class="t_h t_i" >32: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:06:55 ID:WdC</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;31</span><br />多分君話合わない、なんなのこいつらて言うだけやぞ  </div><br />
+<font size="2"><div class="t_h t_i" >34: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:07:32 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;32</span><br />どいうこと？  </div><br />
+<font size="2"><div class="t_h t_i" >37: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:12:30 ID:WdC</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;34</span><br />運送業の人が意識低いし仕事楽だから平気だよねて話よね？<br />もっと辛いに決まってるし、頭悪い人多いから会話が辛いで  </div><br />
+<font size="2"><div class="t_h t_i" >41: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:16:56 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;37</span><br />運送業の仕事が楽って言ってるわけじゃないよ<br />辛いことはもちろんあるやろーけど<br />ただこんなふうに宗教的・過剰な意識の高さを求めてくる仕事ではないのかなーとは思ってる  </div><br />
+<font size="2"><div class="t_h t_i" >44: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:17:51 ID:WdC</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;41</span><br />もっと理不尽で理解できないぞ  </div><br />
+<font size="2"><div class="t_h t_i" >48: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:19:54 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;44</span><br />マジか…<br />ちょっともう20後半だし転職するには運送業かなーって思ってんだけど…<br /><br />運送業も会社によってはヤバいって聞くから職場探しは慎重にしようとは思ってる  </div><br />
+<font size="2"><div class="t_h t_i" >58: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:26:37 ID:8J9</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;31</span><br />ワイは元施工管理やけど退職して運送業に就職したけど天職やわ<br />バイトみたいにゆるい雰囲気やし定時には帰れるし手取りは15万やけど  </div><br />
+<font size="2"><div class="t_h t_i" >61: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:28:38 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;58</span><br />マジかー<br />でも15万かー<br />何乗ってんの？中型？  </div><br />
+<font size="2"><div class="t_h t_i" >64: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:29:57 ID:8J9</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;61</span><br />3tの準中型トラックや<br />コンビニルート配送やで  </div><br />
+<font size="2"><div class="t_h t_i" >65: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:31:04 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;64</span><br />運送業の最初はコンビニルートしたいなーと思ってたんだわ。<br />それから中型でルート配送したい。<br /><br />フォークリフトもついでに取ろうと  </div><br />
+<font size="2"><div class="t_h t_i" >68: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:33:18 ID:8J9</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;65</span><br />コンビニルート配送について聞きたいことあるなら聞いてくれや参考にはなると思う(配送歴1ヶ月)  </div><br />
+<font size="2"><div class="t_h t_i" >66: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:31:55 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;64</span><br />実際人間関係とかはどう？<br />深夜に一人で黙々と仕事する感じ？  </div><br />
+<font size="2"><div class="t_h t_i" >73: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:36:22 ID:8J9</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;66</span><br />最初は先輩の隣に座ってルート配送の手順を覚えていくんやけど2ヶ月目からは一人で黙々やな<br />配送時間は日中と夜間両方あるけどワイは日中担当や<br />そこら辺は希望聞かれると思う  </div><br />
+<font size="2"><div class="t_h t_i" >76: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:37:37 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;73</span><br />ありがとう<br />参考になる  </div><br />
+<font size="2"><div class="t_h" >33: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:07:00 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  とんでもないところに来てしまった…<br /><br />みんな生き生きと仕事してて俺だけ死んだ目してる<br />休みの日にみんなでバーベキューしたいとかしょっちゅう言ってるし<br />距離近すぎ  </div><br />
+<font size="2"><div class="t_h" >35: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:09:53 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  毎日14時間拘束www<br />安月給<br />たまの休みに仕事を頑張った人間が評価されるwww<br /><br />もうブラックなんてもんじゃねぇ  </div><br />
+<font size="2"><div class="t_h t_i" >39: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:13:23 ID:WdC</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;35</span><br />バス会社かしら  </div><br />
+<font size="2"><div class="t_h" >36: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:10:42 ID:Dnw</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  反省・成長点話し合う<br />毎日とか辛すぎやろ  </div><br />
+<font size="2"><div class="t_h t_i" >38: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:12:42 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;36</span><br />話したら話したで「え？終わり？それだけ？w」<br />って突っ込まれるwww  </div><br />
+<font size="2"><div class="t_h" >40: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:13:44 ID:CpM</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  意識高くやったら給料ええなら分かるけど何の見返りもないと頭ワタミかよってなるからな<br />はよ逃げた方が  </div><br />
+<font size="2"><div class="t_h" >42: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:17:19 ID:Q8W</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  洗脳セミナーやってそう  </div><br />
+<font size="2"><div class="t_h" >43: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:17:28 ID:F3j</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  コンプライアンスぅー<br />クライアントぁー！<br />辺りの意識高いカタカナ使っていけ  </div><br />
+<font size="2"><div class="t_h t_i" >45: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:17:53 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;43</span><br />そういうの全部クソって思ってるわ上司は  </div><br />
+<font size="2"><div class="t_h" >46: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:18:01 ID:IM7</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  やりがい搾取のやつやな洗脳に近いからイッチももう少し身体疲れてきたらイキイキ楽しく働けるで！頑張るんや！  </div><br />
+<font size="2"><div class="t_h t_i" >50: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:21:18 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;46</span><br />もう疲れてる<br />毎朝5時に起きて出勤する7時まで布団の中で怯えて覚悟決めてる毎日です  </div><br />
+<font size="2"><div class="t_h" >47: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:19:46 ID:TGL</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  運送業なんかギャンブルの話できれば人付き合い成立するぞ<br />ソースはワイの兄貴  </div><br />
+<font size="2"><div class="t_h t_i" >51: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:21:48 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;47</span><br />ギャンブルしねぇ<br /><br />風俗は大好きだが…  </div><br />
+<font size="2"><div class="t_h" >49: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:20:43 ID:IfN</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  運送は運送で底辺由来の理不尽がありそう  </div><br />
+<font size="2"><div class="t_h" >52: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:21:51 ID:MS9</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  意識高いっていうけどあれただのオナニーやろ？  </div><br />
+<font size="2"><div class="t_h" >53: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:22:46 ID:MS9</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  あいつらのやってることは仕事じゃなくて仕事ごっこ  </div><br />
+<font size="2"><div class="t_h" >54: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:23:09 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  でもこんなんで仕事やめて<br />前職は何故辞めた？<br />って面接官に言われたらなんて答えればいいのよ？<br />  </div><br />
+<font size="2"><div class="t_h t_i" >57: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:26:01 ID:MS9</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;54</span><br />自分は高い意識の押し売りだけして仕事効率の悪い環境に飽きれて転職しましたでいいやん  </div><br />
+<font size="2"><div class="t_h" >55: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:23:19 ID:3JN</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  なんか、高校の授業クソ真面目に聞いて結局第一志望落ちてそう  </div><br />
+<font size="2"><div class="t_h" >56: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:25:47 ID:TyE</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  意識が高い→結果が出てる→高利益を得ている<br />はずなのに安月給なん？昇給が多いとか？  </div><br />
+<font size="2"><div class="t_h t_i" >59: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:27:54 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;56</span><br />なんやかんや<br />まぁコロナの影響もあるしなぁ<br />詳しくはわからん<br />雇われやし  </div><br />
+<font size="2"><div class="t_h" >60: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:28:26 ID:2Qs</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  手取りなんぼや？  </div><br />
+<font size="2"><div class="t_h t_i" >63: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:29:41 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;60</span> <br /> 手取りはゆーて俺も16マンくらい </div><br />
+<font size="2"><div class="t_h" >62: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:28:52 ID:8J9</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  ちなみにイッチは運送業できる免許持ってるんか？<br />最低でも準中型は必要  </div><br />
+<font size="2"><div class="t_h t_i" >63: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:29:41 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;62</span> <br /> 準中型免許ならあるよ <br /> もし仕事やめたら大型取りに行く予定ではある </div><br />
+<font size="2"><div class="t_h" >69: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:34:41 ID:EXO</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  やたら横文字の単語が飛び交ってそう  </div><br />
+<font size="2"><div class="t_h" >70: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:34:53 ID:EXO</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  イッチの職場  </div><br />
+<font size="2"><div class="t_h t_i" >72: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:36:14 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;70</span><br />それは無い。<br />横文字とか飛ばしたら鼻で笑われる。<br /><br />意識高い系ではなくマジで意識高い人間の集まり。<br />意識高い系こそ悪って風潮。  </div><br />
+<font size="2"><div class="t_h" >71: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:35:15 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  今何歳？<br />面接は結構前職のこととか、いろいろ突っ込まれたりした？<br />道覚えるのはどう？<br />基本単純作業になるんかな？  </div><br />
+<font size="2"><div class="t_h t_i" >80: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:40:46 ID:8J9</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;71</span><br />歳は21歳やで<br />面接の時は前職で何してたかは聞かれたけど辞めた理由までは聞かれんかった志望した動機は聞かれたから「準中型免許を取得しましたのでその免許を生かせる職場で働きたいと思ったため志望致しました」みたいに簡単に答えた<br />道覚えるのはちょっと苦労するやろうな県内全域行ってるわけやし<br />作業は積み場で積んで運転してコンビニに着いたら下ろすだけやから単純作業ではある  </div><br />
+<font size="2"><div class="t_h t_i" >88: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:43:49 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  取り敢えず死んだ顔しながら最低1年頑張ろう<br /><br /><span style="color:mediumblue;" class="anchor">&gt;&gt;80</span><br />若いなぁー<br />俺もう29だわ<br />何やってんだろ<br /><br />県全域ってすげぇな<br />本間に分からんかったらナビ使ってでも大丈夫なんかな  </div><br />
+<font size="2"><div class="t_h" >75: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:37:31 ID:Fau</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  コンプライアンスとクライアント程度は普通に使う単語だろ…<br />もっとわけわからん単語は本当になんの為に使うのかわからん様な横文字やわ  </div><br />
+<font size="2"><div class="t_h" >78: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:39:31 ID:Gg7</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  やっぱ適性って大事やで  </div><br />
+<font size="2"><div class="t_h" >79: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:39:37 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  ぶっちゃけ意識高いのは多少覚悟してたけどここまでとは…<br /><br />ちなみにその同僚は上司のお気に入り<br /><br />反吐が出る  </div><br />
+<font size="2"><div class="t_h" >81: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:41:03 ID:EXO</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  ああ意識高い教に入会してしまったんやなイッチ<br />実質ブラックやな  </div><br />
+<font size="2"><div class="t_h" >82: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:41:23 ID:A1K</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  ワイ、事務系総合職から配送職に転職した模様  </div><br />
+<font size="2"><div class="t_h t_i" >90: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:44:32 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;82</span> <br /> 仕事の調子はどうですかいな？ </div><br />
+<font size="2"><div class="t_h t_i" >92: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:46:11 ID:A1K</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;90</span><br />ストレスは95から15に減ったな<br /><br />もちろん生涯年収も減ったやろうけど、ワイは意識他界系やなかったからどのみち出世も無理やったろうな  </div><br />
+<font size="2"><div class="t_h t_i" >98: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:48:49 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;92</span><br />同じく<br />ストレス抱えて苦しみながら生きるなんて絶対ごめんだわ  </div><br />
+<font size="2"><div class="t_h" >83: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:41:24 ID:sFb</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  給料よかったら意識高くいけるんやけどな  </div><br />
+<font size="2"><div class="t_h t_i" >86: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:43:09 ID:8J9</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;83</span><br />無理やで<br />いくら給料良くても出来んもんは出来んしやる気も無くなってくる<br />職場は金より大変だが苦に感じないのが一番ええ  </div><br />
+<font size="2"><div class="t_h t_i" >90: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:44:32 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;86</span> <br /> 本当その通り </div><br />
+<font size="2"><div class="t_h" >84: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:42:36 ID:EXO</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  きうりょう低くて意識だけ高いのも問題なんやなぁ  </div><br />
+<font size="2"><div class="t_h" >85: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:42:53 ID:0xf</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  手取り16万はヤバイ草  </div><br />
+<font size="2"><div class="t_h" >87: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:43:21 ID:WdC</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  やっぱ成果報酬のが楽だわ  </div><br />
+<font size="2"><div class="t_h" >89: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:43:59 ID:juV</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  意識高いIT企業とか逆にバカに見えるんだよなぁ  </div><br />
+<font size="2"><div class="t_h" >91: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:45:46 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  やっぱ運送業は人手不足とはいえコロナ落ち着いてからの方が良いんかなー<br />って何年先の話かな  </div><br />
+<font size="2"><div class="t_h t_i" >93: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:46:50 ID:A1K</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;91</span><br />配送でもメーカー物流を狙うやで<br />待遇もそこそこええで  </div><br />
+<font size="2"><div class="t_h t_i" >97: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:47:51 ID:8J9</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;91</span><br />逆やで今がチャンスや<br />コロナ自粛のためにネット通販が増えたから配達しなきゃいけない物は増えたのに人は少ないままやから今やったらかなり採用されやすいぞ<br />合わない職場は見切りつけるべきや  </div><br />
+<font size="2"><div class="t_h t_i" >100: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:50:29 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;97</span><br />なるほど…<br />ぐわー！<br />そんな話聞くと今すぐやめてぇ  </div><br />
+<font size="2"><div class="t_h" >94: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:47:17 ID:TyE</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  でもマジで意識高い奴は大企業なり中小でもニッチな業界行って給料貰ってるからなあ<br />なんで意識高い人が集まってるのに薄給なのかマジで謎<br />  </div><br />
+<font size="2"><div class="t_h" >95: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:47:37 ID:sFb</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  中型ぐらいがちょうどええな  </div><br />
+<font size="2"><div class="t_h t_i" >102: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:52:49 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;95</span><br />やろ？  </div><br />
+<font size="2"><div class="t_h" >99: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:50:28 ID:8J9</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  配送は遅れたらアカンけど物が到着しないのはもっとあかんからもし迷ったらナビ使って遅れてでも届けるべきやと思う  </div><br />
+<font size="2"><div class="t_h t_i" >101: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:51:43 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;99</span><br />道覚えんの少し得意で無い寝んけど仕事してたらなんとか覚えられるよな？  </div><br />
+<font size="2"><div class="t_h t_i" >103: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:53:21 ID:A1K</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;101</span><br />言うて道なんて今どきスマホで余裕やで  </div><br />
+<font size="2"><div class="t_h t_i" >104: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:54:40 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;103</span><br />やんなー<br />介護職してた時、送迎業務で良くナビ使ってたわ。  </div><br />
+<font size="2"><div class="t_h t_i" >105: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:55:37 ID:8J9</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;103</span><br />スマホで出たルートと先輩が走ってるルートは違うけど先輩が走ってるルートはちゃんと配送時間に間に合ってるし渋滞とか信号に出来るだけ引っかからないようにしてるで<br />結局先輩が走ってるルートを覚えた方が一番早い  </div><br />
+<font size="2"><div class="t_h t_i" >107: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:57:35 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;105</span><br />なるほど<br />横乗りの時に必死で覚えて休みの日はそのルートなぞるようにドライブするわ  </div><br />
+<font size="2"><div class="t_h t_i" >108: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:58:04 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;105</span><br />一番辛いことってなに？  </div><br />
+<font size="2"><div class="t_h t_i" >112: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)20:03:22 ID:8J9</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;108</span><br />辛いまで感じた事はないで<br />まぁまだ2ヶ月目やし  </div><br />
+<font size="2"><div class="t_h t_i" >109: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:59:03 ID:A1K</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;105</span><br />究極、スマホでも何とかなるって意味や  </div><br />
+<font size="2"><div class="t_h" >106: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)19:56:16 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  俺も最初の3ヶ月は毎日どうすれば…<br />ってなってたけど今は毎日死んでる<br /><br />人間関係良好にする為に無理して距離詰めて頑張った<br />でも疲れたわ  </div><br />
+<font size="2"><div class="t_h" >110: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)20:00:44 ID:jBz</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  今北<br /><br />イッチ<br />転職して<br />人間関係に疲れる<br /><br />で合ってる？  </div><br />
+<font size="2"><div class="t_h t_i" >111: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)20:01:24 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;110</span><br />そんな感じ<br /><br />意識の高さにやられてますわー  </div><br />
+<font size="2"><div class="t_h" >113: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)20:04:08 ID:SbI</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  なんでそんなに意識高いん  </div><br />
+<font size="2"><div class="t_h t_i" >116: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)20:07:06 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;113</span><br />仕事至上主義だからじゃねーの？<br />the 体育会系  </div><br />
+<font size="2"><div class="t_h" >114: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)20:05:19 ID:6YR</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  そもそも仕事とか勤務時間にやるものであって残業や休日にやるとか無能やん？<br />それが意識高いとか笑わせるわ。  </div><br />
+<font size="2"><div class="t_h t_i" >115: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)20:06:56 ID:NlG</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;114</span><br />これ  </div><br />
+<font size="2"><div class="t_h t_i" >118: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)20:09:44 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;114</span><br />うーん<br />一般的なサラリーマン的なものではなく職人系の仕事でもあるからなぁ。。。<br /><br />残業や休出が求められる時もあるのよ。<br />しょうがない時は俺も休出するけど積極的にしたい思わん。<br />俺はふつーの人間なの。  </div><br />
+<font size="2"><div class="t_h" >119: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)20:09:46 ID:OI8</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  君はこの週末何時間勉強した？僕はマクロ経済学を復習したよ<br />成功者は週末も努力を怠らないものだ<br />この週末をダラダラ過ごすか未来への投資をするかで将来に差がつくんだよ  </div><br />
+<font size="2"><div class="t_h t_i" >122: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)20:11:21 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;119</span><br />やめろー<br />その攻撃は俺に効く  </div><br />
+<font size="2"><div class="t_h t_i" >127: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)20:15:29 ID:OI8</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;122</span><br />え？もしかして勉強してないのか？それは困ったね<br />マクロ経済学でフローとストックってのがあるんだがバスルームで例えるとフローは水を貯める水道水で、ストックは水がたまったバスタブのことさ<br />つまり週末に仕事の復習をしないってことはバスタブの栓を抜いてて平日に得たフローがどんどん流出しているってことなんだよ<br />今から勉強しろ！さあ！さあ！さあ！  </div><br />
+<font size="2"><div class="t_h t_i" >130: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)20:16:34 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;127</span><br />嫌です<br />酒飲んでゲームしたいです。  </div><br />
+<font size="2"><div class="t_h t_i" >134: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)20:20:29 ID:OI8</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;130</span><br />イッチはそれでいいんだよ<br />All work and no play makes Jack a dull boyって諺もあるしね<br />明日から頑張ろう！  </div><br />
+<font size="2"><div class="t_h t_i" >136: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)20:22:38 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;134</span><br />程々にな<br />やることやって<br />後は空気になって周りから続かないなって察してもらうわ  </div><br />
+<font size="2"><div class="t_h t_i" >135: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)20:20:49 ID:6YR</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;119</span><br />俺は毒劇物取り扱いの勉強してるわ、まあ職場で必要だからやっただけだけど。<br />そもそもマクロ経済学なんて勉強したとこで使えんぞ。  </div><br />
+<font size="2"><div class="t_h t_i" >137: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)20:22:53 ID:A1K</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;135</span><br />草  </div><br />
+<font size="2"><div class="t_h t_i" >138: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)20:24:37 ID:6YR</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;137</span><br />とりあえず勉強して分かったこと。<br />毒劇物<br />薄めて捨てれば<br />大丈夫  </div><br />
+<font size="2"><div class="t_h t_i" >141: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)20:28:13 ID:A1K</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;138</span> <br /> ワイも仕事で使うから乙4とったわ </div><br />
+<font size="2"><div class="t_h t_i" >142: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)20:29:13 ID:OI8</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;141</span><br />意識高い系の真似をしてみたかった反省はしていない  </div><br />
+<font size="2"><div class="t_h" >121: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)20:11:19 ID:NlG</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  ワイは絶対無理やわ<br />キツすぎる  </div><br />
+<font size="2"><div class="t_h" >123: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)20:11:35 ID:UF7</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  イッチも半沢直樹みたいに反旗を翻そうぜ  </div><br />
+<font size="2"><div class="t_h t_i" >124: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)20:13:10 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;123</span><br />そんな気力ない<br />荒立てる気なんてない<br />ただなにも言わず辞めさして欲しい  </div><br />
+<font size="2"><div class="t_h" >125: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)20:13:22 ID:J2T</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  給料安いのを誤魔化すためにやってるだけやろな?<br />上手いこと考えるわ  </div><br />
+<font size="2"><div class="t_h" >126: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)20:13:50 ID:NlG</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  給料安いからやりがいに目を眩ませようとしとんやろね  </div><br />
+<font size="2"><div class="t_h t_i" >129: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)20:15:51 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;126</span><br />それもあるなー<br />でも確かにやりがいはある<br />だから俺も今の仕事に転職したんや<br /><br />でもここまで意識の高さを求められるとは思わんかった…<br />まぁこの業界でも他の職場に移ったら楽なところ多いインやろーけど  </div><br />
+<font size="2"><div class="t_h" >128: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)20:15:41 ID:yuB</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  総括やん  </div><br />
+<font size="2"><div class="t_h" >131: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)20:17:29 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  あぁ<br />青空だけ眺めて何も考えずに生きていきたい  </div><br />
+<font size="2"><div class="t_h" >132: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)20:18:20 ID:MUg</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  何も考えずモクモクと仕事できる職場が最高なんだね  </div><br />
+<font size="2"><div class="t_h t_i" >133: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)20:20:20 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:KPa</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;">  <span style="color:mediumblue;" class="anchor">&gt;&gt;132</span><br />そんな仕事がしたい<br />意識高くもってもいいことなんてない<br /><br />やるべき仕事はするけどそれ以上はしたくない<br />何がしたいかではなく何が出来るかで仕事を選ばないと人生詰むっていい勉強になった  </div><br />
+<font size="2"><div class="t_h" >140: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)20:28:12 ID:evy</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  じゃあイッチくん<br />明日までにティール組織の第3章まで要約してきて欲しい  </div><br />
+<font size="2"><div class="t_h" >143: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 20/08/23(日)20:38:01 ID:6YR</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;">  そもそものこと、仕事でわからないことなんて当たり前にあるんだからその場その場で調べて理解するスキルが有ればいいのよ<br />どこになんの情報があるかを分かっておけばとりあえず何とかなる、そしてそれを何度も繰り返すと自然に仕事に関する知識は覚える  </div><br />
+<br>
+<p style="color:gray;text-align:right;"><font size="2">引用元： <a href="https://hayabusa.open2ch.net/test/read.cgi/livejupiter/1598176507/" target="_blank">https://hayabusa.open2ch.net/test/read.cgi/livejupiter/1598176507/</font></a></p>
+<br>
+
+</div>
+                        
+<!-- タグのリスト表示セット -->
+                        </div>
+<br>
+
+
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=2Z8HPD+9K4KFM+34FI+NUES2" alt="">
+                    </div>
+                    <!-- 記事本文 ここまで-->
+
+
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HV7V6" alt="">
+
+
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www26.a8.net/svt/bgt?aid=190821728180&wid=001&eno=01&mid=s00000011866017004000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" alt=""></td>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+3257OY+3Y6M+601S1" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www24.a8.net/svt/bgt?aid=190821728185&wid=001&eno=01&mid=s00000018427001008000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=35LYZK+3257OY+3Y6M+601S1" alt=""></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+
+
+                    <!-- 記事フッター、コメント、ソーシャルボタン -->
+                    <footer class="article-footer">
+                        <div class="article-footer-comment">
+                            
+                                <a href="http://pathtimeblog.com/archives/26027034.html#comments">1コメント</a>
+                            
+                        </div>
+                        <div class="article-social-btn">
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HVFKY" alt="">
+
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/26027034.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/26027034.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="意識クッソ高い職場に転職した結果www - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=%E6%84%8F%E8%AD%98%E3%82%AF%E3%83%83%E3%82%BD%E9%AB%98%E3%81%84%E8%81%B7%E5%A0%B4%E3%81%AB%E8%BB%A2%E8%81%B7%E3%81%97%E3%81%9F%E7%B5%90%E6%9E%9Cwww%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/26027034.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/26027034.html" data-text="意識クッソ高い職場に転職した結果www - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F26027034.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                        </div>
+                    </footer>
+                    <!-- /記事フッター、コメント、ソーシャルボタン -->
+
+
+                    <!-- カテゴリの最新記事表示 はじまり-->
+                    <div class="article-sub-category">
+                        <div id="ldblog_related_articles_1f27d831">
+
+<div class="related-articles ldblog_related_articles_1f27d831" data-category-id="219473" data-article-rows="5">
+<h3>「社会人生活」カテゴリの最新記事</h3>
+<ul id="ldblog_related_articles_1f27d831_219473"></ul>
+</div>
+</div>
+<script type="text/html" id="ldblog_related_articles_1f27d831_tmpl">
+<% for(var i=0,l=articles.length;i<l;i++) {%><% if(i>=rows) break; %>
+<li><a href="<%=articles[i].permalink%>"><%=articles[i].title%></a></li>
+<% } %>
+</script>
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/related_articles.js?t=20180221"></script>
+<script type="text/javascript">
+(function(){
+RelatedArticles.load('ldblog_related_articles_1f27d831', '26027034');
+})();
+</script>
+<!-- 関連記事の表示 -->
+                    </div>
+                    <!-- /カテゴリの最新記事表示 ここまで-->
+
+
+
+
+                    <div id="ad2"></div><!-- 広告表示 -->
+
+                    <!-- 記事オプション はじまり-->
+                    <div class="article-option" id="article-options">
+
+                        <!-- コメントエリア　はじまり -->
+                        
+                        <section id="comments">
+                        
+                            <h1 class="article-option-title">コメント</h1>
+
+                            <!-- コメント繰り返し はじまり-->
+                            			<a name="comments"></a>			<!-- CommentsList -->
+			<div class="article-option" id="comments-list">
+				<h3><span class="icon-comment-v2-comment"></span>&nbsp;コメント一覧&nbsp;(1)</h3>
+                
+                
+				<!-- CommentsLoop Start -->                                <ol id="ld_blog_article_comment_entries">                    <li class="comment-set odd">
+                        <ul class="comment-info">
+                            <li class="comment-author">1.
+                                　
+                            </li>
+                            <li class="comment-date">2020年09月03日 19:38</li>
+                            <li class="comment-body">							手取り16万の意識高い系ってw<br>
+やりがい搾取されてるアホじゃん<br>
+駅前で菓子や果物売ってるアイツらかな？                            </li>
+                        </ul>
+                    </li>                    <!-- CommentsLoop End -->
+                </ol>                <script type="text/javascript" src="https://parts.blog.livedoor.jp/js/comment_loop.js?t=20190710"></script>
+                <script type="text/html" id="ld_blog_article_comment_entries_tmpl" class="template" style="display:none">
+                  <li class="comment-set <%==entry.odd_even%>">
+                    <ul class="comment-info">
+                      <li class="comment-author"><%==entry.num%>.
+                        <% if (entry.member_id) { %><span class="comment-author-blogger"><% } %>
+                        <%if(entry.url){%><a href="<%=entry.url%>" class="comment-url" rel="nofollow"><%==entry.author%></a><%}else{%><%==entry.author%><%}%></li>
+                        <% if (entry.member_id) { %></span><% } %>
+                      <li class="comment-date"><%=entry.datetime%></li>
+                      <li class="comment-body"><%if(entry.rating){%>
+                        <img src="https://parts.blog.livedoor.jp/img/<%=entry.rating_icon%>/<%=entry.rating%>.gif" width="<%=entry.icon_size.width%>" height="<%=entry.icon_size.height%>" alt="<%=entry.rating%>" />
+                        <%}%>
+                        <%==entry.body%>
+                        <%if(entry.attachment){%><br/>
+                        <a href="<%= entry.attachment.url %>" target="_blank"><%= entry.attachment.url %></a>
+                        <%}%>
+                        </li>
+                    </ul>
+                  </li>
+                </script>
+                <script type="text/javascript">
+                    var comment_loader = new LDBlogCommentLoop(1, 100, 0, 0, 202716095, 1);
+                </script>			</div><!-- CommentsList End -->
+                            <!-- コメント繰り返し　ここまで -->
+
+                        
+                        <h1 class="comment-form-title">コメントする</h1>
+<div class="article-option" id="comment-form">
+    <form
+      action="https://comment.blogcms.jp/livedoor/shukatu2ch/26027034/post"
+      method="post"
+      name="comment_form"
+          id="comment-form-body"
+      onsubmit="setCommentAuthor(this); return submitOnce(this.button);"
+    >
+    <fieldset>
+        <legend>コメントフォーム</legend>
+    <dl class="comment-form-author">
+        <dt><label for="comment-form-author">名前</label></dt>
+        <dd id="comment-author-form"><input type="text" class="text" id="comment-form-author" name="author" required="required" value="" /></dd>
+    </dl>
+  <dl class="comment-form-body">
+    <dt><label for="comment-form-textarea">コメント</label></dt>
+    <dd>
+      <textarea id="comment-form-textarea" name="body" rows="7" required="required"></textarea>
+      <div id="comment-form-tools">
+        <span class="facemark"><a href="javascript:void(0);" id="emojiLink1" onClick="showEmojiPanel(this.id, 'comment-form-textarea')"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/icon_facemark.png" /></a></span>
+        <span class="rating">
+                    <input type="hidden" name="rating" value="">
+                    <input type="hidden" name="rating_icon" value="star">
+                    <div class="rating-value">
+                        <span id="default-rating-value">評価する</span>
+                        <div class="caret"><span></span></div>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/face/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/face/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/face/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/face/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/face/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/star/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/star/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/star/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/star/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/star/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                    </div>
+                    <div class="rating-icon">
+                        <div data-value="face">顔</div>
+                        <div class="selected" data-value="star">星</div>
+                    </div>
+        </span>
+        <span class="submit"><button type="submit">投稿する</button></span>
+        <span class="memorize"><label for="bake"><input type="checkbox" id="bake" name="cookie" /> 情報を記憶</label></span>
+      </div>
+    </dd>
+  </dl>
+  </fieldset>
+  </form>
+  <script type="text/javascript" src="https://parts.blog.livedoor.jp/js/comment.0.2.js?v=20130430"></script>
+  <script type="text/javascript">
+    loadCommentAuthor(document.comment_form);
+    ldblogComment.init();
+  </script>
+<!-- /#comment-form --></div><!-- コメント投稿フォーム -->
+
+
+                        </section>
+                        
+                        <!-- コメントエリア　ここまで -->
+
+
+                        <!-- トラックバック受け付け　はじまり -->
+                        
+                        <!-- トラックバック受け付け　ここまで -->
+
+                    </div>
+                    <!-- 記事オプション ここまで-->
+
+                </article>
+                <!-- 記事　ここまで -->
+
+
+                <!-- ページ送り はじまり-->
+<!-- Article Pager // -->
+  <div class="pager article-pager-type2">
+    <div class="pager-inner">
+    <div class="article-pager-outer">
+    <ul class="article-pager"><li class="prev"><a href="http://pathtimeblog.com/archives/25988826.html" title="社長が社内に出来る奴いないのにシステム案件受注してきやがった">&nbsp社長が社内に出来る奴いないのにシステム案件受注してきやがった</a></li><li class="next both"><a href="http://pathtimeblog.com/archives/26014556.html" title="正社員でバックレたらどうなる？">正社員でバックレたらどうなる？&nbsp</a></li>    </ul>
+    </div>
+    </div>
+  </div>
+<!-- // Article Pager -->
+
+                <!-- /ページ送り ここまで-->
+
+            </div><!-- /main-column-inner-->
+        </div>
+        <!-- コンテンツの箱の中　真ん中728px ここまで-->
+
+
+        <!-- コンテンツの箱の中　左側200px はじまり-->
+        <aside class="left-container">
+            <div class="left-column-inner">
+            
+
+
+
+<div class="plugin-popular_articles sidewrapper">
+  <div class="sidetitlebody">
+    <div class="sidetitle">人気記事</div>
+  </div>
+  <div class="sidetop"></div>
+  <div class="side">
+
+
+    <div class="popular-articles">
+      <table id="populararticles-472933"></table>
+      <div class="popular-articles-freearea"></div>
+    </div>
+  </div>
+
+  <div class="sidebottom"></div>
+</div>
+
+<script type="text/javascript" language="javascript"><!--
+(function(){
+  var url = 'http://pathtimeblog.com/archives/popular_articles.json'
+         + '?rangetype=custom'
+         + '&from=0'
+         + '&range=13'
+         + '&limit=50'
+         + '&offset=0'
+         ;
+
+  var callback = function(data) {
+    var table = document.getElementById('populararticles-472933');
+    for (i = 0; i < data.articles.length; i++) {
+      var rank = i + 1;
+      var prefix = 'populararticles-472933-'+ rank;
+
+      var row = table.insertRow(-1);
+      var elm1 = row.insertCell(-1);
+      elm1.className = 'populararticles-rank';
+      elm1.innerHTML = '<span><b>' + rank + '</b></span>';
+      var elm2 = row.insertCell(-1);
+      elm2.className = 'populararticles-title';
+      elm2.innerHTML = '<a href="' + data.articles[i].url + '?ref=popular_article&id=7836571-472933">' + data.articles[i].title + '</a>'
+      ;
+
+    }
+  };
+
+  var xhr = (function () {
+      if (window.XMLHttpRequest)
+        return new XMLHttpRequest();
+      else {
+        var msxml = [
+          "Msxml2.ServerXMLHTTP.6.0", "Msxml2.ServerXMLHTTP.5.0", "Msxml2.ServerXMLHTTP.4.0", "Msxml2.ServerXMLHTTP.3.0",
+          "Msxml2.ServerXMLHTTP", "Microsoft.ServerXMLHTTP", "Msxml2.XMLHTTP.6.0", "Msxml2.XMLHTTP.5.0",
+          "Msxml2.XMLHTTP.4.0", "Msxml2.XMLHTTP.3.0", "Msxml2.XMLHTTP", "Microsoft.XMLHTTP"
+        ];
+        for (var i = 0; i<msxml.length; i++ ){
+          try {
+            return new ActiveXObject(msxml[i]);
+          }
+          catch(e) { }
+        }
+        return null;
+      }
+  })();
+    
+  if (!xhr) return;
+  xhr.open('GET', url, true);
+  xhr.onreadystatechange = function () {
+    if (xhr.readyState == 4 && xhr.status == 200) {
+      eval('var ld_popular_articles_json = ' + xhr.responseText);
+      callback(ld_popular_articles_json);
+    }
+  };
+  xhr.send();
+
+})();
+//-->
+</script>
+
+<div class="plugin-recent_articles sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">最新記事</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27108137.html">21卒就活生ワイ、内定辞退でしこたま怒鳴られる</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/10257766.html">ニートって難しい資格取って仕事探そうとするけどさ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839910.html">【学歴フィルター】企業にとっての一流大学とは？【就職偏差値】</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839719.html">ワイニート歴2年、就職して初年度の年収500万円！！！！</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073431.html">あ、面接落ちたなってフラグ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073465.html">【悲報】上級国民大手企業様「下請けに仕事やらせてガッポリ中抜きｗ」→夏ボーナス92万5947円</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27075072.html">ワイ21卒、会社選びを間違ってしまったと後悔する</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027071.html">【悲報】キャリア採用の銀行員ワイ、周囲の人間があまりにも有能すぎてマジでドン引き……………………</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27063977.html">【速報】大学、終わる。　Googleが大卒資格を得られるコースを提供へ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027029.html">教師「Ｆ欄ＯＫです、公務員です、毎日定時で帰れます、年収700万です」←こいつが馬鹿にされる理由ｗ</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-recent_articles -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「A」設定のブログパーツ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　左側200px ここまで-->
+
+
+        <!-- コンテンツの箱の中　右側200px はじまり-->
+        <aside class="right-container">
+            <div class="right-column-inner">
+            
+
+
+
+<div class="plugin-categorize sidewrapper" id="plugin-categorize-457691">
+    <div class="sidetitlebody">
+        <div class="sidetitle">カテゴリー</div>
+    </div>
+    <div class="sidetop"></div>
+    <div class="side">
+
+
+      
+
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160301.html">就活準備 (243)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161699.html">自己分析 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161700.html">企業・業界研究 (66)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155971.html">資格 (39)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155966.html">選考 (254)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155977.html">インターン (23)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155978.html">説明会 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155975.html">ES (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155976.html">SPIなど (7)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155974.html">面接 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155972.html">内定 (222)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160304.html">NNT(無内定) (68)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160302.html">内定後・入社前 (110)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160308.html">アドバイス (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160460.html">入社後 (924)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220065.html">新卒 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220063.html">上司 (95)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_219473.html">社会人生活 (299)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160474.html">ブラック企業 (65)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160303.html">転職 (175)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163214.html">副業 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220667.html">収入 (102)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_299497.html">採用担当 (3)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_318465.html">第二新卒 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161711.html">学生生活 (46)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163247.html">浪人・留年 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155967.html">学歴 (119)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_223545.html">ニート (38)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155969.html">業界別 (314)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156035.html">金融 (34)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156099.html">建築・不動産 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160357.html">物流・運送 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160358.html">IT・メディア (55)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160359.html">エネルギー・資源 (1)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160310.html">自動車・機械 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160360.html">食品・小売 (14)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160311.html">公務員・準公務員 (89)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160356.html">サービス (21)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160473.html">その他 (42)</a>
+          
+        </div>
+        
+    
+        
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160476.html">その他 (472)</a>
+          
+        </div>
+        
+    
+    
+
+    </div>    
+    <div class="sidebottom"></div>
+</div><!-- // plugin-categorize -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+<a href="//blog.with2.net/link/?1955545"><img src="https://blog.with2.net/img/banner/banner_21.gif" title="人気ブログランキング"></a><br><a href="//blog.with2.net/link/?1955545" style="font-size: 0.8em;">人気ブログランキング</a>
+
+<div class="plugin-link sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">リンク集</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://0matome.com/" target="_blank">おまとめ</a></div>
+
+<div class="sidebody"><a href="http://2chnavi.net/allentries/?threshold=0" target="_blank">2chnavi</a></div>
+
+<div class="sidebody"><a href="http://http://iwashi.biz/" target="_blank">いわしアンテナ &gt;°))))彡</a></div>
+
+<div class="sidebody"><a href="http://2ch-2.net/" target="_blank"> つーアンテナ(*ﾟ∀ﾟ)</a></div>
+
+<div class="sidebody"><a href="https://ii-antenna.net/?about" target="_blank">いーあんてな(#ﾟｗﾟ)</a></div>
+
+<div class="sidebody"><a href="https://2ch-mi.net/" target="_blank">みーアンテナ（´∀｀）</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-link -->
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">検索</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="https://cse.google.com/cse.js?cx=014565878756483497884:urusxdcjffe"></script>
+<div class="gcse-search"></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「B」設定のブログパーツ表示 -->
+            
+<!-- LDR・RSSリンクとブログのロゴ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　右側200px ここまで-->
+
+        <!-- このページのトップヘ　はじまり -->
+        <p class="to-pagetop"><a href="#"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/to_pagetop.png" width="70" height="70" alt="このページのトップヘ" /></a></p>
+        <!-- このページのトップヘ ここまで -->
+
+    </div>
+    <!-- コンテンツ全体 ここまで-->
+
+    <!-- ブログのフッター はじまり-->
+    <footer id="blog-footer">
+    <!-- Blog Common Footer // --><div id="footer"><p>Powered by <a href="http://blog.livedoor.com/" title="ライブドアブログ">ライブドアブログ</a></p></div><!-- // Blog Common Footer --><!-- 共通フッター表示 -->
+    </footer>
+    <!-- /ブログのフッター ここまで-->
+
+</div>
+<!-- コンテンツエリア ここまで-->
+
+
+<!-- Add Body Tag // --><script type="text/javascript">
+(function(){
+  var traq = document.createElement('script'); traq.type = 'text/javascript'; traq.async = true;
+  traq.src = 'https://t.blog.livedoor.jp/u.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(traq, s);
+})();
+</script>
+<noscript>
+<img src="https://t.blog.livedoor.jp/u.gif" alt="traq">
+</noscript>
+<!-- // Add Body Tag -->
+
+<script>
+(function($) {
+  var cookieName = 'livedoor-blog-gdpr-agreed';
+  $(document).ready(function() {
+    if (navigator.userAgent.match(/https?:\/\//)) {
+      // UA に http:// or https:// があればスルー
+      return;
+    }
+
+    var agreed = document.cookie.indexOf(cookieName) >= 0;
+    if (agreed) {
+      // 同意済み Cookie があればスルー
+      return;
+    }
+
+    var banner = $('<div>');
+    banner.attr('id', 'gdpr-banner');
+    var label = $('<p>');
+    label.html('\
+      ライブドアブログでは広告のパーソナライズや効果測定のためクッキー(cookie)を使用しています。<br>\
+      このバナーを閉じるか閲覧を継続することでクッキーの使用を承認いただいたものとさせていただきます。<br>\
+      また、お客様は当社パートナー企業における所定の手続きにより、クッキーの使用を管理することもできます。<br>\
+      詳細は<a href="http://www.livedoor.com/rules/" target="_blank" style="color:#023780;text-decoration:underline;">ライブドア利用規約</a>をご確認ください。\
+    ');
+    banner.append(label);
+
+    var closeButton = $('<button>');
+    closeButton.attr('type', 'button');
+    closeButton.html('閉じる');
+    closeButton.on('click', function() {
+      $('#gdpr-banner').hide();
+      document.cookie = cookieName + '="1";expires=Tue, 31-Dec-2037 00:00:00 GMT;path=/;';
+    });
+    banner.append(closeButton);
+
+    banner.css({
+      'position': 'fixed',
+      'left': '0',
+      'right': '0',
+      'bottom': '0',
+      'background': '#dcdcdc',
+      'color': '#000',
+      'padding': '20px',
+      'text-align': 'center',
+      'box-shadow': '0 -2px 2px rgba(102, 102, 102, 0.86)',
+      'z-index': '2147483647',
+    });
+    label.css({
+      'display': 'inline-block',
+      'text-align': 'left',
+      'font-size': '14px',
+      'color': '#000',
+      'vertical-align': 'middle',
+      'line-height': '1.5',
+    });
+    closeButton.css({
+      'display': 'inline-block',
+      'color': '#fff',
+      'border': 'none',
+      'font-size': '14px',
+      'padding': '4px 40px',
+      'margin-left': '40px',
+      'background': '#535353',
+      'vertical-align': 'middle',
+    });
+
+    var script = document.createElement('script');
+    script.type = "text/javascript";
+    script.src = "https://ipcheck.blogsys.jp/check.js?t=" + Date.now();
+    script.onerror = function() {
+      $('body').append(banner);
+    };
+    document.body.appendChild(script);
+  });
+})(jQuery);
+</script>
+</body>
+</html>

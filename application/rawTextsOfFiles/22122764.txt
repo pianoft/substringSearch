@@ -1,0 +1,1437 @@
+<!DOCTYPE html>
+<html lang="ja" itemscope itemtype="http://schema.org/Blog">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=1190">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" /><link rel="shortcut icon" type="image/vnd.microsoft.icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/favicon.ico" /><link rel="icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/3ab45ab0.jpg" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/template.css?v=20190826" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/heart.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/icon.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="http://pathtimeblog.com/site.css?_=20190831163247" type="text/css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://pathtimeblog.com/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://pathtimeblog.com/atom.xml" /><link rel="canonical" href="http://pathtimeblog.com/archives/22122764.html" /><link rel="openid.server" href="http://auth.livedoor.com/openid/server" /><link rel="openid.delegate" href="http://profile.livedoor.com/shukatu2ch/" />
+<link rel="mixi-check-alternate" media="mixi-device-mobile" type="text/html" href="http://blog.m.livedoor.jp/shukatu2ch/article/22122764" />
+<link rel="mixi-check-alternate" media="mixi-device-smartphone" type="text/html" href="http://pathtimeblog.com/archives/22122764.html" />
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/jquery-1.11.1.min.js"></script>
+
+<meta name="description" content="1: 名無しさん＠おーぷん  19/11/11(月)19:07:29 ID:FrI
+  
+" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="東京都と地方の年収格差エグくて草wwwww : 2ch就活まとめ" />
+<meta property="og:description" content="1: 名無しさん＠おーぷん  19/11/11(月)19:07:29 ID:FrI  " />
+<meta property="og:url" content="http://pathtimeblog.com/archives/22122764.html" />
+<meta property="og:site_name" content="2ch就活まとめ" />
+<meta property="og:locale" content="ja_JP" />
+<meta property="og:image" content="https://livedoor.blogimg.jp/shukatu2ch/imgs/7/7/7787d111.jpg" />
+
+<meta name="twitter:site" content="@2chshukatu" />
+<meta name="twitter:title" content="東京都と地方の年収格差エグくて草wwwww : 2ch就活まとめ" />
+<meta name="twitter:description" content="1: 名無しさん＠おーぷん  19/11/11(月)19:07:29 ID:FrI  " />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image:src" content="https://livedoor.blogimg.jp/shukatu2ch/imgs/7/7/7787d111.jpg" />
+<link rel="alternate" media="handheld" type="application/xhtml+xml" href="http://blog.m.livedoor.jp/shukatu2ch/" />
+
+<title>東京都と地方の年収格差エグくて草wwwww : 2ch就活まとめ</title>
+<script src="https://parts.blog.livedoor.jp/js/emoji.js"></script>
+<script src="https://parts.blog.livedoor.jp/js/misc.js?v=20190710"></script>
+<!--[if lt IE 9]>
+<script src="https://parts.blog.livedoor.jp/js/html5.js"></script>
+<![endif]-->
+<script src="https://parts.blog.livedoor.jp/js/usr/import.js"></script>
+<script>
+$(function(){
+  if($('.header-inner01').children('#blog-header-image').length) {
+    $(window).bind('load', function() {
+      var title1 = $('#blog-header-image').height();
+      var title2 = $('.header-menu').height();
+      var headerHeight = title1-title2-15;
+      $("hgroup").css("height", headerHeight);
+    });
+  }
+});
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-3064778048578600",
+          enable_page_level_ads: true
+     });
+</script>
+
+<!-- Add Google Analytics Tag // -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-113178806-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- // Add Google Analytics Tag -->
+
+
+<meta name="referrer" content="always">
+<meta name="referrer" content="unsafe-url">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1638469-45"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+var blogId = '';
+if (blogId) {
+  gtag('config', 'UA-1638469-45', {
+    'custom_map': {'dimension1': 'blog_id'},
+    'blog_id': blogId
+  });
+} else {
+  gtag('config', 'UA-1638469-45');
+}
+</script>
+
+</head>
+<body class="default_2012 page-article layout-2col sidebar-right"><script type="text/javascript"><!--
+var ld_blog_vars = {
+  provider_id : '1',
+  provider_name : 'livedoor',
+  id : '7836571',
+  name : 'shukatu2ch',
+  charset : 'utf8',
+  url : 'http://pathtimeblog.com/',
+  title : '2ch就活まとめ',
+  blog_design: {
+      version: 1
+  },
+  blog_category: {
+    id: '243',
+    permalink: 'https://blog.livedoor.com/category/243/',
+    name: 'まとめ(総合) > まとめ',
+    is_adult : 0,
+    is_gambling : 0,
+    hierarchy: [{ id: '431', name: 'まとめ(総合)', permalink: 'https://blog.livedoor.com/category/431/' },{ id: '243', name: 'まとめ', permalink: 'https://blog.livedoor.com/category/243/' }]
+  },
+  current_page : {
+    type : 'article',    page : ''
+  },
+  articles : [ {
+       id : '22122764',
+       permalink : 'http://pathtimeblog.com/archives/22122764.html',
+       title : '東京都と地方の年収格差エグくて草wwwww',
+       categories : [ { id:'220667', name:'収入', permalink:'http://pathtimeblog.com/archives/cat_220667.html' }, { id:'', name:'', permalink:'' } ],
+       date : '2019-11-21 07:30:54'
+}   ]
+};
+//-->
+</script><div id="analyzer_tags" style="display:none">
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/c2.js?v=20191010"></script>
+<script type="text/javascript">blog_counter('shukatu2ch', 7836571, 'http://pathtimeblog.com/')</script>
+</div><script type="text/javascript" src="https://parts.blog.livedoor.jp/js/smartphone.js?v=20200824"></script>
+<script type="text/javascript" src="http://pathtimeblog.com/settings/header.js?v=20190705"></script><script type="text/javascript" src="http://pathtimeblog.com/settings/ad.js"></script>
+<script type="text/javascript">
+var palette_src = 'https://parts.blog.livedoor.jp/img/emoji/3/palette.png';
+if (typeof IMAGE_CACHE == 'object' && IMAGE_CACHE['emoji_palette']) IMAGE_CACHE['emoji_palette'].src = palette_src;
+</script>
+
+<!-- Blog Common Header // -->
+<!-- // Blog Common Header -->
+<!-- 共通ヘッダー表示 -->
+
+<!-- ブログタイトル はじまり-->
+<header id="blog-header">
+
+    <div id="blog-header01">
+
+        <div class="header-inner01 show-image hide-text">
+
+            <hgroup>
+                <!--ブログタイトル　はじまり-->
+                <h1 id="blog-title"><a href="http://pathtimeblog.com/">2ch就活まとめ</a></h1>
+                <!--ブログタイトル　ここまで-->
+                <!--ブログ説明　はじまり-->
+                <h2 id="blog-description">新卒・転職・社会人生活などを含め、就活・就職に関することをまとめてます。</h2>
+                <!--ブログ説明　ここまで-->
+            </hgroup>
+
+            <a href="http://pathtimeblog.com/"><img src="https://resize.blogsys.jp/727db0f9da9f42eb7d26b703338c30b3eef0157c/trim2/0x243_94p_1200x388/http://livedoor.blogimg.jp/shukatu2ch/imgs/0/5/055bbafe.jpg" id="blog-header-image" /></a>
+
+            <div id="blog-header02">
+                <div class="header-inner02">
+                    <ul class="header-menu">
+                        <li><a href="http://pathtimeblog.com/">HOME</a></li><!--メニューを入れてください-->
+                        <li class="ldb_menu-item-url"><a href="http://blog.livedoor.jp/shukatu2ch/archives/6126504.html">ABOUT</a></li><!--メニューを入れてください-->
+                        <li><a href="mailto:shukatumatome@gmail.com">お問い合わせ</a></li><!--メニューを入れてください-->
+                    </ul>
+                    <ul class="header-sarch">
+                        <li><a href="http://twitter.com"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_twitter.png" alt="Twitter" /></a></li><!--Twitter-->
+                        <li><a href="http://pathtimeblog.com/index.rdf"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_rss.png" alt="RSS" /></a></li><!--RSS-->
+                        <li>
+                        <form action="http://pathtimeblog.com/search" method="GET" style="padding:0;margin:0px;">
+                        <input type="TEXT" name="q" class="sf">
+                        <input type="SUBMIT" value="検索" class="sfbtn">
+                        </form>
+                        </li><!--検索窓-->
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</header>
+<!-- /ブログタイトル ここまで-->
+
+
+<!-- コンテンツエリア はじまり-->
+<div id="wrapper">
+
+    <!-- コンテンツ全体 はじまり-->
+    <div id="container">
+
+        <!-- 相互RSS はじまり-->
+        <div class="rss-blogroll">
+
+            <!-- 相互RSSを設置する場合の注意事項
+                コードに含まれる以下のCSSは外して設置してください
+                http://blogroll.livedoor.net/css/default2.css -->
+
+                 <!-- 相互RSSのコード ひとつ目-->
+            <script type="text/javascript">
+            <!--
+                   var blogroll_channel_id = 255242;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード ふたつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 265945;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード みっつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 255442;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href= />
+        </div>
+        <!-- 相互RSS ここまで-->
+
+        <!-- コンテンツの箱の中　真ん中728px はじまり-->
+        <div class="main-container">
+            <div class="main-column-inner">
+<br>
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+<br>
+                <!-- メッセージボード -->
+                 
+
+
+
+                <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://pathtimeblog.com/archives/22122764.html"
+    trackback:ping="http://trackback.blogsys.jp/livedoor/shukatu2ch/22122764"
+    dc:title="東京都と地方の年収格差エグくて草wwwww"
+    dc:identifier="http://pathtimeblog.com/archives/22122764.html"
+    dc:subject="収入"
+    dc:description="1: 名無しさん＠おーぷん  19/11/11(月)19:07:29 ID:FrI  "
+    dc:creator="shukatu2ch"
+    dc:date="2019-11-21T07:30:54+09:00" />
+</rdf:RDF>
+-->
+<div id="ad_rs" class="ad_rs_b"></div><!-- 記事のトラックバック・オートディスカバリー -->
+
+
+                <!-- 記事 はじまり-->
+                <article class="article first-article" itemscope itemtype="http://schema.org/BlogPosting">
+
+                    <!-- 記事タイトル　記事下の情報　はじまり-->
+                    <header class="article-header">
+
+                        <h1 class="article-title" itemprop="name"><a href="http://pathtimeblog.com/archives/22122764.html" itemprop="url">東京都と地方の年収格差エグくて草wwwww</a></h1><!-- 記事のタイトル -->
+
+                            <!-- 記事下の記事情報 はじまり-->
+                            <div class="article-header-inner">
+
+                                <!-- 記事情報の上の行 はじまり-->
+                                <div class="article-header-top">
+                                <p class="article-header-date"><time datetime="2019-11-21T07:30:54+09:00" pubdate="pubdate">2019年11月21日</time></p>
+                                
+                                <ul class="article-header-category">
+                                    <li>
+                                        <dl><dt>カテゴリ:</dt><dd class="article-category1"><a href="http://pathtimeblog.com/archives/cat_220667.html">収入</a></dd></dl>
+                                    </li>
+                                </ul>
+                                
+
+                                <!-- 記事の評価アイコン はじまり-->
+                                
+                                <!-- 記事の評価アイコン ここまで-->
+
+                                </div>
+                                <!-- 記事情報の上の行 ここまで-->
+                                <!-- ソーシャルボタン　はじまり -->
+                                <ul class="article-social-btn">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/22122764.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/22122764.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="東京都と地方の年収格差エグくて草wwwww - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=%E6%9D%B1%E4%BA%AC%E9%83%BD%E3%81%A8%E5%9C%B0%E6%96%B9%E3%81%AE%E5%B9%B4%E5%8F%8E%E6%A0%BC%E5%B7%AE%E3%82%A8%E3%82%B0%E3%81%8F%E3%81%A6%E8%8D%89wwwww%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/22122764.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/22122764.html" data-text="東京都と地方の年収格差エグくて草wwwww - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F22122764.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                                </ul>
+                                 <!-- ソーシャルボタン　ここまで -->
+                            </div>
+                            <!-- 記事下の記事情報 ここまで-->
+
+                    </header>
+                    <!-- 記事タイトル　記事下の情報　ここまで-->
+
+
+
+                    <!-- 記事本文 はじまり-->
+                    <div class="article-body">
+                        <div class="article-body-inner">
+<!-- 参加している共通テーマの表示 -->
+                        <span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">1: <span  style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span  style="color: gray;"> 19/11/11(月)19:07:29 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:FrI</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b"> <a  target="_blank" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/7/7/7787d111.jpg"><img  class="image pict" alt="no title" src="https://livedoor.blogimg.jp/shukatu2ch/imgs/7/7/7787d111.jpg" hspace="5" border="0"></a><br /> </div><br />
+<!-- Generated by 2chまとめくす (http://2mtmex.com/) --><!-- 本文 --><div class="article-body-more" id="more"><font size="2"><div class="t_h" >2: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:08:24 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:FrI</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> 長野県、謎の健闘 </div><br />
+<font size="2"><div class="t_h" >3: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:08:45 ID:75G</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> やっぱ東海って神だわ </div><br />
+<font size="2"><div class="t_h" >4: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:09:05 ID:kYD</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 東北が辛すぎる </div><br />
+<font size="2"><div class="t_h" >5: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:09:11 ID:OhD</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 沖縄より低い所あったんか… </div><br />
+<font size="2"><div class="t_h" >6: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:09:12 ID:rg7</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 家賃安いし </div><br />
+<font size="2"><div class="t_h t_i" >8: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:09:51 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:FrI</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;6</span><br />東京都内でもワンルームで4万の部屋はある<br />それで車は不要 </div><br />
+<font size="2"><div class="t_h" >7: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:09:29 ID:KcS</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 秋田さん… </div><br />
+<font size="2"><div class="t_h" >9: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:09:52 ID:3Qt</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:13.3333px;line-height:20px;margin-bottom:30px;margin-top:20px;"> でも年貢が全然違うやん </div><br />
+<font size="2"><div class="t_h" >10: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:09:56 ID:V4x</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 秋田出身やが親が親戚から規格外の野菜とか米もらってて<br />肉とかも東京の半分の値段だから結構暮らせるもんやで </div><br />
+<font size="2"><div class="t_h t_i" >12: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:10:21 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:FrI</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;10</span><br />逆に言えばそんな支援なかったら・・という事やね </div><br />
+<font size="2"><div class="t_h t_i" >13: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:10:52 ID:V4x</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;12</span><br />まあ厳しいやろな<br />それでも物価がだいぶ低いからニキらが思ってるほど辛くはないはず </div><br />
+<font size="2"><div class="t_h" >11: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:10:04 ID:nps</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 1200万円は何歳になったらこえれる？<br />ちな地方 </div><br />
+<font size="2"><div class="t_h" >14: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:11:05 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:FrI</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> 地方は物価が安いが嘘と地方民が気づいちゃったんだよな </div><br />
+<font size="2"><div class="t_h t_i" >37: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:20:04 ID:5MO</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;14</span><br />マジだぞ 柏住んでた時馬鹿みたいに飯安くて助かった </div><br />
+<font size="2"><div class="t_h t_i" >39: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:20:23 ID:POp</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;37</span><br />その店だけ </div><br />
+<font size="2"><div class="t_h t_i" >46: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:21:53 ID:5MO</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;39</span><br />エアプやろおまえ </div><br />
+<font size="2"><div class="t_h" >15: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:12:22 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:FrI</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> 東京のドンキとかで地方のスーパーなんかより安く手に入る物も多い<br /><br />というか「日用消耗品」は大都市の方が安く手にはいり安い </div><br />
+<font size="2"><div class="t_h" >16: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:12:24 ID:InE</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 田舎ならどうせ大して金使わんしええやろ </div><br />
+<font size="2"><div class="t_h" >17: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:12:52 ID:yPs</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 都内なら近所のどっかにまいばすけっとあるしな </div><br />
+<font size="2"><div class="t_h" >18: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:13:10 ID:V0H</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 田舎でチェーン店行くやつw </div><br />
+<font size="2"><div class="t_h" >19: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:13:25 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:FrI</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> 安いチェーン店とか徒歩圏内に確実にあるからな東京にいれば </div><br />
+<font size="2"><div class="t_h" >20: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:13:47 ID:jSs</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 大阪のワイ高みの見物 </div><br />
+<font size="2"><div class="t_h" >21: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:14:42 ID:tBx</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 神奈川のワイ高みの見物 </div><br />
+<font size="2"><div class="t_h" >22: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:15:28 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:FrI</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> 千代田区とか港区ですらボロいマンションなら家賃かなり安いからな。中はリフォームされてたら気にしない人も多い<br /><br />現に原宿駅の目の前にある超一等地に築半世紀以上のマンションあるけど人気で入居出来ない </div><br />
+<font size="2"><div class="t_h" >23: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:15:34 ID:2zg</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 東京が無かったらそれなりに均等なんやろなぁ </div><br />
+<font size="2"><div class="t_h" >24: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:15:38 ID:5jL</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 大阪は賃貸安いわ新しいの建ちまくりで<br />築10年くらいのが安い </div><br />
+<font size="2"><div class="t_h" >25: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:15:45 ID:0Eg</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 家賃と年収と行政を考慮したら大阪が良いのかな… </div><br />
+<font size="2"><div class="t_h" >26: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:16:10 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:FrI</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> 独身で低年収ほど東京の方がコスパがいい<br />だから東京への人口集中が止まらない </div><br />
+<font size="2"><div class="t_h" >27: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:16:13 ID:dRJ</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 東京も城東城北はまあ… </div><br />
+<font size="2"><div class="t_h" >28: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:16:21 ID:rg7</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 鹿児島住んでたけど外食行くだけで金持ち扱いだからな </div><br />
+<font size="2"><div class="t_h t_i" >30: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:17:23 ID:V4x</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;28</span><br />物価が低い中でチェーン店は東京価格やししゃーない </div><br />
+<font size="2"><div class="t_h" >29: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:16:41 ID:hpt</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 物価が違うんだからそりゃ年収にも差が出るだろ </div><br />
+<font size="2"><div class="t_h t_i" >34: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:18:52 ID:xAs</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;29</span><br />イオンさん、マクドナルドさん、飯チェーン「え？」 </div><br />
+<font size="2"><div class="t_h t_i" >36: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:19:51 ID:POp</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;29</span><br />草 </div><br />
+<font size="2"><div class="t_h" >31: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:18:03 ID:xAs</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> なろうぼく「ふむ…… 全国最低賃金1500円(足らなかったら政府が補填)すればよいのでは？ 国民の購買力が上がって経済のためにもなるし、東京一極の解消の切り札になるのではないかな」 </div><br />
+<font size="2"><div class="t_h t_i" >33: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:18:31 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:FrI</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;31</span><br />死ぬやろうな地方の中小企業 </div><br />
+<font size="2"><div class="t_h t_i" >40: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:20:32 ID:xAs</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;33</span><br />ぼく「韓国は政府が補填が無かったから失敗したんだよ。だから足りてない分は政府が補填をすればいいのさ」 </div><br />
+<font size="2"><div class="t_h" >32: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:18:04 ID:Cl5</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> ファー金持ち多いんか<br />田舎多いんやけどなぁ </div><br />
+<font size="2"><div class="t_h" >35: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:19:31 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:FrI</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> 「地方の中小企業の正社員より東京で大手の非正規やってた方がマシなんじゃないか？」みたいな事を言う奴が最近いるよな </div><br />
+<font size="2"><div class="t_h" >41: <span style="color: rgb(124, 199, 84);">名無しさん</span> <span style="color: gray;"> 19/11/11(月)19:20:47 ID:e2B</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 人もまばらで比較的トンキンにアクセスしやすい茨城はやはり住みやすいな </div><br />
+<font size="2"><div class="t_h" >42: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:21:06 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:FrI</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> 狭いエリアに出来るだけ人口多い方が効率がいいんだよな。その利益を享受出来るんだよ東京は </div><br />
+<font size="2"><div class="t_h t_i" >49: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:22:52 ID:xAs</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;42</span><br />なろうぼく「果たしてそうかな？ 日本国は災害国だろう？ 一極集中は危ないよ。 明日トラフさんが来たら文字通り日本死ぬよ……？」 </div><br />
+<font size="2"><div class="t_h" >43: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:21:27 ID:MCo</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> ビリではなかったのでええか… </div><br />
+<font size="2"><div class="t_h" >44: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:21:50 ID:tFD</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 四国山陰北東北どれがやばい？ </div><br />
+<font size="2"><div class="t_h t_i" >53: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:23:48 ID:yPs</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;44</span><br />四国4県は似たようなもんなんだよな<br />中国は平均低いけど山陰やばすぎ </div><br />
+<font size="2"><div class="t_h t_i" >58: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:24:50 ID:tFD</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;53</span><br />ワイ四国やけどまじでなんもないわ車必須やし<br />そのくせ給料もすくない<br />13万や </div><br />
+<font size="2"><div class="t_h t_i" >62: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:27:19 ID:yPs</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;58</span><br />ワイ44位の者なんやが？<br />それに加えて雪降るからな、台風は滅多にこんけど </div><br />
+<font size="2"><div class="t_h t_i" >65: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:28:29 ID:tFD</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;62</span><br />大変ねえ </div><br />
+<font size="2"><div class="t_h" >45: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:21:52 ID:V4x</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 東京のうち超絶稼いでる層を除いて一般市民だけにしたらこの統計どうなるんやろ<br />平均を引き上げる層って東京に集住しとるやろ </div><br />
+<font size="2"><div class="t_h" >47: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:22:15 ID:dRJ</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 東京とかいう世界最大のコンパクトシティ </div><br />
+<font size="2"><div class="t_h" >48: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:22:19 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:FrI</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> 北国は冬は暖房費用とかコストかかるしな<br />ガソリン価格も東京より高い地方が多い </div><br />
+<font size="2"><div class="t_h" >52: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:23:44 ID:kYD</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> もう東京の地上と地下は限界やろうから空中都市作れ<br />上級国民は空中都市で太陽の光を浴びて下級国民は日陰で生きるんや </div><br />
+<font size="2"><div class="t_h t_i" >57: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:24:41 ID:VLv</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;52</span><br />50階タワマンの地下50階とか悲しくなるな </div><br />
+<font size="2"><div class="t_h" >56: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:24:38 ID:YjK</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 東京でも五百越えないってマジ？<br />今20代より40台のほうがおおいやろ？<br />そいつらが500万もらえてないってこと？ </div><br />
+<font size="2"><div class="t_h" >59: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:24:58 ID:MCo</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 残念だが当然 </div><br />
+<font size="2"><div class="t_h" >60: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:25:49 ID:tT9</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 日本海側地方で独身で500って結構勝ち組？ </div><br />
+<font size="2"><div class="t_h" >61: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:26:20 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:FrI</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> 地方のハロワとか基本給15万とか普通にあって笑うわ。それで休みが多いのか思えば年休100日未満とか。「東京でバイトやってた方がマシじゃボケ」と出ていかれても文句言えんだろうよ </div><br />
+<font size="2"><div class="t_h" >63: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:27:19 ID:VLv</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 田舎の問題は一人用アパートが全然ないこと<br />あっても需要と供給のあれで高いしアパマンショップとかばっかり </div><br />
+<font size="2"><div class="t_h t_i" >66: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:28:45 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:FrI</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;63</span><br />大学の近くは学生需要で安いワンルーム多いわ東京 </div><br />
+<font size="2"><div class="t_h t_i" >67: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:28:52 ID:tFD</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;63</span><br />田舎て賃貸て普通にたかいよな？<br />そのくせ給料やすい </div><br />
+<font size="2"><div class="t_h t_i" >69: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:29:54 ID:VLv</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"><span style="color:mediumblue;" class="anchor">&gt;&gt;67</span> <br /> 大東建託とか高すぎてあかんかったねえ</div><br />
+<font size="2"><div class="t_h" >64: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:28:09 ID:V4x</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> イッチ自分の体験に基づいて話して無いから説得力無いわ<br />せめてどっちも住んでみてから結論を出してみるべきでは </div><br />
+<font size="2"><div class="t_h" >72: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:30:38 ID:yPs</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> こどおじするなら田舎強いよな<br />5万で5Lとか住めるし独り者は確かにしんどい </div><br />
+<font size="2"><div class="t_h t_i" >78: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:32:51 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:FrI</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;72</span><br />というかこどおじは上京なんか出来んだろ </div><br />
+<font size="2"><div class="t_h t_i" >82: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:35:23 ID:yPs</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;78</span><br />金使わないから貯金だけはあるんやで<br />それにI Uターンのこどおじも普通におるで </div><br />
+<font size="2"><div class="t_h" >74: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:32:15 ID:VLv</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> そういえば市役所が移住者に家賃補助とかやってるとこもあるな </div><br />
+<font size="2"><div class="t_h" >75: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:32:17 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:FrI</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> 地方ほどブラック企業が多い説あるよな<br />同族中小が多くて労基法なにそれ状態が多くて。<br />大手は腐ってもその辺はチェックはそれなりに厳しい。トヨタが期間工にも有休消化を促してるとか凄いなと思う </div><br />
+<font size="2"><div class="t_h" >77: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:32:19 ID:dRJ</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 鳥取の大学行ったトッモは鳥取駅徒歩圏内で四畳半2万だかのとこ住んでるわ </div><br />
+<font size="2"><div class="t_h" >79: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:33:03 ID:l5D</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 地方で農家の知り合いいると食い物には困らん </div><br />
+<font size="2"><div class="t_h t_i" >80: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:33:55 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:FrI</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;79</span><br />農家でもないのに地方にいる理由がもはや無い<br />サービス業なら大都市の方が圧倒的有利 </div><br />
+<font size="2"><div class="t_h" >81: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:33:57 ID:VLv</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 村八分にされるのは嫌やなあ<br />金持ちの家に婿入りとか憧れるわ </div><br />
+<font size="2"><div class="t_h" >83: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:35:35 ID:w01</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 長野は8位か。中途半端やな </div><br />
+<font size="2"><div class="t_h" >84: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:36:34 ID:k7S</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> ていうかこれ何歳の平均や…？<br />400万って… </div><br />
+<font size="2"><div class="t_h" >85: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:37:11 ID:dRJ</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> どうでもいいけど表が東洋経済っぽい </div><br />
+<font size="2"><div class="t_h" >86: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:38:23 ID:kGG</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 年収を平均で出してどうすんのさ </div><br />
+<font size="2"><div class="t_h" >87: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:38:53 ID:k7S</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> これ新卒の平均だよな流石に<br />全労働者の平均がこれやったら終わってるで </div><br />
+<font size="2"><div class="t_h t_i" >89: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:40:02 ID:nAu</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;87</span><br />新卒で450もらえるやつなんて日本の新卒の２割もおらんやろ </div><br />
+<font size="2"><div class="t_h t_i" >90: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:40:47 ID:zQ6</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;89</span><br />ほぼゼロや<br />そんなん </div><br />
+<font size="2"><div class="t_h" >88: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:39:17 ID:pnx</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 平均は意味がないって校長に教えてもらった </div><br />
+<font size="2"><div class="t_h" >91: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:40:49 ID:tFD</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 東京でも多摩地域やと年収田舎ぐらいになるんやろ？ </div><br />
+<font size="2"><div class="t_h" >92: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:41:09 ID:k7S</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> いや待ってくれよ<br />だって年収400万代なんて君らがいつもバカにしとる底辺やぞ<br /><br />これじゃあ日本の大半が底辺やん </div><br />
+<font size="2"><div class="t_h" >93: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/11(月)19:42:09 ID:nAu</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 静岡愛知あたりのコスパが良すぎる<br />工業で持ってるとこは犯罪率さえ気にしなければ年収はええんやな </div><br />
+<font size="2"><div class="t_h" >94: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/12(火)00:05:25 ID:eGl</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 謎の静岡5位。 </div><br />
+<font size="2"><div class="t_h" >95: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 19/11/12(火)00:06:53 ID:S33</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 福岡さん... </div><br />
+<br>
+<p style="color:gray;text-align:right;"><font size="2">引用元： <a href="http://hayabusa.open2ch.net/test/read.cgi/livejupiter/1573466849/" target="_blank">http://hayabusa.open2ch.net/test/read.cgi/livejupiter/1573466849/</font></a></p>
+<br>
+
+
+</div>
+                        
+<!-- タグのリスト表示セット -->
+                        </div>
+<br>
+
+
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=2Z8HPD+9K4KFM+34FI+NUES2" alt="">
+                    </div>
+                    <!-- 記事本文 ここまで-->
+
+
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HV7V6" alt="">
+
+
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www26.a8.net/svt/bgt?aid=190821728180&wid=001&eno=01&mid=s00000011866017004000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" alt=""></td>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+3257OY+3Y6M+601S1" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www24.a8.net/svt/bgt?aid=190821728185&wid=001&eno=01&mid=s00000018427001008000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=35LYZK+3257OY+3Y6M+601S1" alt=""></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+
+
+                    <!-- 記事フッター、コメント、ソーシャルボタン -->
+                    <footer class="article-footer">
+                        <div class="article-footer-comment">
+                            
+                                <a href="http://pathtimeblog.com/archives/22122764.html#comments">0コメント</a>
+                            
+                        </div>
+                        <div class="article-social-btn">
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HVFKY" alt="">
+
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/22122764.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/22122764.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="東京都と地方の年収格差エグくて草wwwww - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=%E6%9D%B1%E4%BA%AC%E9%83%BD%E3%81%A8%E5%9C%B0%E6%96%B9%E3%81%AE%E5%B9%B4%E5%8F%8E%E6%A0%BC%E5%B7%AE%E3%82%A8%E3%82%B0%E3%81%8F%E3%81%A6%E8%8D%89wwwww%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/22122764.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/22122764.html" data-text="東京都と地方の年収格差エグくて草wwwww - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F22122764.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                        </div>
+                    </footer>
+                    <!-- /記事フッター、コメント、ソーシャルボタン -->
+
+
+                    <!-- カテゴリの最新記事表示 はじまり-->
+                    <div class="article-sub-category">
+                        <div id="ldblog_related_articles_15cbc5d1">
+
+<div class="related-articles ldblog_related_articles_15cbc5d1" data-category-id="220667" data-article-rows="5">
+<h3>「収入」カテゴリの最新記事</h3>
+<ul id="ldblog_related_articles_15cbc5d1_220667"></ul>
+</div>
+</div>
+<script type="text/html" id="ldblog_related_articles_15cbc5d1_tmpl">
+<% for(var i=0,l=articles.length;i<l;i++) {%><% if(i>=rows) break; %>
+<li><a href="<%=articles[i].permalink%>"><%=articles[i].title%></a></li>
+<% } %>
+</script>
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/related_articles.js?t=20180221"></script>
+<script type="text/javascript">
+(function(){
+RelatedArticles.load('ldblog_related_articles_15cbc5d1', '22122764');
+})();
+</script>
+<!-- 関連記事の表示 -->
+                    </div>
+                    <!-- /カテゴリの最新記事表示 ここまで-->
+
+
+
+
+                    <div id="ad2"></div><!-- 広告表示 -->
+
+                    <!-- 記事オプション はじまり-->
+                    <div class="article-option" id="article-options">
+
+                        <!-- コメントエリア　はじまり -->
+                        
+                        <section id="comments">
+                        
+                        <h1 class="comment-form-title">コメントする</h1>
+<div class="article-option" id="comment-form">
+    <form
+      action="https://comment.blogcms.jp/livedoor/shukatu2ch/22122764/post"
+      method="post"
+      name="comment_form"
+          id="comment-form-body"
+      onsubmit="setCommentAuthor(this); return submitOnce(this.button);"
+    >
+    <fieldset>
+        <legend>コメントフォーム</legend>
+    <dl class="comment-form-author">
+        <dt><label for="comment-form-author">名前</label></dt>
+        <dd id="comment-author-form"><input type="text" class="text" id="comment-form-author" name="author" required="required" value="" /></dd>
+    </dl>
+  <dl class="comment-form-body">
+    <dt><label for="comment-form-textarea">コメント</label></dt>
+    <dd>
+      <textarea id="comment-form-textarea" name="body" rows="7" required="required"></textarea>
+      <div id="comment-form-tools">
+        <span class="facemark"><a href="javascript:void(0);" id="emojiLink1" onClick="showEmojiPanel(this.id, 'comment-form-textarea')"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/icon_facemark.png" /></a></span>
+        <span class="rating">
+                    <input type="hidden" name="rating" value="">
+                    <input type="hidden" name="rating_icon" value="star">
+                    <div class="rating-value">
+                        <span id="default-rating-value">評価する</span>
+                        <div class="caret"><span></span></div>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/face/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/face/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/face/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/face/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/face/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/star/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/star/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/star/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/star/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/star/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                    </div>
+                    <div class="rating-icon">
+                        <div data-value="face">顔</div>
+                        <div class="selected" data-value="star">星</div>
+                    </div>
+        </span>
+        <span class="submit"><button type="submit">投稿する</button></span>
+        <span class="memorize"><label for="bake"><input type="checkbox" id="bake" name="cookie" /> 情報を記憶</label></span>
+      </div>
+    </dd>
+  </dl>
+  </fieldset>
+  </form>
+  <script type="text/javascript" src="https://parts.blog.livedoor.jp/js/comment.0.2.js?v=20130430"></script>
+  <script type="text/javascript">
+    loadCommentAuthor(document.comment_form);
+    ldblogComment.init();
+  </script>
+<!-- /#comment-form --></div><!-- コメント投稿フォーム -->
+
+
+                        </section>
+                        
+                        <!-- コメントエリア　ここまで -->
+
+
+                        <!-- トラックバック受け付け　はじまり -->
+                        
+                        <!-- トラックバック受け付け　ここまで -->
+
+                    </div>
+                    <!-- 記事オプション ここまで-->
+
+                </article>
+                <!-- 記事　ここまで -->
+
+
+                <!-- ページ送り はじまり-->
+<!-- Article Pager // -->
+  <div class="pager article-pager-type2">
+    <div class="pager-inner">
+    <div class="article-pager-outer">
+    <ul class="article-pager"><li class="prev"><a href="http://pathtimeblog.com/archives/22122985.html" title="ワイ「地方銀行に就職決まったで！」親「よくやった！」地元の友達「勝ち組じゃねーか！」 	">&nbspワイ「地方銀行に就職決まったで！」親「よくやった！」地元の友達「勝ち組じゃねーか！」 	</a></li><li class="next both"><a href="http://pathtimeblog.com/archives/22124028.html" title="ボーナス8万(年2回)←このギリギリ勝ち組感ｗｗｗ 	">ボーナス8万(年2回)←このギリギリ勝ち組感ｗｗｗ 	&nbsp</a></li>    </ul>
+    </div>
+    </div>
+  </div>
+<!-- // Article Pager -->
+
+                <!-- /ページ送り ここまで-->
+
+            </div><!-- /main-column-inner-->
+        </div>
+        <!-- コンテンツの箱の中　真ん中728px ここまで-->
+
+
+        <!-- コンテンツの箱の中　左側200px はじまり-->
+        <aside class="left-container">
+            <div class="left-column-inner">
+            
+
+
+
+<div class="plugin-popular_articles sidewrapper">
+  <div class="sidetitlebody">
+    <div class="sidetitle">人気記事</div>
+  </div>
+  <div class="sidetop"></div>
+  <div class="side">
+
+
+    <div class="popular-articles">
+      <table id="populararticles-472933"></table>
+      <div class="popular-articles-freearea"></div>
+    </div>
+  </div>
+
+  <div class="sidebottom"></div>
+</div>
+
+<script type="text/javascript" language="javascript"><!--
+(function(){
+  var url = 'http://pathtimeblog.com/archives/popular_articles.json'
+         + '?rangetype=custom'
+         + '&from=0'
+         + '&range=13'
+         + '&limit=50'
+         + '&offset=0'
+         ;
+
+  var callback = function(data) {
+    var table = document.getElementById('populararticles-472933');
+    for (i = 0; i < data.articles.length; i++) {
+      var rank = i + 1;
+      var prefix = 'populararticles-472933-'+ rank;
+
+      var row = table.insertRow(-1);
+      var elm1 = row.insertCell(-1);
+      elm1.className = 'populararticles-rank';
+      elm1.innerHTML = '<span><b>' + rank + '</b></span>';
+      var elm2 = row.insertCell(-1);
+      elm2.className = 'populararticles-title';
+      elm2.innerHTML = '<a href="' + data.articles[i].url + '?ref=popular_article&id=7836571-472933">' + data.articles[i].title + '</a>'
+      ;
+
+    }
+  };
+
+  var xhr = (function () {
+      if (window.XMLHttpRequest)
+        return new XMLHttpRequest();
+      else {
+        var msxml = [
+          "Msxml2.ServerXMLHTTP.6.0", "Msxml2.ServerXMLHTTP.5.0", "Msxml2.ServerXMLHTTP.4.0", "Msxml2.ServerXMLHTTP.3.0",
+          "Msxml2.ServerXMLHTTP", "Microsoft.ServerXMLHTTP", "Msxml2.XMLHTTP.6.0", "Msxml2.XMLHTTP.5.0",
+          "Msxml2.XMLHTTP.4.0", "Msxml2.XMLHTTP.3.0", "Msxml2.XMLHTTP", "Microsoft.XMLHTTP"
+        ];
+        for (var i = 0; i<msxml.length; i++ ){
+          try {
+            return new ActiveXObject(msxml[i]);
+          }
+          catch(e) { }
+        }
+        return null;
+      }
+  })();
+    
+  if (!xhr) return;
+  xhr.open('GET', url, true);
+  xhr.onreadystatechange = function () {
+    if (xhr.readyState == 4 && xhr.status == 200) {
+      eval('var ld_popular_articles_json = ' + xhr.responseText);
+      callback(ld_popular_articles_json);
+    }
+  };
+  xhr.send();
+
+})();
+//-->
+</script>
+
+<div class="plugin-recent_articles sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">最新記事</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27108137.html">21卒就活生ワイ、内定辞退でしこたま怒鳴られる</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/10257766.html">ニートって難しい資格取って仕事探そうとするけどさ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839910.html">【学歴フィルター】企業にとっての一流大学とは？【就職偏差値】</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839719.html">ワイニート歴2年、就職して初年度の年収500万円！！！！</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073431.html">あ、面接落ちたなってフラグ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073465.html">【悲報】上級国民大手企業様「下請けに仕事やらせてガッポリ中抜きｗ」→夏ボーナス92万5947円</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27075072.html">ワイ21卒、会社選びを間違ってしまったと後悔する</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027071.html">【悲報】キャリア採用の銀行員ワイ、周囲の人間があまりにも有能すぎてマジでドン引き……………………</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27063977.html">【速報】大学、終わる。　Googleが大卒資格を得られるコースを提供へ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027029.html">教師「Ｆ欄ＯＫです、公務員です、毎日定時で帰れます、年収700万です」←こいつが馬鹿にされる理由ｗ</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-recent_articles -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「A」設定のブログパーツ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　左側200px ここまで-->
+
+
+        <!-- コンテンツの箱の中　右側200px はじまり-->
+        <aside class="right-container">
+            <div class="right-column-inner">
+            
+
+
+
+<div class="plugin-categorize sidewrapper" id="plugin-categorize-457691">
+    <div class="sidetitlebody">
+        <div class="sidetitle">カテゴリー</div>
+    </div>
+    <div class="sidetop"></div>
+    <div class="side">
+
+
+      
+
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160301.html">就活準備 (243)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161699.html">自己分析 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161700.html">企業・業界研究 (66)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155971.html">資格 (39)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155966.html">選考 (254)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155977.html">インターン (23)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155978.html">説明会 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155975.html">ES (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155976.html">SPIなど (7)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155974.html">面接 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155972.html">内定 (222)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160304.html">NNT(無内定) (68)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160302.html">内定後・入社前 (110)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160308.html">アドバイス (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160460.html">入社後 (924)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220065.html">新卒 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220063.html">上司 (95)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_219473.html">社会人生活 (299)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160474.html">ブラック企業 (65)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160303.html">転職 (175)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163214.html">副業 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220667.html">収入 (102)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_299497.html">採用担当 (3)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_318465.html">第二新卒 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161711.html">学生生活 (46)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163247.html">浪人・留年 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155967.html">学歴 (119)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_223545.html">ニート (38)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155969.html">業界別 (314)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156035.html">金融 (34)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156099.html">建築・不動産 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160357.html">物流・運送 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160358.html">IT・メディア (55)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160359.html">エネルギー・資源 (1)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160310.html">自動車・機械 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160360.html">食品・小売 (14)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160311.html">公務員・準公務員 (89)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160356.html">サービス (21)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160473.html">その他 (42)</a>
+          
+        </div>
+        
+    
+        
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160476.html">その他 (472)</a>
+          
+        </div>
+        
+    
+    
+
+    </div>    
+    <div class="sidebottom"></div>
+</div><!-- // plugin-categorize -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+<a href="//blog.with2.net/link/?1955545"><img src="https://blog.with2.net/img/banner/banner_21.gif" title="人気ブログランキング"></a><br><a href="//blog.with2.net/link/?1955545" style="font-size: 0.8em;">人気ブログランキング</a>
+
+<div class="plugin-link sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">リンク集</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://0matome.com/" target="_blank">おまとめ</a></div>
+
+<div class="sidebody"><a href="http://2chnavi.net/allentries/?threshold=0" target="_blank">2chnavi</a></div>
+
+<div class="sidebody"><a href="http://http://iwashi.biz/" target="_blank">いわしアンテナ &gt;°))))彡</a></div>
+
+<div class="sidebody"><a href="http://2ch-2.net/" target="_blank"> つーアンテナ(*ﾟ∀ﾟ)</a></div>
+
+<div class="sidebody"><a href="https://ii-antenna.net/?about" target="_blank">いーあんてな(#ﾟｗﾟ)</a></div>
+
+<div class="sidebody"><a href="https://2ch-mi.net/" target="_blank">みーアンテナ（´∀｀）</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-link -->
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">検索</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="https://cse.google.com/cse.js?cx=014565878756483497884:urusxdcjffe"></script>
+<div class="gcse-search"></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「B」設定のブログパーツ表示 -->
+            
+<!-- LDR・RSSリンクとブログのロゴ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　右側200px ここまで-->
+
+        <!-- このページのトップヘ　はじまり -->
+        <p class="to-pagetop"><a href="#"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/to_pagetop.png" width="70" height="70" alt="このページのトップヘ" /></a></p>
+        <!-- このページのトップヘ ここまで -->
+
+    </div>
+    <!-- コンテンツ全体 ここまで-->
+
+    <!-- ブログのフッター はじまり-->
+    <footer id="blog-footer">
+    <!-- Blog Common Footer // --><div id="footer"><p>Powered by <a href="http://blog.livedoor.com/" title="ライブドアブログ">ライブドアブログ</a></p></div><!-- // Blog Common Footer --><!-- 共通フッター表示 -->
+    </footer>
+    <!-- /ブログのフッター ここまで-->
+
+</div>
+<!-- コンテンツエリア ここまで-->
+
+
+<!-- Add Body Tag // --><script type="text/javascript">
+(function(){
+  var traq = document.createElement('script'); traq.type = 'text/javascript'; traq.async = true;
+  traq.src = 'https://t.blog.livedoor.jp/u.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(traq, s);
+})();
+</script>
+<noscript>
+<img src="https://t.blog.livedoor.jp/u.gif" alt="traq">
+</noscript>
+<!-- // Add Body Tag -->
+
+<script>
+(function($) {
+  var cookieName = 'livedoor-blog-gdpr-agreed';
+  $(document).ready(function() {
+    if (navigator.userAgent.match(/https?:\/\//)) {
+      // UA に http:// or https:// があればスルー
+      return;
+    }
+
+    var agreed = document.cookie.indexOf(cookieName) >= 0;
+    if (agreed) {
+      // 同意済み Cookie があればスルー
+      return;
+    }
+
+    var banner = $('<div>');
+    banner.attr('id', 'gdpr-banner');
+    var label = $('<p>');
+    label.html('\
+      ライブドアブログでは広告のパーソナライズや効果測定のためクッキー(cookie)を使用しています。<br>\
+      このバナーを閉じるか閲覧を継続することでクッキーの使用を承認いただいたものとさせていただきます。<br>\
+      また、お客様は当社パートナー企業における所定の手続きにより、クッキーの使用を管理することもできます。<br>\
+      詳細は<a href="http://www.livedoor.com/rules/" target="_blank" style="color:#023780;text-decoration:underline;">ライブドア利用規約</a>をご確認ください。\
+    ');
+    banner.append(label);
+
+    var closeButton = $('<button>');
+    closeButton.attr('type', 'button');
+    closeButton.html('閉じる');
+    closeButton.on('click', function() {
+      $('#gdpr-banner').hide();
+      document.cookie = cookieName + '="1";expires=Tue, 31-Dec-2037 00:00:00 GMT;path=/;';
+    });
+    banner.append(closeButton);
+
+    banner.css({
+      'position': 'fixed',
+      'left': '0',
+      'right': '0',
+      'bottom': '0',
+      'background': '#dcdcdc',
+      'color': '#000',
+      'padding': '20px',
+      'text-align': 'center',
+      'box-shadow': '0 -2px 2px rgba(102, 102, 102, 0.86)',
+      'z-index': '2147483647',
+    });
+    label.css({
+      'display': 'inline-block',
+      'text-align': 'left',
+      'font-size': '14px',
+      'color': '#000',
+      'vertical-align': 'middle',
+      'line-height': '1.5',
+    });
+    closeButton.css({
+      'display': 'inline-block',
+      'color': '#fff',
+      'border': 'none',
+      'font-size': '14px',
+      'padding': '4px 40px',
+      'margin-left': '40px',
+      'background': '#535353',
+      'vertical-align': 'middle',
+    });
+
+    var script = document.createElement('script');
+    script.type = "text/javascript";
+    script.src = "https://ipcheck.blogsys.jp/check.js?t=" + Date.now();
+    script.onerror = function() {
+      $('body').append(banner);
+    };
+    document.body.appendChild(script);
+  });
+})(jQuery);
+</script>
+</body>
+</html>

@@ -1,0 +1,35 @@
+{% extends "layout.html" %}
+{% block body %}
+
+
+
+
+<form action="{{url_for('stringSearch') }}" method=post class=add-entry>
+    文字列検索 <input type="text" class="form-control" id="InputTitle" name="stringSearch" size="5.5px"
+        autocomplete="off"><button type="submit" class="btn btn-primary">検索開始</button>
+</form>
+
+
+<br>
+<form action="{{url_for('deleteAllArticles') }}" method=post class=add-entry>
+    <button type="submit" class="btn btn-primary">全ての記事を削除</button>
+</form>
+
+<br>
+
+
+
+<ul class="list-group list-group-flush">
+    {%for entry in entries%}
+    <div class="row">
+        <div class="col-sm">
+            <li><a href="{{entry.title}}" target="_blank">{{entry.text}}</a>　 <input type="checkbox" name="" value="">
+            </li><br>
+        </div>
+
+    </div>
+    {%endfor%}
+</ul>
+
+
+{%endblock%}

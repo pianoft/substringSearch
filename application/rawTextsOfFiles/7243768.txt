@@ -1,0 +1,1549 @@
+<!DOCTYPE html>
+<html lang="ja" itemscope itemtype="http://schema.org/Blog">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=1190">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" /><link rel="shortcut icon" type="image/vnd.microsoft.icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/favicon.ico" /><link rel="icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/3ab45ab0.jpg" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/template.css?v=20190826" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/heart.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/icon.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="http://pathtimeblog.com/site.css?_=20190831163247" type="text/css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://pathtimeblog.com/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://pathtimeblog.com/atom.xml" /><link rel="canonical" href="http://pathtimeblog.com/archives/7243768.html" /><link rel="openid.server" href="http://auth.livedoor.com/openid/server" /><link rel="openid.delegate" href="http://profile.livedoor.com/shukatu2ch/" />
+<link rel="mixi-check-alternate" media="mixi-device-mobile" type="text/html" href="http://blog.m.livedoor.jp/shukatu2ch/article/7243768" />
+<link rel="mixi-check-alternate" media="mixi-device-smartphone" type="text/html" href="http://pathtimeblog.com/archives/7243768.html" />
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/jquery-1.11.1.min.js"></script>
+
+<meta name="description" content="" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="大企業でもなく、公務員でもなく、地味に最強の就職先を教えてやろう 	 : 2ch就活まとめ" />
+<meta property="og:description" content="" />
+<meta property="og:url" content="http://pathtimeblog.com/archives/7243768.html" />
+<meta property="og:site_name" content="2ch就活まとめ" />
+<meta property="og:locale" content="ja_JP" />
+<meta property="og:image" content="https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png" />
+
+<meta name="twitter:site" content="@2chshukatu" />
+<meta name="twitter:title" content="大企業でもなく、公務員でもなく、地味に最強の就職先を教えてやろう 	 : 2ch就活まとめ" />
+<meta name="twitter:description" content="" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image:src" content="https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png" />
+<link rel="alternate" media="handheld" type="application/xhtml+xml" href="http://blog.m.livedoor.jp/shukatu2ch/" />
+
+<title>大企業でもなく、公務員でもなく、地味に最強の就職先を教えてやろう 	 : 2ch就活まとめ</title>
+<script src="https://parts.blog.livedoor.jp/js/emoji.js"></script>
+<script src="https://parts.blog.livedoor.jp/js/misc.js?v=20190710"></script>
+<!--[if lt IE 9]>
+<script src="https://parts.blog.livedoor.jp/js/html5.js"></script>
+<![endif]-->
+<script src="https://parts.blog.livedoor.jp/js/usr/import.js"></script>
+<script>
+$(function(){
+  if($('.header-inner01').children('#blog-header-image').length) {
+    $(window).bind('load', function() {
+      var title1 = $('#blog-header-image').height();
+      var title2 = $('.header-menu').height();
+      var headerHeight = title1-title2-15;
+      $("hgroup").css("height", headerHeight);
+    });
+  }
+});
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-3064778048578600",
+          enable_page_level_ads: true
+     });
+</script>
+
+<!-- Add Google Analytics Tag // -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-113178806-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- // Add Google Analytics Tag -->
+
+
+<meta name="referrer" content="always">
+<meta name="referrer" content="unsafe-url">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1638469-45"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+var blogId = '';
+if (blogId) {
+  gtag('config', 'UA-1638469-45', {
+    'custom_map': {'dimension1': 'blog_id'},
+    'blog_id': blogId
+  });
+} else {
+  gtag('config', 'UA-1638469-45');
+}
+</script>
+
+</head>
+<body class="default_2012 page-article layout-2col sidebar-right"><script type="text/javascript"><!--
+var ld_blog_vars = {
+  provider_id : '1',
+  provider_name : 'livedoor',
+  id : '7836571',
+  name : 'shukatu2ch',
+  charset : 'utf8',
+  url : 'http://pathtimeblog.com/',
+  title : '2ch就活まとめ',
+  blog_design: {
+      version: 1
+  },
+  blog_category: {
+    id: '243',
+    permalink: 'https://blog.livedoor.com/category/243/',
+    name: 'まとめ(総合) > まとめ',
+    is_adult : 0,
+    is_gambling : 0,
+    hierarchy: [{ id: '431', name: 'まとめ(総合)', permalink: 'https://blog.livedoor.com/category/431/' },{ id: '243', name: 'まとめ', permalink: 'https://blog.livedoor.com/category/243/' }]
+  },
+  current_page : {
+    type : 'article',    page : ''
+  },
+  articles : [ {
+       id : '7243768',
+       permalink : 'http://pathtimeblog.com/archives/7243768.html',
+       title : '大企業でもなく、公務員でもなく、地味に最強の就職先を教えてやろう \t',
+       categories : [ { id:'161700', name:'企業・業界研究', permalink:'http://pathtimeblog.com/archives/cat_161700.html' }, { id:'160308', name:'アドバイス', permalink:'http://pathtimeblog.com/archives/cat_160308.html' } ],
+       date : '2018-02-18 19:30:57'
+}   ]
+};
+//-->
+</script><div id="analyzer_tags" style="display:none">
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/c2.js?v=20191010"></script>
+<script type="text/javascript">blog_counter('shukatu2ch', 7836571, 'http://pathtimeblog.com/')</script>
+</div><script type="text/javascript" src="https://parts.blog.livedoor.jp/js/smartphone.js?v=20200824"></script>
+<script type="text/javascript" src="http://pathtimeblog.com/settings/header.js?v=20190705"></script><script type="text/javascript" src="http://pathtimeblog.com/settings/ad.js"></script>
+<script type="text/javascript">
+var palette_src = 'https://parts.blog.livedoor.jp/img/emoji/3/palette.png';
+if (typeof IMAGE_CACHE == 'object' && IMAGE_CACHE['emoji_palette']) IMAGE_CACHE['emoji_palette'].src = palette_src;
+</script>
+
+<!-- Blog Common Header // -->
+<!-- // Blog Common Header -->
+<!-- 共通ヘッダー表示 -->
+
+<!-- ブログタイトル はじまり-->
+<header id="blog-header">
+
+    <div id="blog-header01">
+
+        <div class="header-inner01 show-image hide-text">
+
+            <hgroup>
+                <!--ブログタイトル　はじまり-->
+                <h1 id="blog-title"><a href="http://pathtimeblog.com/">2ch就活まとめ</a></h1>
+                <!--ブログタイトル　ここまで-->
+                <!--ブログ説明　はじまり-->
+                <h2 id="blog-description">新卒・転職・社会人生活などを含め、就活・就職に関することをまとめてます。</h2>
+                <!--ブログ説明　ここまで-->
+            </hgroup>
+
+            <a href="http://pathtimeblog.com/"><img src="https://resize.blogsys.jp/727db0f9da9f42eb7d26b703338c30b3eef0157c/trim2/0x243_94p_1200x388/http://livedoor.blogimg.jp/shukatu2ch/imgs/0/5/055bbafe.jpg" id="blog-header-image" /></a>
+
+            <div id="blog-header02">
+                <div class="header-inner02">
+                    <ul class="header-menu">
+                        <li><a href="http://pathtimeblog.com/">HOME</a></li><!--メニューを入れてください-->
+                        <li class="ldb_menu-item-url"><a href="http://blog.livedoor.jp/shukatu2ch/archives/6126504.html">ABOUT</a></li><!--メニューを入れてください-->
+                        <li><a href="mailto:shukatumatome@gmail.com">お問い合わせ</a></li><!--メニューを入れてください-->
+                    </ul>
+                    <ul class="header-sarch">
+                        <li><a href="http://twitter.com"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_twitter.png" alt="Twitter" /></a></li><!--Twitter-->
+                        <li><a href="http://pathtimeblog.com/index.rdf"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_rss.png" alt="RSS" /></a></li><!--RSS-->
+                        <li>
+                        <form action="http://pathtimeblog.com/search" method="GET" style="padding:0;margin:0px;">
+                        <input type="TEXT" name="q" class="sf">
+                        <input type="SUBMIT" value="検索" class="sfbtn">
+                        </form>
+                        </li><!--検索窓-->
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</header>
+<!-- /ブログタイトル ここまで-->
+
+
+<!-- コンテンツエリア はじまり-->
+<div id="wrapper">
+
+    <!-- コンテンツ全体 はじまり-->
+    <div id="container">
+
+        <!-- 相互RSS はじまり-->
+        <div class="rss-blogroll">
+
+            <!-- 相互RSSを設置する場合の注意事項
+                コードに含まれる以下のCSSは外して設置してください
+                http://blogroll.livedoor.net/css/default2.css -->
+
+                 <!-- 相互RSSのコード ひとつ目-->
+            <script type="text/javascript">
+            <!--
+                   var blogroll_channel_id = 255242;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード ふたつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 265945;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード みっつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 255442;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href= />
+        </div>
+        <!-- 相互RSS ここまで-->
+
+        <!-- コンテンツの箱の中　真ん中728px はじまり-->
+        <div class="main-container">
+            <div class="main-column-inner">
+<br>
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+<br>
+                <!-- メッセージボード -->
+                 
+
+
+
+                <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://pathtimeblog.com/archives/7243768.html"
+    trackback:ping="http://trackback.blogsys.jp/livedoor/shukatu2ch/7243768"
+    dc:title="大企業でもなく、公務員でもなく、地味に最強の就職先を教えてやろう 	"
+    dc:identifier="http://pathtimeblog.com/archives/7243768.html"
+    dc:subject="企業・業界研究,アドバイス"
+    dc:description=""
+    dc:creator="shukatu2ch"
+    dc:date="2018-02-18T19:30:57+09:00" />
+</rdf:RDF>
+-->
+<div id="ad_rs" class="ad_rs_b"></div><!-- 記事のトラックバック・オートディスカバリー -->
+
+
+                <!-- 記事 はじまり-->
+                <article class="article first-article" itemscope itemtype="http://schema.org/BlogPosting">
+
+                    <!-- 記事タイトル　記事下の情報　はじまり-->
+                    <header class="article-header">
+
+                        <h1 class="article-title" itemprop="name"><a href="http://pathtimeblog.com/archives/7243768.html" itemprop="url">大企業でもなく、公務員でもなく、地味に最強の就職先を教えてやろう 	</a></h1><!-- 記事のタイトル -->
+
+                            <!-- 記事下の記事情報 はじまり-->
+                            <div class="article-header-inner">
+
+                                <!-- 記事情報の上の行 はじまり-->
+                                <div class="article-header-top">
+                                <p class="article-header-date"><time datetime="2018-02-18T19:30:57+09:00" pubdate="pubdate">2018年02月18日</time></p>
+                                
+                                <ul class="article-header-category">
+                                    <li>
+                                        <dl><dt>カテゴリ:</dt><dd class="article-category1"><a href="http://pathtimeblog.com/archives/cat_161700.html">企業・業界研究</a></dd><dd class="article-category2"><a href="http://pathtimeblog.com/archives/cat_160308.html">アドバイス</a></dd></dl>
+                                    </li>
+                                </ul>
+                                
+
+                                <!-- 記事の評価アイコン はじまり-->
+                                
+                                <!-- 記事の評価アイコン ここまで-->
+
+                                </div>
+                                <!-- 記事情報の上の行 ここまで-->
+                                <!-- ソーシャルボタン　はじまり -->
+                                <ul class="article-social-btn">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/7243768.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/7243768.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="大企業でもなく、公務員でもなく、地味に最強の就職先を教えてやろう 	 - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=%E5%A4%A7%E4%BC%81%E6%A5%AD%E3%81%A7%E3%82%82%E3%81%AA%E3%81%8F%E3%80%81%E5%85%AC%E5%8B%99%E5%93%A1%E3%81%A7%E3%82%82%E3%81%AA%E3%81%8F%E3%80%81%E5%9C%B0%E5%91%B3%E3%81%AB%E6%9C%80%E5%BC%B7%E3%81%AE%E5%B0%B1%E8%81%B7%E5%85%88%E3%82%92%E6%95%99%E3%81%88%E3%81%A6%E3%82%84%E3%82%8D%E3%81%86%20%09%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/7243768.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/7243768.html" data-text="大企業でもなく、公務員でもなく、地味に最強の就職先を教えてやろう 	 - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F7243768.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                                </ul>
+                                 <!-- ソーシャルボタン　ここまで -->
+                            </div>
+                            <!-- 記事下の記事情報 ここまで-->
+
+                    </header>
+                    <!-- 記事タイトル　記事下の情報　ここまで-->
+
+
+
+                    <!-- 記事本文 はじまり-->
+                    <div class="article-body">
+                        <div class="article-body-inner">
+<!-- 参加している共通テーマの表示 -->
+                        <br /><!-- Generated by 2chまとめくす (http://2mtmex.com/) --><!-- 本文 --><div class="article-body-more" id="more"><span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">2: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(茸) [US]</span> <span  style="color: gray;"> 2018/02/15(木) 18:07:50.94 ID:TCUFLbxk0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 地場の医療商社だろ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">8: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(茸) [JP]</span> <span  style="color: gray;"> 2018/02/15(木) 18:12:45.07 ID:flY0kEcH0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;2</span> <br /> いや安月給で死にそうだが </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">293: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(SB-iPhone) [EU]</span> <span  style="color: gray;"> 2018/02/16(金) 07:00:11.71 ID:4l/V3bh20</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;8</span> <br /> 何年か辛抱して大病院の医局握ったら <br /> 楽で給料のいい外資から引っ張ってもらうとか <br /> 独立する手もあるぞ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">395: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(福島県) [FR]</span> <span  style="color: gray;"> 2018/02/17(土) 16:15:57.60 ID:gxVxNda70</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;2</span> <br /> 地方の小さな医療卸は軒並み大手に吸収されて残ってないよ。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">4: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(関西・東海) [ﾆﾀﾞ]</span> <span  style="color: gray;"> 2018/02/15(木) 18:08:06.32 ID:OrHVK5wrO</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 金持ち社長に媚びまくれ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">5: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(庭) [ﾆﾀﾞ]</span> <span  style="color: gray;"> 2018/02/15(木) 18:09:18.65 ID:vDet1ywl0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 福音館書店が最強だっけ？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">6: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(catv?) [GB]</span> <span  style="color: gray;"> 2018/02/15(木) 18:11:19.27 ID:1X+cSCMb0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;5</span> <br /> 出版？何故？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">67: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(庭) [US]</span> <span  style="color: gray;"> 2018/02/15(木) 18:58:17.22 ID:MeLpTysK0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;6</span> <br />  <br /> 外資証券  <br /> 形のないデータやグラフを元に朝晩関係なく、トレード（笑）を繰り返す  <br /> 命をすり減らす激務でようやく年収１５００万 <br />  <br /> 福音館書店  <br /> 心の和む可愛い絵本に囲まれた職場で、コツコツ仕事。  <br /> 営業では保育園や公民館などに出向き、保母さんや児童の無邪気な笑顔に癒される。  <br /> 幸せに満ちたりて、なおかつ年収１５００万 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">268: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(やわらか銀行) [US]</span> <span  style="color: gray;"> 2018/02/16(金) 01:43:47.58 ID:cLVF1ftq0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;67</span> <br /> 福音館ってでも、つまんないよ <br /> 医療系出版も高給だけど、やっぱりつまんない <br /> 本が作りたくて出版に来た人はかなりやめていく </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">269: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(やわらか銀行) [JP]</span> <span  style="color: gray;"> 2018/02/16(金) 01:54:25.18 ID:ixHU5NAy0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;268</span> <br /> 楽な仕事=やりがいや夢実現ではないからなあ <br /> お金や休みなどの待遇に関係なく <br /> 社風に合わずアレがしたいコレがしたいって人は <br /> 合わなきゃやめるでしょ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">276: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(家) [IT]</span> <span  style="color: gray;"> 2018/02/16(金) 03:09:37.11 ID:/aPglcIN0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"><span  style="color: mediumblue;" class="anchor">&gt;&gt;269</span> <br /> 結局、続けていくのは金より、やりがいなんかね</div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">277: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(禿) [US]</span> <span  style="color: gray;"> 2018/02/16(金) 03:11:22.95 ID:Tlmc6a670</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;276</span> <br /> 金がやりがいって人は強そうだな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">278: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(家) [IT]</span> <span  style="color: gray;"> 2018/02/16(金) 03:21:33.98 ID:/aPglcIN0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;277</span> <br /> (＾ω＾)あ～、そういう人たまに居るねｗ <br />  <br /> 最強 <br /> ・福音館書店 <br /> ・一番はインフラ系企業の管理職になって、出世競争に敗れて、そこそこ高給取りのまま関連会社の幹部になること <br />  <br /> 辞めた方がいい物 <br /> ・病院事務など、病院・看護関連は地獄 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">279: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(大阪府) [ES]</span> <span  style="color: gray;"> 2018/02/16(金) 03:24:06.37 ID:9mnLu0j+0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;276</span> <br /> やりがいのある仕事と言われている <br /> 介護職は続けられる人が少ないらしいけどな <br />  <br /> やりがいだけでは腹は膨れんよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">306: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(兵庫県) [ﾆﾀﾞ]</span> <span  style="color: gray;"> 2018/02/16(金) 08:39:23.23 ID:P9x9VZbl0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;269</span> <br /> だいたい、ヒマでラクな職場ってのは人間関係で気を使ったりするからな。 <br /> 大学のウエ～ィサークルのノリでも無難にお付き合い出来るスキルが無いと <br /> 居辛くなるんじゃないかなー </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">325: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(茸) [US]</span> <span  style="color: gray;"> 2018/02/16(金) 11:40:29.45 ID:kNz5pjrW0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;306</span> <br /> ヒマでラクだけど、俺自身は個室与えられているから人間関係のゴタゴタとは疎遠（専門職） <br /> 事務員やその他職種は一緒くたにまとめられているから、確かに人間関係が大変そう </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">7: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(茸) [US]</span> <span  style="color: gray;"> 2018/02/15(木) 18:12:28.24 ID:gNXweRFP0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 社員一桁の零細企業は社長が詐欺にでもあわない限りまず潰れない。 <br /> 小さすぎて最悪コンビニバイトでも何でもやればなんとか食いつなげるからな。 <br />  <br /> 10人以上から中規模の会社はヤバい </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">9: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(庭) [RU]</span> <span  style="color: gray;"> 2018/02/15(木) 18:13:20.41 ID:yHsssVCF0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;7</span> <br /> 潰れないからなんだよ… </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">43: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(茨城県) [US]</span> <span  style="color: gray;"> 2018/02/15(木) 18:39:06.63 ID:giubBttM0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;7</span> <br /> 下見すぎ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">259: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(京都府) [US]</span> <span  style="color: gray;"> 2018/02/16(金) 01:13:53.61 ID:4dwaq3nL0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;7</span> <br /> こんなもんなのか <br /> 今年潰れた企業の統計見てたら8割くらい零細だぞ <br /> 飲食も含めてるが </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">344: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(catv?) [US]</span> <span  style="color: gray;"> 2018/02/16(金) 15:09:01.16 ID:NG9+ipYy0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;7</span> <br /> これはマジ、俺は文具系商社に居たけど潰れるのは地場では大手ばかり、6人とかでやってる店＆営業では潰れようがないレベル、給料はお察しだけど </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">10: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(東京都) [US]</span> <span  style="color: gray;"> 2018/02/15(木) 18:14:01.19 ID:bXwbXZDa0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 未来工業だな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">12: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(dion軍) [JP]</span> <span  style="color: gray;"> 2018/02/15(木) 18:15:08.49 ID:qmTfHxtw0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;10</span> <br /> 取引先だが給料安い </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">305: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(catv?) [US]</span> <span  style="color: gray;"> 2018/02/16(金) 08:27:39.56 ID:mWlxJtGe0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;12</span> <br /> でも定時に帰れたりホワイトらしいじゃん </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">409: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(庭) [ﾆﾀﾞ]</span> <span  style="color: gray;"> 2018/02/18(日) 08:25:25.38 ID:/UyxFjlU0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;12</span> <br /> あそこはGWと年末年始休みまくってるだろ <br /> 安月給でも無問題 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">11: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(家) [EU]</span> <span  style="color: gray;"> 2018/02/15(木) 18:14:54.35 ID:1ZgJ5/g60</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 賃貸不動産の仲介屋 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">15: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(やわらか銀行) [US]</span> <span  style="color: gray;"> 2018/02/15(木) 18:17:19.86 ID:yyOHqaa20</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;11</span> <br /> やってるけど同業者チンピラ多いからオススメしない </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">25: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(家) [EU]</span> <span  style="color: gray;"> 2018/02/15(木) 18:24:19.19 ID:1ZgJ5/g60</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;15</span> <br /> たしかに <br />  <br />  <br /> じゃあ、私立大学の職員かな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">196: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(庭) [US]</span> <span  style="color: gray;"> 2018/02/15(木) 21:52:32.76 ID:vVa6g9QF0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;11</span> <br /> 土日休めないし給料安いぞ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">14: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(空) [GH]</span> <span  style="color: gray;"> 2018/02/15(木) 18:17:14.83 ID:dAFgeuk60</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 大きめの病院の一般事務。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">17: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(愛知県) [ﾇｺ]</span> <span  style="color: gray;"> 2018/02/15(木) 18:20:01.61 ID:Oyo72L9u0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;14</span> <br /> 何故そう思った？ <br /> 俺がまさにそうだけど全然最強じゃないぞ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">18: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(愛知県) [NL]</span> <span  style="color: gray;"> 2018/02/15(木) 18:20:27.05 ID:/j6rMTVd0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;14</span> <br /> フルタイムで働いても手取り11やで </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">41: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(茸) [US]</span> <span  style="color: gray;"> 2018/02/15(木) 18:33:19.38 ID:5/+J7dlE0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;18</span> <br /> えっ！ネタだろ？ <br /> まあ自分も資格無しに受けた医療事務落ちて、 <br /> 中小食品の現場部門にて働き始めたけど、 <br /> 手取りは20超えるぞ <br /> 医療事務って求人だと10万円台で募集して、 <br /> 実際は手当が付いて20万円台になるんでしょ？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">140: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(やわらか銀行) [US]</span> <span  style="color: gray;"> 2018/02/15(木) 20:12:06.61 ID:1WqDhpCx0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;41</span> <br /> まじか　手取り13万だ　昇給もないらしい <br /> もうやめたいが転職どうしよう </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">77: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(dion軍) [US]</span> <span  style="color: gray;"> 2018/02/15(木) 19:04:01.82 ID:JAqFLilm0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;14</span> <br /> 病院はどこも経営がカツカツ <br /> 厚労省の方針が変わりそうにないので <br /> 将来的にも楽になりそうにはない <br /> 故に変えの利く事務に高給が支払われることはない <br /> さらに言えばIT化で真っ先にリストラ対象になる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">298: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(新疆ウイグル自治区) [IN]</span> <span  style="color: gray;"> 2018/02/16(金) 07:57:52.87 ID:GCIm9Hml0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;77</span> <br /> 医者が給料取りすぎなんだろ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">19: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(西日本) [NL]</span> <span  style="color: gray;"> 2018/02/15(木) 18:20:53.78 ID:c1ynYKtzO</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 最強は、大手私立大学の事務員だろ。 <br /> 仕事楽だし給料高いし。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">81: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(愛知県) [ES]</span> <span  style="color: gray;"> 2018/02/15(木) 19:06:06.26 ID:RgD6150R0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;19</span> <br /> 出たーーー！ <br /> 没落の集積所 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">155: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(神奈川県) [US]</span> <span  style="color: gray;"> 2018/02/15(木) 20:41:38.66 ID:5AQlTwXm0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;19</span> <br /> 仕事は公務員より楽 <br /> 年間休日135日有給全消化 <br /> 給料は大手金融並 <br />  <br /> ただし、東大卒レベルでも余裕で落ちる応募数 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">163: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(茨城県) [US]</span> <span  style="color: gray;"> 2018/02/15(木) 20:58:52.40 ID:giubBttM0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;19</span> <br /> 知り合いが就職してたな <br /> 卒業した大学に就職したから就職した気がしないと言ってた </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">173: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(dion軍) [GB]</span> <span  style="color: gray;"> 2018/02/15(木) 21:11:13.16 ID:iUhFRz0E0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;19</span> <br /> 国立はどうよ？ <br /> 通ってた大学の学務は変なのが多かった <br /> 昔の役所の態度 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">288: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(茸) [US]</span> <span  style="color: gray;"> 2018/02/16(金) 05:46:45.83 ID:bYbkqMGh0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;19</span> <br /> そうなのか… <br /> 誘われるがままに入っときゃ良かった… </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">364: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(catv?) [GB]</span> <span  style="color: gray;"> 2018/02/17(土) 06:37:19.83 ID:ECRmEtJ+0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;288</span> <br /> これからの少子高齢化でFラン大学が存続して行けるとでも？ <br /> 確実に潰れるよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">20: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(東京都) [US]</span> <span  style="color: gray;"> 2018/02/15(木) 18:21:12.35 ID:g7/y4tTM0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 冗談でなく、地方の跡取りのいない <br /> 小金持ちジジババの養子になることだと思う。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">59: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(空) [ﾆﾀﾞ]</span> <span  style="color: gray;"> 2018/02/15(木) 18:53:19.09 ID:6W5qfPTF0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;20</span> <br /> そういうのもありだね、ただし田舎のしきたりや年上の人に <br /> 気に入られる必要がある、逆に言うとなぜかどこにいっても <br /> 年上の人に引き立ててもらえる人はマジでありだとおもう </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">22: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(新疆ウイグル自治区) [CA]</span> <span  style="color: gray;"> 2018/02/15(木) 18:22:46.94 ID:Z/sBfyrv0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 薬剤師の資格持ちでドラッグストアのパート </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">33: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(茸) [ﾆﾀﾞ]</span> <span  style="color: gray;"> 2018/02/15(木) 18:29:26.75 ID:XdGtC0Eg0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;22</span> <br /> 薬大出た知り合いに聞いたが時給1400円くらいで悲惨、製薬会社に行くほうがええよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">69: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(茸) [US]</span> <span  style="color: gray;"> 2018/02/15(木) 18:59:10.23 ID:sScAyr5N0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;33</span> <br /> 良いこと教えてやろう <br /> 刑務所の薬剤師最強 <br /> バイトなら時給は高くて、常勤なら国家公務員様や </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">72: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(茸) [US]</span> <span  style="color: gray;"> 2018/02/15(木) 19:00:52.87 ID:tTtLYjq60</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;69</span> <br /> 刑務所に薬剤師とかいるん？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">75: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(茸) [US]</span> <span  style="color: gray;"> 2018/02/15(木) 19:03:40.29 ID:sScAyr5N0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;72</span> <br /> 刑務所、医療刑務所、拘置所、少年院 <br /> 大抵どこも医務室があって、認知度が低すぎて人手不足で薬剤師絶賛募集してるところもある <br /> 場所によっては市中のバイト代の2倍くらいでる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">133: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(dion軍) [US]</span> <span  style="color: gray;"> 2018/02/15(木) 19:59:15.22 ID:fycVp2LS0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;75</span> <br /> うちの娘は千葉大薬学部に行ってます。本人に教えたりますわ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">23: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(東京都) [ﾆﾀﾞ]</span> <span  style="color: gray;"> 2018/02/15(木) 18:23:15.47 ID:tpi4kChN0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 農協職員 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">83: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(アラビア) [CN]</span> <span  style="color: gray;"> 2018/02/15(木) 19:08:56.45 ID:9JxWACZD0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;23</span> <br /> 自爆営業して離職率高いだろ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">24: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(SB-iPhone) [US]</span> <span  style="color: gray;"> 2018/02/15(木) 18:23:42.96 ID:mR9vl9iJ0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 官公庁向けの出版社の求人を見たことあるけどあれはまったり安定して仕事できそうだな <br /> 競争ないだろうし </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">30: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(catv?) [ﾆﾀﾞ]</span> <span  style="color: gray;"> 2018/02/15(木) 18:28:24.44 ID:dO/izJSc0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 航空測量会社じゃないかな？ <br /> アレ使えばいろいろなことが出来そう。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">80: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(禿) [US]</span> <span  style="color: gray;"> 2018/02/15(木) 19:06:04.57 ID:2BvBOvnZ0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;30</span> <br /> くそだぞ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">179: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(dion軍) [PK]</span> <span  style="color: gray;"> 2018/02/15(木) 21:16:05.57 ID:7xESerhs0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;30</span> 姉が働いてるが災害地飛び回って激務らしい </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">32: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(catv?) [US]</span> <span  style="color: gray;"> 2018/02/15(木) 18:28:34.75 ID:4AWKP7J60</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> フリーターいいぞ <br /> 余裕はなくなるが <br /> 販売ノルマという精神的苦痛も無くなった </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">146: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(茨城県) [US]</span> <span  style="color: gray;"> 2018/02/15(木) 20:20:07.14 ID:giubBttM0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;32</span> <br /> 営業以外のサラリーマンでいいだろ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">34: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(やわらか銀行) [KR]</span> <span  style="color: gray;"> 2018/02/15(木) 18:29:45.37 ID:S9cCOcBU0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> シルバー人材センターの職員にしとけ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">44: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(長野県) [DK]</span> <span  style="color: gray;"> 2018/02/15(木) 18:39:09.81 ID:vLL9QD3u0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;34</span> <br /> それは公務員だろ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">48: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(宮城県) [US]</span> <span  style="color: gray;"> 2018/02/15(木) 18:42:59.20 ID:/V0deFDa0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;44</span> <br /> あんなもん契約社員だよ。ハロワの窓口なんかも大体そう。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">36: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(庭) [US]</span> <span  style="color: gray;"> 2018/02/15(木) 18:31:03.15 ID:qhnHjKOF0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 老舗の中堅メーカーかな。 <br />  <br /> 地味だけどシェアを独占したりしてるところ。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">71: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(空) [ﾆﾀﾞ]</span> <span  style="color: gray;"> 2018/02/15(木) 19:00:05.51 ID:6W5qfPTF0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;36</span> <br /> そういうのは身内の人間しか雇わないでしょ良くも悪くも </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">45: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(dion軍) [NO]</span> <span  style="color: gray;"> 2018/02/15(木) 18:39:30.09 ID:1VfrwGXJ0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 商工会議所とかは？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">323: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(東京都) [ﾆﾀﾞ]</span> <span  style="color: gray;"> 2018/02/16(金) 11:01:35.80 ID:a/FvL+SR0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;45</span> <br /> そこに出入りしてるけど確かに楽そう。っていうかのんびりしてる。絶対定時っぽいし。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">47: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(茨城県) [US]</span> <span  style="color: gray;"> 2018/02/15(木) 18:42:08.13 ID:giubBttM0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 葬儀やとかは？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">91: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(千葉県) [CA]</span> <span  style="color: gray;"> 2018/02/15(木) 19:15:57.03 ID:lJVE53nl0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;47</span> <br /> 仕事はなくならんが、ブラックだろ。基本24時間365日対応だぞ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">337: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(禿) [JP]</span> <span  style="color: gray;"> 2018/02/16(金) 14:04:33.75 ID:w1QAzGxA0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;47</span> <br /> 友引休みでよければ <br /> 曜日は関係ない </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">52: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(埼玉県) [FR]</span> <span  style="color: gray;"> 2018/02/15(木) 18:47:00.54 ID:v6WB8Rgj0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 50人前後の会社が一番ダメなイメージ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">56: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(茸) [US]</span> <span  style="color: gray;"> 2018/02/15(木) 18:51:51.68 ID:A35UX9Hu0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;52</span> <br /> その規模だと資金ショートしたらアウトだからな。 <br /> 10人未満のところは最悪社員全員で福島でも行って除染でもするかで食いつなげる。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">87: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(アラビア) [CN]</span> <span  style="color: gray;"> 2018/02/15(木) 19:11:16.21 ID:9JxWACZD0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;56</span> <br /> 最悪すぎ(笑)転職する </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">53: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(茸) [ﾆﾀﾞ]</span> <span  style="color: gray;"> 2018/02/15(木) 18:47:32.93 ID:m2sXoOHC0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 土地改良区ってのが、割りが良いと聞いた。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">65: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(茸) [US]</span> <span  style="color: gray;"> 2018/02/15(木) 18:55:34.84 ID:PN+1Gl9p0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;53</span> <br /> 賦課金の徴収で大変やで </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">105: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(福岡県) [DE]</span> <span  style="color: gray;"> 2018/02/15(木) 19:31:35.87 ID:/DQWsiyF0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;53</span> <br /> 田んぼや畑がある田舎だと最凶かもしれんな <br /> あいつらとは揉めたくない </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">113: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(庭) [ID]</span> <span  style="color: gray;"> 2018/02/15(木) 19:34:46.53 ID:aHXEKISq0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;53</span> <br /> 場所によるかも知れんが田んぼ時期が辛いぞ。 <br /> 財団法人じゃないか良いのは？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">54: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(茸) [NL]</span> <span  style="color: gray;"> 2018/02/15(木) 18:49:00.32 ID:ExAkjHyl0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> キーエンスか </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">55: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(茸) [CN]</span> <span  style="color: gray;"> 2018/02/15(木) 18:50:12.80 ID:YZP48i480</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 地方自治体の公務員最強じゃない？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">410: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(庭) [ﾆﾀﾞ]</span> <span  style="color: gray;"> 2018/02/18(日) 08:29:50.12 ID:/UyxFjlU0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;55</span> <br /> 終わりの見えない業務でサビ残３桁、肉体と精神壊す人多数だぞ <br /> ラクだと思う奴は税金泥棒しか見てない </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">58: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(SB-iPhone) [FR]</span> <span  style="color: gray;"> 2018/02/15(木) 18:52:52.42 ID:d+TNwkM00</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 一番はインフラ系企業の管理職になって、出世競争に敗れて、そこそこ高給取りのまま関連会社の幹部になることかと。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">76: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(茸) [US]</span> <span  style="color: gray;"> 2018/02/15(木) 19:03:57.91 ID:Wl9J7xD50</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;58</span> <br /> あーわかるわ <br /> インフラ勤めだがそのてのおっさんが一番まったり幸せに過ごしてるな <br /> 本社でバリバリ組はめちゃめちゃ大変そう　頭頂部を見ればわかる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">151: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(やわらか銀行) [ﾆﾀﾞ]</span> <span  style="color: gray;"> 2018/02/15(木) 20:26:16.47 ID:Jid3Jial0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;58</span> <br /> 俺のおじさんがまさにそれ <br /> NTTのそこそこのポジションから電信柱の管理会社でまったり </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">249: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(やわらか銀行) [US]</span> <span  style="color: gray;"> 2018/02/16(金) 00:36:02.68 ID:T0WDEg3L0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;58</span> <br /> 管理職になるまでに過酷な飲み会とくだらな過ぎる因習に心と肝臓病まなければな <br /> 暇で楽で金があるとアホみたいに飲むようになる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">60: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(庭) [US]</span> <span  style="color: gray;"> 2018/02/15(木) 18:53:51.32 ID:UZ4OXE770</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 田舎の有力電気屋は地味に硬い <br /> 法人需要で暇な時がない </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">73: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(庭) [US]</span> <span  style="color: gray;"> 2018/02/15(木) 19:01:05.13 ID:6vBN3oep0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 儲かってる神社の神主 <br /> 門仲の事件見て思った </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">167: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(東京都) [US]</span> <span  style="color: gray;"> 2018/02/15(木) 21:02:05.96 ID:Yj08K/Lp0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;73</span> <br /> 殆どの神社は赤字で修理もできんよ。兼業でサラリーマンしながら土日ボランティアで神社の仕事だ。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">74: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(catv?) [CN]</span> <span  style="color: gray;"> 2018/02/15(木) 19:01:35.10 ID:MSn5arNq0</span></span></div>
+<div  style="font-weight:bold;font-size:18px;line-height:27px;margin-bottom:30px;margin-top:20px;" class="t_b"> 就職するんじゃなくて雇用する方になれよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">82: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(茸) [TH]</span> <span  style="color: gray;"> 2018/02/15(木) 19:06:13.59 ID:150AQbot0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> まあ、現業公務員がいいよ <br />  <br /> 一般職は今相当厳しくなってるし </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">108: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(チベット自治区) [LV]</span> <span  style="color: gray;"> 2018/02/15(木) 19:32:37.49 ID:mPDhM8gI0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;82</span> <br /> 弟がそうだけど、あれ今はコネ無しじゃ厳しいんじゃね？という話 <br /> 弟が入った90年代初頭の頃はまだまだ入り易かったそうだけど </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">84: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(福岡県) [CN]</span> <span  style="color: gray;"> 2018/02/15(木) 19:09:06.09 ID:wfmx1Drt0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 医療系。独身寮あるし、信用審査もパスしやすい。 <br /> 財閥系子会社。金払いがいい。 <br /> インフラ系。金払いがいい。 <br /> 宗教法人。神前式や神社結婚式、巫女さん業務。地元で就職、転勤無し。 <br /> 市議会議員。2000票集めれば、年収760万円。自治体によっては無投票当選、競争率0％。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">111: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(空) [ﾆﾀﾞ]</span> <span  style="color: gray;"> 2018/02/15(木) 19:34:18.66 ID:6W5qfPTF0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;84</span> <br /> 市議会議員とかある意味国政より難しいぞ地縁が全てだからな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">89: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(庭) [US]</span> <span  style="color: gray;"> 2018/02/15(木) 19:13:44.13 ID:Er8z86kj0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 　 <br /> 税金で食ってる聞いたこともないような、公務員の天下りポジション以外何のためにあるのか意味不明な謎の団体の職員。 <br />  <br /> 採用機会が少ない上に、縁故採用も多いという選ばれし者の為だけにあると言っても過言ではないような狭き門だが、 <br /> 採用されたら、給料面では公務員とほぼ同じ待遇なのに、公務員法には縛られないので業者からの。ワイロも付け届けも <br /> 違法にならないため貰い放題。 <br />  <br /> 基本的には税金で食ってるから仕事に緊張感も必死さの欠片もなく、公務員じゃないので市民ナンチャラ団体の監視の目もなく、 <br /> 勤務時間中に２ちゃんもバカッターも <br /> 株トレードもやり放題。 <br />  <br /> 土日祝日完全に休みで、５時きっかりには電話もシャットアウトしてソッコー事務所からサヨナラ、のんびりゆったり <br /> ワークライフバランスも理想的な、アハハオホホと毎日楽しい職場だよ＾＾ <br />  <br /> ・・・もしそんな職場があったら、お前らどう思う？ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">92: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(庭) [US]</span> <span  style="color: gray;"> 2018/02/15(木) 19:16:37.77 ID:X+gaF0sr0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;89</span> <br /> 仕分けで仕事がなくなる恐怖と <br /> そうなった時にどこにも行けず何もできない <br /> 何も積み上げてこれなかった自分の人生に <br /> 毎日絶望して <br /> 生活保護と何が違うんだと悩んで鬱になりそう <br />  <br /> ニートにも才能がいる、ってのは真実だわ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">95: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(庭) [US]</span> <span  style="color: gray;"> 2018/02/15(木) 19:21:03.20 ID:Er8z86kj0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;92</span> <br /> 難しいこと考えないで自民党、安倍ちゃんに一票入れとけばいいんだよ＾＾ <br />  <br /> 少なくとも「仕分け」とかトンデモ無いことを言い出すクソ政治家が多数派を占めるような党には二度と政権取らせないように <br /> 仕事時間中に一生懸命野党とサヨクこき下ろすネット工作やらないといけないから、そこは大変といえば大変。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">102: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(新疆ウイグル自治区) [KR]</span> <span  style="color: gray;"> 2018/02/15(木) 19:28:52.09 ID:SNxnajVF0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> マジレスすると職能をもった派遣社員 <br />  <br /> 嫌なら簡単に辞められる <br /> なおかつ、そこそこ給料もよい </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">115: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(チベット自治区) [LV]</span> <span  style="color: gray;"> 2018/02/15(木) 19:34:57.78 ID:mPDhM8gI0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;102</span> <br /> 特にIT関係はきついけど仕事の量は大量にあるからね <br /> 独立してフリーでやってる奴も多い </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">118: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(神奈川県) [US]</span> <span  style="color: gray;"> 2018/02/15(木) 19:37:16.67 ID:bEJYpWPw0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> マジレスすると電車の会社最強だぞ <br /> 絶対に潰れない </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">139: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(空) [ﾆﾀﾞ]</span> <span  style="color: gray;"> 2018/02/15(木) 20:11:19.46 ID:6W5qfPTF0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;118</span> <br /> 鉄道関係もアウトソーシング、子会社化が激しいからな毎日京急乗ってるけど <br /> 京浜急行の関連の求人広告乗ってるが <br /> 本体の人間は楽でもこういうのは <br /> 絶対ブラックだろうね </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">175: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(千葉県) [CA]</span> <span  style="color: gray;"> 2018/02/15(木) 21:12:20.90 ID:lJVE53nl0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;118</span> <br /> 鉄道会社もどんどん子会社化。駅員は本体社員じゃない。 <br /> 現場は休み少ない、不規則勤務、基本給少ないで大変だぞ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">119: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(やわらか銀行) [US]</span> <span  style="color: gray;"> 2018/02/15(木) 19:37:21.61 ID:f81ELZpo0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 大企業になるけど主要・中堅・準大手ゼネコンが入札の為に <br /> 自治体毎に置いている事務所の常駐社員 <br /> 基本駅チカ雑居ビルの一室を充てがわれるけど出社しなくても問題なし、自分しかいないから <br /> 入札時のみ本社社員と仕事をすれば、他の時間は遊んでいようが副業しようが大丈夫 <br /> 只、談合摘発等何かあれば詰め腹を切らされるのでご注意 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">121: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(神奈川県) [US]</span> <span  style="color: gray;"> 2018/02/15(木) 19:39:43.28 ID:pch6GiyS0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 売り手市場ってのが詐欺みたいな話だからな <br /> 介護飲食ブラック営業の求人がとてつもない数で <br /> 少しまともな仕事は高競争率 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">124: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(チベット自治区) [LV]</span> <span  style="color: gray;"> 2018/02/15(木) 19:42:05.14 ID:mPDhM8gI0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;121</span> <br /> 文系大卒で事務員は高値の花だな <br /> 今はそれなりに高学歴じゃないとすんなり成れないんじゃないかと思う <br />  <br /> まぁ、概ね「誰もが考える」美味しい仕事って少ないしね </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">137: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(富山県) [ﾇｺ]</span> <span  style="color: gray;"> 2018/02/15(木) 20:07:57.23 ID:9oN6piIC0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 第一次産業。体さえ動くなら実質定年なし <br /> 激務だが体は鍛えられる。つらいのは冬と花粉の季節と梅雨時期と夏と台風の時期くらいなもんだ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">141: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(岐阜県) [JP]</span> <span  style="color: gray;"> 2018/02/15(木) 20:12:10.82 ID:InEEphAh0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ガチなのは塩と砂糖業界だ <br /> 保護産業だしな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">145: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(やわらか銀行) [CN]</span> <span  style="color: gray;"> 2018/02/15(木) 20:18:31.28 ID:+01GzoRB0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ビルメンの俺、一日の大半遊んでるけど月収40越えることある </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">150: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(catv?) [CN]</span> <span  style="color: gray;"> 2018/02/15(木) 20:23:48.74 ID:AlrkeJQZ0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 業種でいくなら多分化学メーカー <br /> 取り扱う製品がどこもニッチだから上下どころか競合同士でも顧客になり得るために業界全体でホワイトとは良く聞くよね </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">294: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(庭) [US]</span> <span  style="color: gray;"> 2018/02/16(金) 07:01:48.73 ID:M2QvOitD0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;150</span> <br /> これ本当 <br /> 普通に競合同士で在庫を融通しあうからな。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">345: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(catv?) [RU]</span> <span  style="color: gray;"> 2018/02/16(金) 15:29:33.70 ID:YiVwCrMb0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;294</span> <br /> 化学系は大規模設備要るのに単価が安いのが参入障壁なんだよなw <br /> 入札で談合なんて無知なマスゴミが騒ぐが、そもそも生産能力で決まるしw <br /> 玉持ってないブローカーに落札させてどうするねん？w </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">378: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(やわらか銀行) [EU]</span> <span  style="color: gray;"> 2018/02/17(土) 08:10:01.09 ID:fSEkxoZJ0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;150</span> <br /> これ本当だわ。 <br /> 東一化学メーカーだけど、残業ほとんどないけど収入は一般平均以上。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">156: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(家) [US]</span> <span  style="color: gray;"> 2018/02/15(木) 20:42:18.95 ID:C+un1y650</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 電気保安協会とかどうなの楽そうじゃん </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">170: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(やわらか銀行) [CN]</span> <span  style="color: gray;"> 2018/02/15(木) 21:08:32.36 ID:+01GzoRB0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;156</span> <br /> 合格率数%の資格持ってなきゃできない </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">157: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(茸) [IL]</span> <span  style="color: gray;"> 2018/02/15(木) 20:42:55.66 ID:5ToXHht20</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> タバコの自販機の管理が一番と聞いたが？(ここで) </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">187: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(dion軍) [US]</span> <span  style="color: gray;"> 2018/02/15(木) 21:39:23.38 ID:X783h1Ij0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;157</span> <br /> タスポがついてからは終わってる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">158: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(茸) [JP]</span> <span  style="color: gray;"> 2018/02/15(木) 20:44:39.11 ID:c6vMaG/m0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 医薬品メーカー営業じゃない？ <br /> 聞いたことも無い会社でも給料高い </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">161: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(dion軍) [US]</span> <span  style="color: gray;"> 2018/02/15(木) 20:56:20.05 ID:JAqFLilm0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;158</span> <br /> MRは医者の奴隷 <br /> 過酷だからこそ給料が高い </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">172: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(大阪府) [ﾆﾀﾞ]</span> <span  style="color: gray;"> 2018/02/15(木) 21:10:35.95 ID:FOgoR2Nh0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;158</span> <br /> 院長室前の廊下で並んで待ってるアイツらの目死んでるぜ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">162: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(大阪府) [US]</span> <span  style="color: gray;"> 2018/02/15(木) 20:58:40.67 ID:idqj9Hob0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> MRで給料高いけど、先はないぞ。 <br /> 薬剤師の資格持ってるからリストラまではすがりつくつもり <br /> 中途入社で入ってきても殆どが辞めていく </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">165: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(長野県) [JP]</span> <span  style="color: gray;"> 2018/02/15(木) 21:01:16.45 ID:9foCkUWy0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;" class="t_b"> サイコパスで優秀なMRは医者より稼げるからな。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">164: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(大阪府) [KR]</span> <span  style="color: gray;"> 2018/02/15(木) 20:59:09.40 ID:TT2Xp2NT0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 病院SE　安定稼働でまじ暇過ぎ仕事ない。時々プリンタの紙詰まり。定時。有給全消化。トラブルは業者電話して呼び付けるだけ。給与は600位、まぁまぁです。診療報酬改訂時だけ少し仕事ある。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">169: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(大阪府) [DE]</span> <span  style="color: gray;"> 2018/02/15(木) 21:06:50.15 ID:XN8OShqr0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;164</span> <br /> うちの病院のSEさんは残業100時間越えだわ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">176: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(広西チワン族自治区) [JP]</span> <span  style="color: gray;"> 2018/02/15(木) 21:13:57.97 ID:7iz7ddgtO</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 財閥系グループの小さい会社 <br /> 知り合いの女で一般職やってるのが何人かいるけど、どの会社も楽そう <br /> 総合職は知らん、というか本体のジジイが左遷されて来るのが多いみたいだからプロパーはあまりいないのかも </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">177: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(庭) [JP]</span> <span  style="color: gray;"> 2018/02/15(木) 21:14:39.55 ID:Y9RSjQkJ0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 大企業メーカー勤務だけどうちの代理店は楽だな <br /> 営業とはいっても黙ってても注文くるしトラブルは全てメーカーにぶん投げ <br /> 創業者がすごい人だったらしいけど二代目以降はブローカーになった </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">184: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(茸) [GB]</span> <span  style="color: gray;"> 2018/02/15(木) 21:30:30.35 ID:7WJruxQH0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 地方独法 <br /> 元公立病院の、経営系事務方 <br />  <br /> まじぬるい <br /> そして待遇は良い <br /> 定時あがり <br /> 面倒なのは全部委託 <br /> 年休全消化あたりまえ。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">188: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(家) [GB]</span> <span  style="color: gray;"> 2018/02/15(木) 21:40:23.10 ID:g0SNzm9c0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 地方公務員→中小製造→大手製造と来ましたよ。 <br /> 拘束時間が短いのは公務員。でも同僚は人間性が粒揃いのクソ揃いで精神蝕まれる。 <br /> 中小は職責が楽だけど、吹けば飛ぶ経営状態でボーナス無しも常態。 <br /> 大手はプロセスが色々煩雑なのと拘束時間長い。 <br /> 青い鳥は中々いないもんだねぇ。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">198: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(兵庫県) [ﾆﾀﾞ]</span> <span  style="color: gray;"> 2018/02/15(木) 21:53:38.12 ID:u6xlk6Fw0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 若いうちにあんまり楽な職場に漬かり過ぎると <br /> 潰しが効かなくなるぞ。 <br /> ほどほどにブラックな企業も経験しておいたほうが良い。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">231: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(新疆ウイグル自治区) [KR]</span> <span  style="color: gray;"> 2018/02/15(木) 23:32:40.32 ID:SNxnajVF0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;198</span> <br /> その通り <br /> 20代30代のうちから楽だと、人は馬鹿になる </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">204: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(大阪府) [CN]</span> <span  style="color: gray;"> 2018/02/15(木) 22:11:44.13 ID:eIDSydsE0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 一部上場物流業、重量物専門のバイトだけど今年から時給2800円に上がったよ <br /> 完全週休二日制、土日祝出勤は全部残業扱い、平日仕事無くて休みだったりその日の仕事が1時間で仕事終わろうが一日最低6時間保障 <br /> 有給もあるし、一月の残業上限40時間までだけど本人が希望する場合のみ年6回まで80時間までいける <br /> けど実際はそれ以上も可、稼ぎたい奴は月250時間とか残業してる奴までいるし <br />  <br /> 今日も7時に出勤して明日の道具の準備だけして9時には家に帰って来たわ、これだけで日当16800円 <br /> 明日は病院にMRI入れに行くから仕事時間長いけどその分日当3万円以上は確実 <br /> バイトでこれだけ稼げるのになぜみんな責任だけ重く圧し掛かる正社員になりたがるのか理解に苦しむわ <br /> まぁボーナスが無いんだけね </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">217: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(茨城県) [US]</span> <span  style="color: gray;"> 2018/02/15(木) 22:58:20.14 ID:giubBttM0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;204</span> <br /> からだ壊したら後が無いからだろ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">218: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(埼玉県) [CH]</span> <span  style="color: gray;"> 2018/02/15(木) 22:59:42.49 ID:J+C9fMvE0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 工場ええよ。 <br /> 化学プラントとかはかなりおすすめ。 <br /> 夜勤あり、3交代のなら、大卒総合職が嫌になるほど給料貰えるで。 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">230: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(新疆ウイグル自治区) [KR]</span> <span  style="color: gray;"> 2018/02/15(木) 23:30:39.59 ID:SNxnajVF0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;218</span> <br /> その夜勤が一番大変なんだろ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">342: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(catv?) [RU]</span> <span  style="color: gray;"> 2018/02/16(金) 14:53:14.50 ID:YiVwCrMb0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;218</span> <br /> ワイの弟は化学プラントで3交代制だが、その中でも夜間2チームに別れて4時間交代で仮眠してるから楽だってw </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">260: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(庭) [VN]</span> <span  style="color: gray;"> 2018/02/16(金) 01:22:49.22 ID:69ZK6Dgn0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> コンサル業を手伝いながら、色々な会社を見てきた俺からみると <br /> 「設立30年以上&amp;上場を目指している会社」 <br /> この二つの条件を満たしているところはホワイト企業が多いと思った </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">292: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(やわらか銀行) [US]</span> <span  style="color: gray;"> 2018/02/16(金) 06:53:47.68 ID:4cXXtea60</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 可愛い幼児と遊んでるだけで金がもらえる保育業界に来いよ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">295: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(catv?) [ﾆﾀﾞ]</span> <span  style="color: gray;"> 2018/02/16(金) 07:05:27.47 ID:ivJwKukJ0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;292</span> <br /> 捕まるからイヤ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">299: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(庭) [US]</span> <span  style="color: gray;"> 2018/02/16(金) 07:58:42.97 ID:pDT6Vhij0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;295</span> <br /> 素直でよろしい </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">296: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(大阪府) [US]</span> <span  style="color: gray;"> 2018/02/16(金) 07:26:56.53 ID:A1GOZ3c80</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> ナマポが最強やろｗｗｗ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">308: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(SB-iPhone) [GT]</span> <span  style="color: gray;"> 2018/02/16(金) 08:50:34.72 ID:hJDnxyKj0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 財団か社団の事務だろ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">313: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(禿) [FR]</span> <span  style="color: gray;"> 2018/02/16(金) 09:37:24.51 ID:+sMjU0nn0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;308</span> <br /> 人間関係マウンティング醜悪 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">315: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(空) [JP]</span> <span  style="color: gray;"> 2018/02/16(金) 10:00:50.78 ID:LOBp7arH0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 政府系金融 </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">316: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(茸) [NL]</span> <span  style="color: gray;"> 2018/02/16(金) 10:02:04.83 ID:Pd0tBwQL0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 零細の医療機器が最強 <br /> まず潰れないし給料も高い </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h t_i"><span  style="font-size: 81.25%;">392: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(茸) [US]</span> <span  style="color: gray;"> 2018/02/17(土) 15:24:00.40 ID:vI1PU7D60</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b t_i"> <span  style="color: mediumblue;" class="anchor">&gt;&gt;316</span> <br /> 医療樹は超ブラックだぞ </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">327: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(やわらか銀行) [SG]</span> <span  style="color: gray;"> 2018/02/16(金) 13:06:57.63 ID:Zdbik8wn0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> 意外と知られてないところだと、JRAとかくっそ待遇いいんだよな </div><br />
+<span  style="font-size: 81.25%;"></span><div  class="t_h"><span  style="font-size: 81.25%;">324: <span  style="color: rgb(124, 199, 84);">名無しさん＠涙目です。(公衆電話) [US]</span> <span  style="color: gray;"> 2018/02/16(金) 11:38:15.83 ID:QwOmhpuk0</span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;" class="t_b"> そもそも生涯一社にいるとか苦痛やろ </div><br />
+<br />
+<p  style="color:gray;text-align:right;"><span  style="font-size: 81.25%;">引用元： <a  target="_blank" href="http://hayabusa9.5ch.net/test/read.cgi/news/1518685626/">http://hayabusa9.5ch.net/test/read.cgi/news/1518685626/</a></span></p>
+
+</div>
+                        
+<!-- タグのリスト表示セット -->
+                        </div>
+<br>
+
+
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=2Z8HPD+9K4KFM+34FI+NUES2" alt="">
+                    </div>
+                    <!-- 記事本文 ここまで-->
+
+
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HV7V6" alt="">
+
+
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www26.a8.net/svt/bgt?aid=190821728180&wid=001&eno=01&mid=s00000011866017004000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" alt=""></td>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+3257OY+3Y6M+601S1" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www24.a8.net/svt/bgt?aid=190821728185&wid=001&eno=01&mid=s00000018427001008000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=35LYZK+3257OY+3Y6M+601S1" alt=""></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+
+
+                    <!-- 記事フッター、コメント、ソーシャルボタン -->
+                    <footer class="article-footer">
+                        <div class="article-footer-comment">
+                            
+                                <a href="http://pathtimeblog.com/archives/7243768.html#comments">0コメント</a>
+                            
+                        </div>
+                        <div class="article-social-btn">
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HVFKY" alt="">
+
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/7243768.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/7243768.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="大企業でもなく、公務員でもなく、地味に最強の就職先を教えてやろう 	 - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=%E5%A4%A7%E4%BC%81%E6%A5%AD%E3%81%A7%E3%82%82%E3%81%AA%E3%81%8F%E3%80%81%E5%85%AC%E5%8B%99%E5%93%A1%E3%81%A7%E3%82%82%E3%81%AA%E3%81%8F%E3%80%81%E5%9C%B0%E5%91%B3%E3%81%AB%E6%9C%80%E5%BC%B7%E3%81%AE%E5%B0%B1%E8%81%B7%E5%85%88%E3%82%92%E6%95%99%E3%81%88%E3%81%A6%E3%82%84%E3%82%8D%E3%81%86%20%09%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/7243768.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/7243768.html" data-text="大企業でもなく、公務員でもなく、地味に最強の就職先を教えてやろう 	 - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F7243768.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                        </div>
+                    </footer>
+                    <!-- /記事フッター、コメント、ソーシャルボタン -->
+
+
+                    <!-- カテゴリの最新記事表示 はじまり-->
+                    <div class="article-sub-category">
+                        <div id="ldblog_related_articles_2b3ff139">
+
+<div class="related-articles ldblog_related_articles_2b3ff139" data-category-id="161700" data-article-rows="5">
+<h3>「企業・業界研究」カテゴリの最新記事</h3>
+<ul id="ldblog_related_articles_2b3ff139_161700"></ul>
+</div>
+</div>
+<script type="text/html" id="ldblog_related_articles_2b3ff139_tmpl">
+<% for(var i=0,l=articles.length;i<l;i++) {%><% if(i>=rows) break; %>
+<li><a href="<%=articles[i].permalink%>"><%=articles[i].title%></a></li>
+<% } %>
+</script>
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/related_articles.js?t=20180221"></script>
+<script type="text/javascript">
+(function(){
+RelatedArticles.load('ldblog_related_articles_2b3ff139', '7243768');
+})();
+</script>
+<!-- 関連記事の表示 -->
+                    </div>
+                    <!-- /カテゴリの最新記事表示 ここまで-->
+
+
+
+
+                    <div id="ad2"></div><!-- 広告表示 -->
+
+                    <!-- 記事オプション はじまり-->
+                    <div class="article-option" id="article-options">
+
+                        <!-- コメントエリア　はじまり -->
+                        
+                        <section id="comments">
+                        
+                        <h1 class="comment-form-title">コメントする</h1>
+<div class="article-option" id="comment-form">
+    <form
+      action="https://comment.blogcms.jp/livedoor/shukatu2ch/7243768/post"
+      method="post"
+      name="comment_form"
+          id="comment-form-body"
+      onsubmit="setCommentAuthor(this); return submitOnce(this.button);"
+    >
+    <fieldset>
+        <legend>コメントフォーム</legend>
+    <dl class="comment-form-author">
+        <dt><label for="comment-form-author">名前</label></dt>
+        <dd id="comment-author-form"><input type="text" class="text" id="comment-form-author" name="author" required="required" value="" /></dd>
+    </dl>
+  <dl class="comment-form-body">
+    <dt><label for="comment-form-textarea">コメント</label></dt>
+    <dd>
+      <textarea id="comment-form-textarea" name="body" rows="7" required="required"></textarea>
+      <div id="comment-form-tools">
+        <span class="facemark"><a href="javascript:void(0);" id="emojiLink1" onClick="showEmojiPanel(this.id, 'comment-form-textarea')"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/icon_facemark.png" /></a></span>
+        <span class="rating">
+                    <input type="hidden" name="rating" value="">
+                    <input type="hidden" name="rating_icon" value="star">
+                    <div class="rating-value">
+                        <span id="default-rating-value">評価する</span>
+                        <div class="caret"><span></span></div>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/face/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/face/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/face/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/face/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/face/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/star/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/star/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/star/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/star/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/star/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                    </div>
+                    <div class="rating-icon">
+                        <div data-value="face">顔</div>
+                        <div class="selected" data-value="star">星</div>
+                    </div>
+        </span>
+        <span class="submit"><button type="submit">投稿する</button></span>
+        <span class="memorize"><label for="bake"><input type="checkbox" id="bake" name="cookie" /> 情報を記憶</label></span>
+      </div>
+    </dd>
+  </dl>
+  </fieldset>
+  </form>
+  <script type="text/javascript" src="https://parts.blog.livedoor.jp/js/comment.0.2.js?v=20130430"></script>
+  <script type="text/javascript">
+    loadCommentAuthor(document.comment_form);
+    ldblogComment.init();
+  </script>
+<!-- /#comment-form --></div><!-- コメント投稿フォーム -->
+
+
+                        </section>
+                        
+                        <!-- コメントエリア　ここまで -->
+
+
+                        <!-- トラックバック受け付け　はじまり -->
+                        
+                        <!-- トラックバック受け付け　ここまで -->
+
+                    </div>
+                    <!-- 記事オプション ここまで-->
+
+                </article>
+                <!-- 記事　ここまで -->
+
+
+                <!-- ページ送り はじまり-->
+<!-- Article Pager // -->
+  <div class="pager article-pager-type2">
+    <div class="pager-inner">
+    <div class="article-pager-outer">
+    <ul class="article-pager"><li class="prev"><a href="http://pathtimeblog.com/archives/7243353.html" title="大学院中退ワイの末路ｗｗｗｗｗｗｗｗｗ">&nbsp大学院中退ワイの末路ｗｗｗｗｗｗｗｗｗ</a></li><li class="next both"><a href="http://pathtimeblog.com/archives/7243967.html" title="【速報】俺氏大学中退ニート、親からの仕送り止まる 	">【速報】俺氏大学中退ニート、親からの仕送り止まる 	&nbsp</a></li>    </ul>
+    </div>
+    </div>
+  </div>
+<!-- // Article Pager -->
+
+                <!-- /ページ送り ここまで-->
+
+            </div><!-- /main-column-inner-->
+        </div>
+        <!-- コンテンツの箱の中　真ん中728px ここまで-->
+
+
+        <!-- コンテンツの箱の中　左側200px はじまり-->
+        <aside class="left-container">
+            <div class="left-column-inner">
+            
+
+
+
+<div class="plugin-popular_articles sidewrapper">
+  <div class="sidetitlebody">
+    <div class="sidetitle">人気記事</div>
+  </div>
+  <div class="sidetop"></div>
+  <div class="side">
+
+
+    <div class="popular-articles">
+      <table id="populararticles-472933"></table>
+      <div class="popular-articles-freearea"></div>
+    </div>
+  </div>
+
+  <div class="sidebottom"></div>
+</div>
+
+<script type="text/javascript" language="javascript"><!--
+(function(){
+  var url = 'http://pathtimeblog.com/archives/popular_articles.json'
+         + '?rangetype=custom'
+         + '&from=0'
+         + '&range=13'
+         + '&limit=50'
+         + '&offset=0'
+         ;
+
+  var callback = function(data) {
+    var table = document.getElementById('populararticles-472933');
+    for (i = 0; i < data.articles.length; i++) {
+      var rank = i + 1;
+      var prefix = 'populararticles-472933-'+ rank;
+
+      var row = table.insertRow(-1);
+      var elm1 = row.insertCell(-1);
+      elm1.className = 'populararticles-rank';
+      elm1.innerHTML = '<span><b>' + rank + '</b></span>';
+      var elm2 = row.insertCell(-1);
+      elm2.className = 'populararticles-title';
+      elm2.innerHTML = '<a href="' + data.articles[i].url + '?ref=popular_article&id=7836571-472933">' + data.articles[i].title + '</a>'
+      ;
+
+    }
+  };
+
+  var xhr = (function () {
+      if (window.XMLHttpRequest)
+        return new XMLHttpRequest();
+      else {
+        var msxml = [
+          "Msxml2.ServerXMLHTTP.6.0", "Msxml2.ServerXMLHTTP.5.0", "Msxml2.ServerXMLHTTP.4.0", "Msxml2.ServerXMLHTTP.3.0",
+          "Msxml2.ServerXMLHTTP", "Microsoft.ServerXMLHTTP", "Msxml2.XMLHTTP.6.0", "Msxml2.XMLHTTP.5.0",
+          "Msxml2.XMLHTTP.4.0", "Msxml2.XMLHTTP.3.0", "Msxml2.XMLHTTP", "Microsoft.XMLHTTP"
+        ];
+        for (var i = 0; i<msxml.length; i++ ){
+          try {
+            return new ActiveXObject(msxml[i]);
+          }
+          catch(e) { }
+        }
+        return null;
+      }
+  })();
+    
+  if (!xhr) return;
+  xhr.open('GET', url, true);
+  xhr.onreadystatechange = function () {
+    if (xhr.readyState == 4 && xhr.status == 200) {
+      eval('var ld_popular_articles_json = ' + xhr.responseText);
+      callback(ld_popular_articles_json);
+    }
+  };
+  xhr.send();
+
+})();
+//-->
+</script>
+
+<div class="plugin-recent_articles sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">最新記事</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27108137.html">21卒就活生ワイ、内定辞退でしこたま怒鳴られる</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/10257766.html">ニートって難しい資格取って仕事探そうとするけどさ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839910.html">【学歴フィルター】企業にとっての一流大学とは？【就職偏差値】</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839719.html">ワイニート歴2年、就職して初年度の年収500万円！！！！</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073431.html">あ、面接落ちたなってフラグ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073465.html">【悲報】上級国民大手企業様「下請けに仕事やらせてガッポリ中抜きｗ」→夏ボーナス92万5947円</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27075072.html">ワイ21卒、会社選びを間違ってしまったと後悔する</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027071.html">【悲報】キャリア採用の銀行員ワイ、周囲の人間があまりにも有能すぎてマジでドン引き……………………</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27063977.html">【速報】大学、終わる。　Googleが大卒資格を得られるコースを提供へ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027029.html">教師「Ｆ欄ＯＫです、公務員です、毎日定時で帰れます、年収700万です」←こいつが馬鹿にされる理由ｗ</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-recent_articles -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「A」設定のブログパーツ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　左側200px ここまで-->
+
+
+        <!-- コンテンツの箱の中　右側200px はじまり-->
+        <aside class="right-container">
+            <div class="right-column-inner">
+            
+
+
+
+<div class="plugin-categorize sidewrapper" id="plugin-categorize-457691">
+    <div class="sidetitlebody">
+        <div class="sidetitle">カテゴリー</div>
+    </div>
+    <div class="sidetop"></div>
+    <div class="side">
+
+
+      
+
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160301.html">就活準備 (243)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161699.html">自己分析 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161700.html">企業・業界研究 (66)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155971.html">資格 (39)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155966.html">選考 (254)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155977.html">インターン (23)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155978.html">説明会 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155975.html">ES (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155976.html">SPIなど (7)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155974.html">面接 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155972.html">内定 (222)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160304.html">NNT(無内定) (68)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160302.html">内定後・入社前 (110)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160308.html">アドバイス (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160460.html">入社後 (924)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220065.html">新卒 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220063.html">上司 (95)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_219473.html">社会人生活 (299)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160474.html">ブラック企業 (65)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160303.html">転職 (175)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163214.html">副業 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220667.html">収入 (102)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_299497.html">採用担当 (3)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_318465.html">第二新卒 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161711.html">学生生活 (46)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163247.html">浪人・留年 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155967.html">学歴 (119)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_223545.html">ニート (38)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155969.html">業界別 (314)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156035.html">金融 (34)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156099.html">建築・不動産 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160357.html">物流・運送 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160358.html">IT・メディア (55)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160359.html">エネルギー・資源 (1)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160310.html">自動車・機械 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160360.html">食品・小売 (14)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160311.html">公務員・準公務員 (89)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160356.html">サービス (21)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160473.html">その他 (42)</a>
+          
+        </div>
+        
+    
+        
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160476.html">その他 (472)</a>
+          
+        </div>
+        
+    
+    
+
+    </div>    
+    <div class="sidebottom"></div>
+</div><!-- // plugin-categorize -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+<a href="//blog.with2.net/link/?1955545"><img src="https://blog.with2.net/img/banner/banner_21.gif" title="人気ブログランキング"></a><br><a href="//blog.with2.net/link/?1955545" style="font-size: 0.8em;">人気ブログランキング</a>
+
+<div class="plugin-link sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">リンク集</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://0matome.com/" target="_blank">おまとめ</a></div>
+
+<div class="sidebody"><a href="http://2chnavi.net/allentries/?threshold=0" target="_blank">2chnavi</a></div>
+
+<div class="sidebody"><a href="http://http://iwashi.biz/" target="_blank">いわしアンテナ &gt;°))))彡</a></div>
+
+<div class="sidebody"><a href="http://2ch-2.net/" target="_blank"> つーアンテナ(*ﾟ∀ﾟ)</a></div>
+
+<div class="sidebody"><a href="https://ii-antenna.net/?about" target="_blank">いーあんてな(#ﾟｗﾟ)</a></div>
+
+<div class="sidebody"><a href="https://2ch-mi.net/" target="_blank">みーアンテナ（´∀｀）</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-link -->
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">検索</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="https://cse.google.com/cse.js?cx=014565878756483497884:urusxdcjffe"></script>
+<div class="gcse-search"></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「B」設定のブログパーツ表示 -->
+            
+<!-- LDR・RSSリンクとブログのロゴ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　右側200px ここまで-->
+
+        <!-- このページのトップヘ　はじまり -->
+        <p class="to-pagetop"><a href="#"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/to_pagetop.png" width="70" height="70" alt="このページのトップヘ" /></a></p>
+        <!-- このページのトップヘ ここまで -->
+
+    </div>
+    <!-- コンテンツ全体 ここまで-->
+
+    <!-- ブログのフッター はじまり-->
+    <footer id="blog-footer">
+    <!-- Blog Common Footer // --><div id="footer"><p>Powered by <a href="http://blog.livedoor.com/" title="ライブドアブログ">ライブドアブログ</a></p></div><!-- // Blog Common Footer --><!-- 共通フッター表示 -->
+    </footer>
+    <!-- /ブログのフッター ここまで-->
+
+</div>
+<!-- コンテンツエリア ここまで-->
+
+
+<!-- Add Body Tag // --><script type="text/javascript">
+(function(){
+  var traq = document.createElement('script'); traq.type = 'text/javascript'; traq.async = true;
+  traq.src = 'https://t.blog.livedoor.jp/u.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(traq, s);
+})();
+</script>
+<noscript>
+<img src="https://t.blog.livedoor.jp/u.gif" alt="traq">
+</noscript>
+<!-- // Add Body Tag -->
+
+<script>
+(function($) {
+  var cookieName = 'livedoor-blog-gdpr-agreed';
+  $(document).ready(function() {
+    if (navigator.userAgent.match(/https?:\/\//)) {
+      // UA に http:// or https:// があればスルー
+      return;
+    }
+
+    var agreed = document.cookie.indexOf(cookieName) >= 0;
+    if (agreed) {
+      // 同意済み Cookie があればスルー
+      return;
+    }
+
+    var banner = $('<div>');
+    banner.attr('id', 'gdpr-banner');
+    var label = $('<p>');
+    label.html('\
+      ライブドアブログでは広告のパーソナライズや効果測定のためクッキー(cookie)を使用しています。<br>\
+      このバナーを閉じるか閲覧を継続することでクッキーの使用を承認いただいたものとさせていただきます。<br>\
+      また、お客様は当社パートナー企業における所定の手続きにより、クッキーの使用を管理することもできます。<br>\
+      詳細は<a href="http://www.livedoor.com/rules/" target="_blank" style="color:#023780;text-decoration:underline;">ライブドア利用規約</a>をご確認ください。\
+    ');
+    banner.append(label);
+
+    var closeButton = $('<button>');
+    closeButton.attr('type', 'button');
+    closeButton.html('閉じる');
+    closeButton.on('click', function() {
+      $('#gdpr-banner').hide();
+      document.cookie = cookieName + '="1";expires=Tue, 31-Dec-2037 00:00:00 GMT;path=/;';
+    });
+    banner.append(closeButton);
+
+    banner.css({
+      'position': 'fixed',
+      'left': '0',
+      'right': '0',
+      'bottom': '0',
+      'background': '#dcdcdc',
+      'color': '#000',
+      'padding': '20px',
+      'text-align': 'center',
+      'box-shadow': '0 -2px 2px rgba(102, 102, 102, 0.86)',
+      'z-index': '2147483647',
+    });
+    label.css({
+      'display': 'inline-block',
+      'text-align': 'left',
+      'font-size': '14px',
+      'color': '#000',
+      'vertical-align': 'middle',
+      'line-height': '1.5',
+    });
+    closeButton.css({
+      'display': 'inline-block',
+      'color': '#fff',
+      'border': 'none',
+      'font-size': '14px',
+      'padding': '4px 40px',
+      'margin-left': '40px',
+      'background': '#535353',
+      'vertical-align': 'middle',
+    });
+
+    var script = document.createElement('script');
+    script.type = "text/javascript";
+    script.src = "https://ipcheck.blogsys.jp/check.js?t=" + Date.now();
+    script.onerror = function() {
+      $('body').append(banner);
+    };
+    document.body.appendChild(script);
+  });
+})(jQuery);
+</script>
+</body>
+</html>

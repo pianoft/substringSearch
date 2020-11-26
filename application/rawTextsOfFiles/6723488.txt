@@ -1,0 +1,1708 @@
+<!DOCTYPE html>
+<html lang="ja" itemscope itemtype="http://schema.org/Blog">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=1190">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" /><link rel="shortcut icon" type="image/vnd.microsoft.icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/favicon.ico" /><link rel="icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/3ab45ab0.jpg" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/template.css?v=20190826" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/heart.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/icon.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="http://pathtimeblog.com/site.css?_=20190831163247" type="text/css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://pathtimeblog.com/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://pathtimeblog.com/atom.xml" /><link rel="canonical" href="http://pathtimeblog.com/archives/6723488.html" /><link rel="openid.server" href="http://auth.livedoor.com/openid/server" /><link rel="openid.delegate" href="http://profile.livedoor.com/shukatu2ch/" />
+<link rel="mixi-check-alternate" media="mixi-device-mobile" type="text/html" href="http://blog.m.livedoor.jp/shukatu2ch/article/6723488" />
+<link rel="mixi-check-alternate" media="mixi-device-smartphone" type="text/html" href="http://pathtimeblog.com/archives/6723488.html" />
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/jquery-1.11.1.min.js"></script>
+
+<meta name="description" content="1: 名無しさん＠おーぷん  2018/01/19(金)20:02:20 ID:5Sx
+ 7:00-8:00準備8:00-10:00移動→自己prやらの読み返し、志望動機構成、持ち駒増やす作業10:00-12:00説明会12:00-13:00飯13:00-15:00説明会15:00-17:00移動→自己prやらの読み返し、志望動機構成、持ち駒増やす作業17" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="【明大法の転売くん】就活生ワイの1日マジでつまんない… : 2ch就活まとめ" />
+<meta property="og:description" content="1: 名無しさん＠おーぷん  2018/01/19(金)20:02:20 ID:5Sx 7:00-8:00準備8:00-10:00移動→自己prやらの読み返し、志望動機構成、持ち駒増やす作業10:00-12:00説明会12:00-13:00飯13:00-15:00説明会15:00-17:00移動→自己prやらの読み返し、志望動機構成、持ち駒増やす作業17" />
+<meta property="og:url" content="http://pathtimeblog.com/archives/6723488.html" />
+<meta property="og:site_name" content="2ch就活まとめ" />
+<meta property="og:locale" content="ja_JP" />
+<meta property="og:image" content="https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png" />
+
+<meta name="twitter:site" content="@2chshukatu" />
+<meta name="twitter:title" content="【明大法の転売くん】就活生ワイの1日マジでつまんない… : 2ch就活まとめ" />
+<meta name="twitter:description" content="1: 名無しさん＠おーぷん  2018/01/19(金)20:02:20 ID:5Sx 7:00-8:00準備8:00-10:00移動→自己prやらの読み返し、志望動機構成、持ち駒増やす作業10:00-12:00説明会12:00-13:00飯13:00-15:00説明会15:00-17:00移動→自己prやらの読み返し、志望動機構成、持ち駒増やす作業17" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image:src" content="https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png" />
+<link rel="alternate" media="handheld" type="application/xhtml+xml" href="http://blog.m.livedoor.jp/shukatu2ch/" />
+
+<title>【明大法の転売くん】就活生ワイの1日マジでつまんない… : 2ch就活まとめ</title>
+<script src="https://parts.blog.livedoor.jp/js/emoji.js"></script>
+<script src="https://parts.blog.livedoor.jp/js/misc.js?v=20190710"></script>
+<!--[if lt IE 9]>
+<script src="https://parts.blog.livedoor.jp/js/html5.js"></script>
+<![endif]-->
+<script src="https://parts.blog.livedoor.jp/js/usr/import.js"></script>
+<script>
+$(function(){
+  if($('.header-inner01').children('#blog-header-image').length) {
+    $(window).bind('load', function() {
+      var title1 = $('#blog-header-image').height();
+      var title2 = $('.header-menu').height();
+      var headerHeight = title1-title2-15;
+      $("hgroup").css("height", headerHeight);
+    });
+  }
+});
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-3064778048578600",
+          enable_page_level_ads: true
+     });
+</script>
+
+<!-- Add Google Analytics Tag // -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-113178806-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- // Add Google Analytics Tag -->
+
+
+<meta name="referrer" content="always">
+<meta name="referrer" content="unsafe-url">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1638469-45"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+var blogId = '';
+if (blogId) {
+  gtag('config', 'UA-1638469-45', {
+    'custom_map': {'dimension1': 'blog_id'},
+    'blog_id': blogId
+  });
+} else {
+  gtag('config', 'UA-1638469-45');
+}
+</script>
+
+</head>
+<body class="default_2012 page-article layout-2col sidebar-right"><script type="text/javascript"><!--
+var ld_blog_vars = {
+  provider_id : '1',
+  provider_name : 'livedoor',
+  id : '7836571',
+  name : 'shukatu2ch',
+  charset : 'utf8',
+  url : 'http://pathtimeblog.com/',
+  title : '2ch就活まとめ',
+  blog_design: {
+      version: 1
+  },
+  blog_category: {
+    id: '243',
+    permalink: 'https://blog.livedoor.com/category/243/',
+    name: 'まとめ(総合) > まとめ',
+    is_adult : 0,
+    is_gambling : 0,
+    hierarchy: [{ id: '431', name: 'まとめ(総合)', permalink: 'https://blog.livedoor.com/category/431/' },{ id: '243', name: 'まとめ', permalink: 'https://blog.livedoor.com/category/243/' }]
+  },
+  current_page : {
+    type : 'article',    page : ''
+  },
+  articles : [ {
+       id : '6723488',
+       permalink : 'http://pathtimeblog.com/archives/6723488.html',
+       title : '【明大法の転売くん】就活生ワイの1日マジでつまんない…',
+       categories : [ { id:'160304', name:'NNT(無内定)', permalink:'http://pathtimeblog.com/archives/cat_160304.html' }, { id:'', name:'', permalink:'' } ],
+       date : '2018-01-31 22:30:34'
+}   ]
+};
+//-->
+</script><div id="analyzer_tags" style="display:none">
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/c2.js?v=20191010"></script>
+<script type="text/javascript">blog_counter('shukatu2ch', 7836571, 'http://pathtimeblog.com/')</script>
+</div><script type="text/javascript" src="https://parts.blog.livedoor.jp/js/smartphone.js?v=20200824"></script>
+<script type="text/javascript" src="http://pathtimeblog.com/settings/header.js?v=20190705"></script><script type="text/javascript" src="http://pathtimeblog.com/settings/ad.js"></script>
+<script type="text/javascript">
+var palette_src = 'https://parts.blog.livedoor.jp/img/emoji/3/palette.png';
+if (typeof IMAGE_CACHE == 'object' && IMAGE_CACHE['emoji_palette']) IMAGE_CACHE['emoji_palette'].src = palette_src;
+</script>
+
+<!-- Blog Common Header // -->
+<!-- // Blog Common Header -->
+<!-- 共通ヘッダー表示 -->
+
+<!-- ブログタイトル はじまり-->
+<header id="blog-header">
+
+    <div id="blog-header01">
+
+        <div class="header-inner01 show-image hide-text">
+
+            <hgroup>
+                <!--ブログタイトル　はじまり-->
+                <h1 id="blog-title"><a href="http://pathtimeblog.com/">2ch就活まとめ</a></h1>
+                <!--ブログタイトル　ここまで-->
+                <!--ブログ説明　はじまり-->
+                <h2 id="blog-description">新卒・転職・社会人生活などを含め、就活・就職に関することをまとめてます。</h2>
+                <!--ブログ説明　ここまで-->
+            </hgroup>
+
+            <a href="http://pathtimeblog.com/"><img src="https://resize.blogsys.jp/727db0f9da9f42eb7d26b703338c30b3eef0157c/trim2/0x243_94p_1200x388/http://livedoor.blogimg.jp/shukatu2ch/imgs/0/5/055bbafe.jpg" id="blog-header-image" /></a>
+
+            <div id="blog-header02">
+                <div class="header-inner02">
+                    <ul class="header-menu">
+                        <li><a href="http://pathtimeblog.com/">HOME</a></li><!--メニューを入れてください-->
+                        <li class="ldb_menu-item-url"><a href="http://blog.livedoor.jp/shukatu2ch/archives/6126504.html">ABOUT</a></li><!--メニューを入れてください-->
+                        <li><a href="mailto:shukatumatome@gmail.com">お問い合わせ</a></li><!--メニューを入れてください-->
+                    </ul>
+                    <ul class="header-sarch">
+                        <li><a href="http://twitter.com"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_twitter.png" alt="Twitter" /></a></li><!--Twitter-->
+                        <li><a href="http://pathtimeblog.com/index.rdf"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_rss.png" alt="RSS" /></a></li><!--RSS-->
+                        <li>
+                        <form action="http://pathtimeblog.com/search" method="GET" style="padding:0;margin:0px;">
+                        <input type="TEXT" name="q" class="sf">
+                        <input type="SUBMIT" value="検索" class="sfbtn">
+                        </form>
+                        </li><!--検索窓-->
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</header>
+<!-- /ブログタイトル ここまで-->
+
+
+<!-- コンテンツエリア はじまり-->
+<div id="wrapper">
+
+    <!-- コンテンツ全体 はじまり-->
+    <div id="container">
+
+        <!-- 相互RSS はじまり-->
+        <div class="rss-blogroll">
+
+            <!-- 相互RSSを設置する場合の注意事項
+                コードに含まれる以下のCSSは外して設置してください
+                http://blogroll.livedoor.net/css/default2.css -->
+
+                 <!-- 相互RSSのコード ひとつ目-->
+            <script type="text/javascript">
+            <!--
+                   var blogroll_channel_id = 255242;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード ふたつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 265945;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード みっつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 255442;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href= />
+        </div>
+        <!-- 相互RSS ここまで-->
+
+        <!-- コンテンツの箱の中　真ん中728px はじまり-->
+        <div class="main-container">
+            <div class="main-column-inner">
+<br>
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+<br>
+                <!-- メッセージボード -->
+                 
+
+
+
+                <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://pathtimeblog.com/archives/6723488.html"
+    trackback:ping="http://trackback.blogsys.jp/livedoor/shukatu2ch/6723488"
+    dc:title="【明大法の転売くん】就活生ワイの1日マジでつまんない…"
+    dc:identifier="http://pathtimeblog.com/archives/6723488.html"
+    dc:subject="NNT(無内定)"
+    dc:description="1: 名無しさん＠おーぷん  2018/01/19(金)20:02:20 ID:5Sx 7:00-8:00準備8:00-10:00移動→自己prやらの読み返し、志望動機構成、持ち駒増やす作業10:00-12:00説明会12:00-13:00飯13:00-15:00説明会15:00-17:00移動→自己prやらの読み返し、志望動機構成、持ち駒増やす作業17"
+    dc:creator="shukatu2ch"
+    dc:date="2018-01-31T22:30:34+09:00" />
+</rdf:RDF>
+-->
+<div id="ad_rs" class="ad_rs_b"></div><!-- 記事のトラックバック・オートディスカバリー -->
+
+
+                <!-- 記事 はじまり-->
+                <article class="article first-article" itemscope itemtype="http://schema.org/BlogPosting">
+
+                    <!-- 記事タイトル　記事下の情報　はじまり-->
+                    <header class="article-header">
+
+                        <h1 class="article-title" itemprop="name"><a href="http://pathtimeblog.com/archives/6723488.html" itemprop="url">【明大法の転売くん】就活生ワイの1日マジでつまんない…</a></h1><!-- 記事のタイトル -->
+
+                            <!-- 記事下の記事情報 はじまり-->
+                            <div class="article-header-inner">
+
+                                <!-- 記事情報の上の行 はじまり-->
+                                <div class="article-header-top">
+                                <p class="article-header-date"><time datetime="2018-01-31T22:30:34+09:00" pubdate="pubdate">2018年01月31日</time></p>
+                                
+                                <ul class="article-header-category">
+                                    <li>
+                                        <dl><dt>カテゴリ:</dt><dd class="article-category1"><a href="http://pathtimeblog.com/archives/cat_160304.html">NNT(無内定)</a></dd></dl>
+                                    </li>
+                                </ul>
+                                
+
+                                <!-- 記事の評価アイコン はじまり-->
+                                
+                                <!-- 記事の評価アイコン ここまで-->
+
+                                </div>
+                                <!-- 記事情報の上の行 ここまで-->
+                                <!-- ソーシャルボタン　はじまり -->
+                                <ul class="article-social-btn">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/6723488.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/6723488.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="【明大法の転売くん】就活生ワイの1日マジでつまんない… - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=%E3%80%90%E6%98%8E%E5%A4%A7%E6%B3%95%E3%81%AE%E8%BB%A2%E5%A3%B2%E3%81%8F%E3%82%93%E3%80%91%E5%B0%B1%E6%B4%BB%E7%94%9F%E3%83%AF%E3%82%A4%E3%81%AE1%E6%97%A5%E3%83%9E%E3%82%B8%E3%81%A7%E3%81%A4%E3%81%BE%E3%82%93%E3%81%AA%E3%81%84%E2%80%A6%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/6723488.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/6723488.html" data-text="【明大法の転売くん】就活生ワイの1日マジでつまんない… - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F6723488.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                                </ul>
+                                 <!-- ソーシャルボタン　ここまで -->
+                            </div>
+                            <!-- 記事下の記事情報 ここまで-->
+
+                    </header>
+                    <!-- 記事タイトル　記事下の情報　ここまで-->
+
+
+
+                    <!-- 記事本文 はじまり-->
+                    <div class="article-body">
+                        <div class="article-body-inner">
+<!-- 参加している共通テーマの表示 -->
+                        <span  style="font-size: x-small;"></span><div  class="t_h"><span  style="font-size: x-small;">1: <span  style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span  style="color: gray;"> 2018/01/19(金)20:02:20 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:5Sx</i></span></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;" class="t_b"> 7:00-8:00準備<br />8:00-10:00移動→自己prやらの読み返し、志望動機構成、持ち駒増やす作業<br />10:00-12:00説明会<br />12:00-13:00飯<br />13:00-15:00説明会<br />15:00-17:00移動→自己prやらの読み返し、志望動機構成、持ち駒増やす作業<br />17:00-22:00ゲーセンorパチorサイゼかガストで就活対策<br />24:00睡眠<br /><br />マジでこの生活1年くらい続けてるわ…<br />就活生なのに暇すぎ。<br />何やっても楽しくない。というか何もやる気が起きないわ。<br /><br /> </div><br />
+<!-- Generated by 2chまとめくす (http://2mtmex.com/) --><!-- 本文 --><div class="article-body-more" id="more"><font size="2"><div class="t_h" >2: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)20:03:14 ID:u1q</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 17:00-22:00ゲーセンorパチorサイゼかガストで就活対策<br />24:00睡眠<br /><br /><br />この2時間何やってんの </div><br />
+<font size="2"><div class="t_h t_i" >3: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)20:03:38 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;2</span><br />いやいやwわかるだろ </div><br />
+<font size="2"><div class="t_h t_i" >34: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)20:26:26 ID:u1q</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;3</span><br />はよ寝ろよ </div><br />
+<font size="2"><div class="t_h" >4: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)20:03:58 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> 最近それすら楽しくない。 </div><br />
+<font size="2"><div class="t_h" >5: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)20:03:58 ID:cKa</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;margin-bottom:30px;margin-top:20px;"> 一年も就活してるってやばくね<br />そんなに決まらないのか </div><br />
+<font size="2"><div class="t_h t_i" >6: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)20:04:55 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;5</span><br />やばいよ。正解がマジでわからんのよね。<br />理由づけなのか言い訳なのかわからなくなる </div><br />
+<font size="2"><div class="t_h" >7: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)20:06:02 ID:7NP</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 毎日4時間も事故PRと志望動機検討に費やしてるって<br />無能過ぎ内？ </div><br />
+<font size="2"><div class="t_h t_i" >9: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)20:07:49 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;7</span><br />何が無能なの？<br />自己prとかガクチカ、感動したこと、チームワークで何かやったこと等々等々何回も音読しないと忘れる。<br />さらに、それを音読するのに普通に通しで1時間以上かかる </div><br />
+<font size="2"><div class="t_h" >10: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)20:08:56 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> さらに、自己prとかとか正解がわからないからコロコロ変えて暗記するの大変<br /><br />面接で間違えて前回作成したprを口ばしってパニクって死ぬ </div><br />
+<font size="2"><div class="t_h" >11: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)20:09:23 ID:CK8</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;margin-bottom:30px;margin-top:20px;"> 真面目そうなやつは落とされるぞ </div><br />
+<font size="2"><div class="t_h t_i" >12: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)20:10:11 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;11</span><br />真面目そうとは言われないな<br />むしろ、遊んでそうって言われる。友達いないのに </div><br />
+<font size="2"><div class="t_h" >13: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)20:11:56 ID:7NP</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 自分で無能なとこ書いてんじゃん<br />まさかその上で何が無能なの？って聞いてんの？ </div><br />
+<font size="2"><div class="t_h t_i" >14: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)20:13:08 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;13</span><br />え？無能なことしてる自覚ないんが<br />俺にできるのは、有り余る時間を就活に捧げることぐらいだし。え、 </div><br />
+<font size="2"><div class="t_h t_i" >18: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)20:15:11 ID:7NP</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;14</span><br />ほえぇ……まじか、まじなのか<br /><br />えっまじか </div><br />
+<font size="2"><div class="t_h t_i" >19: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)20:16:26 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;18</span><br />マジだが？<br /><br />就活本に書いてある<br />笑顔やれっていう命令<br />これ経験上間違ってる<br />笑顔になればなるほど落ちる </div><br />
+<font size="2"><div class="t_h" >15: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)20:14:19 ID:48u</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> よし面接しよう。（ちな零細） </div><br />
+<font size="2"><div class="t_h t_i" >17: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)20:15:11 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;15</span><br />身なりは問題ない </div><br />
+<font size="2"><div class="t_h t_i" >30: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)20:23:41 ID:48u</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;17</span><br />いつでもいいよ </div><br />
+<font size="2"><div class="t_h t_i" >32: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)20:25:20 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;30</span><br />俺もいつでもいいよ </div><br />
+<font size="2"><div class="t_h t_i" >33: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)20:25:59 ID:48u</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;32</span><br />んじゃ来週火曜の午前中でどう？ </div><br />
+<font size="2"><div class="t_h t_i" >35: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)20:26:52 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;33</span><br />すまん、いつでもよくなかった<br />来週全て午前午後面接か説明会入ってる<br />土日しか空いてない </div><br />
+<font size="2"><div class="t_h t_i" >36: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)20:27:15 ID:48u</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;35</span><br />土日でもいいよ。（しょせん零細） </div><br />
+<font size="2"><div class="t_h t_i" >37: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)20:27:44 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;36</span><br />零細すら受からんからなワイ。<br />んじゃ、明日は？ </div><br />
+<font size="2"><div class="t_h t_i" >38: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)20:30:49 ID:48u</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;37</span><br />いいよー（ちな某大学に月給22万で求人出しても問い合わせすら無い） </div><br />
+<font size="2"><div class="t_h t_i" >44: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)20:33:45 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;38</span><br />俺の条件<br />・年間120日<br />・勤続年数15以上<br />・3年離職率5%以下<br />・残業40以下<br />・社宅や寮とか…まぁ俺の負担が2割以下のところ<br /><br />これが最低条件 </div><br />
+<font size="2"><div class="t_h t_i" >47: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)20:36:28 ID:48u</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;44</span><br />定時の18：00になったら帰れ！と怒るほどのブラックだが。<br />零細に社宅や寮はないな。（手当て出すか）<br />勤続年数15ってなに？ </div><br />
+<font size="2"><div class="t_h t_i" >48: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)20:37:25 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;47</span><br />平均勤続年数や<br />手当も最低5万ないと蹴るぞ </div><br />
+<font size="2"><div class="t_h t_i" >54: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)20:39:44 ID:48u</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;48</span><br />零細に平均勤続年数とな？社長は40年、わいは24年ｗ<br />新卒で入った超絶ゆとり4年。（うちじゃなかったら半年でいないと思う） </div><br />
+<font size="2"><div class="t_h t_i" >57: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)20:41:54 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;54</span><br />あのさ…社宅すらないのに人くるわけねーだろ </div><br />
+<font size="2"><div class="t_h t_i" >60: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)20:43:21 ID:48u</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;57</span><br />さすが学生脳。もっとも自分の新卒時を思い起こせば理解は出来る。<br />社宅がない会社のほうが多いのだな、実は。 </div><br />
+<font size="2"><div class="t_h t_i" >64: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)20:44:58 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;60</span><br />社宅じゃなくても、好きな家選んで負担2割なんてザラだろ </div><br />
+<font size="2"><div class="t_h t_i" >73: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)20:47:46 ID:48u</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;64</span><br />うちは零細だけど取引先は上場企業何社かあるがザラではないな。<br />でも、君の事じゃないんだけど、借り上げ社宅用意して地方から雇おうかなとも思ってる。 </div><br />
+<font size="2"><div class="t_h t_i" >78: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)20:51:24 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;73</span><br />じゃないと人こないよ。<br />賢い学生はそういうところ見てる<br />評価サイトもせめて1レビューないといかないぞ<br />やらせでもレビュー書くべき </div><br />
+<font size="2"><div class="t_h t_i" >81: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)20:52:28 ID:48u</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;78</span><br />マイナビとかに出してるわけないじゃんｗ </div><br />
+<font size="2"><div class="t_h t_i" >84: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)20:53:10 ID:7NP</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;78</span><br />賢くない学生がみるのはそこなのかﾌﾑﾌﾑ </div><br />
+<font size="2"><div class="t_h t_i" >87: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)20:57:20 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;84</span><br />いや、俺は別に賢くない<br />東大生なら俺の見えない世界が見えてるんだろうなぁ </div><br />
+<font size="2"><div class="t_h" >20: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)20:18:51 ID:MXC</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> やりたい仕事先は確かか？硬い気持ちがあるなら就活も気合い入れられるだろうに </div><br />
+<font size="2"><div class="t_h t_i" >22: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)20:19:48 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;20</span><br />確か。絶対営業。さらに商社。むしろそれ以外は仕事内容よくわからんから自信持って振る舞えない </div><br />
+<font size="2"><div class="t_h t_i" >26: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)20:21:50 ID:MXC</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;22</span><br />ならまだええやん、そこに向かって頑張れや<br />本当に何がしたいか分からん奴が一番やばい </div><br />
+<font size="2"><div class="t_h t_i" >29: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)20:23:36 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;26</span><br />やりたいことが商社だけれども<br />これまた難しいわけよ。<br />福利厚生も最低限揃ってないとまず無理 </div><br />
+<font size="2"><div class="t_h" >21: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)20:19:18 ID:fdI</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> どれぐらい受けた？大手は？ </div><br />
+<font size="2"><div class="t_h t_i" >23: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)20:20:28 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;21</span><br />90社ぐらい<br />大手は基準がわからんが一部上場は5社以下 </div><br />
+<font size="2"><div class="t_h" >24: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)20:21:12 ID:7NP</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 90受けてゼロなのか…<br />いや、まさかね<br />ハゲじゃあるまいし </div><br />
+<font size="2"><div class="t_h t_i" >27: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)20:22:20 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;24</span><br />ふさふさ。毎日ワックスとスプレーでしっかりセットして眉毛もある程度細く髭もがっつり0 </div><br />
+<font size="2"><div class="t_h" >25: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)20:21:38 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> 二部上場が3社くらい<br />ジャスダックが10くらい<br />めいしょう一部が1<br />めいしょう二部が3ぐらい </div><br />
+<font size="2"><div class="t_h" >28: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)20:22:36 ID:yLO</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 1の本当のスケジュール<br /><br />7:00-8:00準備<br />8:00-10:00移動→自己prやらの読み返し、遊び動機構成、持ち駒増やす作業<br />10:00-12:00ソープの梯子<br />12:00-13:00飯<br />13:00-15:00ソープの梯子<br />15:00-17:00移動→自己prやらの読み返し、遊び動機構成、持ち駒増やす作業<br />17:00-22:00ナンパ→カラオケ→でグヘヘ<br />24:00睡眠 </div><br />
+<font size="2"><div class="t_h t_i" >31: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)20:24:54 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;28</span><br />ソープいけるメンタル凄いな<br />いや、就活中にそんな面倒なことするか？って話<br />予約して、わくわくタイム、賢者タイム…<br />無駄な時間過ぎる </div><br />
+<font size="2"><div class="t_h" >39: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)20:31:02 ID:7NP</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> ・いつでもいい(ほとんど空いてない)<br />・土日しか空いてない(休日しか空いてない)<br />・んじゃ明日は？(現在20:30)<br /><br /><br />誰が採用すんのコイツ </div><br />
+<font size="2"><div class="t_h t_i" >41: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)20:31:33 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;39</span><br />いやいや </div><br />
+<font size="2"><div class="t_h" >40: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)20:31:22 ID:u1q</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 採用する人<span style="color:mediumblue;" class="anchor">&gt;&gt;42</span> </div><br />
+<font size="2"><div class="t_h" >42: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)20:31:40 ID:48u</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> はい！ </div><br />
+<font size="2"><div class="t_h t_i" >43: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)20:32:43 ID:7NP</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;42</span><br />どんだけ追い詰められてんだよお前の零細ｗｗｗｗｗｗｗｗ </div><br />
+<font size="2"><div class="t_h t_i" >45: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)20:34:04 ID:48u</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;43</span><br />人がいないと回らないのよ、マジで。２人辞めただけで四苦八苦ｗ </div><br />
+<font size="2"><div class="t_h" >53: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)20:39:28 ID:7NP</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> お前条件出す立場じゃないだろ<br />お前にその条件に見合った価値は無いんだからさ<br />分を弁えなよ<br />不相応な高望みばっかしてるからゴミなんだよ<br />蹴るところないのに蹴るとかダンスでもしたいわけ？誰も見ないよ </div><br />
+<font size="2"><div class="t_h t_i" >55: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)20:40:21 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;53</span><br />？この時期ならフィフティーフィフティーだろw </div><br />
+<font size="2"><div class="t_h" >56: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)20:41:06 ID:48u</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> え、えぇ？ </div><br />
+<font size="2"><div class="t_h" >58: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)20:42:29 ID:8BM</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 仕事なんか何もできないけど条件は出すぜぇ～ </div><br />
+<font size="2"><div class="t_h t_i" >61: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)20:43:56 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;58</span><br />ガチレスすまんが、俺に任せれば会社大きくしてあげられるよ。<br />その辺にいる学生より感情ないし </div><br />
+<font size="2"><div class="t_h" >59: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)20:43:00 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> あとさ…今この時期は俺が選ぶ立場<br />企業はいくらでもあるが人はいないんだよ </div><br />
+<font size="2"><div class="t_h t_i" >63: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)20:44:47 ID:7NP</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;59</span><br />で、いくらでもある人不足の企業からお前はどこか選べたのかな？ </div><br />
+<font size="2"><div class="t_h t_i" >65: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)20:45:42 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;63</span><br />要するに、俺がfランなだけだろ </div><br />
+<font size="2"><div class="t_h" >66: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)20:45:55 ID:u1q</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> やっと気付いたか </div><br />
+<font size="2"><div class="t_h t_i" >72: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)20:47:46 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;66</span><br />ほとんどの奴ら嘘ついてるからな。あいつらバイトのくせに大手受かったとかいってて、腹立つ<br />よくのうのうと嘘つけるなと </div><br />
+<font size="2"><div class="t_h" >67: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)20:46:06 ID:8BM</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 俺に任せてくれれば会社なんか大きくできるけど嘘だから雇われになりたいんだぜぇ～ </div><br />
+<font size="2"><div class="t_h t_i" >68: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)20:46:48 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;67</span><br />いやこれだけはガチ。<br />俺が会社大きくするから、他の従業員は俺のサポートしろって言いたい。 </div><br />
+<font size="2"><div class="t_h" >69: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)20:47:16 ID:8BM</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 自分で稼ぐ器量なんかないから他人の興したビジネスに乗っかって給与という配当で生きていきたいんだぜぇ～ </div><br />
+<font size="2"><div class="t_h t_i" >74: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)20:49:08 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;69</span><br />俺の稼ぎ方と同じじゃん<br />俺はアイデアないからパクりまくって儲ける<br />だから情報をかき集めて勝負するわけよ<br />2番手でも必ず利益は出す<br />また、目立たないようにな<br />これが俺のビジネスモデル<br />博打なんてやらねーぜよ </div><br />
+<font size="2"><div class="t_h t_i" >76: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)20:50:22 ID:48u</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;74</span><br />あのなー　それだったら自分で起業したら？<br />ビジネスモデルは零細とは言えあるのだ。 </div><br />
+<font size="2"><div class="t_h" >75: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)20:50:12 ID:8BM</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;margin-bottom:30px;margin-top:20px;"> 俺はビジネスしたことないけどビジネスモデルを語るんだぜぇ～ </div><br />
+<font size="2"><div class="t_h" >79: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)20:51:51 ID:JOz</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;margin-bottom:30px;margin-top:20px;"> もう解禁なんだっけ？ </div><br />
+<font size="2"><div class="t_h" >80: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)20:52:04 ID:7NP</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 博打なんてやらないけどパチはいくんだぜぇ～<br /><br />情報かき集めて勝負するけど毎日4時間持ち駒増やす作業を1年続けても成果はないんだぜぇ～ </div><br />
+<font size="2"><div class="t_h t_i" >86: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)20:55:58 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;80</span><br />？俺がパチに儲けを求めてるといついった？<br />俺はストレス発散でやってるんだ。<br />げーせんでポーカーやったり音ゲーやったりもしてるがシゲが欲しい。<br /><br />儲けるなら転売で十分。転売やってたからここまでの長期戦に耐えられるわけよ。その辺の学生なら財力尽きて妥協してへっぽこ企業入社してまた転職する未来が見える。<br />俺は先取りして転職するくらいならここで辛抱強く取り組む。どうせ転職するんだし面倒くさいことは先にやっとくんだよ。<br /><br />やっぱり企業選びも資本金大事や。何かあっても資本があれば生きてける </div><br />
+<font size="2"><div class="t_h" >82: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)20:52:37 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> 俺に任せれば、感情なしで利益とってくるぞ<br />普通の奴らは優しさあるが俺にはない<br />AIに人間の知恵があるようなもん </div><br />
+<font size="2"><div class="t_h t_i" >85: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)20:53:34 ID:48u</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;82</span><br />うってつけの仕事あるなー　業界最安値の商品あるし。 </div><br />
+<font size="2"><div class="t_h" >88: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)20:58:11 ID:8BM</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 俺を買ってくれる企業はどこにもないんだぜぇ～ </div><br />
+<font size="2"><div class="t_h t_i" >90: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)20:59:28 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;88</span><br />株と同じやな<br />今カットけば安くてめっちゃ儲けるのに </div><br />
+<font size="2"><div class="t_h" >89: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)20:58:23 ID:JOz</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> また転売君か<br />中堅の運送会社に行ったんと違うのか </div><br />
+<font size="2"><div class="t_h t_i" >92: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)21:01:08 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;89</span><br />いや、ブラックやし蹴るつもり<br />昨日も中堅商社に内定もらったが<br />労働時間見てゴミすぎて蹴るつもり<br /><br />へいきんねんしゅ580のくせに<br />労働時間評価サイトみると22時とかザラって書いてあった。 </div><br />
+<font size="2"><div class="t_h" >93: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:02:04 ID:u1q</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> お前幾ら欲しいの？ </div><br />
+<font size="2"><div class="t_h t_i" >95: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)21:03:27 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;93</span><br />金は別にいいや<br />さっきの条件満たすのが先決<br />内定もらった後よくよく考えて残業40以下の条件満たしてなかった。まぁ知ってたが、なめてた。<br />それくらいいいやって思ってた </div><br />
+<font size="2"><div class="t_h" >94: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:02:16 ID:JOz</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 転売なんて商売ごっこの遊びでしょ？<br />目利きなら転売でセコセコやらずに仮想コインでドーンと増やしてるだろうに<br />今このタイミングで転売とか言ってる奴は目が節穴で商才ないんだろうなあって思う </div><br />
+<font size="2"><div class="t_h t_i" >96: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:04:38 ID:48u</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;94</span><br />大暴落したのになに言ってんの？<br />各国規制かけるから萎むよｗ </div><br />
+<font size="2"><div class="t_h t_i" >97: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)21:05:48 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;94</span><br />今やってるなんて誰が言った？<br />憶測ばっかやな<br />仮想コインは確かにやるべきだとは思う。<br />ただ今やるべきか。<br />まず金に困ってないからやらなかっただけ←確かに意識甘いな。儲けられるならやるべきなのは俺の落ち度。反省してる。<br /><br /><br />ただ、いいわけだが部活とバイトやってたし、将来の社会勉強に力入れてたわけよ。自己投資や。<br />バイトなんてやる必要ないけど、やらないと置いてかれると思ってな。 </div><br />
+<font size="2"><div class="t_h" >98: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)21:06:54 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> あと、転売は確実なんだよね。<br />よっぽどのことが起きなきゃマイナスになることはない。リスク0 </div><br />
+<font size="2"><div class="t_h" >99: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:07:50 ID:JOz</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> バイトの方が儲かってたりしてな </div><br />
+<font size="2"><div class="t_h t_i" >100: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)21:09:27 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;99</span><br />それはないとは思う<br />てのも、バイト代は別の口座に振り込みだが<br />毎月7万くらいだったし<br />てか、金とかどうでもいいから気にしてなかったわ<br />一度もその口座に手つけてないし </div><br />
+<font size="2"><div class="t_h t_i" >103: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:12:16 ID:JOz</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;100</span><br />金眠らせとくとかセンスなくない？ </div><br />
+<font size="2"><div class="t_h t_i" >104: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)21:13:38 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;103</span><br />だから大学時代は金儲けしてなかったからな<br />社会勉強のためにバイトしてたんだから<br /><br />高2から大1までや。あ、チナにロウ </div><br />
+<font size="2"><div class="t_h t_i" >110: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:18:58 ID:u1q</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;104</span><br />2浪で明治法 </div><br />
+<font size="2"><div class="t_h t_i" >114: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)21:20:47 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;110</span><br />転売してたからな<br />勉強とかだるすぎ。なんの意味もない<br />意味あるとすれば、学歴いうだけでビビって怯えて逃げてくやつがいるだけ </div><br />
+<font size="2"><div class="t_h" >101: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:10:29 ID:48u</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> んで、コテ名とするとテンバイヤー。<br />どうしたい？<br />零細を中企業にできる？ </div><br />
+<font size="2"><div class="t_h t_i" >102: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)21:12:08 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;101</span><br />出来る<br />ただ、メーカーとかは無理<br />商社ならイケる<br /><br />まずメーカーの奴らってものが好きなやつらばっかで感情的すぎるだろ？多分<br /><br />お前らが売りたいものなんてどうでもいいって言いたい。儲けるもん作れ！って言いたい </div><br />
+<font size="2"><div class="t_h t_i" >105: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:14:34 ID:48u</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;102</span><br />メーカーと商社ね。結構分かってない。<br />うちは販社。（親会社的なところに２年出向して学んできてもらう。ちな一部上場） </div><br />
+<font size="2"><div class="t_h t_i" >107: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)21:16:08 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;105</span><br />一部上場なら行くから紹介して<br />いくら払えばいい？ </div><br />
+<font size="2"><div class="t_h t_i" >109: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:18:25 ID:48u</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;107</span><br />ワイが一部上場ネタで引っ張ってこようとしてるよね。（事実だが）<br />いくら払えばいい？の意味が分からん </div><br />
+<font size="2"><div class="t_h" >106: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)21:15:18 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> 正直なところ、金って持っててもなんも嬉しくないというか…わかるか？<br /><br />だからソープ行きまくりたいとも思わないし、金儲けの脳になるとマジでつまんないぞ<br /><br />素直に楽しめない。かねないときのほうが楽しかった。金あると何してもつまらん。 </div><br />
+<font size="2"><div class="t_h" >108: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:17:50 ID:JOz</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 俺にやらせりゃもっと上手くやるなんて言うタイプだろうけど機会と権限を得るのもまた実力なんだよな </div><br />
+<font size="2"><div class="t_h t_i" >112: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)21:19:32 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;108</span><br />苦手なことと得意なことってあるやろ？<br />そういうこと </div><br />
+<font size="2"><div class="t_h t_i" >113: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:20:42 ID:JOz</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;112</span><br />それを埋められないならお前は実力を出す機会もなく終わるってだけだよ </div><br />
+<font size="2"><div class="t_h t_i" >115: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)21:21:33 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;113</span><br />だから企業はもったいないなと。<br />俺は10年前のBitcoin </div><br />
+<font size="2"><div class="t_h" >111: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)21:18:59 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> 金あると面倒なこと全て解決できるんだよなぁ<br />ただ、それがつまんないこでもある<br /><br />大学でも講義は友達に代行<br />全く授業でないで大学四年の頃には単位なし<br />金払うからこその信頼できるんだよなぁ </div><br />
+<font size="2"><div class="t_h t_i" >116: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:21:45 ID:48u</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;111</span><br />あ？単なるカスか。<br />零細のワイとは言え借り上げ社宅用意の、カスはいらん。 </div><br />
+<font size="2"><div class="t_h t_i" >119: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)21:23:14 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;116</span><br />それじゃあ無理やな<br />決裂や。商売ってのは無理なときはすぐ引く<br />鉄則な。時間の無駄。バカみたいにおねしゃす！とか<br />意味ない。まぁ状況によるが、今回は明らかに無理な案件 </div><br />
+<font size="2"><div class="t_h t_i" >121: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:24:41 ID:JOz</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;119</span><br />それを就活でガンガン言ってきたらいいぞ<br />面接打ち切り退出とかかましまくれ </div><br />
+<font size="2"><div class="t_h t_i" >126: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)21:27:52 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;121</span><br />最近うちきってるよ<br />ただ、そういう企業はなぜか通る<br />アホなの？<br />適当にやると通るんだよね<br />さるものおわずでいいだろ </div><br />
+<font size="2"><div class="t_h t_i" >130: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:30:12 ID:JOz</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;126</span><br />つまりお前が即切るほど低レベルの企業ならお前を採るけど逆にお前が粘るようなとこは落ちてると<br /><br />何故かも何も当然じゃね？ </div><br />
+<font size="2"><div class="t_h t_i" >133: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)21:31:49 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;130</span><br />それが不可解なことがあってな…<br />規模や待遇その他もろもろこっちの方がいいときのほうが多いのよ。ただ、俺の条件と会わないだけ </div><br />
+<font size="2"><div class="t_h t_i" >134: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:33:03 ID:JOz</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;133</span><br />そんなんも分析できないのかー<br />もっと頭使えよ </div><br />
+<font size="2"><div class="t_h t_i" >137: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)21:33:37 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;134</span><br />明治法 </div><br />
+<font size="2"><div class="t_h t_i" >139: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:34:26 ID:u1q</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;137</span><br />だからなんだよ笑 </div><br />
+<font size="2"><div class="t_h t_i" >127: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:28:13 ID:48u</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;119</span><br />うち零細だけど研修中の人件費は親会社もちなんでな。<br />誰でも採用できるんだ。<br />口だけではない何か見せてくれるんだろ？採用したるわ。（一応一部上場ｗ） </div><br />
+<font size="2"><div class="t_h t_i" >131: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)21:30:33 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;127</span><br />子会社で一部上場なの？ </div><br />
+<font size="2"><div class="t_h t_i" >138: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:34:23 ID:48u</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;131</span><br />テンバイヤーも勉強は必要だね。<br />例えばソフトバンクショップ。全国に2000店。直営は20店くらいかな。<br />このソフトバンクショップ。まぁ零細経営やな。<br />構図はうちと一緒なだけ。 </div><br />
+<font size="2"><div class="t_h t_i" >144: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)21:37:28 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;138</span><br />恥ずかしくないの？<br />娘「とうちゃん！仕事何してるの？」<br />お前「一部上場企業の子会社だよ……なんていうのかな…親の言う通りにするのが仕事。奴隷みたいな感じかな」<br />娘「涙」 </div><br />
+<font size="2"><div class="t_h t_i" >148: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:39:33 ID:48u</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;144</span><br />うむ、それは全然違うからな。<br />本当面接に来てもいいぞ。 </div><br />
+<font size="2"><div class="t_h" >117: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:22:25 ID:JOz</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 学歴ちゃんとしてたら就活もっと楽だったのにな<br />先を見る目がないな </div><br />
+<font size="2"><div class="t_h t_i" >122: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)21:24:55 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;117</span><br />いや結果オーライ<br />元々大学入学できればいいやって能力だった<br />明治でよかったよ。<br />これ以下だと、就職先バイトしかないだろうし。<br />これ以下の大学の友達いるが、大手とか言ってるがバイトのくせに威張りすぎて草はF子 </div><br />
+<font size="2"><div class="t_h t_i" >124: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:26:42 ID:JOz</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;122</span><br />下見て安心しちゃったかー </div><br />
+<font size="2"><div class="t_h t_i" >128: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)21:28:55 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;124</span><br />そうか？たまたまだろ<br />ライバルは東大生。さっきから東大生ってワード多用してるはずだが、目は節穴か？ </div><br />
+<font size="2"><div class="t_h t_i" >132: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:31:31 ID:JOz</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;128</span><br />122に何書いてあるか読んでね<br />てか東大て草 </div><br />
+<font size="2"><div class="t_h t_i" >135: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)21:33:14 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;132</span><br />東大生＝一部上場<br />早慶＝二部<br />マーチ＝ジャスダック<br />それ以下は、バイト<br /><br />ライバルって言っても過言ではないだろう </div><br />
+<font size="2"><div class="t_h t_i" >142: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:36:10 ID:JOz</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;135</span><br />ライバルってのはお互いが好敵手とする同等の相手に言うもんでっせ<br />あっちが認識しようがないもんをライバルなんて言わんよ </div><br />
+<font size="2"><div class="t_h t_i" >149: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)21:39:39 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;142</span><br />どの視点で言ってんの？<br /><br />ビルゲイツからしたら東大もマーチもライバルだろ </div><br />
+<font size="2"><div class="t_h t_i" >151: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:40:13 ID:u1q</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;149</span><br />東大はともかくマーチは知らんと思うぞゲイツは </div><br />
+<font size="2"><div class="t_h t_i" >154: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)21:41:24 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;151</span><br />そんな無能だっけゲイツ<br />ただ、あいつアスペだったよな？ </div><br />
+<font size="2"><div class="t_h t_i" >157: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:42:40 ID:u1q</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;154</span><br />下手な東大生よりずっと上だぞ<br /><br />まぁお前がどうこう憶測できるレベルの人物では無い </div><br />
+<font size="2"><div class="t_h t_i" >159: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)21:44:45 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;157</span><br />確かにものづくりの親としてはな。<br />人間としては下僕だろうな。そっちの才能あって助かったな。<br /><br />で、俺もそう思うわけだ。何かに特化してればいい。あとは誰かが俺をサポートするだけ </div><br />
+<font size="2"><div class="t_h t_i" >165: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:47:43 ID:48u</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;159</span><br />ちょっと共感する。 </div><br />
+<font size="2"><div class="t_h t_i" >168: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)21:48:58 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;165</span><br />そういうのイライラするからやめてくれない？<br />見下してるつもり？優しくして人の弱みに付け込む<br />詐欺師が！ </div><br />
+<font size="2"><div class="t_h t_i" >171: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:50:12 ID:48u</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;168</span><br />見下してはないが、そもそも何に特化できるんだ？ </div><br />
+<font size="2"><div class="t_h t_i" >174: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)21:52:08 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;171</span><br />熱意 </div><br />
+<font size="2"><div class="t_h t_i" >177: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:53:26 ID:u1q</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;174</span><br />アホ </div><br />
+<font size="2"><div class="t_h t_i" >184: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)21:55:14 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;177</span><br />明治法 </div><br />
+<font size="2"><div class="t_h t_i" >156: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:42:00 ID:JOz</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;149</span><br />東大とビルゲイツは何を競うの？ </div><br />
+<font size="2"><div class="t_h t_i" >158: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)21:43:19 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;156</span><br />論理的思考能力ッ </div><br />
+<font size="2"><div class="t_h t_i" >160: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:45:21 ID:JOz</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;158</span><br />なんかこのところオリジナルの論理的思考を語るやつ多いなあ<br />明治の法ではなんて教えてるんだ<br />って講義出とらんのだったか </div><br />
+<font size="2"><div class="t_h t_i" >164: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)21:47:34 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;160</span><br />講義出る意味ないからな。<br />高校でもそうだった<br />授業聞いてなかったが<br />大学は余裕だった<br />偏差値42の高校から大躍進<br />今までこそこそ勉強してたガリ勉どもをごぼう抜き<br />中学の頃の天才と言われていたオール5や4.5の奴らと同じ大学。<br /><br />あいつらも無能だったわけだ。俺が受かる大学だしな </div><br />
+<font size="2"><div class="t_h" >118: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:23:04 ID:Niv</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 面接の練習だけしかしなかったな<br />あとは担当教授の元で研究して、コネ入社だったわ<br />まぁ、そのために教授の使いパシリとか色々やったけど </div><br />
+<font size="2"><div class="t_h" >120: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:23:16 ID:48u</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> １よりね、地方の商業高校卒の子のほうが使える。<br />社宅用意してでも引っ張りたいｗ </div><br />
+<font size="2"><div class="t_h t_i" >123: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)21:26:40 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;120</span><br />商業だからそりゃ商い学んでるからその辺の学生よりはマシだろう。俺も確かにその辺の学生には入るから仕方ないが該当はする。普通の大学生に商業高校はいないからな。ただ、俺単位で見るなら負けるわけがない </div><br />
+<font size="2"><div class="t_h" >125: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:26:58 ID:r2I</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;margin-bottom:30px;margin-top:20px;"> 結果はどうあれそんなことを1年も続けられるのは<br />俺からしたらすごい </div><br />
+<font size="2"><div class="t_h t_i" >129: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)21:29:51 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;125</span><br />そういう皮肉に1番腹立つ<br />何優しさ出しつつ貶してんの？<br /><br />こういう奴らを潰したい<br />夢 </div><br />
+<font size="2"><div class="t_h t_i" >197: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)22:00:14 ID:r2I</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;129</span><br />ちょっとなにいってるかわかんない </div><br />
+<font size="2"><div class="t_h" >136: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:33:25 ID:GGS</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> このご時世で内定0は流石に嘘だろ？<br />確か今年もまた就職率上がって96とか97%ってきいたんだが </div><br />
+<font size="2"><div class="t_h t_i" >140: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)21:35:04 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;136</span><br />何が嘘なのか。<br />東大生って全人口の0.3%くらいだろ？<br />でも別に東大生って珍しくもなんともないじゃん<br /><br />こいつアホか？ </div><br />
+<font size="2"><div class="t_h t_i" >141: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:36:04 ID:48u</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;140</span><br />えーと、すまんが今何年？ </div><br />
+<font size="2"><div class="t_h t_i" >146: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)21:38:08 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;141</span><br />お前論理的思考能力不足状態<br />推測定期 </div><br />
+<font size="2"><div class="t_h t_i" >153: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:40:46 ID:48u</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;146</span><br />言葉足りなかったな。今何年生？ </div><br />
+<font size="2"><div class="t_h t_i" >155: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)21:41:42 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;153</span><br />ヒント:就活生 </div><br />
+<font size="2"><div class="t_h t_i" >161: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:45:34 ID:48u</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;155</span><br />１年以上就活なんでしょ？ </div><br />
+<font size="2"><div class="t_h" >150: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:39:43 ID:JOz</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 論理ってのは一つ一つ積み上げるもんであって飛躍しまくってるもんに論理的思考なんて使えんよ </div><br />
+<font size="2"><div class="t_h t_i" >152: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)21:40:42 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;150</span><br />現実逃避か… </div><br />
+<font size="2"><div class="t_h" >162: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:47:02 ID:u1q</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> しかもマーチ知らない=無能だとよww<br /><br />なんでアジアの辺境の大学の事なんて知ってると思うのかね </div><br />
+<font size="2"><div class="t_h" >166: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:47:56 ID:JOz</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> そんな自信あるならソフトバンク光の傘下企業にでもインターンに行って来てよ </div><br />
+<font size="2"><div class="t_h t_i" >169: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)21:49:49 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;166</span><br />そっち系見てないわ<br />ITは唯一俺の苦手分野 </div><br />
+<font size="2"><div class="t_h" >172: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:50:56 ID:JOz</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> ただの営業やがな<br />てか今の時代にITダメとか致命的な弱点あってワロタ </div><br />
+<font size="2"><div class="t_h t_i" >178: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)21:53:37 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;172</span><br />なんかエクセルワードパワポできないって言ったら<br />全部事務職落とされたから仕方なく営業で探してる<br /><br />そんなにパソコンできるやつ欲しいなら、そういう専門の奴ら採用しろよ </div><br />
+<font size="2"><div class="t_h t_i" >182: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:54:58 ID:JOz</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;178</span><br />唯一とか言ってたけど語学はどうかな？ </div><br />
+<font size="2"><div class="t_h t_i" >189: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)21:57:17 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;182</span><br />体力と腕力は負けない </div><br />
+<font size="2"><div class="t_h t_i" >183: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:55:12 ID:u1q</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;178</span><br />それすらもできんのかよ </div><br />
+<font size="2"><div class="t_h t_i" >192: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)21:58:28 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;183</span><br />習ってないからな<br />何に使ってきたんだよw </div><br />
+<font size="2"><div class="t_h t_i" >185: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:55:17 ID:48u</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;178</span><br />教えてやる。営業に必要なエクセル、パワポを！ </div><br />
+<font size="2"><div class="t_h" >179: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:53:53 ID:48u</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> マァこいつは下手したら人としてやばい領域に入りかねない。<br />しょうがない、雇ってやるから明日面接な？ </div><br />
+<font size="2"><div class="t_h t_i" >187: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)21:56:20 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;179</span><br />お前零細のやつだろ？<br />一部上場やつなら考えるわ<br />まず社名<br />調べてジョブトーク☆3以下なら足切 </div><br />
+<font size="2"><div class="t_h t_i" >193: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:59:22 ID:48u</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;187</span><br />最初から零細と言ってるが。<br />取引先はちょめちょめ●＾＾● </div><br />
+<font size="2"><div class="t_h t_i" >196: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)22:00:13 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;193</span><br />取引先wwwww<br />どこ誇ってんだよww </div><br />
+<font size="2"><div class="t_h t_i" >199: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)22:01:21 ID:48u</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;196</span><br />お前、よくよくいろんな会社見てごらん。取引先は宣伝材料だぞ。 </div><br />
+<font size="2"><div class="t_h t_i" >202: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)22:03:03 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;199</span><br />そうか？どこ見ても大手と取引してるだろって真面目に思う。 </div><br />
+<font size="2"><div class="t_h t_i" >206: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)22:05:16 ID:48u</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;202</span><br />頭悪そうだな。<br />よく自分の発言見返してみろよ？<br />それでも雇ってもいいけどさ。 </div><br />
+<font size="2"><div class="t_h" >186: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:56:06 ID:Ces</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> ワイ新入社員高みの見物 </div><br />
+<font size="2"><div class="t_h t_i" >190: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:57:36 ID:48u</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;186</span><br />そろそろ色々辛いよね。こっちにおいで～ </div><br />
+<font size="2"><div class="t_h t_i" >191: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:58:22 ID:Ces</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;190</span><br />ホワイト企業やしそんな辛くないで </div><br />
+<font size="2"><div class="t_h" >194: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)21:59:27 ID:JOz</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 習わなければわからない<br />大学生と言えどマーチだとこんなもんよ </div><br />
+<font size="2"><div class="t_h t_i" >201: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)22:02:19 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;194</span><br />そんなもんだよ。<br />できるって言ってるやつは自分の言葉に責任を持ってないガキ<br /><br />エフランのやつが「英語できます！」←トエック467とかいう微妙な出来とかそんな感覚 </div><br />
+<font size="2"><div class="t_h t_i" >207: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)22:05:20 ID:JOz</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;201</span><br />明治法「仕事能力に自信あります！」←微妙<br />って言うのを最近どこかで見た </div><br />
+<font size="2"><div class="t_h t_i" >212: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)22:07:31 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;207</span><br />じぁそれ以下の大学は、仕事能力あります！<br />人事「嘘つきはよくないよ」ってことか </div><br />
+<font size="2"><div class="t_h t_i" >216: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)22:10:14 ID:JOz</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;212</span><br />少なくとも新卒風情が知ったふうにの仕事できるなんて言ってたら適当言ってんなと思われるだろうねえ<br />例え東大生言えども<br />言葉に責任持ってない発言だよね </div><br />
+<font size="2"><div class="t_h t_i" >224: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)22:13:36 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;216</span><br />なんだよ……マジでわけわからなくナゥてきた。<br />面接ではこんな強気じゃないし。<br /><br />いつも言葉の前に「わからないですけどー」とか「本当かどうか知りませんが」「詳しくはわかりませんが」これは絶対つけてる<br /><br /><br />心配性だからさ </div><br />
+<font size="2"><div class="t_h t_i" >227: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)22:15:16 ID:JOz</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;224</span><br />発言に責任持てや </div><br />
+<font size="2"><div class="t_h t_i" >231: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)22:16:36 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;227</span><br />どっちやねん！だから正解のない就活苦手なんだよ。<br /><br />高校の推薦だって偏差値44の高校絶対受かる言われたのに落ちたぐらい苦手<br /> </div><br />
+<font size="2"><div class="t_h t_i" >232: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)22:16:54 ID:u1q</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;231</span><br />偏差値44wwwww </div><br />
+<font size="2"><div class="t_h t_i" >235: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)22:18:21 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;232</span><br />ん？商業高校も間接的に見下してんの？ </div><br />
+<font size="2"><div class="t_h t_i" >239: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)22:20:29 ID:u1q</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;235</span><br />そら普通に勉強してりゃ偏差値59くらいは行くし </div><br />
+<font size="2"><div class="t_h t_i" >241: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)22:22:36 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;239</span><br />それはただの天才<br />クラスで隅っこにいるガリ勉だろ </div><br />
+<font size="2"><div class="t_h t_i" >243: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)22:26:05 ID:u1q</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;241</span><br />神格化しすぎなんだよおめーは </div><br />
+<font size="2"><div class="t_h t_i" >245: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)22:28:37 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;243</span><br />これだけは譲れない。<br />マジで神だと思ってた、る<br /><br />普通に偏差値56以上の高校行ったやつは<br />今でも怯える </div><br />
+<font size="2"><div class="t_h" >200: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)22:01:52 ID:JOz</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 就活とかやめてもう起業しようよ<br />きっと儲かるよ </div><br />
+<font size="2"><div class="t_h t_i" >205: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)22:05:00 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;200</span><br />人脈作った方がやりやすいだろ<br />せっかく新卒カードあるんだから<br />しっかり使って少しでもいいところからスタートしたいわけ。別に雑魚企業でもかまわないわけ。<br />スタート地点が違うだけでやること同じだし。 </div><br />
+<font size="2"><div class="t_h t_i" >213: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)22:08:10 ID:JOz</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;205</span><br />社長がマーチで築いた人脈があるじゃん<br />マーチなんて学問なんかより人脈作るために通う価値大学だろうに<br />大学で人脈できないなら就職しても無理だしね </div><br />
+<font size="2"><div class="t_h t_i" >218: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)22:10:47 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;213</span><br />むしろ人脈しか作ってない<br />テストの代行<br />講義の代行<br />講義の情報<br />全て人脈のおかげで授業出ずに卒業できた<br />人脈を活かす人はそれこそいないんじゃないかな？ </div><br />
+<font size="2"><div class="t_h t_i" >221: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)22:12:02 ID:u1q</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;218</span><br />ネタにしてもつまらん </div><br />
+<font size="2"><div class="t_h" >203: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)22:03:33 ID:JOz</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> また下を見ちゃったかー<br />社長そう言うのやめてくださいよ </div><br />
+<font size="2"><div class="t_h t_i" >208: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)22:05:44 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;203</span><br />上ばっか見てたら足元すくわれるぞ </div><br />
+<font size="2"><div class="t_h" >204: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)22:04:03 ID:Hhm</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 19卒だろうに偉いな<br />今の時期からしっかり対策してる </div><br />
+<font size="2"><div class="t_h" >215: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)22:09:38 ID:48u</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> まぁ鍛えてやるからおいで </div><br />
+<font size="2"><div class="t_h t_i" >220: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)22:11:44 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;215</span><br />お前見下してんの？<br />スクワット160だけどいい？ </div><br />
+<font size="2"><div class="t_h t_i" >222: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)22:12:33 ID:48u</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;220</span><br />見下してる。ちゃんとゴルフで100切れるのか？ </div><br />
+<font size="2"><div class="t_h t_i" >226: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)22:14:31 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;222</span><br />いややったことないが、これまでの運動神経からして余裕だろうな。<br /><br />体の動かし方知ってるのは大きい </div><br />
+<font size="2"><div class="t_h t_i" >229: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)22:16:14 ID:48u</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;226</span><br />見せてみろ。絶対違うと思うぞ。<br />でもってゴルフ外交をその辺の中小企業と出来ないのが１． </div><br />
+<font size="2"><div class="t_h t_i" >233: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)22:17:48 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;229</span><br />マジレスするとゴルフとかスポーツ系の方が得意<br /><br />しゃべり苦手だから、スポーツ通せばなんでもいける </div><br />
+<font size="2"><div class="t_h t_i" >234: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)22:18:09 ID:48u</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;233</span><br />んじゃうちに来い </div><br />
+<font size="2"><div class="t_h t_i" >237: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)22:19:49 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;234</span><br />だからお前は零細だろ？<br />零細の企業受けたが、やる気ないやつばっかだったよ。<br /><br />弱気で、陰気、挫折組の顔ぶれ<br />自覚してるだろ？<br /><br />なんで零細の奴らって意識ぶっ飛んでんの？ </div><br />
+<font size="2"><div class="t_h" >219: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)22:10:55 ID:Hhm</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;margin-bottom:30px;margin-top:20px;"> 家族の恥やな </div><br />
+<font size="2"><div class="t_h" >223: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)22:13:06 ID:JOz</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 人脈で出てきたのがお友達の代返とか草 </div><br />
+<font size="2"><div class="t_h t_i" >228: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)22:15:23 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;223</span><br />ん？なら他の奴らはどう人脈生かしたのかな？<br />お前言ってみろよ、おい！<br />どうやって生かした？ </div><br />
+<font size="2"><div class="t_h t_i" >236: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)22:19:16 ID:JOz</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;228</span><br />食堂の席取り代行<br />調味料取りの代行<br />A定食の情報<br />全て人脈のおかげで外で食べずに卒業できた </div><br />
+<font size="2"><div class="t_h t_i" >240: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)22:21:47 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;236</span><br />変わらんやんか…堂々とボケかまされた俺の身にもなれよ。<br />その人脈使って、テスト問題独占して高値で売ったとかかと思ったわ。期待した俺がアホだった。明治法のくせに </div><br />
+<font size="2"><div class="t_h" >230: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)22:16:18 ID:Hhm</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;margin-bottom:30px;margin-top:20px;"> 今年度は諦めて公務員にでもなれば </div><br />
+<font size="2"><div class="t_h" >242: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)22:24:56 ID:JOz</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> 隙きあらば明治法アピールは草 </div><br />
+<font size="2"><div class="t_h t_i" >244: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)22:27:21 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;242</span><br />別に学歴だけじゃないからな<br />サッカー歴10年以上だし、ベンチ100、武道も2段持ち、転売の才能満開、5年前彼女持ち、バイトで強メン、クレペリン2段目突入 </div><br />
+<font size="2"><div class="t_h t_i" >247: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)22:29:23 ID:Hhm</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;244</span><br />でも内定取れてないじゃん </div><br />
+<font size="2"><div class="t_h t_i" >248: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)22:29:37 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;247</span><br />言ってないからな </div><br />
+<font size="2"><div class="t_h" >246: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)22:29:17 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> 卓球←児童館の大会で優勝経験あり。 </div><br />
+<font size="2"><div class="t_h t_i" >249: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)22:30:21 ID:u1q</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;246</span><br />今更子供時代の自慢してもなぁ </div><br />
+<font size="2"><div class="t_h t_i" >250: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)22:31:26 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;249</span><br />現在進行形ならクレペリン2段目突入だわ。<br />お前らじゃ多分無理だろうな。 </div><br />
+<font size="2"><div class="t_h t_i" >253: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)22:37:45 ID:Hhm</span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;250</span><br />でも内定取れてないんでしょ？ </div><br />
+<font size="2"><div class="t_h" >256: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)22:44:53 ID:JOz</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> は？（米軍基地のPUBで乱闘経験あり） </div><br />
+<font size="2"><div class="t_h t_i" >257: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)22:49:45 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;256</span><br />？何が凄いの？<br />おじいちゃんの話だけど、米軍で働いてた </div><br />
+<font size="2"><div class="t_h" >258: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/19(金)22:50:51 ID:u1q</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;margin-bottom:30px;margin-top:20px;"> またそういう嘘をつく </div><br />
+<font size="2"><div class="t_h t_i" >259: <span style="color: rgb(124, 199, 84);">■忍法帖【Lv=20,バブルスライム,tQv】</span> <span style="color: gray;"> 2018/01/19(金)22:53:49 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:5Sx</em></span></font></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;margin-bottom:30px;margin-top:20px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;258</span><br />いやまじ。バイトだけど </div><br />
+<font size="2"><div class="t_h" >260: <span style="color: rgb(124, 199, 84);">名無しさん＠おーぷん</span> <span style="color: gray;"> 2018/01/24(水)22:29:37 ID:nF7</span></font></div>
+<div class="t_b" style="font-weight:bold;font-size:18px;line-height:27px;margin-bottom:30px;margin-top:20px;"> 感情ない奴が商社営業とかできるわけないじゃん<br />商社で残業時間40時間の会社とかあるわけないじゃん<br />中堅商社がこの時期残ってるわけないじゃん </div><br />
+<br>
+<p style="color:gray;text-align:right;"><font size="2">引用元： <a href="http://hayabusa.open2ch.net/test/read.cgi/news4vip/1516359740/" target="_blank">http://hayabusa.open2ch.net/test/read.cgi/news4vip/1516359740/</font></a></p>
+
+</div>
+                        
+<!-- タグのリスト表示セット -->
+                        </div>
+<br>
+
+
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=2Z8HPD+9K4KFM+34FI+NUES2" alt="">
+                    </div>
+                    <!-- 記事本文 ここまで-->
+
+
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HV7V6" alt="">
+
+
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www26.a8.net/svt/bgt?aid=190821728180&wid=001&eno=01&mid=s00000011866017004000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" alt=""></td>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+3257OY+3Y6M+601S1" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www24.a8.net/svt/bgt?aid=190821728185&wid=001&eno=01&mid=s00000018427001008000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=35LYZK+3257OY+3Y6M+601S1" alt=""></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+
+
+                    <!-- 記事フッター、コメント、ソーシャルボタン -->
+                    <footer class="article-footer">
+                        <div class="article-footer-comment">
+                            
+                                <a href="http://pathtimeblog.com/archives/6723488.html#comments">0コメント</a>
+                            
+                        </div>
+                        <div class="article-social-btn">
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HVFKY" alt="">
+
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/6723488.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/6723488.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="【明大法の転売くん】就活生ワイの1日マジでつまんない… - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=%E3%80%90%E6%98%8E%E5%A4%A7%E6%B3%95%E3%81%AE%E8%BB%A2%E5%A3%B2%E3%81%8F%E3%82%93%E3%80%91%E5%B0%B1%E6%B4%BB%E7%94%9F%E3%83%AF%E3%82%A4%E3%81%AE1%E6%97%A5%E3%83%9E%E3%82%B8%E3%81%A7%E3%81%A4%E3%81%BE%E3%82%93%E3%81%AA%E3%81%84%E2%80%A6%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/6723488.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/6723488.html" data-text="【明大法の転売くん】就活生ワイの1日マジでつまんない… - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F6723488.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                        </div>
+                    </footer>
+                    <!-- /記事フッター、コメント、ソーシャルボタン -->
+
+
+                    <!-- カテゴリの最新記事表示 はじまり-->
+                    <div class="article-sub-category">
+                        <div id="ldblog_related_articles_c99b2833">
+
+<div class="related-articles ldblog_related_articles_c99b2833" data-category-id="160304" data-article-rows="5">
+<h3>「NNT(無内定)」カテゴリの最新記事</h3>
+<ul id="ldblog_related_articles_c99b2833_160304"></ul>
+</div>
+</div>
+<script type="text/html" id="ldblog_related_articles_c99b2833_tmpl">
+<% for(var i=0,l=articles.length;i<l;i++) {%><% if(i>=rows) break; %>
+<li><a href="<%=articles[i].permalink%>"><%=articles[i].title%></a></li>
+<% } %>
+</script>
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/related_articles.js?t=20180221"></script>
+<script type="text/javascript">
+(function(){
+RelatedArticles.load('ldblog_related_articles_c99b2833', '6723488');
+})();
+</script>
+<!-- 関連記事の表示 -->
+                    </div>
+                    <!-- /カテゴリの最新記事表示 ここまで-->
+
+
+
+
+                    <div id="ad2"></div><!-- 広告表示 -->
+
+                    <!-- 記事オプション はじまり-->
+                    <div class="article-option" id="article-options">
+
+                        <!-- コメントエリア　はじまり -->
+                        
+                        <section id="comments">
+                        
+                        <h1 class="comment-form-title">コメントする</h1>
+<div class="article-option" id="comment-form">
+    <form
+      action="https://comment.blogcms.jp/livedoor/shukatu2ch/6723488/post"
+      method="post"
+      name="comment_form"
+          id="comment-form-body"
+      onsubmit="setCommentAuthor(this); return submitOnce(this.button);"
+    >
+    <fieldset>
+        <legend>コメントフォーム</legend>
+    <dl class="comment-form-author">
+        <dt><label for="comment-form-author">名前</label></dt>
+        <dd id="comment-author-form"><input type="text" class="text" id="comment-form-author" name="author" required="required" value="" /></dd>
+    </dl>
+  <dl class="comment-form-body">
+    <dt><label for="comment-form-textarea">コメント</label></dt>
+    <dd>
+      <textarea id="comment-form-textarea" name="body" rows="7" required="required"></textarea>
+      <div id="comment-form-tools">
+        <span class="facemark"><a href="javascript:void(0);" id="emojiLink1" onClick="showEmojiPanel(this.id, 'comment-form-textarea')"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/icon_facemark.png" /></a></span>
+        <span class="rating">
+                    <input type="hidden" name="rating" value="">
+                    <input type="hidden" name="rating_icon" value="star">
+                    <div class="rating-value">
+                        <span id="default-rating-value">評価する</span>
+                        <div class="caret"><span></span></div>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/face/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/face/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/face/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/face/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/face/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/star/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/star/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/star/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/star/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/star/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                    </div>
+                    <div class="rating-icon">
+                        <div data-value="face">顔</div>
+                        <div class="selected" data-value="star">星</div>
+                    </div>
+        </span>
+        <span class="submit"><button type="submit">投稿する</button></span>
+        <span class="memorize"><label for="bake"><input type="checkbox" id="bake" name="cookie" /> 情報を記憶</label></span>
+      </div>
+    </dd>
+  </dl>
+  </fieldset>
+  </form>
+  <script type="text/javascript" src="https://parts.blog.livedoor.jp/js/comment.0.2.js?v=20130430"></script>
+  <script type="text/javascript">
+    loadCommentAuthor(document.comment_form);
+    ldblogComment.init();
+  </script>
+<!-- /#comment-form --></div><!-- コメント投稿フォーム -->
+
+
+                        </section>
+                        
+                        <!-- コメントエリア　ここまで -->
+
+
+                        <!-- トラックバック受け付け　はじまり -->
+                        
+                        <!-- トラックバック受け付け　ここまで -->
+
+                    </div>
+                    <!-- 記事オプション ここまで-->
+
+                </article>
+                <!-- 記事　ここまで -->
+
+
+                <!-- ページ送り はじまり-->
+<!-- Article Pager // -->
+  <div class="pager article-pager-type2">
+    <div class="pager-inner">
+    <div class="article-pager-outer">
+    <ul class="article-pager"><li class="prev"><a href="http://pathtimeblog.com/archives/6724243.html" title="ワイ、就活で詰む">&nbspワイ、就活で詰む</a></li><li class="next both"><a href="http://pathtimeblog.com/archives/6740649.html" title="ワイ将中途の新入社員、適応障害と診断されどうにもならない 	">ワイ将中途の新入社員、適応障害と診断されどうにもならない 	&nbsp</a></li>    </ul>
+    </div>
+    </div>
+  </div>
+<!-- // Article Pager -->
+
+                <!-- /ページ送り ここまで-->
+
+            </div><!-- /main-column-inner-->
+        </div>
+        <!-- コンテンツの箱の中　真ん中728px ここまで-->
+
+
+        <!-- コンテンツの箱の中　左側200px はじまり-->
+        <aside class="left-container">
+            <div class="left-column-inner">
+            
+
+
+
+<div class="plugin-popular_articles sidewrapper">
+  <div class="sidetitlebody">
+    <div class="sidetitle">人気記事</div>
+  </div>
+  <div class="sidetop"></div>
+  <div class="side">
+
+
+    <div class="popular-articles">
+      <table id="populararticles-472933"></table>
+      <div class="popular-articles-freearea"></div>
+    </div>
+  </div>
+
+  <div class="sidebottom"></div>
+</div>
+
+<script type="text/javascript" language="javascript"><!--
+(function(){
+  var url = 'http://pathtimeblog.com/archives/popular_articles.json'
+         + '?rangetype=custom'
+         + '&from=0'
+         + '&range=13'
+         + '&limit=50'
+         + '&offset=0'
+         ;
+
+  var callback = function(data) {
+    var table = document.getElementById('populararticles-472933');
+    for (i = 0; i < data.articles.length; i++) {
+      var rank = i + 1;
+      var prefix = 'populararticles-472933-'+ rank;
+
+      var row = table.insertRow(-1);
+      var elm1 = row.insertCell(-1);
+      elm1.className = 'populararticles-rank';
+      elm1.innerHTML = '<span><b>' + rank + '</b></span>';
+      var elm2 = row.insertCell(-1);
+      elm2.className = 'populararticles-title';
+      elm2.innerHTML = '<a href="' + data.articles[i].url + '?ref=popular_article&id=7836571-472933">' + data.articles[i].title + '</a>'
+      ;
+
+    }
+  };
+
+  var xhr = (function () {
+      if (window.XMLHttpRequest)
+        return new XMLHttpRequest();
+      else {
+        var msxml = [
+          "Msxml2.ServerXMLHTTP.6.0", "Msxml2.ServerXMLHTTP.5.0", "Msxml2.ServerXMLHTTP.4.0", "Msxml2.ServerXMLHTTP.3.0",
+          "Msxml2.ServerXMLHTTP", "Microsoft.ServerXMLHTTP", "Msxml2.XMLHTTP.6.0", "Msxml2.XMLHTTP.5.0",
+          "Msxml2.XMLHTTP.4.0", "Msxml2.XMLHTTP.3.0", "Msxml2.XMLHTTP", "Microsoft.XMLHTTP"
+        ];
+        for (var i = 0; i<msxml.length; i++ ){
+          try {
+            return new ActiveXObject(msxml[i]);
+          }
+          catch(e) { }
+        }
+        return null;
+      }
+  })();
+    
+  if (!xhr) return;
+  xhr.open('GET', url, true);
+  xhr.onreadystatechange = function () {
+    if (xhr.readyState == 4 && xhr.status == 200) {
+      eval('var ld_popular_articles_json = ' + xhr.responseText);
+      callback(ld_popular_articles_json);
+    }
+  };
+  xhr.send();
+
+})();
+//-->
+</script>
+
+<div class="plugin-recent_articles sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">最新記事</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27108137.html">21卒就活生ワイ、内定辞退でしこたま怒鳴られる</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/10257766.html">ニートって難しい資格取って仕事探そうとするけどさ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839910.html">【学歴フィルター】企業にとっての一流大学とは？【就職偏差値】</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839719.html">ワイニート歴2年、就職して初年度の年収500万円！！！！</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073431.html">あ、面接落ちたなってフラグ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073465.html">【悲報】上級国民大手企業様「下請けに仕事やらせてガッポリ中抜きｗ」→夏ボーナス92万5947円</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27075072.html">ワイ21卒、会社選びを間違ってしまったと後悔する</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027071.html">【悲報】キャリア採用の銀行員ワイ、周囲の人間があまりにも有能すぎてマジでドン引き……………………</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27063977.html">【速報】大学、終わる。　Googleが大卒資格を得られるコースを提供へ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027029.html">教師「Ｆ欄ＯＫです、公務員です、毎日定時で帰れます、年収700万です」←こいつが馬鹿にされる理由ｗ</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-recent_articles -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「A」設定のブログパーツ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　左側200px ここまで-->
+
+
+        <!-- コンテンツの箱の中　右側200px はじまり-->
+        <aside class="right-container">
+            <div class="right-column-inner">
+            
+
+
+
+<div class="plugin-categorize sidewrapper" id="plugin-categorize-457691">
+    <div class="sidetitlebody">
+        <div class="sidetitle">カテゴリー</div>
+    </div>
+    <div class="sidetop"></div>
+    <div class="side">
+
+
+      
+
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160301.html">就活準備 (243)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161699.html">自己分析 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161700.html">企業・業界研究 (66)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155971.html">資格 (39)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155966.html">選考 (254)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155977.html">インターン (23)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155978.html">説明会 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155975.html">ES (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155976.html">SPIなど (7)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155974.html">面接 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155972.html">内定 (222)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160304.html">NNT(無内定) (68)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160302.html">内定後・入社前 (110)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160308.html">アドバイス (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160460.html">入社後 (924)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220065.html">新卒 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220063.html">上司 (95)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_219473.html">社会人生活 (299)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160474.html">ブラック企業 (65)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160303.html">転職 (175)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163214.html">副業 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220667.html">収入 (102)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_299497.html">採用担当 (3)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_318465.html">第二新卒 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161711.html">学生生活 (46)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163247.html">浪人・留年 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155967.html">学歴 (119)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_223545.html">ニート (38)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155969.html">業界別 (314)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156035.html">金融 (34)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156099.html">建築・不動産 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160357.html">物流・運送 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160358.html">IT・メディア (55)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160359.html">エネルギー・資源 (1)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160310.html">自動車・機械 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160360.html">食品・小売 (14)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160311.html">公務員・準公務員 (89)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160356.html">サービス (21)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160473.html">その他 (42)</a>
+          
+        </div>
+        
+    
+        
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160476.html">その他 (472)</a>
+          
+        </div>
+        
+    
+    
+
+    </div>    
+    <div class="sidebottom"></div>
+</div><!-- // plugin-categorize -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+<a href="//blog.with2.net/link/?1955545"><img src="https://blog.with2.net/img/banner/banner_21.gif" title="人気ブログランキング"></a><br><a href="//blog.with2.net/link/?1955545" style="font-size: 0.8em;">人気ブログランキング</a>
+
+<div class="plugin-link sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">リンク集</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://0matome.com/" target="_blank">おまとめ</a></div>
+
+<div class="sidebody"><a href="http://2chnavi.net/allentries/?threshold=0" target="_blank">2chnavi</a></div>
+
+<div class="sidebody"><a href="http://http://iwashi.biz/" target="_blank">いわしアンテナ &gt;°))))彡</a></div>
+
+<div class="sidebody"><a href="http://2ch-2.net/" target="_blank"> つーアンテナ(*ﾟ∀ﾟ)</a></div>
+
+<div class="sidebody"><a href="https://ii-antenna.net/?about" target="_blank">いーあんてな(#ﾟｗﾟ)</a></div>
+
+<div class="sidebody"><a href="https://2ch-mi.net/" target="_blank">みーアンテナ（´∀｀）</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-link -->
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">検索</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="https://cse.google.com/cse.js?cx=014565878756483497884:urusxdcjffe"></script>
+<div class="gcse-search"></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「B」設定のブログパーツ表示 -->
+            
+<!-- LDR・RSSリンクとブログのロゴ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　右側200px ここまで-->
+
+        <!-- このページのトップヘ　はじまり -->
+        <p class="to-pagetop"><a href="#"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/to_pagetop.png" width="70" height="70" alt="このページのトップヘ" /></a></p>
+        <!-- このページのトップヘ ここまで -->
+
+    </div>
+    <!-- コンテンツ全体 ここまで-->
+
+    <!-- ブログのフッター はじまり-->
+    <footer id="blog-footer">
+    <!-- Blog Common Footer // --><div id="footer"><p>Powered by <a href="http://blog.livedoor.com/" title="ライブドアブログ">ライブドアブログ</a></p></div><!-- // Blog Common Footer --><!-- 共通フッター表示 -->
+    </footer>
+    <!-- /ブログのフッター ここまで-->
+
+</div>
+<!-- コンテンツエリア ここまで-->
+
+
+<!-- Add Body Tag // --><script type="text/javascript">
+(function(){
+  var traq = document.createElement('script'); traq.type = 'text/javascript'; traq.async = true;
+  traq.src = 'https://t.blog.livedoor.jp/u.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(traq, s);
+})();
+</script>
+<noscript>
+<img src="https://t.blog.livedoor.jp/u.gif" alt="traq">
+</noscript>
+<!-- // Add Body Tag -->
+
+<script>
+(function($) {
+  var cookieName = 'livedoor-blog-gdpr-agreed';
+  $(document).ready(function() {
+    if (navigator.userAgent.match(/https?:\/\//)) {
+      // UA に http:// or https:// があればスルー
+      return;
+    }
+
+    var agreed = document.cookie.indexOf(cookieName) >= 0;
+    if (agreed) {
+      // 同意済み Cookie があればスルー
+      return;
+    }
+
+    var banner = $('<div>');
+    banner.attr('id', 'gdpr-banner');
+    var label = $('<p>');
+    label.html('\
+      ライブドアブログでは広告のパーソナライズや効果測定のためクッキー(cookie)を使用しています。<br>\
+      このバナーを閉じるか閲覧を継続することでクッキーの使用を承認いただいたものとさせていただきます。<br>\
+      また、お客様は当社パートナー企業における所定の手続きにより、クッキーの使用を管理することもできます。<br>\
+      詳細は<a href="http://www.livedoor.com/rules/" target="_blank" style="color:#023780;text-decoration:underline;">ライブドア利用規約</a>をご確認ください。\
+    ');
+    banner.append(label);
+
+    var closeButton = $('<button>');
+    closeButton.attr('type', 'button');
+    closeButton.html('閉じる');
+    closeButton.on('click', function() {
+      $('#gdpr-banner').hide();
+      document.cookie = cookieName + '="1";expires=Tue, 31-Dec-2037 00:00:00 GMT;path=/;';
+    });
+    banner.append(closeButton);
+
+    banner.css({
+      'position': 'fixed',
+      'left': '0',
+      'right': '0',
+      'bottom': '0',
+      'background': '#dcdcdc',
+      'color': '#000',
+      'padding': '20px',
+      'text-align': 'center',
+      'box-shadow': '0 -2px 2px rgba(102, 102, 102, 0.86)',
+      'z-index': '2147483647',
+    });
+    label.css({
+      'display': 'inline-block',
+      'text-align': 'left',
+      'font-size': '14px',
+      'color': '#000',
+      'vertical-align': 'middle',
+      'line-height': '1.5',
+    });
+    closeButton.css({
+      'display': 'inline-block',
+      'color': '#fff',
+      'border': 'none',
+      'font-size': '14px',
+      'padding': '4px 40px',
+      'margin-left': '40px',
+      'background': '#535353',
+      'vertical-align': 'middle',
+    });
+
+    var script = document.createElement('script');
+    script.type = "text/javascript";
+    script.src = "https://ipcheck.blogsys.jp/check.js?t=" + Date.now();
+    script.onerror = function() {
+      $('body').append(banner);
+    };
+    document.body.appendChild(script);
+  });
+})(jQuery);
+</script>
+</body>
+</html>

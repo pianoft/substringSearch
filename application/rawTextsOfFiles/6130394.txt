@@ -1,0 +1,2040 @@
+<!DOCTYPE html>
+<html lang="ja" itemscope itemtype="http://schema.org/Blog">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=1190">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" /><link rel="shortcut icon" type="image/vnd.microsoft.icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/favicon.ico" /><link rel="icon" href="https://livedoor.blogimg.jp/shukatu2ch/imgs/3/a/3ab45ab0.jpg" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/template.css?v=20190826" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/heart.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="https://parts.blog.livedoor.jp/css/comment2/icon.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="http://pathtimeblog.com/site.css?_=20190831163247" type="text/css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://pathtimeblog.com/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://pathtimeblog.com/atom.xml" /><link rel="canonical" href="http://pathtimeblog.com/archives/6130394.html" /><link rel="openid.server" href="http://auth.livedoor.com/openid/server" /><link rel="openid.delegate" href="http://profile.livedoor.com/shukatu2ch/" />
+<link rel="mixi-check-alternate" media="mixi-device-mobile" type="text/html" href="http://blog.m.livedoor.jp/shukatu2ch/article/6130394" />
+<link rel="mixi-check-alternate" media="mixi-device-smartphone" type="text/html" href="http://pathtimeblog.com/archives/6130394.html" />
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/jquery-1.11.1.min.js"></script>
+
+<meta name="description" content="引用元：http://tomcat.2ch.sc/test/read.cgi/livejupiter/1515185832/0-1: 風吹けば名無し  2018/01/06(土) 05:57:12.11 ID:b/oYS0D5p
+ ちなIT系や  もう面接すらまともに受けられんわ… 
+" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="ワイ18卒、未だに内定なし 	 : 2ch就活まとめ" />
+<meta property="og:description" content="引用元：http://tomcat.2ch.sc/test/read.cgi/livejupiter/1515185832/0-1: 風吹けば名無し  2018/01/06(土) 05:57:12.11 ID:b/oYS0D5p ちなIT系や  もう面接すらまともに受けられんわ… " />
+<meta property="og:url" content="http://pathtimeblog.com/archives/6130394.html" />
+<meta property="og:site_name" content="2ch就活まとめ" />
+<meta property="og:locale" content="ja_JP" />
+<meta property="og:image" content="https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png" />
+
+<meta name="twitter:site" content="@2chshukatu" />
+<meta name="twitter:title" content="ワイ18卒、未だに内定なし 	 : 2ch就活まとめ" />
+<meta name="twitter:description" content="引用元：http://tomcat.2ch.sc/test/read.cgi/livejupiter/1515185832/0-1: 風吹けば名無し  2018/01/06(土) 05:57:12.11 ID:b/oYS0D5p ちなIT系や  もう面接すらまともに受けられんわ… " />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image:src" content="https://parts.blog.livedoor.jp/img/usr/cmn/ogp_image/livedoor.png" />
+<link rel="alternate" media="handheld" type="application/xhtml+xml" href="http://blog.m.livedoor.jp/shukatu2ch/" />
+
+<title>ワイ18卒、未だに内定なし 	 : 2ch就活まとめ</title>
+<script src="https://parts.blog.livedoor.jp/js/emoji.js"></script>
+<script src="https://parts.blog.livedoor.jp/js/misc.js?v=20190710"></script>
+<!--[if lt IE 9]>
+<script src="https://parts.blog.livedoor.jp/js/html5.js"></script>
+<![endif]-->
+<script src="https://parts.blog.livedoor.jp/js/usr/import.js"></script>
+<script>
+$(function(){
+  if($('.header-inner01').children('#blog-header-image').length) {
+    $(window).bind('load', function() {
+      var title1 = $('#blog-header-image').height();
+      var title2 = $('.header-menu').height();
+      var headerHeight = title1-title2-15;
+      $("hgroup").css("height", headerHeight);
+    });
+  }
+});
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-3064778048578600",
+          enable_page_level_ads: true
+     });
+</script>
+
+<!-- Add Google Analytics Tag // -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-113178806-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- // Add Google Analytics Tag -->
+
+
+<meta name="referrer" content="always">
+<meta name="referrer" content="unsafe-url">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1638469-45"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+var blogId = '';
+if (blogId) {
+  gtag('config', 'UA-1638469-45', {
+    'custom_map': {'dimension1': 'blog_id'},
+    'blog_id': blogId
+  });
+} else {
+  gtag('config', 'UA-1638469-45');
+}
+</script>
+
+</head>
+<body class="default_2012 page-article layout-2col sidebar-right"><script type="text/javascript"><!--
+var ld_blog_vars = {
+  provider_id : '1',
+  provider_name : 'livedoor',
+  id : '7836571',
+  name : 'shukatu2ch',
+  charset : 'utf8',
+  url : 'http://pathtimeblog.com/',
+  title : '2ch就活まとめ',
+  blog_design: {
+      version: 1
+  },
+  blog_category: {
+    id: '243',
+    permalink: 'https://blog.livedoor.com/category/243/',
+    name: 'まとめ(総合) > まとめ',
+    is_adult : 0,
+    is_gambling : 0,
+    hierarchy: [{ id: '431', name: 'まとめ(総合)', permalink: 'https://blog.livedoor.com/category/431/' },{ id: '243', name: 'まとめ', permalink: 'https://blog.livedoor.com/category/243/' }]
+  },
+  current_page : {
+    type : 'article',    page : ''
+  },
+  articles : [ {
+       id : '6130394',
+       permalink : 'http://pathtimeblog.com/archives/6130394.html',
+       title : 'ワイ18卒、未だに内定なし \t',
+       categories : [ { id:'160304', name:'NNT(無内定)', permalink:'http://pathtimeblog.com/archives/cat_160304.html' }, { id:'', name:'', permalink:'' } ],
+       date : '2018-01-06 19:40:30'
+}   ]
+};
+//-->
+</script><div id="analyzer_tags" style="display:none">
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/c2.js?v=20191010"></script>
+<script type="text/javascript">blog_counter('shukatu2ch', 7836571, 'http://pathtimeblog.com/')</script>
+</div><script type="text/javascript" src="https://parts.blog.livedoor.jp/js/smartphone.js?v=20200824"></script>
+<script type="text/javascript" src="http://pathtimeblog.com/settings/header.js?v=20190705"></script><script type="text/javascript" src="http://pathtimeblog.com/settings/ad.js"></script>
+<script type="text/javascript">
+var palette_src = 'https://parts.blog.livedoor.jp/img/emoji/3/palette.png';
+if (typeof IMAGE_CACHE == 'object' && IMAGE_CACHE['emoji_palette']) IMAGE_CACHE['emoji_palette'].src = palette_src;
+</script>
+
+<!-- Blog Common Header // -->
+<!-- // Blog Common Header -->
+<!-- 共通ヘッダー表示 -->
+
+<!-- ブログタイトル はじまり-->
+<header id="blog-header">
+
+    <div id="blog-header01">
+
+        <div class="header-inner01 show-image hide-text">
+
+            <hgroup>
+                <!--ブログタイトル　はじまり-->
+                <h1 id="blog-title"><a href="http://pathtimeblog.com/">2ch就活まとめ</a></h1>
+                <!--ブログタイトル　ここまで-->
+                <!--ブログ説明　はじまり-->
+                <h2 id="blog-description">新卒・転職・社会人生活などを含め、就活・就職に関することをまとめてます。</h2>
+                <!--ブログ説明　ここまで-->
+            </hgroup>
+
+            <a href="http://pathtimeblog.com/"><img src="https://resize.blogsys.jp/727db0f9da9f42eb7d26b703338c30b3eef0157c/trim2/0x243_94p_1200x388/http://livedoor.blogimg.jp/shukatu2ch/imgs/0/5/055bbafe.jpg" id="blog-header-image" /></a>
+
+            <div id="blog-header02">
+                <div class="header-inner02">
+                    <ul class="header-menu">
+                        <li><a href="http://pathtimeblog.com/">HOME</a></li><!--メニューを入れてください-->
+                        <li class="ldb_menu-item-url"><a href="http://blog.livedoor.jp/shukatu2ch/archives/6126504.html">ABOUT</a></li><!--メニューを入れてください-->
+                        <li><a href="mailto:shukatumatome@gmail.com">お問い合わせ</a></li><!--メニューを入れてください-->
+                    </ul>
+                    <ul class="header-sarch">
+                        <li><a href="http://twitter.com"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_twitter.png" alt="Twitter" /></a></li><!--Twitter-->
+                        <li><a href="http://pathtimeblog.com/index.rdf"><img src="https://parts.blog.livedoor.jp/img/usr/ver06_km_matomegray_3c/icon_rss.png" alt="RSS" /></a></li><!--RSS-->
+                        <li>
+                        <form action="http://pathtimeblog.com/search" method="GET" style="padding:0;margin:0px;">
+                        <input type="TEXT" name="q" class="sf">
+                        <input type="SUBMIT" value="検索" class="sfbtn">
+                        </form>
+                        </li><!--検索窓-->
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</header>
+<!-- /ブログタイトル ここまで-->
+
+
+<!-- コンテンツエリア はじまり-->
+<div id="wrapper">
+
+    <!-- コンテンツ全体 はじまり-->
+    <div id="container">
+
+        <!-- 相互RSS はじまり-->
+        <div class="rss-blogroll">
+
+            <!-- 相互RSSを設置する場合の注意事項
+                コードに含まれる以下のCSSは外して設置してください
+                http://blogroll.livedoor.net/css/default2.css -->
+
+                 <!-- 相互RSSのコード ひとつ目-->
+            <script type="text/javascript">
+            <!--
+                   var blogroll_channel_id = 255242;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード ふたつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 265945;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href=/>
+
+            <!-- 相互RSSのコード みっつ目-->
+            <script type="text/javascript">
+            <!--
+                var blogroll_channel_id = 255442;
+            // -->
+            </script>
+            <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+            <link rel="stylesheet" type="text/css" href= />
+        </div>
+        <!-- 相互RSS ここまで-->
+
+        <!-- コンテンツの箱の中　真ん中728px はじまり-->
+        <div class="main-container">
+            <div class="main-column-inner">
+<br>
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+<td><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300*250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="1226599412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+<br>
+                <!-- メッセージボード -->
+                 
+
+
+
+                <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://pathtimeblog.com/archives/6130394.html"
+    trackback:ping="http://trackback.blogsys.jp/livedoor/shukatu2ch/6130394"
+    dc:title="ワイ18卒、未だに内定なし 	"
+    dc:identifier="http://pathtimeblog.com/archives/6130394.html"
+    dc:subject="NNT(無内定)"
+    dc:description="引用元：http://tomcat.2ch.sc/test/read.cgi/livejupiter/1515185832/0-1: 風吹けば名無し  2018/01/06(土) 05:57:12.11 ID:b/oYS0D5p ちなIT系や  もう面接すらまともに受けられんわ… "
+    dc:creator="shukatu2ch"
+    dc:date="2018-01-06T19:40:30+09:00" />
+</rdf:RDF>
+-->
+<div id="ad_rs" class="ad_rs_b"></div><!-- 記事のトラックバック・オートディスカバリー -->
+
+
+                <!-- 記事 はじまり-->
+                <article class="article first-article" itemscope itemtype="http://schema.org/BlogPosting">
+
+                    <!-- 記事タイトル　記事下の情報　はじまり-->
+                    <header class="article-header">
+
+                        <h1 class="article-title" itemprop="name"><a href="http://pathtimeblog.com/archives/6130394.html" itemprop="url">ワイ18卒、未だに内定なし 	</a></h1><!-- 記事のタイトル -->
+
+                            <!-- 記事下の記事情報 はじまり-->
+                            <div class="article-header-inner">
+
+                                <!-- 記事情報の上の行 はじまり-->
+                                <div class="article-header-top">
+                                <p class="article-header-date"><time datetime="2018-01-06T19:40:30+09:00" pubdate="pubdate">2018年01月06日</time></p>
+                                
+                                <ul class="article-header-category">
+                                    <li>
+                                        <dl><dt>カテゴリ:</dt><dd class="article-category1"><a href="http://pathtimeblog.com/archives/cat_160304.html">NNT(無内定)</a></dd></dl>
+                                    </li>
+                                </ul>
+                                
+
+                                <!-- 記事の評価アイコン はじまり-->
+                                
+                                <!-- 記事の評価アイコン ここまで-->
+
+                                </div>
+                                <!-- 記事情報の上の行 ここまで-->
+                                <!-- ソーシャルボタン　はじまり -->
+                                <ul class="article-social-btn">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/6130394.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/6130394.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="ワイ18卒、未だに内定なし 	 - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=%E3%83%AF%E3%82%A418%E5%8D%92%E3%80%81%E6%9C%AA%E3%81%A0%E3%81%AB%E5%86%85%E5%AE%9A%E3%81%AA%E3%81%97%20%09%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/6130394.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/6130394.html" data-text="ワイ18卒、未だに内定なし 	 - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F6130394.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                                </ul>
+                                 <!-- ソーシャルボタン　ここまで -->
+                            </div>
+                            <!-- 記事下の記事情報 ここまで-->
+
+                    </header>
+                    <!-- 記事タイトル　記事下の情報　ここまで-->
+
+
+
+                    <!-- 記事本文 はじまり-->
+                    <div class="article-body">
+                        <div class="article-body-inner">
+<!-- 参加している共通テーマの表示 -->
+                        <div  class="t_h"><span  style="font-size: x-small; color: rgb(153, 153, 153);">引用元：http://tomcat.2ch.sc/test/read.cgi/livejupiter/1515185832/0-</span></div><div  class="t_h">1: <span  style="font-weight: bold; color: green;">風吹けば名無し</span> <span  style="color: gray;"> 2018/01/06(土) 05:57:12.11 <i  class="specified" style="color: #ff0000; background-color: #dddddd; font-weight: bold;">ID:b/oYS0D5p</i></span></div>
+<div  style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;" class="t_b"> ちなIT系や <br /> もう面接すらまともに受けられんわ… </div><br />
+<!-- Generated by 2chまとめくす (http://2mtmex.com/) --><!-- 本文 --><div class="article-body-more" id="more"><div class="t_h" >2: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 05:57:43.86 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> 19卒の就活が始まってると知り震える… <br /> 18卒はもう終わりやろ </div><br />
+<div class="t_h" >3: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 05:58:00.16 ID:givVs92m0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> なぜ数受けなかったのか </div><br />
+<div class="t_h t_i" >5: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 05:58:36.42 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;3</span> <br /> 受けたで <br /> 多分30は受けたわ </div><br />
+<div class="t_h t_i" >14: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:00:52.36 ID:ZQ+u/2UXa</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;5</span> <br /> 少ないわ <br /> 就職氷河期の無能やが100は越えてたぞ </div><br />
+<div class="t_h t_i" >22: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:02:40.31 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;14</span> <br /> はえ～すごいなあ <br /> ワイも時を戻して面接受けたいわ </div><br />
+<div class="t_h t_i" >75: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:13:53.82 ID:ZQ+u/2UXa</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;22</span> <br /> 甘えんなカス <br /> 今は人材難で就職がすごく有利な時代やぞ </div><br />
+<div class="t_h" >4: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 05:58:03.82 ID:vWdKdMIAd</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 学歴は？ </div><br />
+<div class="t_h t_i" >6: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 05:58:54.12 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;4</span> <br /> Fラン </div><br />
+<div class="t_h" >7: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 05:59:02.17 ID:1xUVAaMq0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 年越してしまったな </div><br />
+<div class="t_h t_i" >11: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:00:07.19 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;7</span> <br /> もう終わりや <br /> ちな9月から面倒になって面接受けてない </div><br />
+<div class="t_h t_i" >16: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:01:10.15 ID:givVs92m0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;11</span> <br /> こりゃ内定でませんわ </div><br />
+<div class="t_h t_i" >20: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:01:44.14 ID:1xUVAaMq0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;11</span> <br /> ワイも内定無いの親にバレて12月に面接したとこ昨日内定もらったで <br /> 気持ちわかるで諦めずに頑張ってや </div><br />
+<div class="t_h" >9: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 05:59:23.75 ID:ZnCEAXcU0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> ITで内定0はねえよニートかアフィカス </div><br />
+<div class="t_h t_i" >13: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:00:38.81 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;9</span> <br /> 面接苦手すぎて草や <br /> 志望動機すらまともに言えないから全落ちやで </div><br />
+<div class="t_h" >10: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 05:59:58.65 ID:givVs92m0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> この時期で30は少すぎる </div><br />
+<div class="t_h" >12: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:00:34.66 ID:+k3LZyqC0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;"> お前の良さがわからん会社なんてどうせ大したことない会社だから気にすんな </div><br />
+<div class="t_h t_i" >15: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:00:58.76 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;12</span> <br /> いや働かないと死ぬんやが </div><br />
+<div class="t_h t_i" >17: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:01:29.54 ID:r+TM7SeA0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;15</span> <br /> ITつっても色々あるやろ <br /> 何系？ </div><br />
+<div class="t_h t_i" >21: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:01:58.82 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;17</span> <br /> ワイは開発目指してたで </div><br />
+<div class="t_h t_i" >24: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:03:25.01 ID:r+TM7SeA0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;21</span> <br /> 聞き方悪かったな <br /> ネットワーク系とかWeb系とかなのか </div><br />
+<div class="t_h t_i" >28: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:04:52.18 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;24</span> <br /> システム開発や </div><br />
+<div class="t_h t_i" >319: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:08:14.36 ID:yWGoUgET0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;28</span> <br /> この返レスみてるだけで無能ってわかるのがすごい </div><br />
+<div class="t_h" >18: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:01:30.22 ID:fmQGihV20</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> もう一年遊べるドン </div><br />
+<div class="t_h" >19: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:01:42.67 ID:ZawoSgmM0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> ワイ医療系18卒 <br /> まだ就活してない </div><br />
+<div class="t_h" >23: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:03:01.96 ID:pTPEIwUx0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> ハロワ行け <br />  <br /> そこではウシジマくんの世界が待ってる </div><br />
+<div class="t_h" >25: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:03:32.39 ID:1xUVAaMq0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;"> 本当18卒は運がいいわ <br /> 氷河期の人には申し訳ない </div><br />
+<div class="t_h t_i" >32: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:05:46.03 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;25</span> <br /> 運が良くてこれとか草生えるわ <br /> ワイは絶対就職むりやん </div><br />
+<div class="t_h" >26: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:04:19.53 ID:cGivMd0Q0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;"> 富士ソフトとかskyとか大量にソルジャー募集してるじゃん </div><br />
+<div class="t_h" >29: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:04:58.55 ID:1xUVAaMq0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#ffa500;"> 大地震で景気悪くなる前に内定もらっとき </div><br />
+<div class="t_h" >30: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:05:26.12 ID:UXbr36b40</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;"> ワイ留年きまったから19卒になるんやが就活準備全くしてへん <br /> 何したらええんや <br /> ちなガチF </div><br />
+<div class="t_h t_i" >36: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:06:28.40 ID:1xUVAaMq0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;30</span> <br /> 1学年下のやつと就活は辛いなあ </div><br />
+<div class="t_h t_i" >50: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:08:53.74 ID:UXbr36b40</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;36</span> <br /> 集団面接とかやと死ぬやろな </div><br />
+<div class="t_h t_i" >63: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:11:53.91 ID:1xUVAaMq0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;50</span> <br /> とりあえず聞かれるのが <br /> 何故留年したのか？だからなあ <br /> プライド捨てんときつそう </div><br />
+<div class="t_h t_i" >72: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:13:29.57 ID:UXbr36b40</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;63</span> <br /> プライド捨てるとかよりいい言い訳がそもそも思い付かん </div><br />
+<div class="t_h t_i" >88: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:16:02.63 ID:1xUVAaMq0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;72</span> <br /> クソみたいな言い訳だがバイトとサークルやってて両立できなかったとかでええんやないの </div><br />
+<div class="t_h t_i" >92: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:16:41.24 ID:UXbr36b40</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;88</span> <br /> ノンバイサーンゴｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ </div><br />
+<div class="t_h t_i" >145: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:24:17.94 ID:1xUVAaMq0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;92</span> <br /> サークルはともかく一回もバイトしたことないんゴ？ </div><br />
+<div class="t_h t_i" >154: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:25:43.79 ID:UXbr36b40</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;145</span> <br /> 試験監督の単発バイトを数回だけやな <br /> 過敏性腸症候群持ちやから苦痛すぎてやめた </div><br />
+<div class="t_h t_i" >163: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:28:02.43 ID:1xUVAaMq0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;154</span> <br /> なるほどねえ <br /> どうせ19卒なら今からバイトしたら？ <br /> 1ヶ月やって辞めるのもええし <br /> 0は100にできんけど1は100にできるんや <br /> 話を盛るしかない </div><br />
+<div class="t_h t_i" >93: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:16:41.25 ID:HEwN4PUJ0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;63</span> <br /> プラ2だが全く聞かれなかったぞ </div><br />
+<div class="t_h t_i" >55: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:10:04.87 ID:S04wsaFe0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;30</span> <br /> 派遣かフリーターでええやん </div><br />
+<div class="t_h t_i" >60: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:11:02.97 ID:UXbr36b40</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;55</span> <br /> ニートなるぐらいならそりゃあな </div><br />
+<div class="t_h" >31: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:05:30.24 ID:ZdVroW5xM</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 周りはどう? </div><br />
+<div class="t_h t_i" >35: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:06:07.89 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;31</span> <br /> 全員決まってるで </div><br />
+<div class="t_h" >33: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:05:55.63 ID:yZKsy0ta0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 新卒逃すと無能は詰みだぞ <br /> 無能でもワンチャンが新卒切符やぞ </div><br />
+<div class="t_h" >34: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:06:00.67 ID:+qWcFrCvM</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> おまいらのいうガチFって宛にならん <br /> どうせニッコマとかだろ </div><br />
+<div class="t_h t_i" >37: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:06:36.09 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;34</span> <br /> ガチFやぞ <br /> 多分名前聞いても分からないレベルや </div><br />
+<div class="t_h t_i" >43: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:07:50.28 ID:UXbr36b40</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;34</span> <br /> 関西やが産近甲龍ですらない </div><br />
+<div class="t_h t_i" >51: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:09:06.33 ID:xJDIuufe0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;43</span> <br /> 摂神追桃ならまだワンチャンあるやろ <br /> それ以下ならお察し </div><br />
+<div class="t_h t_i" >54: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:09:37.10 ID:UXbr36b40</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;51</span> <br /> それ以下やで </div><br />
+<div class="t_h" >38: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:07:09.83 ID:v68Z9kovM</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> IT系ってなんや <br /> SEか？ </div><br />
+<div class="t_h t_i" >42: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:07:42.08 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;38</span> <br /> ワイにSEは無理PGや </div><br />
+<div class="t_h t_i" >49: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:08:32.17 ID:v68Z9kovM</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;42</span> <br /> いや選ばんかったらPGなんてなんぼでもあるやろ？ <br /> 中卒とかちゃうんやろ？ </div><br />
+<div class="t_h t_i" >56: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:10:06.53 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;49</span> <br /> 選ばなかったら地獄が待ってるやん… </div><br />
+<div class="t_h t_i" >62: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:11:27.44 ID:v68Z9kovM</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;56</span> <br /> 新卒やろ？この時期受けれるPGの仕事って正直まともなのあるんか？ <br /> 業界変えたほうがええんちゃうか... </div><br />
+<div class="t_h t_i" >70: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:13:08.56 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;62</span> <br /> まともなのないからもう受ける気してなくて9月から受けてないんやで <br /> まともなところはもう人決まってるからな、今残ってるやつとか誰にも選ばれなかったクソブラックや <br /> 業界変えるにしてもワイには他のスキルがないからきついわ </div><br />
+<div class="t_h t_i" >94: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:16:44.88 ID:evqTEP3vH</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;70</span> <br /> 下のほうのSEとかPGって言うほどスキル求められるか？ <br /> 転職は抜きにして </div><br />
+<div class="t_h t_i" >99: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:17:29.40 ID:mcsqVW7i0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;94</span> <br /> 下の方しか求められないぞ </div><br />
+<div class="t_h t_i" >105: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:18:25.18 ID:evqTEP3vH</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;99</span> <br /> 新卒なら知識なくてもOKのとこ多いやん？ </div><br />
+<div class="t_h t_i" >53: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:09:21.41 ID:z0xN9Lwva</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;42</span> <br /> SEのほうが向いてるかもしれんやろ <br /> 視野を広げたほうがええんちゃうか？ </div><br />
+<div class="t_h" >39: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:07:19.39 ID:9QmEBXHxa</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 就留しろ </div><br />
+<div class="t_h" >40: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:07:20.61 ID:L8r0C8yA0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> fランでシステム開発とか舐めてんのか </div><br />
+<div class="t_h t_i" >46: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:08:04.43 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;40</span> <br /> 舐めてるからこうなってるんだろガイジか？ </div><br />
+<div class="t_h" >41: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:07:26.78 ID:S04wsaFe0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> お前ってホント人としての魅力ないよな <br /> 受からないなら社会にも要らないって言われてるし <br /> なんで生きてるの？ </div><br />
+<div class="t_h" >44: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:07:52.81 ID:9QmEBXHxa</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> IT以外も受けろ </div><br />
+<div class="t_h" >45: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:07:53.16 ID:o2LPjCxIa</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 情報系？ </div><br />
+<div class="t_h" >47: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:08:13.77 ID:eNa6+xJJ0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> そんな奴おるわけないやろ <br /> Fランでも平気で大企業に入れる時代なのに </div><br />
+<div class="t_h" >48: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:08:29.96 ID:1xUVAaMq0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> ワイは7月頃からめんどくさくなって就活やめて11月に親にバレてしぶしぶ再開したわ </div><br />
+<div class="t_h" >52: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:09:15.27 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> 情報系やぞだからIT目指してるんや <br /> IT以外とかもうスーパーの店員くらいしか無理やろ </div><br />
+<div class="t_h" >57: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:10:18.68 ID:eHRL6mvK0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> スーパーの店員は流石に草 <br /> そうなったらわいなら自殺するわ </div><br />
+<div class="t_h t_i" >61: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:11:15.82 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;57</span> <br /> ワイもそれならニートになるわ </div><br />
+<div class="t_h" >58: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:10:37.07 ID:wfU/noKa0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 人手不足やぞ <br /> 選ばななきゃ内定なんてポンポン出るぞ </div><br />
+<div class="t_h t_i" >65: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:11:54.41 ID:UXbr36b40</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;58</span> <br /> 選ぶ以前に就活をまともにこなせん <br /> 面接なんて無理や </div><br />
+<div class="t_h" >59: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:10:48.86 ID:FlsWT1090</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> ワイもない関関同立 </div><br />
+<div class="t_h" >64: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:11:53.91 ID:RJXGe1u6M</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> このご時世にNNTとか化石だろ </div><br />
+<div class="t_h" >66: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:12:24.71 ID:Y/XazJvo0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;"> ワイの大学やと2割の人決まってないで </div><br />
+<div class="t_h" >67: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:12:26.75 ID:C525IVIY0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> ワイ19卒震える </div><br />
+<div class="t_h t_i" >74: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:13:49.00 ID:1xUVAaMq0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;67</span> <br /> マジで後悔するから絶対4月までに内定もらっとけ </div><br />
+<div class="t_h t_i" >82: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:14:43.87 ID:C525IVIY0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;74</span> <br /> 何にも準備してへんから受かる気せーへん </div><br />
+<div class="t_h t_i" >84: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:15:18.54 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;82</span> <br /> がむしゃらに頑張るんやでワイみたいになったら終わりや </div><br />
+<div class="t_h t_i" >104: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:18:03.83 ID:1xUVAaMq0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;82</span> <br /> アホ言えまだ全然間に合うわ <br /> この間に合うの意味を履き違えて12月まで就活やったのがワイなんやけど  <br /> 全力でやれば間に合うってことな </div><br />
+<div class="t_h t_i" >109: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:19:59.37 ID:C525IVIY0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;104</span> <br /> そもそも何やればええのかよくわからんわ <br /> とりあえずマイナビとかに登録して放置しとる状態やし </div><br />
+<div class="t_h t_i" >134: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:22:37.62 ID:1xUVAaMq0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;109</span> <br /> とりあえず自分が興味あるなと思う業界みて探すんやで <br /> 最初は友達と一緒に波乗れるからそこで頑張れ </div><br />
+<div class="t_h" >68: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:12:27.66 ID:URfCi+rS0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> ITでも下のほうは志望動機なんてPC好きですぐらいでも通るぞ <br />  <br /> 君もしかして超絶不細工アンドどもりか？ </div><br />
+<div class="t_h t_i" >78: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:14:07.96 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;68</span> <br /> その通りやで <br /> 志望動機聞かれた瞬間沈黙の時間が30秒は続く <br /> 考えてても頭から抜けるクソガイジがワイや </div><br />
+<div class="t_h" >69: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:12:56.83 ID:givVs92m0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> もうまともな会社なくね </div><br />
+<div class="t_h" >71: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:13:27.02 ID:yZKsy0ta0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 新卒でどこか就職はしろよ <br /> 既卒は地獄＆地獄しか待ってないぞ </div><br />
+<div class="t_h" >73: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:13:44.70 ID:TsIKj/jS0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> ワイは11月くらいに小売で妥協した </div><br />
+<div class="t_h" >76: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:14:05.99 ID:cVwmLGeN0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> ワイも留年したから今年も就活やけど理由思いつかへんわ </div><br />
+<div class="t_h t_i" >86: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:15:36.66 ID:UXbr36b40</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;76</span> <br /> これまで就活してたんやろ？ </div><br />
+<div class="t_h t_i" >96: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:17:08.79 ID:cVwmLGeN0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;86</span> <br /> 一応してたはしてたけど早々に切り上げたからほぼ経験ないわ </div><br />
+<div class="t_h t_i" >101: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:17:35.97 ID:cuiLbEvy0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;76</span> <br /> 適当や適当 <br /> 遊んで単位落としたぐらいでええねん <br /> 相手もプロやから下手な嘘ついたらあかんぞ </div><br />
+<div class="t_h t_i" >115: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:20:22.49 ID:cVwmLGeN0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;101</span> <br /> 自分が納得いく就活ができなかったので留年した的なの言おうと思ってたけど内定もらえへんだヤバいやつと思われるかな <br /> まぁ無能なんやけど </div><br />
+<div class="t_h t_i" >156: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:26:10.16 ID:cuiLbEvy0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;115</span> <br /> それでええやん <br /> 何社か受ければわかると思うがいうほど気にする企業ないで <br /> 仮に落ちるとすれば間違いなく他が原因や </div><br />
+<div class="t_h t_i" >161: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:27:36.76 ID:cVwmLGeN0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;156</span> <br /> サンガツ <br /> 気楽に受けまくることにするで </div><br />
+<div class="t_h t_i" >191: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:32:33.41 ID:cuiLbEvy0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;161</span> <br /> 頑張るんやで <br /> 今からちゃんとやっとったら普通にええとこ見つかるわ </div><br />
+<div class="t_h" >77: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:14:06.42 ID:o2LPjCxIa</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#dc143c;"> 情報系なら富士ソフトいけよ <br /> 他のやつも進めてたけど今年だけであそこソルジャー要員として6、700人とってるぞ <br /> 友達は最終面接で幼稚園のこと聞かれたりしたらしいしガチ害児以外入れるやろ </div><br />
+<div class="t_h t_i" >83: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:15:16.92 ID:URfCi+rS0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;77</span> <br /> ワイ富士ソフト2次で適当なこと言ったら落ちたンゴネェ <br /> まぁ文系やが <br />  <br /> 情報系なら大体受かりそうな雰囲気あった </div><br />
+<div class="t_h t_i" >100: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:17:34.66 ID:o2LPjCxIa</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;83</span> <br /> 営業志望？ <br /> まあ富士ソフトレベルならSEよりかは営業の方が普通にホワイトそう </div><br />
+<div class="t_h t_i" >85: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:15:32.82 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;77</span> <br /> ほんまか？ </div><br />
+<div class="t_h" >79: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:14:31.86 ID:HNqYQIrO0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 適当に勉強して来年公務員でええやろ <br /> 空白期間ほとんど関係ないし </div><br />
+<div class="t_h" >80: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:14:37.81 ID:IvyfAWJqd</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> ワイ中退ニート、高みの見物 </div><br />
+<div class="t_h" >81: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:14:37.88 ID:Y/XazJvo0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> こも時期決まってないとゼミ行きづらそう </div><br />
+<div class="t_h" >87: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:15:42.17 ID:HEwN4PUJ0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 未だに合同説明会とかやってるのな <br /> 面白そうだから行こうかな <br /> 見て見たいわ </div><br />
+<div class="t_h t_i" >91: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:16:34.20 ID:Y/XazJvo0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;87</span> <br /> 行くと人大体決まってないから目が腐っとるで </div><br />
+<div class="t_h t_i" >95: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:17:04.48 ID:HEwN4PUJ0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;91</span> <br /> どんな奴がいるのか見て見たい </div><br />
+<div class="t_h t_i" >102: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:17:49.11 ID:iKr31cGH0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;95</span> <br /> 観察行くとおもろいで <br /> 死んだ魚の眼してる </div><br />
+<div class="t_h t_i" >98: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:17:25.02 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;87</span> <br /> 今やってる合同説明会とか19卒向けやろ </div><br />
+<div class="t_h" >90: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:16:32.81 ID:iKr31cGH0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> ITって今人不足やろ <br /> それでも内定とれんのって余程やぞ <br /> そしてブラックすぎて離職率も半端ない </div><br />
+<div class="t_h t_i" >103: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:17:59.87 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;90</span> <br /> そういうあからさまなクソブラックは避けてるからな <br /> その結果がこれだが </div><br />
+<div class="t_h t_i" >107: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:19:02.42 ID:iKr31cGH0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;103</span> <br /> 頑張れや。後になるほど待遇悪いのしか残らんし </div><br />
+<div class="t_h t_i" >106: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:18:55.32 ID:orQxOWjh0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;97</span> <br /> そういうのってほんまに効くんか？ <br /> ワイコミュ障やからそういうので人に慣れていきたいんやが </div><br />
+<div class="t_h t_i" >110: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:20:05.67 ID:ItnQ4W360</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;106</span> <br /> やめとけやめとけ <br /> 薬に手出さんと自分の手で乗り越えろや </div><br />
+<div class="t_h t_i" >126: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:21:44.54 ID:5ORrtyxr0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;106</span> <br /> コミュ障は治らんで <br /> あがり症の心臓バクバクがおさまるだけ </div><br />
+<div class="t_h t_i" >118: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:20:48.25 ID:5ORrtyxr0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;97</span> <br /> あれ何回か使ったことあるけど明らかに頭の回転遅くなっててアカンわ <br /> なんだかんだ心臓ばくばくで緊張した方が集中力は上がる </div><br />
+<div class="t_h" >108: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:19:33.58 ID:yZKsy0ta0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 新卒で入る会社に失敗か内定なしだと詰み <br /> これ事実だからな <br /> たまに余裕余裕とか言うやつおるが <br /> これはもれなく有能やからな </div><br />
+<div class="t_h" >111: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:20:11.81 ID:orQxOWjh0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> ワイ19卒、志望業界無し <br /> ノルマとかいややし人と会話する仕事は向いてない </div><br />
+<div class="t_h t_i" >120: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:21:09.18 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;111</span> <br /> とりあえず内定だけは取っとくんやで <br /> 後から辞退するのは自由や </div><br />
+<div class="t_h t_i" >138: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:23:03.67 ID:dBS/mamd0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;120</span> <br /> あーそれは勘弁して欲しいな </div><br />
+<div class="t_h t_i" >129: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:22:29.04 ID:Yf3E3YDIa</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;111</span> <br /> 人と会話しない仕事なんて警備くらいしかないやろ </div><br />
+<div class="t_h" >112: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:20:16.27 ID:givVs92m0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;"> itは上に行けば行くほど楽って聞いたことある </div><br />
+<div class="t_h t_i" >121: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:21:38.58 ID:iKr31cGH0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;112</span> <br /> そりゃ上流はこれ作れ言うだけやからな </div><br />
+<div class="t_h" >113: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:20:19.23 ID:Yf3E3YDIa</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> ワイsier志望だけど文系でも大丈夫なん？ </div><br />
+<div class="t_h" >114: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:20:21.65 ID:q/IbOPbB0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> まあ諦めてワイみたいに絵で逆転狙う為に修行するようになるしかないな </div><br />
+<div class="t_h" >116: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:20:27.45 ID:evqTEP3vH</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> そもそも面接で30秒固まるってバイトの面接すら無理やん </div><br />
+<div class="t_h t_i" >127: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:21:51.09 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;116</span> <br /> バイトなんてした事ないで分かってくれクソガイジなんや </div><br />
+<div class="t_h t_i" >137: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:23:02.18 ID:ItnQ4W360</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;127</span> <br /> 友達はおるんか？ </div><br />
+<div class="t_h t_i" >141: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:23:47.75 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;137</span> <br /> いたらこんな時間になんjやってないだろ </div><br />
+<div class="t_h t_i" >146: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:24:30.52 ID:ItnQ4W360</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;141</span> <br /> 彼女は？ </div><br />
+<div class="t_h t_i" >152: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:25:19.47 ID:HEwN4PUJ0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;141</span> <br /> どんな顔してるの？ <br /> 童貞でしょ？ </div><br />
+<div class="t_h t_i" >158: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:26:24.04 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;152</span> <br /> 典型的なキモ豚顔やで生まれつき詰んでるわ </div><br />
+<div class="t_h t_i" >162: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:27:37.09 ID:ItnQ4W360</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;158</span> <br /> 自己評価低いのがあかんのと違う <br /> そんなやつ欲しくないやろ </div><br />
+<div class="t_h t_i" >164: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:28:03.62 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;162</span> <br /> ぐう正論 <br /> でも自己評価高くても顔は変わらないんやで </div><br />
+<div class="t_h t_i" >168: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:28:58.89 ID:ItnQ4W360</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;164</span> <br /> 面接受けてる時点でESは通ってんねんから顔なんて関係ないやんか！ </div><br />
+<div class="t_h t_i" >175: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:29:57.81 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;168</span> <br /> 一理ある、やっぱり面接やな </div><br />
+<div class="t_h t_i" >182: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:31:36.68 ID:dBS/mamd0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;175</span> <br /> 一理ないな </div><br />
+<div class="t_h t_i" >179: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:31:15.61 ID:o2LPjCxIa</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;158</span> <br /> 学年で1番か2番目にキモい顔面してる俺も面接でダンスしたら受かったから頑張れ </div><br />
+<div class="t_h t_i" >140: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:23:29.46 ID:b032BNPzM</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;127</span> <br /> 登録派遣なら就活みたいな面接ないから安心やで！ </div><br />
+<div class="t_h" >117: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:20:35.22 ID:UXbr36b40</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> ワイもうブラックでええからまともに就活したくないんやが <br />  <br /> とにかく就活したくない </div><br />
+<div class="t_h t_i" >122: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:21:39.07 ID:Y/XazJvo0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;117</span> <br /> 卒業はできるん？ </div><br />
+<div class="t_h t_i" >142: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:23:54.70 ID:UXbr36b40</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;122</span> <br /> 19卒な <br /> 18は留年確定で無理 </div><br />
+<div class="t_h t_i" >193: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:33:12.72 ID:Y/XazJvo0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;142</span> <br /> そっかコンプレックスやけど耐えるんやで </div><br />
+<div class="t_h t_i" >123: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:21:39.18 ID:b032BNPzM</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;117</span> <br /> 登録派遣でええやん！ </div><br />
+<div class="t_h t_i" >131: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:22:33.43 ID:cVwmLGeN0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;117</span> <br /> 水を売る営業マンなら無能のワイでも内定もらえたからオススメやで <br /> ほとんど辞めていくと思うけど </div><br />
+<div class="t_h" >119: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:20:51.54 ID:iKr31cGH0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> ワイも最初の会社決まるまで <br /> 面接さっぱりで長かったわ <br /> 新卒終わると即死する日本の制度は糞やな </div><br />
+<div class="t_h" >124: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:21:42.91 ID:eHRL6mvK0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> ちなわい19卒メガバンク大手証券蹴り大手メーカー購買部 </div><br />
+<div class="t_h t_i" >139: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:23:13.54 ID:5ORrtyxr0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;124</span> <br /> もう選考やってるんか </div><br />
+<div class="t_h t_i" >153: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:25:20.51 ID:eHRL6mvK0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;139</span> <br /> 一応一流大学と呼ばれるグループやがどこの企業も特別選考ルートあるからな <br /> 経団連は3月解禁とか言ってるがわいの場合は12月にはリクルーターが付いて終わったわ </div><br />
+<div class="t_h t_i" >167: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:28:55.35 ID:5ORrtyxr0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;153</span> <br /> そうなんかめっちゃ早いやん <br /> ワイ早慶やけどそういう世界とは無縁なまま終わったンゴ </div><br />
+<div class="t_h" >125: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:21:43.97 ID:Pa2HEOdjM</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 新卒じゃないと詰むってまじ? <br /> 多浪なんやけど </div><br />
+<div class="t_h t_i" >381: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:31:11.97 ID:cy5+fwZQd</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;125</span> <br /> みんなそう言うけど割りとどうにかなるで <br /> 新卒で入れなかった人間性が問題あるだけ </div><br />
+<div class="t_h" >128: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:21:57.46 ID:uikqzKp/0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 大学中退して22でプログラミングの専門いこうとしてるワイよりマシやで </div><br />
+<div class="t_h t_i" >135: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:22:58.81 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;128</span> <br /> 草 <br /> 専門行く意味ないやろ普通に大卒で就職でええやん </div><br />
+<div class="t_h" >130: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:22:32.28 ID:nyC0CthJd</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> なんJで自称Fランの奴って大抵ニッコマサンキンあたりやん <br /> それでNNTなんてありえんやろ </div><br />
+<div class="t_h" >136: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:23:01.73 ID:vGtLMWwdp</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;"> 今は1浪ですら人権ないで </div><br />
+<div class="t_h" >143: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:24:01.21 ID:MMc1ZIv80</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> コミュ障でも理系なら研究概要とか話すこと決まってくるから楽やで </div><br />
+<div class="t_h" >144: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:24:07.00 ID:GXed5DY+M</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 新卒は奴隷、既卒は畜生以下や </div><br />
+<div class="t_h" >148: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:24:46.93 ID:ZXKq5LXH0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> この時期の面接なんて行けば行っただけ内定くれるやろなにしとんのや </div><br />
+<div class="t_h t_i" >157: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:26:21.81 ID:1xUVAaMq0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;148</span> <br /> これ <br /> 内定辞退とか内定決まって面接蹴ったやつとかライバル消えとるから今募集してる企業は割とガバガバ </div><br />
+<div class="t_h t_i" >159: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:26:33.92 ID:dBS/mamd0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;148</span> <br /> そういや一昨日までニートやってたけど <br /> 大手の工場に内定貰ったわ </div><br />
+<div class="t_h" >149: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:25:10.40 ID:xsqaZer/d</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 就活は自分売り込む営業やし <br /> 卑屈無気力タイプには地獄やで <br /> ワイは無駄に学歴あるから過保護な親もウザかったし </div><br />
+<div class="t_h t_i" >155: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:26:07.79 ID:UXbr36b40</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;149</span> <br /> まんま卑屈無気力タイプや </div><br />
+<div class="t_h" >150: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:25:12.49 ID:Yf3E3YDIa</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> GDに自信ニキコツ教えてクレメンス </div><br />
+<div class="t_h t_i" >214: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:37:39.31 ID:MMc1ZIv80</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;150</span> <br /> 自分にとって納得する意見だと思ったら毎回でなくともコメントを言ったり同調してあげる <br /> 他人の意見に対しておかしいと思ったり否定するときはまず相手の意見を尊重した上で、自分の意見を言う </div><br />
+<div class="t_h" >151: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:25:15.86 ID:orQxOWjh0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 自分のやりたいことと自分の向いてることがかけ離れすぎててやっていけんのやが </div><br />
+<div class="t_h" >160: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:27:28.48 ID:GXed5DY+M</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> ITから公務員に転職したら、給料半減で生活水準変わった <br /> 土日休みなんはええけど、美味しい思いはできん </div><br />
+<div class="t_h t_i" >165: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:28:17.32 ID:GE86Lz9Va</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;160</span> <br /> 何歳で転職した？ </div><br />
+<div class="t_h t_i" >170: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:29:18.61 ID:GXed5DY+M</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;165</span> <br /> 28や。もうこれ以上なると他業界への転職は怪しいで </div><br />
+<div class="t_h t_i" >216: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:38:11.25 ID:GE86Lz9Va</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;170</span> <br /> やっぱ転職するなら20代のうちか… </div><br />
+<div class="t_h" >166: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:28:34.03 ID:eHRL6mvK0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 外資系の友達も19卒やが就活終わったやで </div><br />
+<div class="t_h t_i" >169: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:29:04.99 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;166</span> <br /> すごいなあ <br /> 羨ましいわ </div><br />
+<div class="t_h" >171: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:29:29.00 ID:YYcsCfop0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> なんで一番サラリーマンに向かんタイプやのに目指すのか </div><br />
+<div class="t_h t_i" >183: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:31:49.46 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;171</span> <br /> かといってサラリーマン以外無理やろ </div><br />
+<div class="t_h" >172: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:29:36.74 ID:ptTCyv7xp</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 風俗店のボーイさんやれ <br /> 稼げるぞ </div><br />
+<div class="t_h t_i" >176: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:30:09.81 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;172</span> <br /> 顔がね… </div><br />
+<div class="t_h" >173: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:29:39.62 ID:xJDIuufe0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 高校でも大学でも留年したわいでも就職できたし心配すんな </div><br />
+<div class="t_h" >174: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:29:47.57 ID:XeTdSNu6M</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 【悲報】ワイ将、バカすぎて筆記試験が通らない <br /> どうすればええんや... </div><br />
+<div class="t_h t_i" >184: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:31:52.35 ID:Y/XazJvo0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;174</span> <br /> 面接オンリーに絞るんやで </div><br />
+<div class="t_h" >177: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:30:23.97 ID:orQxOWjh0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> この時期に決まっとるやつはそもそもワイらの敵ではないからな <br /> ガチクソエリートの一周回ってガイジや </div><br />
+<div class="t_h" >180: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:31:20.27 ID:hC12plwop</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 営業が嫌すぎるんやけど営業以外の仕事がわからんわ </div><br />
+<div class="t_h t_i" >186: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:32:19.56 ID:1xUVAaMq0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;180</span> <br /> もう諦めて営業にしたわ <br /> 製造なんかしたくねえし </div><br />
+<div class="t_h t_i" >197: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:34:02.98 ID:hC12plwop</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;186</span> <br /> 社内で働くのがいいけどワイも製造嫌やわ </div><br />
+<div class="t_h t_i" >198: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:34:36.16 ID:oTFDxYokM</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;197</span> <br /> 総務やればええやん </div><br />
+<div class="t_h t_i" >213: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:37:34.12 ID:hC12plwop</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;198</span> <br /> 品のある人がなれるイメージなんやが </div><br />
+<div class="t_h t_i" >189: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:32:30.38 ID:GXed5DY+M</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;180</span> <br /> 営業なんか心折れるやろ <br /> 誰とも話したないのに、トーク強制とか拷問やで </div><br />
+<div class="t_h t_i" >195: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:33:24.74 ID:1xUVAaMq0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;189</span> <br /> やめてそれ言わないで </div><br />
+<div class="t_h t_i" >201: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:34:56.27 ID:GXed5DY+M</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;195</span> <br /> 同情するわ <br /> ジジイになっても営業してる自分が想像つかんから <br /> 営業は真っ先に選択肢から外したで </div><br />
+<div class="t_h t_i" >207: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:36:30.95 ID:1xUVAaMq0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;201</span> <br /> まあまだ若いし最悪転職するわ <br /> コミュ障やがどもったりはせん </div><br />
+<div class="t_h t_i" >211: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:37:18.17 ID:YYcsCfop0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;195</span> <br /> 営業はトーク力とコネの強化合宿やと思って3年やってみ何かしら独立できるわ </div><br />
+<div class="t_h t_i" >220: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:39:23.21 ID:1xUVAaMq0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;211</span> <br /> コネなんて作れる自信ないンゴ </div><br />
+<div class="t_h t_i" >229: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:41:11.91 ID:JxY+A3oD0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;220</span> <br /> 俺もう眠いンゴ… </div><br />
+<div class="t_h t_i" >205: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:35:44.35 ID:hC12plwop</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;189</span> <br /> ワイは営業と製造の他に知らんだけや </div><br />
+<div class="t_h t_i" >233: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:41:35.19 ID:nyC0CthJd</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;180</span> <br /> 総務経理購買あたりちゃう </div><br />
+<div class="t_h" >187: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:32:27.92 ID:R37cDeRJ0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> ワイ17卒は去年の3月に決まったし大丈夫やろ </div><br />
+<div class="t_h t_i" >200: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:34:50.48 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;187</span> <br /> ちな業種は？ </div><br />
+<div class="t_h t_i" >251: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:44:32.72 ID:YsOSYJCod</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;200</span> <br /> 食品系の営業や </div><br />
+<div class="t_h t_i" >257: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:45:44.48 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;251</span> <br /> それ大丈夫なんか？ </div><br />
+<div class="t_h t_i" >275: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:50:43.62 ID:YsOSYJCod</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;257</span> <br /> 給料はそんなやけど仕事もそんな激務ちゃうし休みもしっかり取れるし大体定時で上がれるから大丈夫やで <br /> 探せば意外に良いのもあるもんなんやなと思ったわ </div><br />
+<div class="t_h t_i" >281: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:53:48.83 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;275</span> <br /> そういうのもあるんやなあ… <br /> 営業は地獄だと思ってたわ </div><br />
+<div class="t_h t_i" >283: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:55:12.01 ID:BPBWIYgMM</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;281</span> <br /> イッチにオススメの仕事は刺身の上にたんぽぽ乗せる仕事や </div><br />
+<div class="t_h t_i" >284: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:55:15.01 ID:BacColRFa</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;281</span> <br /> むしろ適度にサボれるし <br /> 色んな場所行けるから楽しいで <br /> 逆に会社帰って現場見てると悲惨だなって思う </div><br />
+<div class="t_h t_i" >287: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:56:18.66 ID:1xUVAaMq0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;284</span> <br /> 出張って慣れると本当にええらしいな <br /> 取引先との用事済ませたらあとなにしてもええもんな </div><br />
+<div class="t_h t_i" >303: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:03:59.75 ID:BacColRFa</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;287</span> <br /> 北海道行った時は感動したわ <br /> すすきの楽しかったで </div><br />
+<div class="t_h" >188: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:32:28.32 ID:t4WZ40kW0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> まだ内定ないとかもうそんなやつおらんやろ </div><br />
+<div class="t_h t_i" >192: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:33:04.55 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;188</span> <br /> おるんやで <br /> どうしようもないクソガイジが存在するんや </div><br />
+<div class="t_h t_i" >206: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:35:58.66 ID:MOqrGdeO0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;188</span> <br /> 医療系やとザラにおるで <br /> ワイは先々週やっと一つ目受けたが1発で内定もらったわ </div><br />
+<div class="t_h t_i" >218: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:39:01.09 ID:ItnQ4W360</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;206</span> <br /> 医療系って例えばどんな？ </div><br />
+<div class="t_h t_i" >225: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:39:55.18 ID:MOqrGdeO0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;218</span> <br /> 放射線技師や </div><br />
+<div class="t_h t_i" >234: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:41:47.86 ID:ItnQ4W360</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;225</span> <br /> そういうのって専門学生やないのか… </div><br />
+<div class="t_h t_i" >246: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:43:48.72 ID:MOqrGdeO0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;234</span> <br /> ワイは国立やが専門学校も多いな </div><br />
+<div class="t_h" >190: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:32:30.69 ID:Pa2HEOdjM</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> ほんま100も受けるとか <br /> 普通に考えたらアホやろこの国 </div><br />
+<div class="t_h t_i" >196: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:33:51.76 ID:csLgwWSF0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;190</span> <br /> 他国のこと知らないだろ </div><br />
+<div class="t_h" >194: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:33:17.23 ID:r+TM7SeA0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;"> ワイ19卒なんやけど基本情報はあった方がええやろか </div><br />
+<div class="t_h t_i" >202: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:35:01.01 ID:o2LPjCxIa</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;194</span> <br /> あったらまあ少しは頑張ったんだねレベル <br /> 同じレベルで拮抗したら資格ある方を採用する程度には優遇されるで <br /> まあ話の種にはなるかも </div><br />
+<div class="t_h t_i" >209: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:37:06.34 ID:r+TM7SeA0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;202</span> <br /> はえ～やっぱ大体そう言う意見ばっかりやなサンガツ <br />  <br /> ガチって応用かスペシャリスト受けるぐらいまで行ってたらまた違ったんやろか </div><br />
+<div class="t_h t_i" >203: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:35:07.02 ID:iiAt1xUM0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;194</span> <br /> いらねえよ <br /> コミュ力しか見てねえから <br /> そもそもITなんて理系の行くとこじゃねえから </div><br />
+<div class="t_h t_i" >215: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:37:46.66 ID:Y/XazJvo0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;194</span> <br /> 一から教えるでっていうIT企業もあるし要はコミュやでホンマ腐っとるで </div><br />
+<div class="t_h t_i" >222: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:39:28.71 ID:xsqaZer/d</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;215</span> <br /> 技術は勉強で後からつくけど <br /> コミュ力は研修で後からつくようなもんでもないししゃーない </div><br />
+<div class="t_h t_i" >235: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:41:53.59 ID:r+TM7SeA0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> あとインターンで個人的に名刺貰ったんやけど脈アリ判断でええか？ <br />  <br /> <span style="color:mediumblue;" class="anchor">&gt;&gt;215</span> <br /> うーんこの </div><br />
+<div class="t_h t_i" >242: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:43:17.79 ID:Y/XazJvo0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;235</span> <br /> インターンでガイジ行動しなかったら内定すぐもらえるで <br /> 名刺もらってたら余裕やな </div><br />
+<div class="t_h t_i" >248: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:44:05.56 ID:r+TM7SeA0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;242</span> <br /> ちょっとガイジ入ったから不安やね… </div><br />
+<div class="t_h" >199: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:34:44.72 ID:1xUVAaMq0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 就活やったら就活の文字が怖くなった </div><br />
+<div class="t_h" >204: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:35:29.30 ID:eqSbssGn0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> どうせ釣りやろ <br /> 卒業旅行の行き先は？ </div><br />
+<div class="t_h" >208: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:36:37.76 ID:xsqaZer/d</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> SIer入るけど理系でばりばりやってきた院卒多くて文カスワイは不安になってきたわ </div><br />
+<div class="t_h t_i" >223: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:39:36.21 ID:o2LPjCxIa</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;208</span> <br /> 理系院卒多いようなSlerに文系でも入れるくらい有能なら多分入ってからでもやってけるやろ <br /> ITなんて結局興味あるかないかと脳みそが有能か無能かだけやからな </div><br />
+<div class="t_h t_i" >278: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:52:48.28 ID:xsqaZer/d</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;223</span>　 <br /> せやろか　サンガツ <br /> 文系でのほほんと過ごしてたワイからしたら理系院生とか学業の密度が違いすぎて卑屈モード入ってしまうわ <br />  <br /> ただユーザー系SIやから技術からわりと離れてるやろな </div><br />
+<div class="t_h" >210: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:37:09.84 ID:yHpwXwXM0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;"> 19卒僕 <br /> 就活が嫌すぎる </div><br />
+<div class="t_h" >212: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:37:20.00 ID:oTFDxYokM</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 営業はたしかにコミュ力いるけどなんJ民の想像しとるコミュ力とは違うやろ <br /> なんJ民の想像しとるのって陽キャグループに入ってワイワイできるかどうかみたいなんやろ？ </div><br />
+<div class="t_h t_i" >226: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:40:36.21 ID:1xUVAaMq0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;212</span> <br /> せやで <br /> もちろん陽キャはそのまま営業もできるコミュ力あるだろうが </div><br />
+<div class="t_h" >217: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:38:32.42 ID:givVs92m0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> ルート営業ってめちゃめちゃ楽って聞いたけど本当？ </div><br />
+<div class="t_h t_i" >221: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:39:24.83 ID:KwI734Jw0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;217</span> <br /> 業種にも会社にも取引先にもよるやろそんなん </div><br />
+<div class="t_h" >224: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:39:46.98 ID:jnLSHH4g0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> まあええか最悪死ねばええしな </div><br />
+<div class="t_h t_i" >232: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:41:25.37 ID:Y/XazJvo0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;224</span> <br /> 死亡した場合借りた奨学金も返さなくてええしな </div><br />
+<div class="t_h t_i" >237: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:42:29.32 ID:jnLSHH4g0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;232</span> <br /> それが理由で自殺する奴おるんやろうなあ </div><br />
+<div class="t_h" >227: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:40:55.01 ID:orQxOWjh0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> ワイ文系、プログラマになりたい <br /> でも土方はいややねんな </div><br />
+<div class="t_h t_i" >231: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:41:22.30 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;227</span> <br /> プログラマなんてやめとけ何も面白くないぞ </div><br />
+<div class="t_h" >230: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:41:13.79 ID:t4WZ40kW0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 人を育てられるような体力ノウハウある企業には対して教育しなくても物覚えのいい人材が採用されていくという </div><br />
+<div class="t_h" >236: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:42:29.07 ID:5pRiYqFgM</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> オリンピック後なんか日本終わりそうやし <br /> どうでもええわ </div><br />
+<div class="t_h t_i" >245: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:43:40.39 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;236</span> <br /> オリンピック後終わるからこそ今まともなところに就職してないと転職すら不能になるぞ </div><br />
+<div class="t_h" >238: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:42:31.87 ID:1xUVAaMq0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 結局どの業界のどんな仕事がええ？って聞いても <br /> ～はやめとけの連呼やしな <br /> どっかで妥協せんと </div><br />
+<div class="t_h t_i" >243: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:43:18.92 ID:ItnQ4W360</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;238</span> <br /> 信じれるのはお金だけや… </div><br />
+<div class="t_h t_i" >250: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:44:15.58 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;243</span> <br /> 人は裏切るが金は裏切らないからな </div><br />
+<div class="t_h t_i" >258: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:46:07.81 ID:GE86Lz9Va</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;238</span> <br /> ワイだけかもしれんけど自分がいる業界褒めたら急に翌日からパワハラ受けたり仕事でやらかしそうに思ってしまうんや </div><br />
+<div class="t_h" >239: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:42:44.99 ID:Kgo4Pdo/0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 親は正社員になれっていうが無理やろうな <br /> 自己分析すればするほど自分に正社員の価値ないのが分かってくるわ </div><br />
+<div class="t_h t_i" >252: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:44:40.66 ID:5vwAYwS8M</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;239</span> <br /> 正社員の価値ってなんなんですかね </div><br />
+<div class="t_h t_i" >261: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:47:15.67 ID:Kgo4Pdo/0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;252</span> <br /> 言われてみると何なんやろな <br /> 契約社員やフリーターより上くらいの印象しかないわ </div><br />
+<div class="t_h t_i" >271: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:50:17.86 ID:iba+okNUa</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;261</span> <br /> ぶっちゃけ今の時代なら正社員が絶対でも無いしええんちゃう <br /> 親がうるさいなら公務員の勉強してるって言っておけ </div><br />
+<div class="t_h" >240: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:43:11.90 ID:Yc9o3qSQa</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> １９卒ワイでも内定１個あるのにベンチャーやけど </div><br />
+<div class="t_h" >241: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:43:12.32 ID:AYU8HOLy0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 19卒でなんとなく楽観的にどっかしら行けるやろと思ってるけどやばそうやな <br /> 何もやっとらんし </div><br />
+<div class="t_h" >247: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:43:59.05 ID:oTFDxYokM</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> SEはやめとけおじさん「SEはやめとけ」 <br /> 夜勤はやめとけおじさん「夜勤はやめとけ」 <br /> 営業はやめとけおじさん「営業はやめとけ」 <br /> 金融はやめとけおじさん「金融はやめとけ」 </div><br />
+<div class="t_h t_i" >255: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:45:06.95 ID:KkVQiLpGa</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;247</span> <br /> 営業やけど割とホワイトだった <br /> ガチコミュ障は知らんけど </div><br />
+<div class="t_h" >249: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:44:08.69 ID:o2LPjCxIa</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> マジレスするならインフラ系はホワイト多いで <br /> まあ給料良くないけど </div><br />
+<div class="t_h" >253: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:44:41.74 ID:5pRiYqFgM</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> １回ぶっ壊れた方が生きやすそうや </div><br />
+<div class="t_h" >254: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:44:45.34 ID:Qh5w1Z7S0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 就職はやめとけおじさん「就職はやめとけ」 </div><br />
+<div class="t_h" >256: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:45:23.38 ID:1xUVAaMq0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> お前ら年間何日休みなんや <br /> 120あるやつ羨ましい </div><br />
+<div class="t_h t_i" >260: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:47:13.85 ID:HNf8xaPM0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;256</span> <br /> 土日祝休みや <br /> 120ちょっとはあるぞ </div><br />
+<div class="t_h t_i" >263: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:47:33.63 ID:JxY+A3oD0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;260</span> <br /> ちょっとってレベルか？ </div><br />
+<div class="t_h t_i" >264: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:47:49.85 ID:1xUVAaMq0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;260</span> <br /> はあ羨ましいいい </div><br />
+<div class="t_h t_i" >274: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:50:36.98 ID:HNf8xaPM0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;264</span> <br /> 大きい会社だから休暇多いねんな <br /> でも営業の部署は忙しそうにしてるわ </div><br />
+<div class="t_h" >262: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:47:16.33 ID:8yVV7tIRd</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> ワイのアッニが言うには営業は楽らしいけどな <br /> 成果主義やから成果さえ残せれば午後2時に帰宅しても全然オッケーらしいし </div><br />
+<div class="t_h t_i" >265: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:47:54.48 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;262</span> <br /> 成果残せない無能にとっては地獄やん </div><br />
+<div class="t_h t_i" >268: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:49:30.34 ID:Kgo4Pdo/0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;265</span> <br /> それどこだって地獄やんけ </div><br />
+<div class="t_h t_i" >272: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:50:23.86 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;268</span> <br /> つまりワイはどこ行こうが地獄なんか？ <br /> 絶望やな… </div><br />
+<div class="t_h t_i" >279: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:53:08.77 ID:BacColRFa</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;272</span> <br /> ワイ、体力仕事から営業に転職したが <br /> かなり楽やで <br /> 友達居ない彼女居ない歴=人生やけど別に普通に仕事できてるし <br /> 営業地獄って言う奴は人として何かずれてるだけか上場すらできないガチの中小だけやと思う <br /> ワイの会社見てるとな </div><br />
+<div class="t_h t_i" >286: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:56:14.96 ID:WdJUT9NY0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;272</span> <br /> 天国ですねわかります </div><br />
+<div class="t_h" >266: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:49:02.32 ID:pykuDOAE0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> わいは自殺する予定や </div><br />
+<div class="t_h t_i" >269: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:49:31.58 ID:diWT27A8M</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;266</span> <br /> 自殺はやめとけおじさん「自殺はやめとけ」 </div><br />
+<div class="t_h t_i" >270: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:49:44.74 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;266</span> <br /> 死んだら何も残らんで <br /> 泥をすすってでも生きていこうや </div><br />
+<div class="t_h t_i" >293: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:58:24.91 ID:dBS/mamd0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;270</span> <br /> 成仏しろよ </div><br />
+<div class="t_h t_i" >273: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:50:35.16 ID:1xUVAaMq0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;266</span> <br /> 死ぬとかアホらしいわ <br /> 恥かいてでも生きたい </div><br />
+<div class="t_h t_i" >277: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:50:57.40 ID:JxY+A3oD0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;273</span> <br /> アホまるだしのレス </div><br />
+<div class="t_h" >267: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:49:28.30 ID:1xUVAaMq0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> カーディーラーだけはやめとけ <br /> そんな底辺受けるやつおらんと思うが </div><br />
+<div class="t_h" >276: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:50:50.44 ID:p0wS7PhFM</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 電通に入った高橋まつりちゃんでも自殺か過労死するんだから <br /> 安住の地はないんやで </div><br />
+<div class="t_h" >280: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:53:37.38 ID:1xUVAaMq0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> そろそろ19卒の就活スレが本格化するなあ <br /> 怖いなあ </div><br />
+<div class="t_h" >282: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:54:21.10 ID:GE86Lz9Va</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 営業って括りがでかすぎるねん </div><br />
+<div class="t_h" >285: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:55:15.12 ID:ItnQ4W360</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 40歳で年収400万そこそこしかないのはキツイわ <br /> 倍以上はもらわな </div><br />
+<div class="t_h t_i" >289: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:56:59.47 ID:eHRL6mvK0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;285</span> <br /> 40で400とか冗談やろ <br /> 新卒2年目とかより少ないぞ </div><br />
+<div class="t_h" >288: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:56:53.65 ID:HNf8xaPM0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 銀行マンとか証券マンおる？ <br /> 知り合いが皆暗い発言しかしないんだが </div><br />
+<div class="t_h t_i" >302: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:03:39.17 ID:dL52kncnM</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;288</span> <br /> 証券マンでもなんでもないけど陽キャの集いみたいなイメージあるけど違うんか？ </div><br />
+<div class="t_h" >290: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:57:22.92 ID:o2LPjCxIa</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 俺が入る予定の会社土日祝休みで年間休日123、平均残業時間20～25なんやけど残業で定時あがりできないのって辛い？？ <br /> ていうか既に脱サラしたいレベル </div><br />
+<div class="t_h t_i" >313: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:06:54.06 ID:xsqaZer/d</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;290</span> <br /> スーパーホワイトやん </div><br />
+<div class="t_h t_i" >317: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:07:48.66 ID:dL52kncnM</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;290</span> <br /> 残業時間20時間ってきついか？ </div><br />
+<div class="t_h t_i" >321: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:08:58.91 ID:M1iTZkcP0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;317</span> <br /> 毎日18から19時帰宅ペースやな <br /> 辛いと思うかはそいつ次第 </div><br />
+<div class="t_h t_i" >328: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:10:57.67 ID:3Nx7vo9C0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;290</span> <br /> 実際の残業時間は平均残業時間の倍くらいやで </div><br />
+<div class="t_h" >291: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:57:23.93 ID:DroCnkmS0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> PGの適正ないのになってもうたら後悔するで </div><br />
+<div class="t_h t_i" >294: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:59:09.68 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;291</span> <br /> もう後悔してるわ <br /> 最初はプログラミング楽しかったが最近は苦痛でしかない </div><br />
+<div class="t_h" >292: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 06:57:50.02 ID:aICuJLOA0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 流石にねーよ </div><br />
+<div class="t_h" >295: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:00:04.51 ID:xsqaZer/d</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 某建築会社の営業マンがハンマーで客殴ったっていうの闇深 </div><br />
+<div class="t_h t_i" >299: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:02:43.32 ID:aPSpaN7iM</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;295</span> <br /> 本大工やったんやろ(適当) </div><br />
+<div class="t_h" >296: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:01:12.36 ID:xsqaZer/d</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> なんやイッチプログラミング経験ありでIT全滅してるんか草 </div><br />
+<div class="t_h t_i" >297: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:02:17.67 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;296</span> <br /> プログラマは技術よりコミュ力や </div><br />
+<div class="t_h" >298: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:02:28.72 ID:V2rdOuKdp</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 抗うつ剤飲んで面接してみろよ </div><br />
+<div class="t_h" >300: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:03:11.79 ID:p0wS7PhFM</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> ただの傷害事件やん </div><br />
+<div class="t_h" >301: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:03:23.18 ID:cSeCHfDla</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> ワイの勤務先なら人気ないから多分入れるで <br /> 正月連休も5日有給とって8日まであるし福利厚生も悪くないで </div><br />
+<div class="t_h t_i" >305: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:04:14.65 ID:dL52kncnM</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;301</span> <br /> マ？ <br /> どこやねん </div><br />
+<div class="t_h t_i" >306: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:04:41.76 ID:o2LPjCxIa</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;301</span> <br /> 詳細 </div><br />
+<div class="t_h t_i" >307: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:05:07.85 <em style="color: #ff0000; background-color: #dddddd; font-weight: bold;" class="specified">ID:b/oYS0D5p</em></span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;color:#4b6b73;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;301</span> <br /> 教えてくれや </div><br />
+<div class="t_h" >304: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:04:08.33 ID:Kllyp17Jp</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> MARCHワイ <br /> このまま公務員目指すか親の会社に入って継ぐか迷う <br /> ちな親の会社社員5人のクソ零細 </div><br />
+<div class="t_h t_i" >310: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:06:13.33 ID:iba+okNUa</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;304</span> <br /> ワイなら継ぐ <br /> これから公務員地獄らしいじゃん <br /> むしろ社長コースで安定やろ </div><br />
+<div class="t_h t_i" >322: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:09:05.14 ID:Kllyp17Jp</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;310</span> <br /> でも今のご時世いつ潰れるか分からんで <br /> 一応30年は続いてるけど </div><br />
+<div class="t_h" >308: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:05:14.29 ID:KkVQiLpGa</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 営業販売BtoBにしとけ <br /> BtoCが所謂お前らの言う営業の地獄や </div><br />
+<div class="t_h t_i" >309: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:06:04.59 ID:dL52kncnM</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;308</span> <br /> 営業でBtoCって保険の営業みたいなん？ </div><br />
+<div class="t_h t_i" >312: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:06:40.43 ID:iba+okNUa</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;309</span> <br /> せやな </div><br />
+<div class="t_h t_i" >315: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:06:54.78 ID:1xUVAaMq0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;309</span> <br /> 住宅やカーディーラーも <br /> ほんまクソやで </div><br />
+<div class="t_h t_i" >323: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:09:06.00 ID:dL52kncnM</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;315</span> <br /> 給料はええんちゃうの <br /> そこらの営業マンよりははるかに金稼げるやろ </div><br />
+<div class="t_h t_i" >326: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:10:25.74 ID:1xUVAaMq0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;323</span> <br /> そら実力があればな <br /> でもここにおるやつらなんか陰キャやん <br /> Bto Bでノルマ無いとこのが絶対ええわ </div><br />
+<div class="t_h t_i" >329: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:11:35.54 ID:YDsn676ua</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;323</span> <br /> 仕事が並以上できればな <br /> 大半の人は生き地獄や <br /> 毎日無理なノルマに迫られお客様の前ではニコニコしつつも内では命削っとる <br /> 営業やばい辛いって言ってる奴の大半がBtoCや </div><br />
+<div class="t_h t_i" >320: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:08:38.13 ID:YDsn676ua</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;309</span> <br /> 保険、住宅、車、食料…言ったらキリがないが <br /> あれや会社に行くのがBでその辺のぱんぴー相手にするのがCや </div><br />
+<div class="t_h" >311: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:06:14.47 ID:5lLGCSxO0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> なんでこんないい時期に職見つけられんの？ <br /> イッチが無能だから？ </div><br />
+<div class="t_h" >314: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:06:54.75 ID:cSeCHfDla</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 1兆円の赤字出したとこやで <br /> 親戚・同級生に会うとき肩身狭すぎや </div><br />
+<div class="t_h t_i" >318: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:08:01.01 ID:Y/XazJvo0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;314</span> <br /> 潰れるやんけ </div><br />
+<div class="t_h t_i" >324: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:09:23.53 ID:cSeCHfDla</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;318</span> <br /> 就活生集まらんとこなんてクソブラックか潰れそうかしかないやろ </div><br />
+<div class="t_h" >316: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:07:44.09 ID:M1iTZkcP0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> コミュ障ぼっち専門でも内定あったのにどうやったらnntとかあるんや <br /> 売り手やぞ </div><br />
+<div class="t_h" >325: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:09:28.21 ID:m1SvnMhK0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> ワイ17卒、だらだらしてたら何故か中国向けフリーランスに </div><br />
+<div class="t_h" >327: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:10:35.55 ID:xsqaZer/d</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 営業って個人相手のが気楽なんやないの？ <br /> 法人営業って責任重くてしんどいやろ <br /> 結局ノルマの詰め方次第やろうけど </div><br />
+<div class="t_h t_i" >331: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:13:18.81 ID:YDsn676ua</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;327</span> <br /> 楽やぞ <br /> 向こうも会社と言う顔があるから変な事はしないし <br /> 必要だから買ってくれる訳で気分で決めるお前らとちがいないからな <br /> 責任なんてどこも同じ </div><br />
+<div class="t_h t_i" >333: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:14:15.58 ID:YDsn676ua</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;331</span> <br /> なんか日本語おかしくなった <br /> 違うからなの間違い </div><br />
+<div class="t_h t_i" >354: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:19:33.44 ID:JxY+A3oD0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;333</span> <br /> 日本語話せやガイジ </div><br />
+<div class="t_h t_i" >338: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:15:29.93 ID:xsqaZer/d</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;331</span> <br /> 楽なんかねぇ <br /> 法人相手やと飲み会やら接待ゴルフが勤務時間外に頻発してしんどそう </div><br />
+<div class="t_h t_i" >346: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:17:28.20 ID:1xUVAaMq0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;338</span> <br /> 結局ディーラーとかだと法人相手もあるぞ <br /> 仲良くなると休日まで客と過ごさなあかんし <br /> どっちも辛いのは辛い </div><br />
+<div class="t_h t_i" >353: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:19:27.85 ID:xsqaZer/d</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;346</span> <br /> ディーラーはそらアカンわ <br /> 金融のリテール営業とか日本郵政の営業想像してたわ </div><br />
+<div class="t_h t_i" >349: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:18:23.74 ID:KkVQiLpGa</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;338</span> <br /> 言うほどそんなに無いぞ <br /> むしろ社内の飲み会の方がうざい </div><br />
+<div class="t_h t_i" >342: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:16:50.91 ID:HNf8xaPM0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;327</span> <br /> 社内システムの営業くるけど慣れてきたのかテクニックなのか知らんがアポなしで来るようになって迷惑しとる <br /> 図々しい奴が向いてるよホント </div><br />
+<div class="t_h t_i" >351: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:19:17.43 ID:dL52kncnM</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;342</span> <br /> 法人とかやとアポなしセールスマンお断りって書いてるところ多いけど飛び込み営業のもんはどないしとるんやろ </div><br />
+<div class="t_h t_i" >355: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:19:48.60 ID:KkVQiLpGa</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;351</span> <br /> アポするんやろ </div><br />
+<div class="t_h t_i" >357: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:22:47.24 ID:dL52kncnM</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;355</span> <br /> 上司「仕事取れるまで会社に帰ってくるんじゃねえぞ」 </div><br />
+<div class="t_h t_i" >367: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:26:15.60 ID:+pVItZdep</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;357</span> <br /> ワイはそれ言われたらもう2度と会社行かんわそのままバックレる </div><br />
+<div class="t_h" >330: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:12:49.54 ID:cSeCHfDla</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> BtoBは飛び込みとか無い代わりに営業相手が固定になるから面倒な飲み会とか多いと思うよ </div><br />
+<div class="t_h" >332: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:13:28.25 ID:J6cFJxYR0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 売り手市場って聞いてるけどウチの会社に慶応卒が来るって事はダメ男なんだろうなって期待されない現象 <br />  <br /> 無借金経営って魅力的だけど蓋開けたら薄給なだけなのに </div><br />
+<div class="t_h t_i" >335: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:15:09.71 ID:aICuJLOA0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;332</span> <br /> 大手の採用率は変わってないらしいぞ </div><br />
+<div class="t_h" >334: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:14:50.66 ID:AYU8HOLy0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 優良企業の探し方とかなんかある？ <br /> やっぱ年間休日？ </div><br />
+<div class="t_h t_i" >341: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:16:13.24 ID:YDsn676ua</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;334</span> <br /> 上場 <br /> 完全週休２日制 <br /> 年間休日120以上 <br />  <br /> を探して最後は訪問やな <br /> 実際聞かないと事実とは違う事が多々ある </div><br />
+<div class="t_h t_i" >347: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:17:55.28 ID:AYU8HOLy0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;341</span> <br /> <span style="color:mediumblue;" class="anchor">&gt;&gt;344</span> <br /> サンガツ <br /> 参考にするわ </div><br />
+<div class="t_h t_i" >344: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:17:16.13 ID:YDsn676ua</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;334</span> <br /> ああ後平均勤続年数10年以上な <br /> これは絶対や <br /> 一桁はマジでやばい </div><br />
+<div class="t_h t_i" >352: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:19:27.07 ID:dBS/mamd0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;344</span> <br /> やばいって何が？ </div><br />
+<div class="t_h t_i" >356: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:20:52.66 ID:zKPa4wLMa</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;352</span> <br /> ガチブラックだから辞めるんやろ <br /> 10年は無いとまともな企業じゃないで </div><br />
+<div class="t_h t_i" >361: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:23:22.54 ID:1xUVAaMq0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;356</span> <br /> gifガイジやで </div><br />
+<div class="t_h t_i" >359: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:23:10.59 ID:vezl0ZFFd</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;344</span> <br /> 検索候補にブラックと出てくる某中小メーカーは平均勤続年数が一桁である理由に <br /> 製造現場は高卒が多いからそいつらが平均下げてんねんて言ってたけど <br /> 中小でもちゃんとしたところは10年以上だもんな </div><br />
+<div class="t_h t_i" >363: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:24:31.70 ID:T71I0fYq0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;344</span> <br /> むしろ10年あったらとりあえずまともやわ <br /> まあ例外としてベンチャー企業があるがそこは不安定だしな <br /> 良い指標やわ </div><br />
+<div class="t_h t_i" >368: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:26:16.20 ID:KwI734Jw0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;344</span> <br /> ワイの内定先19年あるわ </div><br />
+<div class="t_h" >336: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:15:23.90 ID:Lye22S0w0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 売り手市場の今で内定ないとか相当だな <br /> 素直に工場とかでも行っとけば </div><br />
+<div class="t_h" >337: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:15:24.81 ID:/6BfdP+Ap</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#ff0000;"> 年間休日130日 <br /> 月残業40時間 <br /> 額面30万手取り23万 <br /> 有給使い放題 <br />  <br /> これが電機メーカーワイの待遇やで <br /> 残業減らして欲しいンゴね </div><br />
+<div class="t_h" >339: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:15:35.86 ID:dgp+PRYy0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> これは携帯販売員 </div><br />
+<div class="t_h" >340: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:15:40.48 ID:ScX8jwAsa</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 自衛隊ええで <br /> 毎日運動して健康になるし金貯まるで </div><br />
+<div class="t_h t_i" >358: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:23:09.44 ID:zKPa4wLMa</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;340</span> <br /> 大卒が行く場所じゃないな </div><br />
+<div class="t_h" >343: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:16:58.46 ID:xsqaZer/d</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> vorkersに会員登録して口コミ見るのが速いで </div><br />
+<div class="t_h" >348: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:18:10.71 ID:dgp+PRYy0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 株式会社マーキュリー行くしかないやろなぁ </div><br />
+<div class="t_h" >350: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:19:09.11 ID:5sVw9MPld</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> JR北とかまだ募集かけてるやろ（適当） </div><br />
+<div class="t_h" >360: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:23:13.30 ID:6FJPqjuYd</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 17卒のワイは去年の秋頃に就職したで <br /> 少しでも興味のある職業に就いた方がええし別にゆっくりでもええで </div><br />
+<div class="t_h" >362: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:24:01.30 ID:HNf8xaPM0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 優良企業の探し方として昇給条件はあるよな <br /> 採用時の額面が良くても上がらない業界もあるし </div><br />
+<div class="t_h t_i" >364: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:24:39.56 ID:dL52kncnM</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;362</span> <br /> 昇給ってどれくらいあったらええもんなんやろな </div><br />
+<div class="t_h t_i" >374: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:28:25.81 ID:HNf8xaPM0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;364</span> <br /> 金額は職種業種によるところがあるから何も言えん <br /> 例えば資格とか勤続年数に応じて給与がベースアップしていけるようなとこが個人的にはいいね <br /> 逆に歩合制を好む人もいるからなぁ </div><br />
+<div class="t_h t_i" >377: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:30:06.58 ID:dL52kncnM</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;374</span> <br /> サンガツ </div><br />
+<div class="t_h" >370: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:27:19.37 ID:w4fcX75A0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> ワイも18卒やが、就活は悔いの残らないように続けてるわ <br /> これから自分が長年勤める会社は面接をたくさんして見極めたいからな <br /> ちな内定0ンゴ </div><br />
+<div class="t_h t_i" >372: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:27:56.45 ID:iiAt1xUM0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;370</span> <br /> 草 </div><br />
+<div class="t_h t_i" >373: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:27:57.79 ID:dL52kncnM</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;370</span> <br /> 見極め期間長すぎませんかね... </div><br />
+<div class="t_h" >371: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:27:47.00 ID:w/umQEIF0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 学生時代ワイ、1社目で就職を決めた模様 <br /> なお現在 </div><br />
+<div class="t_h" >375: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:28:38.55 ID:Lye22S0w0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 見極める以前に会社から必要とされてないっていう </div><br />
+<div class="t_h t_i" >380: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:30:30.15 ID:+pVItZdep</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;375</span> <br /> 会社どころか社会から必要とされてないからな </div><br />
+<div class="t_h" >376: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:29:54.75 ID:EPubp1Uqx</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> Fラン卒でそのままニートになっていく奴何人もおるんやろな今年も </div><br />
+<div class="t_h" >378: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:30:14.64 ID:7MmcyTh8M</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 4年になるんだが単位ぎりぎりで卒業できるか怪しいんだが就活するべきか？ </div><br />
+<div class="t_h t_i" >382: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:32:42.03 ID:HNf8xaPM0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;378</span> <br /> 大学によるけど内定決まってるやつは卒業させるために何とかしてくれるかもね <br /> 進路が何もないやつは気兼ねなく留年させられる </div><br />
+<div class="t_h" >379: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:30:29.66 ID:+nzAsESL0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 18卒募集まだしてるんか？ <br /> まあ無理せずがんばってくれ </div><br />
+<div class="t_h" >383: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:33:55.60 ID:qJtHHi+ed</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> マイナビとかに3年離職率とか平均勤続年数書いてない企業もあるんやな </div><br />
+<div class="t_h t_i" >384: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:34:56.77 ID:9ZrMjUBTp</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;383</span> <br /> 書いてないんじゃなくてひどすぎて書けないんやろうなあ <br /> 勤続年数長いなら書くはずやし </div><br />
+<div class="t_h t_i" >386: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:36:31.96 ID:5ORrtyxr0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;383</span> <br /> 平均勤続年数は若手～高齢層の分布わからんと意味無いからあれやけど <br /> 新卒３年間の離職者隠してるところはガチやな </div><br />
+<div class="t_h t_i" >388: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:37:33.84 ID:7EjH30fla</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;386</span> <br /> いうて新卒だけの離職者だけじゃなぁ <br /> 2年目に辞めてるかもしれん </div><br />
+<div class="t_h t_i" >389: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:38:09.20 ID:Hb1tHSRLM</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;388</span> <br /> ？？？ </div><br />
+<div class="t_h t_i" >392: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:39:20.52 ID:5ORrtyxr0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;388</span> <br /> そりゃ３年後離職率やろ </div><br />
+<div class="t_h" >387: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:36:53.61 ID:oIXtFoEwH</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 氷河期Fランやけどクッソ緩いホワイト財団一本釣りしたわ。 <br /> こればっかりは運だからがんばれ。 </div><br />
+<div class="t_h t_i" >390: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:38:38.81 ID:Nli/anC20</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;387</span> <br /> 銀行やら営業系より結局公務員とかそういうホワイトな独立法人のとこの方がいいんだよなぁ </div><br />
+<div class="t_h" >391: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:38:48.33 ID:4HYw902c0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> わいも18卒やがまだ一社も受けてないで </div><br />
+<div class="t_h" >393: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:40:49.05 ID:LV28VsYW0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 数百社面接受けたとかいうけど <br /> 妥協に妥協を重ねた会社で勤めることできるんか？ </div><br />
+<div class="t_h t_i" >395: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:42:01.20 ID:Nli/anC20</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;393</span> <br /> 今の働いてるやつの大半が別に行きたくて行った会社じゃないやろ </div><br />
+<div class="t_h" >394: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:41:43.64 ID:sTfxbfBra</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> リースのそこそこ大手内定ワイ、福利厚生待遇には非常に満足するも知名度のなさに泣く </div><br />
+<div class="t_h" >396: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:42:07.33 ID:ggp1lKyfM</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 言うほど内定いるか？ <br /> 駅前で盗んできた果物売って暮らせや </div><br />
+<div class="t_h" >397: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:42:41.67 ID:fhC0m/S2d</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 就活でニッコマ以下見なかったわ </div><br />
+<div class="t_h t_i" >401: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:45:24.75 ID:sTfxbfBra</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;397</span> <br /> ワイも個別説明会ですらも話した限りにっコマ以下見んかったわ </div><br />
+<div class="t_h" >398: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:43:17.70 ID:UjPbGqnd0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 諦める前に技術派遣でもなんでもいいから入っとけ <br /> そこからでも諦めずに勉強すれば <br /> 派遣先に正社員登用されるから </div><br />
+<div class="t_h t_i" >403: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:46:08.59 ID:GF0Nac3+M</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;398</span> <br /> 正社員に登用されるから！って派遣元の謳い文句やめろ </div><br />
+<div class="t_h" >399: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:43:26.35 ID:Q6nfw7FG0</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> ワイ卒論を見送る名采配 </div><br />
+<div class="t_h" >402: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:45:49.95 ID:BqaOjFRya</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 過去3年23人中2人離職ってどうや </div><br />
+<div class="t_h t_i" >404: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:46:31.83 ID:fVE0WyPO0</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;402</span> <br /> ええやん </div><br />
+<div class="t_h t_i" >405: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:47:06.88 ID:BqaOjFRya</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;404</span> <br /> 悪く無いんか <br /> よかった </div><br />
+<div class="t_h" >406: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:47:31.89 ID:Nli/anC20</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;"> 始業開始時間が8:15なんやが早すぎんか <br /> そんなもんなんか？ </div><br />
+<div class="t_h t_i" >407: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:48:23.57 ID:GF0Nac3+M</span></div>
+<div class="t_b t_i" style="font-weight:bold;font-size:16px;line-height:24px;"> <span style="color:mediumblue;" class="anchor">&gt;&gt;406</span> <br /> 工場勤務なら普通 <br /> 普通のオフィスの営業マンならはやい </div><br />
+<div class="t_h" >408: <span style="color: green; font-weight: bold;">風吹けば名無し</span> <span style="color: gray;"> 2018/01/06(土) 07:49:52.46 ID:9FdzV5b3d</span></div>
+<div class="t_b" style="font-weight:bold;font-size:16px;line-height:24px;color:#0000cd;"> ワイ内定コレクター  <br /> ・ワンルームマンション販売  <br /> ・ＯＡ機器販売  <br /> ・下流ＳＥ（派遣）  <br /> ・商品先物会社  <br /> ・居酒屋チェーン店  <br /> ・情報商材販売会社  <br /> ・浄水器販売会社  <br /> ・健康食品通販会社  <br />  <br /> の内定をすでにゲット、どこに行くかウキウキで悩み中や </div><br />
+
+
+</div>
+                        
+<!-- タグのリスト表示セット -->
+                        </div>
+<br>
+
+
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=2Z8HPD+9K4KFM+34FI+NUES2" alt="">
+                    </div>
+                    <!-- 記事本文 ここまで-->
+
+
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HV7V6" alt="">
+
+
+                 <!-- 広告コード　 はじまり-->
+<p style=”font-size:5pt; color:#999999″><center>sponsored links</center></p>
+<center>
+<table cellspacing="15">
+<table>
+<tr>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www26.a8.net/svt/bgt?aid=190821728180&wid=001&eno=01&mid=s00000011866017004000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=35LYZK+2Z61O2+2JK4+2T8JPD" alt=""></td>
+<td><a href="https://px.a8.net/svt/ejp?a8mat=35LYZK+3257OY+3Y6M+601S1" target="_blank" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www24.a8.net/svt/bgt?aid=190821728185&wid=001&eno=01&mid=s00000018427001008000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=35LYZK+3257OY+3Y6M+601S1" alt=""></td>
+</tr>
+</table>
+</center>
+                <!-- /広告コード　 ここまで-->
+
+
+                    <!-- 記事フッター、コメント、ソーシャルボタン -->
+                    <footer class="article-footer">
+                        <div class="article-footer-comment">
+                            
+                                <a href="http://pathtimeblog.com/archives/6130394.html#comments">0コメント</a>
+                            
+                        </div>
+                        <div class="article-social-btn">
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=2Z8HPD+9LWV8Y+3EI0+HVFKY" alt="">
+
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://pathtimeblog.com/archives/6130394.html" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<a href="https://b.hatena.ne.jp/entry/http://pathtimeblog.com/archives/6130394.html"
+ class="hatena-bookmark-button"
+ data-hatena-bookmark-title="ワイ18卒、未だに内定なし 	 - 2ch就活まとめ"
+ data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script charset="utf-8" type="text/javascript">
+    var userAgent = window.navigator.userAgent.toLowerCase();
+    if(userAgent.indexOf('msie') != -1 || userAgent.indexOf('trident') != -1) {
+            document.write('<a href="https://twitter.com/intent/tweet?text=%E3%83%AF%E3%82%A418%E5%8D%92%E3%80%81%E6%9C%AA%E3%81%A0%E3%81%AB%E5%86%85%E5%AE%9A%E3%81%AA%E3%81%97%20%09%20-%202ch%E5%B0%B1%E6%B4%BB%E3%81%BE%E3%81%A8%E3%82%81&url=http://pathtimeblog.com/archives/6130394.html" target="_blank"><img src="https://parts.blog.livedoor.jp/img/twitter_ie.png" width="76" height="20"></a>');
+      
+    } else {
+      document.write('<a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://pathtimeblog.com/archives/6130394.html" data-text="ワイ18卒、未だに内定なし 	 - 2ch就活まとめ" data-lang="ja">Tweet</a>');
+      var btn = document.getElementsByClassName('twitter-share-button');
+      var el  = document.createElement('script');
+      el.charset = 'utf-8';
+      el.type = 'text/javascript';
+      el.src = 'https://platform.twitter.com/widgets.js';
+      btn[0].parentNode.insertBefore(el, btn[0].nextSibling);
+    }
+    </script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpathtimeblog.com%2Farchives%2F6130394.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;size=small&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                        </div>
+                    </footer>
+                    <!-- /記事フッター、コメント、ソーシャルボタン -->
+
+
+                    <!-- カテゴリの最新記事表示 はじまり-->
+                    <div class="article-sub-category">
+                        <div id="ldblog_related_articles_0086bdf2">
+
+<div class="related-articles ldblog_related_articles_0086bdf2" data-category-id="160304" data-article-rows="5">
+<h3>「NNT(無内定)」カテゴリの最新記事</h3>
+<ul id="ldblog_related_articles_0086bdf2_160304"></ul>
+</div>
+</div>
+<script type="text/html" id="ldblog_related_articles_0086bdf2_tmpl">
+<% for(var i=0,l=articles.length;i<l;i++) {%><% if(i>=rows) break; %>
+<li><a href="<%=articles[i].permalink%>"><%=articles[i].title%></a></li>
+<% } %>
+</script>
+<script type="text/javascript" src="https://parts.blog.livedoor.jp/js/related_articles.js?t=20180221"></script>
+<script type="text/javascript">
+(function(){
+RelatedArticles.load('ldblog_related_articles_0086bdf2', '6130394');
+})();
+</script>
+<!-- 関連記事の表示 -->
+                    </div>
+                    <!-- /カテゴリの最新記事表示 ここまで-->
+
+
+
+
+                    <div id="ad2"></div><!-- 広告表示 -->
+
+                    <!-- 記事オプション はじまり-->
+                    <div class="article-option" id="article-options">
+
+                        <!-- コメントエリア　はじまり -->
+                        
+                        <section id="comments">
+                        
+                        <h1 class="comment-form-title">コメントする</h1>
+<div class="article-option" id="comment-form">
+    <form
+      action="https://comment.blogcms.jp/livedoor/shukatu2ch/6130394/post"
+      method="post"
+      name="comment_form"
+          id="comment-form-body"
+      onsubmit="setCommentAuthor(this); return submitOnce(this.button);"
+    >
+    <fieldset>
+        <legend>コメントフォーム</legend>
+    <dl class="comment-form-author">
+        <dt><label for="comment-form-author">名前</label></dt>
+        <dd id="comment-author-form"><input type="text" class="text" id="comment-form-author" name="author" required="required" value="" /></dd>
+    </dl>
+  <dl class="comment-form-body">
+    <dt><label for="comment-form-textarea">コメント</label></dt>
+    <dd>
+      <textarea id="comment-form-textarea" name="body" rows="7" required="required"></textarea>
+      <div id="comment-form-tools">
+        <span class="facemark"><a href="javascript:void(0);" id="emojiLink1" onClick="showEmojiPanel(this.id, 'comment-form-textarea')"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/icon_facemark.png" /></a></span>
+        <span class="rating">
+                    <input type="hidden" name="rating" value="">
+                    <input type="hidden" name="rating_icon" value="star">
+                    <div class="rating-value">
+                        <span id="default-rating-value">評価する</span>
+                        <div class="caret"><span></span></div>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/face/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/face/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/face/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/face/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/face/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                        <ul>
+                            <li data-value="1"><img src="https://parts.blog.livedoor.jp/img/star/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="https://parts.blog.livedoor.jp/img/star/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="https://parts.blog.livedoor.jp/img/star/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="https://parts.blog.livedoor.jp/img/star/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="https://parts.blog.livedoor.jp/img/star/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                    </div>
+                    <div class="rating-icon">
+                        <div data-value="face">顔</div>
+                        <div class="selected" data-value="star">星</div>
+                    </div>
+        </span>
+        <span class="submit"><button type="submit">投稿する</button></span>
+        <span class="memorize"><label for="bake"><input type="checkbox" id="bake" name="cookie" /> 情報を記憶</label></span>
+      </div>
+    </dd>
+  </dl>
+  </fieldset>
+  </form>
+  <script type="text/javascript" src="https://parts.blog.livedoor.jp/js/comment.0.2.js?v=20130430"></script>
+  <script type="text/javascript">
+    loadCommentAuthor(document.comment_form);
+    ldblogComment.init();
+  </script>
+<!-- /#comment-form --></div><!-- コメント投稿フォーム -->
+
+
+                        </section>
+                        
+                        <!-- コメントエリア　ここまで -->
+
+
+                        <!-- トラックバック受け付け　はじまり -->
+                        
+                        <!-- トラックバック受け付け　ここまで -->
+
+                    </div>
+                    <!-- 記事オプション ここまで-->
+
+                </article>
+                <!-- 記事　ここまで -->
+
+
+                <!-- ページ送り はじまり-->
+<!-- Article Pager // -->
+  <div class="pager article-pager-type2">
+    <div class="pager-inner">
+    <div class="article-pager-outer">
+    <ul class="article-pager"><li class="prev"><a href="http://pathtimeblog.com/archives/6128100.html" title="【19卒】なんj就活戦線 	">&nbsp【19卒】なんj就活戦線 	</a></li><li class="next both"><a href="http://pathtimeblog.com/archives/6132339.html" title="ワイ18卒就活生 NNTで卒業を覚悟">ワイ18卒就活生 NNTで卒業を覚悟&nbsp</a></li>    </ul>
+    </div>
+    </div>
+  </div>
+<!-- // Article Pager -->
+
+                <!-- /ページ送り ここまで-->
+
+            </div><!-- /main-column-inner-->
+        </div>
+        <!-- コンテンツの箱の中　真ん中728px ここまで-->
+
+
+        <!-- コンテンツの箱の中　左側200px はじまり-->
+        <aside class="left-container">
+            <div class="left-column-inner">
+            
+
+
+
+<div class="plugin-popular_articles sidewrapper">
+  <div class="sidetitlebody">
+    <div class="sidetitle">人気記事</div>
+  </div>
+  <div class="sidetop"></div>
+  <div class="side">
+
+
+    <div class="popular-articles">
+      <table id="populararticles-472933"></table>
+      <div class="popular-articles-freearea"></div>
+    </div>
+  </div>
+
+  <div class="sidebottom"></div>
+</div>
+
+<script type="text/javascript" language="javascript"><!--
+(function(){
+  var url = 'http://pathtimeblog.com/archives/popular_articles.json'
+         + '?rangetype=custom'
+         + '&from=0'
+         + '&range=13'
+         + '&limit=50'
+         + '&offset=0'
+         ;
+
+  var callback = function(data) {
+    var table = document.getElementById('populararticles-472933');
+    for (i = 0; i < data.articles.length; i++) {
+      var rank = i + 1;
+      var prefix = 'populararticles-472933-'+ rank;
+
+      var row = table.insertRow(-1);
+      var elm1 = row.insertCell(-1);
+      elm1.className = 'populararticles-rank';
+      elm1.innerHTML = '<span><b>' + rank + '</b></span>';
+      var elm2 = row.insertCell(-1);
+      elm2.className = 'populararticles-title';
+      elm2.innerHTML = '<a href="' + data.articles[i].url + '?ref=popular_article&id=7836571-472933">' + data.articles[i].title + '</a>'
+      ;
+
+    }
+  };
+
+  var xhr = (function () {
+      if (window.XMLHttpRequest)
+        return new XMLHttpRequest();
+      else {
+        var msxml = [
+          "Msxml2.ServerXMLHTTP.6.0", "Msxml2.ServerXMLHTTP.5.0", "Msxml2.ServerXMLHTTP.4.0", "Msxml2.ServerXMLHTTP.3.0",
+          "Msxml2.ServerXMLHTTP", "Microsoft.ServerXMLHTTP", "Msxml2.XMLHTTP.6.0", "Msxml2.XMLHTTP.5.0",
+          "Msxml2.XMLHTTP.4.0", "Msxml2.XMLHTTP.3.0", "Msxml2.XMLHTTP", "Microsoft.XMLHTTP"
+        ];
+        for (var i = 0; i<msxml.length; i++ ){
+          try {
+            return new ActiveXObject(msxml[i]);
+          }
+          catch(e) { }
+        }
+        return null;
+      }
+  })();
+    
+  if (!xhr) return;
+  xhr.open('GET', url, true);
+  xhr.onreadystatechange = function () {
+    if (xhr.readyState == 4 && xhr.status == 200) {
+      eval('var ld_popular_articles_json = ' + xhr.responseText);
+      callback(ld_popular_articles_json);
+    }
+  };
+  xhr.send();
+
+})();
+//-->
+</script>
+
+<div class="plugin-recent_articles sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">最新記事</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27108137.html">21卒就活生ワイ、内定辞退でしこたま怒鳴られる</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/10257766.html">ニートって難しい資格取って仕事探そうとするけどさ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839910.html">【学歴フィルター】企業にとっての一流大学とは？【就職偏差値】</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/22839719.html">ワイニート歴2年、就職して初年度の年収500万円！！！！</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073431.html">あ、面接落ちたなってフラグ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27073465.html">【悲報】上級国民大手企業様「下請けに仕事やらせてガッポリ中抜きｗ」→夏ボーナス92万5947円</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27075072.html">ワイ21卒、会社選びを間違ってしまったと後悔する</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027071.html">【悲報】キャリア採用の銀行員ワイ、周囲の人間があまりにも有能すぎてマジでドン引き……………………</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27063977.html">【速報】大学、終わる。　Googleが大卒資格を得られるコースを提供へ</a></div>
+
+<div class="sidebody"><a href="http://pathtimeblog.com/archives/27027029.html">教師「Ｆ欄ＯＫです、公務員です、毎日定時で帰れます、年収700万です」←こいつが馬鹿にされる理由ｗ</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-recent_articles -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「A」設定のブログパーツ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　左側200px ここまで-->
+
+
+        <!-- コンテンツの箱の中　右側200px はじまり-->
+        <aside class="right-container">
+            <div class="right-column-inner">
+            
+
+
+
+<div class="plugin-categorize sidewrapper" id="plugin-categorize-457691">
+    <div class="sidetitlebody">
+        <div class="sidetitle">カテゴリー</div>
+    </div>
+    <div class="sidetop"></div>
+    <div class="side">
+
+
+      
+
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160301.html">就活準備 (243)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161699.html">自己分析 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161700.html">企業・業界研究 (66)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155971.html">資格 (39)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155966.html">選考 (254)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155977.html">インターン (23)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155978.html">説明会 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155975.html">ES (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155976.html">SPIなど (7)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155974.html">面接 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155972.html">内定 (222)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160304.html">NNT(無内定) (68)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160302.html">内定後・入社前 (110)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160308.html">アドバイス (20)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160460.html">入社後 (924)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220065.html">新卒 (133)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220063.html">上司 (95)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_219473.html">社会人生活 (299)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160474.html">ブラック企業 (65)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160303.html">転職 (175)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163214.html">副業 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_220667.html">収入 (102)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_299497.html">採用担当 (3)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_318465.html">第二新卒 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_161711.html">学生生活 (46)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_163247.html">浪人・留年 (26)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155967.html">学歴 (119)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_223545.html">ニート (38)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_155969.html">業界別 (314)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156035.html">金融 (34)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_156099.html">建築・不動産 (24)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160357.html">物流・運送 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160358.html">IT・メディア (55)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160359.html">エネルギー・資源 (1)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160310.html">自動車・機械 (28)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160360.html">食品・小売 (14)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160311.html">公務員・準公務員 (89)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160356.html">サービス (21)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160473.html">その他 (42)</a>
+          
+        </div>
+        
+    
+        
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://pathtimeblog.com/archives/cat_160476.html">その他 (472)</a>
+          
+        </div>
+        
+    
+    
+
+    </div>    
+    <div class="sidebottom"></div>
+</div><!-- // plugin-categorize -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">スポンサーリンク</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- サイズ可変 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3064778048578600"
+     data-ad-slot="7387526274"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+<a href="//blog.with2.net/link/?1955545"><img src="https://blog.with2.net/img/banner/banner_21.gif" title="人気ブログランキング"></a><br><a href="//blog.with2.net/link/?1955545" style="font-size: 0.8em;">人気ブログランキング</a>
+
+<div class="plugin-link sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">リンク集</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://0matome.com/" target="_blank">おまとめ</a></div>
+
+<div class="sidebody"><a href="http://2chnavi.net/allentries/?threshold=0" target="_blank">2chnavi</a></div>
+
+<div class="sidebody"><a href="http://http://iwashi.biz/" target="_blank">いわしアンテナ &gt;°))))彡</a></div>
+
+<div class="sidebody"><a href="http://2ch-2.net/" target="_blank"> つーアンテナ(*ﾟ∀ﾟ)</a></div>
+
+<div class="sidebody"><a href="https://ii-antenna.net/?about" target="_blank">いーあんてな(#ﾟｗﾟ)</a></div>
+
+<div class="sidebody"><a href="https://2ch-mi.net/" target="_blank">みーアンテナ（´∀｀）</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-link -->
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">検索</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script async src="https://cse.google.com/cse.js?cx=014565878756483497884:urusxdcjffe"></script>
+<div class="gcse-search"></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「B」設定のブログパーツ表示 -->
+            
+<!-- LDR・RSSリンクとブログのロゴ表示 -->
+            </div>
+        </aside>
+        <!-- コンテンツの箱の中　右側200px ここまで-->
+
+        <!-- このページのトップヘ　はじまり -->
+        <p class="to-pagetop"><a href="#"><img src="https://parts.blog.livedoor.jp/img/usr/default_2012/common/to_pagetop.png" width="70" height="70" alt="このページのトップヘ" /></a></p>
+        <!-- このページのトップヘ ここまで -->
+
+    </div>
+    <!-- コンテンツ全体 ここまで-->
+
+    <!-- ブログのフッター はじまり-->
+    <footer id="blog-footer">
+    <!-- Blog Common Footer // --><div id="footer"><p>Powered by <a href="http://blog.livedoor.com/" title="ライブドアブログ">ライブドアブログ</a></p></div><!-- // Blog Common Footer --><!-- 共通フッター表示 -->
+    </footer>
+    <!-- /ブログのフッター ここまで-->
+
+</div>
+<!-- コンテンツエリア ここまで-->
+
+
+<!-- Add Body Tag // --><script type="text/javascript">
+(function(){
+  var traq = document.createElement('script'); traq.type = 'text/javascript'; traq.async = true;
+  traq.src = 'https://t.blog.livedoor.jp/u.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(traq, s);
+})();
+</script>
+<noscript>
+<img src="https://t.blog.livedoor.jp/u.gif" alt="traq">
+</noscript>
+<!-- // Add Body Tag -->
+
+<script>
+(function($) {
+  var cookieName = 'livedoor-blog-gdpr-agreed';
+  $(document).ready(function() {
+    if (navigator.userAgent.match(/https?:\/\//)) {
+      // UA に http:// or https:// があればスルー
+      return;
+    }
+
+    var agreed = document.cookie.indexOf(cookieName) >= 0;
+    if (agreed) {
+      // 同意済み Cookie があればスルー
+      return;
+    }
+
+    var banner = $('<div>');
+    banner.attr('id', 'gdpr-banner');
+    var label = $('<p>');
+    label.html('\
+      ライブドアブログでは広告のパーソナライズや効果測定のためクッキー(cookie)を使用しています。<br>\
+      このバナーを閉じるか閲覧を継続することでクッキーの使用を承認いただいたものとさせていただきます。<br>\
+      また、お客様は当社パートナー企業における所定の手続きにより、クッキーの使用を管理することもできます。<br>\
+      詳細は<a href="http://www.livedoor.com/rules/" target="_blank" style="color:#023780;text-decoration:underline;">ライブドア利用規約</a>をご確認ください。\
+    ');
+    banner.append(label);
+
+    var closeButton = $('<button>');
+    closeButton.attr('type', 'button');
+    closeButton.html('閉じる');
+    closeButton.on('click', function() {
+      $('#gdpr-banner').hide();
+      document.cookie = cookieName + '="1";expires=Tue, 31-Dec-2037 00:00:00 GMT;path=/;';
+    });
+    banner.append(closeButton);
+
+    banner.css({
+      'position': 'fixed',
+      'left': '0',
+      'right': '0',
+      'bottom': '0',
+      'background': '#dcdcdc',
+      'color': '#000',
+      'padding': '20px',
+      'text-align': 'center',
+      'box-shadow': '0 -2px 2px rgba(102, 102, 102, 0.86)',
+      'z-index': '2147483647',
+    });
+    label.css({
+      'display': 'inline-block',
+      'text-align': 'left',
+      'font-size': '14px',
+      'color': '#000',
+      'vertical-align': 'middle',
+      'line-height': '1.5',
+    });
+    closeButton.css({
+      'display': 'inline-block',
+      'color': '#fff',
+      'border': 'none',
+      'font-size': '14px',
+      'padding': '4px 40px',
+      'margin-left': '40px',
+      'background': '#535353',
+      'vertical-align': 'middle',
+    });
+
+    var script = document.createElement('script');
+    script.type = "text/javascript";
+    script.src = "https://ipcheck.blogsys.jp/check.js?t=" + Date.now();
+    script.onerror = function() {
+      $('body').append(banner);
+    };
+    document.body.appendChild(script);
+  });
+})(jQuery);
+</script>
+</body>
+</html>
